@@ -1,0 +1,55 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5bc159c7-9357-4bab-a56b-bacbd162be67" name="219.105.46.3" url="http://kotera.test.value-press.com/">
+        <fileTransfer host="219.105.46.3" port="10022" rootFolder="/home/kotera/" accessType="SFTP" password="dfd9dfdfdfdedfcfdfc1dfc3dfc4dfcbdfc0dfc3dfc4dfd9dfcfdfc3" username="kotera">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fad6e221-6beb-4784-a576-1f985ae3b757" name="219.105.40.112" url="https://system4.bookscan.co.jp/login.php">
+        <fileTransfer host="219.105.40.112" port="10022" rootFolder="/virtual/bookscan4" accessType="SFTP" username="bookscan4">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6c0979b7-c72e-49ff-9460-19ad915ce324" name="stafflife@219.94.242.235" url="http://219.94.242.235">
+        <fileTransfer host="219.94.242.235" port="22" rootFolder="/home/stafflife/public_html" accessType="SFTP" password="dfd9dfdfdfdedfcfdfc1dfc3dfc4dfcbdfc0dfc3dfc4dfd9dfcfdfc3" username="stafflife">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="244669dd-12e7-4aea-950d-4a8a4c5b8831" name="system.bookscan.co.jp(kotera@219.105.46.36)" url="http://219.105.46.36">
+        <fileTransfer host="219.105.46.36" port="10022" rootFolder="/virtual/kotera" accessType="SFTP" password="dfc3dfc5dfdadfcfdfdddfdb" username="kotera">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6f145bb2-1ef1-4120-b3fd-98c542b1f069" name="kotera.payment.ginza-plus.net" url="http://kotera.payment.ginza-plus.net">
+        <fileTransfer host="49.212.128.242" port="10022" rootFolder="/virtual/kotera.payment.ginza-plus.net" accessType="SFTP" password="dfd3df92df98dfdedf9cdf9cdfdfdfcbdfcddfc7" username="cplus">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7a849fb8-ab42-4f0e-94ab-63cc3d5024e3" name="kotera-test-yourjam.es" url="http://kotera-test-yourjam.es">
+        <fileTransfer host="133.242.225.152" port="10022" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/virtual/kotera/public_html/" accessType="SFTP" username="kotera" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7afcceea-4abb-4375-acb7-cb505ae6be44" name="api.yourjam.es テスト環境" url="http://kotera-test-api.yourjam.es">
+        <fileTransfer host="133.242.225.152" port="10022" rootFolder="/virtual/kotera" accessType="SFTP" password="dfe7dfc6dfe2df9adfe8dfd9dfdbdf93" username="kotera">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
