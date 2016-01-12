@@ -15,16 +15,22 @@
         <mark key="^" line="58" column="21" />
         <mark key="." line="58" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1452610626277">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/editor_savable.rb" timestamp="1452609790376">
         <mark key="[" line="20" column="38" />
         <mark key="]" line="20" column="47" />
         <mark key="." line="20" column="47" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1452609808703">
-        <mark key="'" line="24" column="10" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1452610198808">
+        <mark key="'" line="41" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/client/bills_controller.rb" timestamp="1452609896084">
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/bills_controller.rb" timestamp="1452610218672">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="20" />
         <mark key="^" line="29" column="15" />
@@ -77,6 +83,7 @@
       <file name="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/migrations/old.sql" timestamp="1452176359815">
         <mark key="'" line="602" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/hfixes_controller.rb" timestamp="1452610119203" />
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.inc.php" timestamp="1452259711526">
         <mark key="'" line="33" column="21" />
         <mark key="[" line="33" column="41" />
@@ -87,12 +94,12 @@
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1452607760387">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1452609186350">
+      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1452610613700">
         <mark key="'" line="1" column="20" />
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="37" />
-        <mark key="^" line="52" column="37" />
+        <mark key="[" line="52" column="15" />
+        <mark key="]" line="52" column="13" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="52" column="13" />
       </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/admin/address_modify.php" timestamp="1452244819036" />
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/db.php" timestamp="1452244592821" />
@@ -125,6 +132,9 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1452610719605">
+        <mark key="'" line="51" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" timestamp="1451912988530">
         <mark key="'" line="385" column="10" />
       </file>
@@ -136,10 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" />
-      <jump line="385" column="10" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" />
-      <jump line="48" column="27" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/network.php" />
-      <jump line="38" column="16" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="40" column="18" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="42" column="17" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="227" column="4" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
@@ -236,55 +242,59 @@
       <jump line="50" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="1" column="20" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
       <jump line="24" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="41" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="55" column="23" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="51" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>es.find([params[:bill_id], params[:id]])</text>
       </register>
       <register name="/" type="4">
-        <text>no_person</text>
+        <text>simple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA9IGYuaW5wdXQgOmNkX3BvLCBkaXNwbGF5X29ubHk6IHRydWUK</text>
+        <text encoding="base64">ICAgIGJpbGwgPSBjdXJyZW50X2N1c3QuYmlsbHMuY3VzdF92aWV3YWJsZS5maW5kKHBhcmFtc1s6YmlsbF9pZF0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Date</text>
+        <text>es.find([params[:bill_id], params[:id]])</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>@</text>
       </register>
       <register name="3" type="4">
-        <text>@bill.</text>
+        <text>, params[:id]</text>
       </register>
       <register name="4" type="4">
-        <text>@bill.</text>
+        <text>[</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Hfix</text>
       </register>
       <register name="6" type="4">
-        <text>after</text>
+        <text>Date</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA9IGYuaW5wdXQgOm5vX3BsYWNlLCBkaXNwbGF5X29ubHk6IHRydWUK</text>
+      <register name="8" type="4">
+        <text>@bill.</text>
       </register>
       <register name="9" type="4">
-        <text>cd_po</text>
+        <text>@bill.</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
       </register>
     </registers>
     <search>
-      <last-search>no_person</last-search>
+      <last-search>simple</last-search>
       <last-offset />
-      <last-pattern>no_person</last-pattern>
+      <last-pattern>simple</last-pattern>
       <last-replace>ymdroom_saving_form</last-replace>
       <last-substitute>ymdroom_save_form</last-substitute>
       <last-dir>1</last-dir>
@@ -292,7 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>showfile_list</entry>
         <entry>email</entry>
         <entry>auth</entry>
@@ -309,9 +318,10 @@
         <entry>bill</entry>
         <entry>PDF</entry>
         <entry>pdf</entry>
-        <entry>hfix</entry>
         <entry>current</entry>
         <entry>no_person</entry>
+        <entry>hfix</entry>
+        <entry>simple</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\“\\/assets\\///</entry>
