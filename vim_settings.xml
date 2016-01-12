@@ -418,6 +418,9 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" timestamp="1452596396246">
+        <mark key="'" line="91" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/air-reading/app/views/advices/new.html.slim" timestamp="1451489983114">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="24" />
@@ -991,6 +994,7 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="24" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/firstpayment.php" timestamp="1452596874235" />
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.sample.inc.php" timestamp="1452259507429">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="26" column="4" />
@@ -1079,7 +1083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="14" filename="$USER_HOME$/projects/air-reading/.gitignore" />
       <jump line="69" column="4" filename="$USER_HOME$/projects/bitstar/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/bitstar/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/air-reading/Gemfile" />
@@ -1179,6 +1182,7 @@
       <jump line="319" column="0" filename="$USER_HOME$/projects/api.yourjam.es/lib/class.phpmailer.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.inc.php" />
       <jump line="33" column="21" filename="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.inc.php" />
+      <jump line="91" column="39" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1188,7 +1192,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>AllowNoPassword</text>
+        <text>false-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdXBkYXRlLT5iaW5kVmFsdWUoJzp1c2VyX2lkJywgIChpbnQpJHVzZXJfaWQsIFBETzo6UEFSQU1fSU5UKTsK</text>
@@ -1225,9 +1229,9 @@
       </register>
     </registers>
     <search>
-      <last-search>AllowNoPassword</last-search>
+      <last-search>false-</last-search>
       <last-offset />
-      <last-pattern>AllowNoPassword</last-pattern>
+      <last-pattern>false-</last-pattern>
       <last-replace>ymdroom_saving_form</last-replace>
       <last-substitute>ymdroom_save_form</last-substitute>
       <last-dir>1</last-dir>
@@ -1235,7 +1239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contr</entry>
         <entry>assets</entry>
         <entry>an</entry>
         <entry>スキャン禁止書籍</entry>
@@ -1255,6 +1258,7 @@
         <entry>index</entry>
         <entry>this</entry>
         <entry>AllowNoPassword</entry>
+        <entry>false-</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\“\\/assets\\///</entry>
