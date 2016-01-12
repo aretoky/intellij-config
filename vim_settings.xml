@@ -38,6 +38,9 @@
       </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/admin/address_add.php" timestamp="1452244452700" />
       <file name="$USER_HOME$/projects/cplus/app/inputs/my_tel_input.rb" timestamp="1452611087439" />
+      <file name="$USER_HOME$/projects/cplus/config/initializers/bugsnag.rb" timestamp="1452615289607">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/common/payment.php" timestamp="1452243180417">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="0" column="4" />
@@ -74,13 +77,6 @@
         <mark key="^" line="6" column="44" />
         <mark key="." line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1452607861310">
-        <mark key="'" line="50" column="11" />
-        <mark key="[" line="98" column="17" />
-        <mark key="]" line="99" column="23" />
-        <mark key="^" line="99" column="23" />
-        <mark key="." line="99" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/network.php" timestamp="1451913333963">
         <mark key="'" line="48" column="27" />
       </file>
@@ -91,13 +87,6 @@
         <mark key="'" line="602" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/hfixes_controller.rb" timestamp="1452610119203" />
-      <file name="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.inc.php" timestamp="1452259711526">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="44" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1452607760387">
         <mark key="'" line="0" column="0" />
       </file>
@@ -109,7 +98,14 @@
         <mark key="." line="52" column="19" />
         <mark key="^" line="52" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1452614894359" />
       <file name="$USER_HOME$/projects/api.yourjam.es/admin/address_modify.php" timestamp="1452244819036" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/client_application_controller.rb" timestamp="1452615496641">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/db.php" timestamp="1452244592821" />
       <file name="$USER_HOME$/projects/cplus/app/models/hfix.rb" timestamp="1452609072762" />
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.phpmailer.php" timestamp="1452243427460">
@@ -155,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="18" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="42" column="17" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="227" column="4" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="229" column="30" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
@@ -255,6 +250,7 @@
       <jump line="55" column="23" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="51" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/initializers/bugsnag.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +260,7 @@
         <text>, hint: &quot;aaa&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>simple</text>
+        <text>bb0705f2abdbb78a32d6bc9f0db30b85</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJpbGwgPSBjdXJyZW50X2N1c3QuYmlsbHMuY3VzdF92aWV3YWJsZS5maW5kKHBhcmFtc1s6YmlsbF9pZF0pCg==</text>
@@ -301,9 +297,9 @@
       </register>
     </registers>
     <search>
-      <last-search>simple</last-search>
+      <last-search>bb0705f2abdbb78a32d6bc9f0db30b85</last-search>
       <last-offset />
-      <last-pattern>simple</last-pattern>
+      <last-pattern>bb0705f2abdbb78a32d6bc9f0db30b85</last-pattern>
       <last-replace>ymdroom_saving_form</last-replace>
       <last-substitute>ymdroom_save_form</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showfile_list</entry>
         <entry>email</entry>
         <entry>auth</entry>
         <entry>_show</entry>
@@ -331,6 +326,7 @@
         <entry>no_person</entry>
         <entry>hfix</entry>
         <entry>simple</entry>
+        <entry>bb0705f2abdbb78a32d6bc9f0db30b85</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\“\\/assets\\///</entry>
