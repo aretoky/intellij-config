@@ -281,7 +281,7 @@
         <text>, hint: &quot;aaa&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>bb0705f2abdbb78a32d6bc9f0db30b85</text>
+        <text>apache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJpbGwgPSBjdXJyZW50X2N1c3QuYmlsbHMuY3VzdF92aWV3YWJsZS5maW5kKHBhcmFtc1s6YmlsbF9pZF0pCg==</text>
@@ -318,9 +318,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bb0705f2abdbb78a32d6bc9f0db30b85</last-search>
+      <last-search>apache</last-search>
       <last-offset />
-      <last-pattern>bb0705f2abdbb78a32d6bc9f0db30b85</last-pattern>
+      <last-pattern>apache</last-pattern>
       <last-replace>ymdroom_saving_form</last-replace>
       <last-substitute>ymdroom_save_form</last-substitute>
       <last-dir>1</last-dir>
@@ -328,7 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
         <entry>auth</entry>
         <entry>_show</entry>
         <entry>_modelName</entry>
@@ -348,6 +347,7 @@
         <entry>hfix</entry>
         <entry>simple</entry>
         <entry>bb0705f2abdbb78a32d6bc9f0db30b85</entry>
+        <entry>apache</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\“\\/assets\\///</entry>
