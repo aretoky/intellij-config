@@ -46,9 +46,6 @@
         <mark key="^" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/index.php" timestamp="1452756230244">
-        <mark key="'" line="44" column="48" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1448962344988">
         <mark key="[" line="102" column="50" />
         <mark key="]" line="104" column="39" />
@@ -332,9 +329,6 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/initializers/bugsnag.rb" timestamp="1452615289607">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/common/payment.php" timestamp="1452243180417">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="0" column="4" />
@@ -470,9 +464,6 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" timestamp="1452596396246">
-        <mark key="'" line="91" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/air-reading/app/views/advices/new.html.slim" timestamp="1451489983114">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="24" />
@@ -502,6 +493,9 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/cplus.iml" timestamp="1452773072646">
+        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/bitstar/spec/services/video_edit_service_spec.rb" timestamp="1449170898694">
         <mark key="[" line="8" column="5" />
@@ -834,9 +828,6 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1452607760387">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/enable.rb" timestamp="1449663009169">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="14" />
@@ -1135,9 +1126,6 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/firstpayment.php" timestamp="1452598298950">
-        <mark key="'" line="70" column="49" />
-      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.sample.inc.php" timestamp="1452259507429">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="26" column="4" />
@@ -1150,8 +1138,12 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1452771639948">
-        <mark key="'" line="36" column="7" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1452773899352">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_addr_fields.html.slim" timestamp="1451027224971">
         <mark key="[" line="7" column="13" />
@@ -1230,8 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="30" filename="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/classes/controller/base/api.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/classes/controller/base/api.php" />
       <jump line="17" column="15" filename="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/classes/controller/base/api.php" />
       <jump line="59" column="63" filename="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/classes/controller/base/api.php" />
       <jump line="33" column="28" filename="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/classes/controller/base/api.php" />
@@ -1330,6 +1320,8 @@
       <jump line="107" column="37" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="108" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="36" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/cplus/cplus.iml" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1339,7 +1331,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>capi</text>
+        <text>fog</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PSBmLnNpbXBsZV9maWVsZHNfZm9yIDpjb25jaWVyZ2VfbXBsYW5zIGRvIHxtcGxhbnwKICA9IHJlbmRlciAiY29uY2llcmdlX21wbGFuX2ZpZWxkcyIsIGY6IG1wbGFuCg==</text>
@@ -1376,9 +1368,9 @@
       </register>
     </registers>
     <search>
-      <last-search>capi</last-search>
+      <last-search>fog</last-search>
       <last-offset />
-      <last-pattern>capi</last-pattern>
+      <last-pattern>fog</last-pattern>
       <last-replace>ymdroom_saving_form</last-replace>
       <last-substitute>ymdroom_save_form</last-substitute>
       <last-dir>1</last-dir>
@@ -1386,7 +1378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>current</entry>
         <entry>no_person</entry>
         <entry>hfix</entry>
         <entry>simple</entry>
@@ -1406,6 +1397,7 @@
         <entry>before_callbacks</entry>
         <entry>notify_release_stages</entry>
         <entry>capi</entry>
+        <entry>fog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\“\\/assets\\///</entry>
