@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/projects/cplus/Capfile" timestamp="1452617672656">
         <mark key="[" line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/index.php" timestamp="1452756230244">
+        <mark key="'" line="44" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/postals/_form.html.slim" timestamp="1452606144191">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -93,7 +96,7 @@
       <file name="/Dummy.txt" timestamp="1452172883008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit.php" timestamp="1452754231825">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit.php" timestamp="1452756051804">
         <mark key="'" line="17" column="23" />
         <mark key="[" line="369" column="27" />
         <mark key="]" line="369" column="27" />
@@ -110,21 +113,7 @@
         <mark key="^" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1452607861310">
-        <mark key="'" line="50" column="11" />
-        <mark key="[" line="98" column="17" />
-        <mark key="]" line="99" column="23" />
-        <mark key="^" line="99" column="23" />
-        <mark key="." line="99" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/hfixes_controller.rb" timestamp="1452610119203" />
-      <file name="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.inc.php" timestamp="1452259711526">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="44" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1452607760387">
         <mark key="'" line="0" column="0" />
       </file>
@@ -201,9 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="4" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
-      <jump line="237" column="38" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
-      <jump line="312" column="0" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="316" column="9" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="326" column="0" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
       <jump line="329" column="9" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/admin/agree_detail.php" />
@@ -301,6 +287,9 @@
       <jump line="91" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="98" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="17" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit.php" />
+      <jump line="80" column="98" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/index.php" />
+      <jump line="26" column="52" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/index.php" />
+      <jump line="44" column="48" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -310,7 +299,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>amtax</text>
+        <text>amtax_telpay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJpbGwgPSBjdXJyZW50X2N1c3QuYmlsbHMuY3VzdF92aWV3YWJsZS5maW5kKHBhcmFtc1s6YmlsbF9pZF0pCg==</text>
@@ -362,9 +351,9 @@
       </register>
     </registers>
     <search>
-      <last-search>amtax</last-search>
+      <last-search>amtax_telpay</last-search>
       <last-offset />
-      <last-pattern>amtax</last-pattern>
+      <last-pattern>amtax_telpay</last-pattern>
       <last-replace>ymdroom_saving_form</last-replace>
       <last-substitute>ymdroom_save_form</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AllowNoPassword</entry>
         <entry>false-</entry>
         <entry>viewable</entry>
         <entry>ts_</entry>
@@ -392,6 +380,7 @@
         <entry>TelMplan</entry>
         <entry>tel_mplan</entry>
         <entry>amtax</entry>
+        <entry>amtax_telpay</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\“\\/assets\\///</entry>
