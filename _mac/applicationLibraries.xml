@@ -1921,6 +1921,21 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/bundler-1.11.2/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.11.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/exe" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.7.2, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/bundler-1.7.2/bin" />
@@ -2714,6 +2729,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/devise-3.4.1/config" />
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/devise-3.4.1/script" />
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/devise-3.4.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="did_you_mean (v1.0.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.2.5, rbenv: 2.1.2) [gem]">
@@ -5774,6 +5802,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.8.3, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
+      </SOURCES>
+    </library>
     <library name="momentjs-rails (v2.8.3, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/momentjs-rails-2.8.3/lib" />
@@ -5894,6 +5931,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/net-ssh-2.9.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/net-ssh-2.9.1/support" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="netrc (v0.7.7, rbenv: 2.1.2) [gem]">
@@ -6240,6 +6288,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.6, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.9.12.6, rbenv: 2.1.2) [gem]">
@@ -8317,6 +8374,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.4/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rbenv: jruby-1.7.19 facet library">
       <CLASSES>
         <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
@@ -9936,6 +10006,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.1.5, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
       </SOURCES>
     </library>
     <library name="therubyracer (v0.12.1, rbenv: 2.1.2) [gem]">
