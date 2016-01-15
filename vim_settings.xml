@@ -807,8 +807,10 @@
         <mark key="^" line="39" column="61" />
         <mark key="." line="39" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler.rb" timestamp="1452882058536">
-        <mark key="[" line="99" column="5" />
+      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler.rb" timestamp="1452883882990">
+        <mark key="[" line="60" column="11" />
+        <mark key="]" line="60" column="11" />
+        <mark key="." line="60" column="11" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/db/migrate/20151230130507_create_advices.rb" timestamp="1451494434839">
         <mark key="[" line="5" column="23" />
@@ -916,11 +918,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/feed_crawler.rb" timestamp="1452882960547">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="2" />
+      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/feed_crawler.rb" timestamp="1452884290661">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/app/views/layouts/application.html.erb" timestamp="1451411295410">
         <mark key="[" line="10" column="0" />
@@ -1155,10 +1157,8 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/application_crawler.rb" timestamp="1452881951407">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/application_crawler.rb" timestamp="1452883630257">
+        <mark key="[" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/cd_ur_input.rb" timestamp="1448964482282">
         <mark key="[" line="1" column="28" />
@@ -1323,7 +1323,7 @@
       <file name="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" timestamp="1452791913661">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" timestamp="1452881263884">
+      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" timestamp="1452883441613">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="21" />
@@ -1456,7 +1456,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>Fastladder</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>ladder</text>
@@ -1471,25 +1471,25 @@
         <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZmVlZGxpbmsgfHwgc2VsZi5saW5rCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgY3Jhd2xfbGluawo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5zZWFyY2hfY3Jhd2xlcl90eXBlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgZmlyc3RfZmV0Y2gobGluaykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWYgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>d</text>
+      </register>
       <register name="9" type="4">
-        <text>Fastladder</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
