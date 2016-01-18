@@ -103,6 +103,12 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/url_list_setter_job.rb" timestamp="1453121567788">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_mplan_fields.html.slim" timestamp="1449673271170">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="111" column="29" />
@@ -319,11 +325,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453116212690">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
+      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453120793772">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/framework_and_overrides.css.scss" timestamp="1452776640691">
         <mark key="[" line="113" column="30" />
@@ -419,11 +425,11 @@
         <mark key="^" line="43" column="65" />
         <mark key="." line="43" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/sidekiq.yml" timestamp="1453110113272">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/projects/media-crawler/config/sidekiq.yml" timestamp="1453121270608">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/datetime_normalizer.rb" timestamp="1449168661094">
         <mark key="[" line="9" column="7" />
@@ -920,8 +926,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/feed_crawler.rb" timestamp="1452925024195">
-        <mark key="[" line="13" column="7" />
+      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/feed_crawler.rb" timestamp="1453121097306">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/app/views/layouts/application.html.erb" timestamp="1451411295410">
         <mark key="[" line="10" column="0" />
@@ -1183,11 +1192,11 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453118602090">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="55" />
-        <mark key="^" line="5" column="55" />
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453120445351">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/ymdrooms.index.coffee" timestamp="1451266292304">
         <mark key="[" line="10" column="66" />
@@ -1448,7 +1457,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
@@ -1456,32 +1465,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkZF9pbmRleCA6aHRtbF9zb3VyY2VzLCA6dXJsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>(</text>
       </register>
       <register name="2" type="4">
-        <text>body</text>
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc291cmNlCg==</text>
+      <register name="3" type="4">
+        <text>crawl_status_id</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgRG8gc29tZXRoaW5nIGxhdGVyCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>default</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgSHRtbFNvdXJjZQo=</text>
+        <text encoding="base64">ICAgICAgcCBpdGVtLmxpbmsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdC50ZXh0IDpoZWFkCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
