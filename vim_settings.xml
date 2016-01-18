@@ -319,11 +319,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453110005362">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="46" />
-        <mark key="." line="9" column="46" />
-        <mark key="^" line="9" column="46" />
+      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453116212690">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/framework_and_overrides.css.scss" timestamp="1452776640691">
         <mark key="[" line="113" column="30" />
@@ -812,7 +812,7 @@
         <mark key="^" line="39" column="61" />
         <mark key="." line="39" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler.rb" timestamp="1452925649788">
+      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler.rb" timestamp="1453116670199">
         <mark key="[" line="60" column="11" />
         <mark key="]" line="60" column="11" />
         <mark key="." line="60" column="11" />
@@ -1183,11 +1183,11 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453114772220">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="6" column="58" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453116699332">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/ymdrooms.index.coffee" timestamp="1451266292304">
         <mark key="[" line="10" column="66" />
@@ -1316,8 +1316,8 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" timestamp="1452928678041">
-        <mark key="'" line="36" column="18" />
+      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" timestamp="1453116981059">
+        <mark key="'" line="176" column="13" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -1342,9 +1342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="107" column="14" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="47" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="9" column="38" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/rails/controller_methods.rb" />
       <jump line="14" column="13" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/configuration.rb" />
@@ -1442,16 +1439,19 @@
       <jump line="8" column="12" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="56" column="13" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
       <jump line="32" column="15" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
+      <jump line="107" column="18" filename="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" />
+      <jump line="122" column="28" filename="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" />
+      <jump line="176" column="13" filename="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
-        <text>ymdrooms</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkZF9pbmRleCA6aHRtbF9zb3VyY2VzLCA6dXJsCg==</text>
@@ -1459,38 +1459,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>body</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc291cmNlCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgSHRtbFNvdXJjZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>=</text>
-      </register>
-      <register name="6" type="4">
-        <text>:</text>
-      </register>
-      <register name="7" type="4">
-        <text>test_app</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
       </register>
     </registers>
     <search>
-      <last-search>ymdrooms</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern>ymdrooms</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-replace>MediaCrawler</last-replace>
       <last-substitute>Fastladder</last-substitute>
       <last-dir>1</last-dir>
@@ -1498,7 +1498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>foot</entry>
         <entry>webri</entry>
         <entry>unicor</entry>
         <entry>noti</entry>
@@ -1518,6 +1517,7 @@
         <entry>DEBUG</entry>
         <entry>debug</entry>
         <entry>ymdrooms</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\///</entry>
