@@ -322,7 +322,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453120793772">
+      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453196061736">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
@@ -1195,11 +1195,10 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453193596013">
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453195729880">
         <mark key="'" line="13" column="42" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="^" line="10" column="40" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/ymdrooms.index.coffee" timestamp="1451266292304">
@@ -1208,11 +1207,11 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/database.yml" timestamp="1453125711165">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/media-crawler/config/database.yml" timestamp="1453194770328">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings.yml" timestamp="1449562274180">
         <mark key="[" line="7" column="33" />
@@ -1323,12 +1322,12 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453187363534">
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453194934487">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="71" column="22" />
-        <mark key="^" line="71" column="22" />
-        <mark key="." line="71" column="22" />
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="72" column="31" />
+        <mark key="^" line="72" column="31" />
+        <mark key="." line="72" column="31" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/profile_sheet_creating_service.rb" timestamp="1449723142306">
         <mark key="[" line="12" column="26" />
@@ -1480,7 +1479,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>Crawler</text>
+        <text>utf8</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -1489,31 +1488,31 @@
         <text encoding="base64">ICAgICAgICBEb3dubG9hZEpvYi5wZXJmb3JtX2xhdGVyKGl0ZW0uaWQsIHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>utf8</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCBlbnRyeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZlZWQuZW50cmllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCBlbnRyeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZlZWQuZW50cmllcwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Crawler</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgPSBmLmJ1dHRvbiA6c3VibWl0Cg==</text>
+      <register name="9" type="4">
+        <text>Crawler</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
