@@ -1324,12 +1324,12 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453126493879">
-        <mark key="'" line="8" column="12" />
-        <mark key="[" line="65" column="79" />
-        <mark key="]" line="66" column="13" />
-        <mark key="^" line="66" column="13" />
-        <mark key="." line="66" column="13" />
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453128963927">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="66" column="14" />
+        <mark key="]" line="67" column="15" />
+        <mark key="^" line="67" column="15" />
+        <mark key="." line="67" column="15" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/profile_sheet_creating_service.rb" timestamp="1449723142306">
         <mark key="[" line="12" column="26" />
@@ -1375,8 +1375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="61" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/configuration.rb" />
-      <jump line="104" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="105" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="106" column="35" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="107" column="37" filename="$USER_HOME$/projects/cplus/Gemfile" />
@@ -1475,6 +1473,8 @@
       <jump line="42" column="13" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="74" column="23" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="61" column="13" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1484,7 +1484,7 @@
         <text>parsed</text>
       </register>
       <register name="/" type="4">
-        <text>feed</text>
+        <text>simple</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkZF9pbmRleCA6aHRtbF9zb3VyY2VzLCA6dXJsCg==</text>
@@ -1521,9 +1521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>feed</last-search>
+      <last-search>simple</last-search>
       <last-offset />
-      <last-pattern>feed</last-pattern>
+      <last-pattern>simple</last-pattern>
       <last-replace>MediaCrawler</last-replace>
       <last-substitute>Fastladder</last-substitute>
       <last-dir>1</last-dir>
@@ -1531,7 +1531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call</entry>
         <entry>env</entry>
         <entry>newre</entry>
         <entry>request</entry>
@@ -1551,6 +1550,7 @@
         <entry>slim</entry>
         <entry>rspec</entry>
         <entry>feed</entry>
+        <entry>simple</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\///</entry>
