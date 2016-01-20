@@ -321,11 +321,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453289899927">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="2" column="73" />
+      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453292270132">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/framework_and_overrides.css.scss" timestamp="1452776640691">
         <mark key="[" line="113" column="30" />
@@ -513,11 +513,11 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1453290741105">
-        <mark key="[" line="56" column="9" />
-        <mark key="]" line="56" column="9" />
-        <mark key="." line="56" column="9" />
-        <mark key="^" line="19" column="9" />
+      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1453292165138">
+        <mark key="[" line="57" column="13" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="57" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cplus_addressable.rb" timestamp="1449737385485">
         <mark key="[" line="0" column="12" />
@@ -1108,11 +1108,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115100424_create_media_sites.rb" timestamp="1453290310545">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="35" />
+      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115100424_create_media_sites.rb" timestamp="1453292234843">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="44" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/_form.html.slim" timestamp="1451268569262">
         <mark key="[" line="33" column="28" />
@@ -1223,11 +1223,11 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/models/html_source.rb" timestamp="1453262398998">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/projects/media-crawler/app/models/html_source.rb" timestamp="1453291693893">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="61" />
+        <mark key="^" line="14" column="61" />
+        <mark key="." line="14" column="61" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1448986669332">
         <mark key="[" line="24" column="39" />
@@ -1460,31 +1460,31 @@
         <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3Jhd2xfc3RhdHVzZXMsIDp1cmwK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNyYXdsX3N0YXR1cyA9IHNlbGYuY3Jhd2xfc3RhdHVzZXMuYnVpbGQodXJsOiBjcmF3bF9zdGFydF9saW5rKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNyYXdsX3N0YXR1cy5zYXZlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3Jhd2xfc3RhdHVzZXMsIDpodG1sX3NvdXJjZV9pZAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>limit: 8, unsigned: true</text>
       </register>
-      <register name="3" type="4">
-        <text>html_source_id</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="5" type="4">
-        <text>null: false,</text>
+        <text>html_source_id</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>null: false,</text>
+      </register>
+      <register name="8" type="4">
         <text>build_</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICBoYXNfbWFueSA6aHRtbF9zb3VyY2VzCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6YXJ0aWNsZXMK</text>
-      </register>
-      <register name="9" type="4">
-        <text>html_source_id</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
