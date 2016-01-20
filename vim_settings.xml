@@ -250,11 +250,11 @@
         <mark key="^" line="2" column="72" />
         <mark key="." line="2" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115102508_create_crawl_statuses.rb" timestamp="1452855643709">
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="51" />
-        <mark key="^" line="15" column="51" />
-        <mark key="." line="15" column="51" />
+      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115102508_create_crawl_statuses.rb" timestamp="1453253105639">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/multiple_postals_controller.rb" timestamp="1449204739457">
         <mark key="[" line="4" column="61" />
@@ -1161,11 +1161,11 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115101521_create_articles.rb" timestamp="1452862196648">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
+      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115101521_create_articles.rb" timestamp="1453253669079">
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="4" column="43" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/crawlers/application_crawler.rb" timestamp="1453122227284">
         <mark key="[" line="2" column="5" />
@@ -1500,7 +1500,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>[:crawlable_id, :crawlable_type], unique: true</text>
       </register>
       <register name="/" type="4">
         <text>HtmlCacheSavingService</text>
@@ -1508,36 +1508,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEb3dubG9hZEpvYi5wZXJmb3JtX2xhdGVyKGl0ZW0uaWQsIHVybCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[:crawlable_id, :crawlable_type], unique: true</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>b</text>
       </register>
       <register name="5" type="4">
-        <text>if i != urls.size - 1
-        DownloadJob.perform_later(url, item.id)
-      else
-        DownloadJob.perform_later(url, item.id, { last_flag: true })
-      end</text>
+        <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGkgPSAwCg==</text>
+      <register name="6" type="4">
+        <text>l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaSArPSAxCg==</text>
+      <register name="7" type="4">
+        <text>w</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsgaWYgaSA9PSAxMAo=</text>
+      <register name="8" type="4">
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>string</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
