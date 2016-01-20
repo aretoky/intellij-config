@@ -789,6 +789,13 @@
         <mark key="^" line="39" column="61" />
         <mark key="." line="39" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler.rb" timestamp="1453265951168">
+        <mark key="'" line="97" column="20" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+        <mark key="^" line="20" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/air-reading/db/migrate/20151230130507_create_advices.rb" timestamp="1451494434839">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="27" />
@@ -1432,40 +1439,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>HtmlCacheSavingService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6aHRtbF9zb3VyY2VzLCA6dXJsLCB1bmlxdWU6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgI0BjcmF3bGVyX3VzZXJfYWdlbnQgfHw9ICJNZWRpYUNyYWx3ZXIgU2l0ZUZldGNoZXIvI3tNZWRpYUNyYXdsZXI6OlZlcnNpb259Igo=</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>#</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>hogehoge</text>
       </register>
       <register name="3" type="4">
-        <text>unique</text>
+        <text>MediaCralwer SiteFetcher/#{MediaCrawler::Version}</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>#</text>
       </register>
       <register name="5" type="4">
-        <text>url</text>
+        <text>true</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZS5zYXZlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="7" type="4">
-        <text>source</text>
+        <text>unique</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZSA9IEh0bWxTb3VyY2UuZmluZF9vcl9jcmVhdGVfYnkodXJsOiBAdXJsKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>url</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
