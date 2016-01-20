@@ -1234,6 +1234,12 @@
         <mark key="." line="67" column="56" />
         <mark key="^" line="67" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/config/initializers/sidekiq.rb" timestamp="1453249779006">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/time_formats.rb" timestamp="1448977727069">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="6" column="3" />
@@ -1502,36 +1508,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEb3dubG9hZEpvYi5wZXJmb3JtX2xhdGVyKGl0ZW0uaWQsIHVybCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>d</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
+        <text>.</text>
+      </register>
+      <register name="5" type="4">
         <text>if i != urls.size - 1
         DownloadJob.perform_later(url, item.id)
       else
         DownloadJob.perform_later(url, item.id, { last_flag: true })
       end</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGkgPSAwCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaSArPSAxCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgYnJlYWsgaWYgaSA9PSAxMAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>string</text>
-      </register>
       <register name="9" type="4">
-        <text>{ last_flag: true }</text>
+        <text>string</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
