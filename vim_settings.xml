@@ -256,6 +256,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/config/database.yml.sample" timestamp="1453371342913">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/air-reading/config/database.yml" timestamp="1451409210711">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="27" />
@@ -376,11 +382,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/.gitignore" timestamp="1452851326890">
-        <mark key="[" line="90" column="9" />
-        <mark key="]" line="91" column="4" />
-        <mark key="^" line="91" column="4" />
-        <mark key="." line="91" column="4" />
+      <file name="$USER_HOME$/projects/media-crawler/.gitignore" timestamp="1453369959239">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/ymdrooms_controller.rb" timestamp="1453106226447">
         <mark key="[" line="38" column="0" />
@@ -399,13 +405,6 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/url_list_setting_job.rb" timestamp="1453355122954">
-        <mark key="'" line="4" column="54" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/application.css.scss" timestamp="1449723809039">
         <mark key="[" line="11" column="2" />
@@ -1123,11 +1122,11 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1453368678614">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="48" />
+      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1453370679146">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_hhs_base_input.rb" timestamp="1448878026861">
         <mark key="[" line="42" column="58" />
@@ -1213,11 +1212,11 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/database.yml" timestamp="1453366278969">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="23" />
-        <mark key="^" line="28" column="23" />
-        <mark key="." line="28" column="23" />
+      <file name="$USER_HOME$/projects/media-crawler/config/database.yml" timestamp="1453371353725">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings.yml" timestamp="1449562274180">
         <mark key="[" line="7" column="33" />
@@ -1505,7 +1504,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>/assets</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
@@ -1513,16 +1512,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAtIFtkb3dubG9hZGVyXzEwLCAxMDBdCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Z2VtICdzcWxpdGUzJwo=</text>
+      <register name="1" type="4">
+        <text>#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
+        <text encoding="base64">Z2VtICdzcWxpdGUzJwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text># Default value for :scm is :git
 # set :scm, :git
 
@@ -1547,14 +1549,11 @@
 # Default value for keep_releases is 5
 # set :keep_releases, 5</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cmVxdWlyZSAnY2FwaXN0cmFuby9yYWlscy9taWdyYXRpb25zJwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>/assets</text>
-      </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>/assets</text>
       </register>
       <register name="8" type="4">
         <text>a</text>
