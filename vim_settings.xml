@@ -394,6 +394,7 @@
         <mark key="^" line="37" column="57" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/unicorn/production.rb" timestamp="1453372610776" />
       <file name="$USER_HOME$/project/air-reader/app/models/advice.rb" timestamp="1451497579269">
         <mark key="[" line="21" column="33" />
         <mark key="]" line="28" column="31" />
@@ -677,11 +678,11 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/unicorn/production.rb" timestamp="1453367860135">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/projects/media-crawler/config/unicorn/production.rb" timestamp="1453372618904">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/postal/csv_creator_decorator.rb" timestamp="1449472495682">
         <mark key="[" line="0" column="0" />
@@ -1013,7 +1014,9 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1453367552555" />
+      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1453372324664">
+        <mark key="'" line="23" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/sales_analytics_search_form.rb" timestamp="1449598004651">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="14" column="16" />
@@ -1122,11 +1125,11 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1453370679146">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="45" column="4" />
-        <mark key="^" line="45" column="4" />
-        <mark key="." line="45" column="4" />
+      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1453372639802">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_hhs_base_input.rb" timestamp="1448878026861">
         <mark key="[" line="42" column="58" />
@@ -1341,8 +1344,8 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453369215886">
-        <mark key="'" line="73" column="21" />
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453372355891">
+        <mark key="'" line="44" column="19" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="44" column="25" />
@@ -1398,12 +1401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="49" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/notification.rb" />
-      <jump line="117" column="28" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/notification.rb" />
-      <jump line="130" column="29" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/notification.rb" />
-      <jump line="178" column="19" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/notification.rb" />
-      <jump line="180" column="42" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/notification.rb" />
-      <jump line="184" column="54" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/notification.rb" />
       <jump line="187" column="71" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/notification.rb" />
       <jump line="192" column="90" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/notification.rb" />
       <jump line="29" column="13" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
@@ -1498,6 +1495,12 @@
       <jump line="96" column="48" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="72" column="16" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="75" column="21" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
+      <jump line="33" column="12" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
+      <jump line="23" column="5" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
+      <jump line="3" column="13" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="29" column="7" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="44" column="19" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1507,24 +1510,30 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>production</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIFtkb3dubG9hZGVyXzEwLCAxMDBdCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>#</text>
+      <register name="1" type="2">
+        <text encoding="base64">c2V0IDp1bmljb3JuX2NvbmZpZ19wYXRoLCAiY29uZmlnL3VuaWNvcm4ucmIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VtICdzcWxpdGUzJwo=</text>
+        <text encoding="base64">YXBwX3BhdGggPSAiL3Zhci93d3cvY3BsdXMiCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
+      <register name="3" type="4">
+        <text>#</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Z2VtICdzcWxpdGUzJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text># Default value for :scm is :git
 # set :scm, :git
 
@@ -1549,26 +1558,20 @@
 # Default value for keep_releases is 5
 # set :keep_releases, 5</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cmVxdWlyZSAnY2FwaXN0cmFuby9yYWlscy9taWdyYXRpb25zJwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/assets</text>
-      </register>
-      <register name="8" type="4">
-        <text>a</text>
-      </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>/assets</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>production</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>production</last-pattern>
       <last-replace>MediaCrawler</last-replace>
       <last-substitute>Fastladder</last-substitute>
       <last-dir>1</last-dir>
@@ -1576,8 +1579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cut_off</entry>
-        <entry>update</entry>
         <entry>ladder</entry>
         <entry>DEBUG</entry>
         <entry>debug</entry>
@@ -1596,6 +1597,8 @@
         <entry>cralwer_instance</entry>
         <entry>config</entry>
         <entry>env</entry>
+        <entry>unicorn</entry>
+        <entry>production</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\///</entry>
