@@ -1125,11 +1125,10 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1453372639802">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="44" column="4" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1453445986611">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_hhs_base_input.rb" timestamp="1448878026861">
         <mark key="[" line="42" column="58" />
@@ -1351,11 +1350,11 @@
         <mark key="^" line="44" column="25" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/initializers/ar_innodb_row_format.rb" timestamp="1453224630511">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/projects/media-crawler/config/initializers/ar_innodb_row_format.rb" timestamp="1453446302239">
+        <mark key="[" line="6" column="76" />
+        <mark key="]" line="6" column="85" />
+        <mark key="^" line="6" column="85" />
+        <mark key="." line="6" column="85" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/profile_sheet_creating_service.rb" timestamp="1449723142306">
         <mark key="[" line="12" column="26" />
@@ -1507,7 +1506,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>DYNAMIC</text>
       </register>
       <register name="/" type="4">
         <text>production</text>
@@ -1515,54 +1514,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAtIFtkb3dubG9hZGVyXzEwLCAxMDBdCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2V0IDp1bmljb3JuX2NvbmZpZ19wYXRoLCAiY29uZmlnL3VuaWNvcm4ucmIiCg==</text>
+      <register name="1" type="4">
+        <text>DYNAMIC</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwX3BhdGggPSAiL3Zhci93d3cvY3BsdXMiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>#</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Z2VtICdzcWxpdGUzJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVzYyAnQ3JlYXRlIERhdGFiYXNlJwogIHRhc2sgOmRiX2NyZWF0ZSBkbwogICAgb24gcm9sZXMoOmRiKSBkbyB8aG9zdHwKICAgICAgd2l0aCByYWlsc19lbnY6IGZldGNoKDpyYWlsc19lbnYpIGRvCiAgICAgICAgd2l0aGluIGN1cnJlbnRfcGF0aCBkbwogICAgICAgICAgZXhlY3V0ZSA6YnVuZGxlLCA6ZXhlYywgOnJha2UsICdkYjpjcmVhdGUnCiAgICAgICAgZW5kCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2V0IDp1bmljb3JuX2NvbmZpZ19wYXRoLCAiY29uZmlnL3VuaWNvcm4ucmIiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YXBwX3BhdGggPSAiL3Zhci93d3cvY3BsdXMiCg==</text>
+      </register>
       <register name="7" type="4">
-        <text># Default value for :scm is :git
-# set :scm, :git
-
-# Default value for :format is :pretty
-# set :format, :pretty
-
-# Default value for :log_level is :debug
-# set :log_level, :debug
-
-# Default value for :pty is false
-# set :pty, true
-
-# Default value for :linked_files is []
-# set :linked_files, fetch(:linked_files, []).push('config/database.yml', 'config/secrets.yml')
-
-# Default value for linked_dirs is []
-# set :linked_dirs, fetch(:linked_dirs, []).push('log', 'tmp/pids', 'tmp/cache', 'tmp/sockets', 'vendor/bundle', 'public/system')
-
-# Default value for default_env is {}
-# set :default_env, { path: &quot;/opt/ruby/bin:$PATH&quot; }
-
-# Default value for keep_releases is 5
-# set :keep_releases, 5</text>
+        <text>#</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAnY2FwaXN0cmFuby9yYWlscy9taWdyYXRpb25zJwo=</text>
+        <text encoding="base64">Z2VtICdzcWxpdGUzJwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/assets</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
