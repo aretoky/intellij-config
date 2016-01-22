@@ -1002,11 +1002,8 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/html_crawler.rb" timestamp="1453466053449">
+      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/html_crawler.rb" timestamp="1453469541798">
         <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/sales_analytics_result.rb" timestamp="1449598311372">
         <mark key="[" line="14" column="32" />
@@ -1173,11 +1170,11 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/application_crawler.rb" timestamp="1453304666984">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="1" column="28" />
+      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/application_crawler.rb" timestamp="1453470408254">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/cd_ur_input.rb" timestamp="1448964482282">
         <mark key="[" line="1" column="28" />
@@ -1191,11 +1188,11 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/services/html_cache_saving_service.rb" timestamp="1453468828270">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="72" />
-        <mark key="." line="21" column="72" />
-        <mark key="^" line="21" column="72" />
+      <file name="$USER_HOME$/projects/media-crawler/app/services/html_cache_saving_service.rb" timestamp="1453468980933">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/duser.rb" timestamp="1452159435900">
         <mark key="[" line="51" column="10" />
@@ -1386,6 +1383,9 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" timestamp="1453470468449">
+        <mark key="'" line="112" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/lib/cplus/helper_utils.rb" timestamp="1451021600881">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="17" />
@@ -1406,7 +1406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="35" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
       <jump line="106" column="28" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
       <jump line="112" column="38" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
       <jump line="113" column="22" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
@@ -1506,55 +1505,56 @@
       <jump line="72" column="13" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="9" column="22" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="82" column="6" filename="$USER_HOME$/projects/media-crawler/lib/media_crawler.rb" />
+      <jump line="112" column="17" filename="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>replace</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>address</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgID0gZi5pbnB1dCA6Y3Jhd2xfaW50ZXJ2YWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbW9kaWZpZWRfb246IAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>replace</text>
+      </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBkb2MgPSAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGh0bWxfc291cmNlLmh0bWwgPSByZXNwb25zZS5ib2R5ICBpZiByZXNwb25zZS5pc19hPygpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbW9kaWZpZWRfb246IAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text>_</text>
-      </register>
-      <register name="5" type="4">
-        <text>f</text>
-      </register>
-      <register name="6" type="4">
-        <text>o</text>
-      </register>
-      <register name="7" type="4">
-        <text>_</text>
-      </register>
-      <register name="8" type="4">
-        <text>h</text>
-      </register>
-      <register name="9" type="4">
-        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>address</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>address</last-pattern>
       <last-replace>MediaCrawler</last-replace>
       <last-substitute>Fastladder</last-substitute>
       <last-dir>1</last-dir>
@@ -1562,8 +1562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
-        <entry>ymdrooms</entry>
         <entry>fetch</entry>
         <entry>slime</entry>
         <entry>slim</entry>
@@ -1582,6 +1580,8 @@
         <entry>production</entry>
         <entry>redis</entry>
         <entry>type</entry>
+        <entry>addre</entry>
+        <entry>address</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\///</entry>
