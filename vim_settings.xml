@@ -394,7 +394,7 @@
         <mark key="^" line="37" column="57" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/unicorn/production.rb" timestamp="1453372610776" />
+      <file name="$USER_HOME$/projects/cplus/config/unicorn/production.rb" timestamp="1453460549648" />
       <file name="$USER_HOME$/project/air-reader/app/models/advice.rb" timestamp="1451497579269">
         <mark key="[" line="21" column="33" />
         <mark key="]" line="28" column="31" />
@@ -522,11 +522,10 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1453357812760">
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="36" column="10" />
-        <mark key="." line="36" column="10" />
-        <mark key="^" line="36" column="10" />
+      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1453460285048">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cplus_addressable.rb" timestamp="1449737385485">
         <mark key="[" line="0" column="12" />
@@ -931,6 +930,11 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="4" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/script/unicorn" timestamp="1453361083257">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/air-reading/app/views/layouts/application.html.erb" timestamp="1451411295410">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="6" />
@@ -1065,6 +1069,11 @@
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/media-crawler/app/services/media_site_saving_service.rb" timestamp="1453460689267">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_web_mplan_fields.html.slim" timestamp="1452761724742">
         <mark key="[" line="3" column="4" />
@@ -1263,7 +1272,7 @@
         <mark key="^" line="14" column="61" />
         <mark key="." line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1448986669332">
+      <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1453460635841">
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="39" />
         <mark key="^" line="4" column="16" />
@@ -1281,8 +1290,8 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1453367383943">
-        <mark key="'" line="96" column="48" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1453460555002">
+        <mark key="'" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_addr_fields.html.slim" timestamp="1451027224971">
         <mark key="[" line="7" column="13" />
@@ -1338,12 +1347,12 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453459068473">
-        <mark key="'" line="70" column="5" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="71" column="19" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453460605630">
+        <mark key="'" line="72" column="13" />
+        <mark key="[" line="80" column="17" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/initializers/ar_innodb_row_format.rb" timestamp="1453446302239">
         <mark key="[" line="6" column="76" />
@@ -1363,11 +1372,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/_form.html.slim" timestamp="1453460079733">
+      <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/_form.html.slim" timestamp="1453460084125">
         <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="10" column="15" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/locales/ja.yml" timestamp="1453122793722">
         <mark key="[" line="1" column="0" />
@@ -1395,7 +1404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="13" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
       <jump line="34" column="18" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
       <jump line="71" column="35" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
       <jump line="106" column="28" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag.rb" />
@@ -1483,7 +1491,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="114" column="8" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="96" column="48" filename="$USER_HOME$/projects/cplus/Gemfile" />
-      <jump line="72" column="16" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="75" column="21" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
       <jump line="33" column="12" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
@@ -1495,55 +1502,57 @@
       <jump line="69" column="0" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="70" column="5" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="72" column="13" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="9" column="22" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>crawl_interval</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgID0gZi5pbnB1dCA6Y3Jhd2xfaW50ZXJ2YWwK</text>
       </register>
-      <register name="1" type="4">
-        <text>crawl_interval</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="2" type="4">
-        <text>r</text>
-      </register>
-      <register name="3" type="4">
-        <text>e</text>
-      </register>
-      <register name="4" type="4">
-        <text>name</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBSZWRpcy5uZXcgaG9zdDogcmVkaXNfY29uZmlnWydob3N0J10sIHBvcnQ6IHJlZGlzX2NvbmZpZ1sncG9ydCddLCBuYW1lc3BhY2U6Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgc2F2ZQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>v</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">dXJsID0g</text>
+        <text>crawl_interval</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>MediaCrawler</last-replace>
       <last-substitute>Fastladder</last-substitute>
       <last-dir>1</last-dir>
@@ -1551,7 +1560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DEBUG</entry>
         <entry>debug</entry>
         <entry>ymdrooms</entry>
         <entry>fetch</entry>
@@ -1571,6 +1579,7 @@
         <entry>unicorn</entry>
         <entry>production</entry>
         <entry>redis</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\///</entry>
