@@ -531,11 +531,8 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1453572652861">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="33" />
+      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1453573279561">
+        <mark key="[" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cplus_addressable.rb" timestamp="1449737385485">
         <mark key="[" line="0" column="12" />
@@ -711,11 +708,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/parse_job.rb" timestamp="1453569853935">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="38" />
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/parse_job.rb" timestamp="1453574891142">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/client/client_application_mailer.rb" timestamp="1448987349242">
         <mark key="[" line="0" column="13" />
@@ -980,7 +977,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/models/crawl_status.rb" timestamp="1453572644633">
+      <file name="$USER_HOME$/projects/media-crawler/app/models/crawl_status.rb" timestamp="1453573233372">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="42" />
         <mark key="^" line="24" column="42" />
@@ -1207,10 +1204,10 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453571141020">
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453573992591">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
-        <mark key="^" line="22" column="30" />
+        <mark key="^" line="22" column="46" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/ymdrooms.index.coffee" timestamp="1451266292304">
@@ -1521,31 +1518,31 @@
         <text encoding="base64">ICBzY29wZSA6c3RhdHVzX29rLCAtPiB7IHdoZXJlKHN0YXR1czogTWVkaWFDcmF3bGVyOjpDcmF3bGVyOjpDUkFXTF9PSykgfQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>MediaCrawler::Crawler::CRAWL_OK</text>
-      </register>
-      <register name="3" type="4">
-        <text>status</text>
       </register>
       <register name="4" type="4">
-        <text>status_ok</text>
+        <text>MediaCrawler::Crawler::CRAWL_OK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>status</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>status_ok</text>
       </register>
-      <register name="7" type="4">
-        <text>w</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>w</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
