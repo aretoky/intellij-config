@@ -21,9 +21,6 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1453558443293">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/crawlers/sitemap_crawler.rb" timestamp="1452880115087">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="40" />
@@ -439,11 +436,10 @@
         <mark key="^" line="43" column="65" />
         <mark key="." line="43" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/sidekiq.yml" timestamp="1453552528066">
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="31" />
+      <file name="$USER_HOME$/projects/media-crawler/config/sidekiq.yml" timestamp="1453566754102">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/datetime_normalizer.rb" timestamp="1449168661094">
         <mark key="[" line="9" column="7" />
@@ -534,6 +530,11 @@
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1453460285048">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cplus_addressable.rb" timestamp="1449737385485">
         <mark key="[" line="0" column="12" />
@@ -938,6 +939,11 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="4" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/script/unicorn" timestamp="1453361083257">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/air-reading/app/views/layouts/application.html.erb" timestamp="1451411295410">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="6" />
@@ -1237,7 +1243,11 @@
         <mark key="." line="67" column="56" />
         <mark key="^" line="67" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/initializers/sidekiq.rb" timestamp="1453552989381" />
+      <file name="$USER_HOME$/projects/media-crawler/config/initializers/sidekiq.rb" timestamp="1453567200300">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/time_formats.rb" timestamp="1448977727069">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="6" column="3" />
@@ -1508,40 +1518,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>body</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgID0gZi5pbnB1dCA6Y3Jhd2xfaW50ZXJ2YWwK</text>
+        <text encoding="base64">ICAtIFtkb3dubG9hZGVyXzE4LCAxMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyDlvoXjgaEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">U2lkZWtpcTo6UXVldWUuYWxsLmVhY2ggZG8gfHF8Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>#</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBxLmxpbWl0ID0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cDovL2phcGFuLnpkbmV0LmNvbS9hcnRpY2xlLzM1MDc2Njc2Lwo=</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>35076676</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text />
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">MS5ob3VyLmFnbyA8PSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwIHEK</text>
       </register>
-      <register name="8" type="4">
-        <text>unless</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAtIFtkb3dubG9hZGVyXzE5LCAxMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApampqa2tra2tra2trawo=</text>
+        <text encoding="base64">IyDlvoXjgaEK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
