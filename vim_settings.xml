@@ -48,11 +48,11 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/seeds.rb" timestamp="1453585995047">
-        <mark key="[" line="93" column="7" />
-        <mark key="]" line="93" column="7" />
-        <mark key="." line="93" column="7" />
-        <mark key="^" line="93" column="7" />
+      <file name="$USER_HOME$/projects/media-crawler/db/seeds.rb" timestamp="1453622730982">
+        <mark key="[" line="43" column="64" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1448962344988">
         <mark key="[" line="102" column="50" />
@@ -1513,7 +1513,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>売</text>
+        <text>^http:\\/\\/www\\.news2u\\.net\\/releases\\/\\d+$</text>
       </register>
       <register name="/" type="4">
         <text>body</text>
@@ -1522,31 +1522,31 @@
         <text encoding="base64">ICAgICAgaHJlZi5nc3ViISgvXC5odG1sXD8uKyQvLCAiLmh0bWwiKSAjIOODjuOCpOOCuumZpOWOuwo=</text>
       </register>
       <register name="1" type="4">
-        <text>売</text>
+        <text>^http:\\/\\/www\\.news2u\\.net\\/releases\\/\\d+$</text>
       </register>
       <register name="2" type="4">
-        <text>読</text>
+        <text>142449</text>
       </register>
       <register name="3" type="4">
-        <text>\</text>
+        <text>155853</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfY3Jhd2xfc3RhdHVzLmNyYXdsX29rPyA9PSBmYWxzZQo=</text>
+      <register name="4" type="4">
+        <text>売</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>読</text>
       </register>
       <register name="6" type="4">
-        <text>p</text>
+        <text>\</text>
       </register>
-      <register name="7" type="4">
-        <text>read_attribute(:</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdfY3Jhd2xfc3RhdHVzLmNyYXdsX29rPyA9PSBmYWxzZQo=</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>japan\\.zdnet\\.com\\/article\\/\\d+\\/</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
