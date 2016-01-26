@@ -147,7 +147,8 @@
         <mark key="^" line="41" column="83" />
         <mark key="." line="41" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" timestamp="1453801973297">
+      <file name="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" timestamp="1453828254854">
+        <mark key="'" line="4" column="6" />
         <mark key="[" line="19" column="59" />
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="17" />
@@ -845,7 +846,8 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1451409441559">
+      <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1453828371271">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="39" column="54" />
         <mark key="]" line="39" column="61" />
         <mark key="^" line="39" column="61" />
@@ -1445,10 +1447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="30" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" />
-      <jump line="25" column="45" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" />
-      <jump line="7" column="22" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" />
-      <jump line="8" column="27" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" />
       <jump line="9" column="38" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" />
       <jump line="52" column="13" filename="$USER_HOME$/projects/cplus/Gemfile" />
@@ -1545,6 +1543,10 @@
       <jump line="35" column="19" filename="$USER_HOME$/projects/cplus/app/models/hfix.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/bill/detail.php" />
       <jump line="54" column="4" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/carrierwave-0.10.0/lib/carrierwave/mount.rb" />
+      <jump line="1" column="10" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="4" column="6" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="34" column="0" filename="$USER_HOME$/projects/cplus/config/application.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/application.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1554,7 +1556,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>store_previous_model_for_</text>
+        <text>autoload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBoYXNfbWFueSA6dGVscGF5cywgZm9yZWlnbl9rZXk6IDpub19jdXN0Cg==</text>
@@ -1592,9 +1594,9 @@
       </register>
     </registers>
     <search>
-      <last-search>store_previous_model_for_</last-search>
+      <last-search>autoload</last-search>
       <last-offset />
-      <last-pattern>store_previous_model_for_</last-pattern>
+      <last-pattern>autoload</last-pattern>
       <last-replace>MediaCrawler</last-replace>
       <last-substitute>Fastladder</last-substitute>
       <last-dir>1</last-dir>
@@ -1602,8 +1604,6 @@
     </search>
     <history>
       <history-search>
-        <entry>redis</entry>
-        <entry>type</entry>
         <entry>addre</entry>
         <entry>address</entry>
         <entry>body</entry>
@@ -1622,6 +1622,8 @@
         <entry>telpay</entry>
         <entry>sq_hfix</entry>
         <entry>store_previous_model_for_</entry>
+        <entry>expires</entry>
+        <entry>autoload</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\///</entry>
