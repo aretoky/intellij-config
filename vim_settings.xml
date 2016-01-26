@@ -27,6 +27,9 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_inc.php" timestamp="1453830417618">
+        <mark key="'" line="42" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/bootstrap.php" timestamp="1450423030528">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -80,6 +83,13 @@
         <mark key="]" line="12" column="49" />
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1453830622418">
+        <mark key="'" line="6" column="30" />
+        <mark key="[" line="71" column="58" />
+        <mark key="]" line="71" column="57" />
+        <mark key="." line="71" column="57" />
+        <mark key="^" line="71" column="57" />
       </file>
       <file name="$USER_HOME$/project/air-reader/db/migrate/20151230173439_create_users.rb" timestamp="1451497258409">
         <mark key="[" line="7" column="20" />
@@ -297,6 +307,12 @@
         <mark key="]" line="2" column="95" />
         <mark key="^" line="2" column="95" />
         <mark key="." line="2" column="95" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail_book.rake" timestamp="1453829837824">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/public/phpmyadmin/config.inc.php" timestamp="1452259727337">
         <mark key="[" line="33" column="41" />
@@ -705,6 +721,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1453829508324">
+        <mark key="[" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1452760392806">
         <mark key="[" line="137" column="5" />
         <mark key="]" line="140" column="60" />
@@ -791,6 +810,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail_postal.rake" timestamp="1453829597271">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_concierge_mplan_fields.html.slim" timestamp="1452761481402">
         <mark key="[" line="3" column="4" />
@@ -1048,6 +1073,12 @@
         <mark key="]" line="19" column="35" />
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1453829885450">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/sales_analytics_result.rb" timestamp="1449598311372">
         <mark key="[" line="14" column="32" />
@@ -1427,6 +1458,7 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" timestamp="1453829592504" />
       <file name="$USER_HOME$/projects/cplus/lib/cplus/helper_utils.rb" timestamp="1451021600881">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="17" />
@@ -1447,11 +1479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="38" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/cplus/vendor/bundle/gems/bugsnag-3.0.0/lib/bugsnag/middleware/rails3_request.rb" />
-      <jump line="52" column="13" filename="$USER_HOME$/projects/cplus/Gemfile" />
-      <jump line="51" column="21" filename="$USER_HOME$/projects/cplus/Gemfile" />
-      <jump line="263" column="2" filename="$USER_HOME$/projects/media-crawler/lib/media_crawler/crawler.rb" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/media-crawler/lib/media_cralwer.rb" />
       <jump line="40" column="29" filename="$USER_HOME$/projects/media-crawler/lib/media_cralwer.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/media-crawler/lib/media_cralwer.rb" />
@@ -1547,56 +1574,61 @@
       <jump line="4" column="6" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/cplus/config/application.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/application.rb" />
+      <jump line="282" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="6" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="30" column="87" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_inc.php" />
+      <jump line="39" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_inc.php" />
+      <jump line="42" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tuple</text>
       </register>
       <register name="/" type="4">
-        <text>autoload</text>
+        <text>param</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBoYXNfbWFueSA6dGVscGF5cywgZm9yZWlnbl9rZXk6IDpub19jdXN0Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>tuple</text>
       </register>
       <register name="2" type="4">
-        <text>hfix = Hfix.find([@bill.no_bill, @bill.sq_hfix])
-    hfix.set_confirm(current_cust.no_person)</text>
+        <text>k</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgaHR0cHM6Ly9naXRodWIuY29tL2NvbXBvc2l0ZS1wcmltYXJ5LWtleXMvY29tcG9zaXRlX3ByaW1hcnlfa2V5cy9pc3N1ZXMvMzE3Cg==</text>
+      <register name="5" type="4">
+        <text>b</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY29tcG9zaXRlLXByaW1hcnkta2V5c+OBruW9semfv+OBoOOBqOaAneOCj+OCjOOCiwo=</text>
+      <register name="6" type="4">
+        <text>_</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcmVsYXRpb27jgafjga/jgarjgZzjgYvlpLHmlZfjgZnjgovjga7jgafjgIFIZml4LmZpbmTjgZfjgablkbzjgbPlh7rjgZfjgabjgYTjgovjgIIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>す</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>や</text>
+        <text>hfix = Hfix.find([@bill.no_bill, @bill.sq_hfix])
+    hfix.set_confirm(current_cust.no_person)</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
       </register>
     </registers>
     <search>
-      <last-search>autoload</last-search>
+      <last-search>param</last-search>
       <last-offset />
-      <last-pattern>autoload</last-pattern>
+      <last-pattern>param</last-pattern>
       <last-replace>MediaCrawler</last-replace>
       <last-substitute>Fastladder</last-substitute>
       <last-dir>1</last-dir>
@@ -1604,8 +1636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addre</entry>
-        <entry>address</entry>
         <entry>body</entry>
         <entry>60</entry>
         <entry>sass</entry>
@@ -1624,6 +1654,8 @@
         <entry>store_previous_model_for_</entry>
         <entry>expires</entry>
         <entry>autoload</entry>
+        <entry>dt_batch1</entry>
+        <entry>param</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\///</entry>
