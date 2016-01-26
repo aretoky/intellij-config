@@ -24,12 +24,12 @@
       <mapping pattern="prefecture" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="postals_helper" type="PLAIN_TEXT" />
-      <mapping pattern="MplanDecorator" type="PLAIN_TEXT" />
       <mapping pattern="unicorn" type="PLAIN_TEXT" />
       <mapping pattern="locations" type="PLAIN_TEXT" />
       <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping pattern="authinfo" type="PLAIN_TEXT" />
       <mapping pattern="common_utils" type="PLAIN_TEXT" />
+      <mapping pattern="MplanDecorator" type="PLAIN_TEXT" />
       <mapping pattern="Proc" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
