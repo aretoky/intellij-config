@@ -141,11 +141,11 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/factories/temp_ymdroom_factory.rb" timestamp="1453707275863">
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="37" />
-        <mark key="^" line="41" column="37" />
-        <mark key="." line="41" column="37" />
+      <file name="$USER_HOME$/projects/cplus/app/factories/temp_ymdroom_factory.rb" timestamp="1453791317215">
+        <mark key="[" line="41" column="83" />
+        <mark key="]" line="41" column="83" />
+        <mark key="^" line="41" column="83" />
+        <mark key="." line="41" column="83" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" timestamp="1452792542826">
         <mark key="[" line="19" column="59" />
@@ -666,11 +666,11 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/ymd.rb" timestamp="1453789946501">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="23" />
-        <mark key="^" line="59" column="23" />
-        <mark key="." line="59" column="23" />
+      <file name="$USER_HOME$/projects/cplus/app/models/ymd.rb" timestamp="1453791854445">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="14" />
+        <mark key="." line="55" column="14" />
+        <mark key="^" line="55" column="14" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/models/article.rb" timestamp="1453556926197">
         <mark key="[" line="37" column="25" />
@@ -845,6 +845,12 @@
         <mark key="]" line="181" column="0" />
         <mark key="^" line="181" column="0" />
         <mark key="." line="181" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_search_form.rb" timestamp="1453791524272">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/index.html.slim" timestamp="1453124774847">
         <mark key="[" line="14" column="86" />
@@ -1532,7 +1538,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Date.today +</text>
       </register>
       <register name="/" type="4">
         <text>iml</text>
@@ -1541,31 +1547,31 @@
         <text encoding="base64">ICAgICAgaHJlZi5nc3ViISgvXC5odG1sXD8uKyQvLCAiLmh0bWwiKSAjIOODjuOCpOOCuumZpOWOuwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text>=</text>
+        <text>Date.today +</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z2VtICdzYXNzLXJhaWxzJywgIj49IDUuMC4wIgo=</text>
+      <register name="5" type="4">
+        <text>=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Z2VtICdzYXNzLXJhaWxzJywgIj49IDUuMC4wIgo=</text>
       </register>
       <register name="9" type="4">
-        <text>:today, :tomorrow,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Fastladder/MediaCrawler/g</text>
