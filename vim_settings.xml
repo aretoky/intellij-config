@@ -26,7 +26,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/admin/sessions_helper.rb" timestamp="1453982943479">
+      <file name="$USER_HOME$/projects/cplus/app/helpers/admin/sessions_helper.rb" timestamp="1453984483067">
         <mark key="[" line="17" column="87" />
         <mark key="]" line="17" column="91" />
         <mark key="." line="17" column="91" />
@@ -728,11 +728,18 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" timestamp="1453982971278">
-        <mark key="[" line="17" column="96" />
-        <mark key="]" line="17" column="100" />
-        <mark key="^" line="17" column="100" />
-        <mark key="." line="17" column="100" />
+      <file name="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" timestamp="1453985017662">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="30" />
+        <mark key="^" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/support/signin_macros.rb" timestamp="1453984521926">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="117" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/ymd.rb" timestamp="1453791854445">
         <mark key="[" line="55" column="12" />
@@ -1545,11 +1552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="8" column="3" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="36" column="20" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="77" column="51" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="89" column="13" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="41" column="18" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
       <jump line="48" column="12" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
       <jump line="54" column="33" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
@@ -1645,46 +1647,51 @@
       <jump line="8" column="0" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
       <jump line="1" column="7" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
       <jump line="52" column="2" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="5" column="29" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
+      <jump line="1" column="36" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
+      <jump line="2" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
+      <jump line="3" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
+      <jump line="4" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>zone.</text>
+        <text encoding="base64">IDogMTAubWludXRlcy5mcm9tX25vdyk=</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;client_session&quot;</text>
+        <text>cust</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aGFzX21hbnkgOmZyb21fdHJhbnNmZXJfdGVscywgLT4geyBmcm9tX3RyYW5zZmVyIH0sCiAgICBjbGFzc19uYW1lOiAiVGVsIiwKICAgIHByaW1hcnlfa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXSwKICAgIGZvcmVpZ25fa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>zone.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>zone.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFsdWU6IGVtcC5ub19lbXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXMuZGVsZXRlKDpub19lbXApCg==</text>
+        <text encoding="base64">ICAgIGNvb2tpZXMuc2lnbmVkWzpub19lbXBdID0gewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IDogMTAubWludXRlcy5mcm9tX25vdyk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5pbAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">KGlzX3NhdmVfbG9uZ190aW1lID09IHRydWUgPyA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNpZ25fb3V0X2N1c3QK</text>
+      <register name="7" type="4">
+        <text>zone.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICByZXNjdWUK</text>
+      <register name="8" type="4">
+        <text>zone.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgIGNvb2tpZXMuZGVsZXRlKDpub19lbXApCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;client_session&quot;/:client_session/g</text>
@@ -1693,7 +1700,7 @@
     <search>
       <last-search>cust</last-search>
       <last-offset />
-      <last-pattern>&quot;client_session&quot;</last-pattern>
+      <last-pattern>cust</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1701,9 +1708,6 @@
     </search>
     <history>
       <history-search>
-        <entry>param</entry>
-        <entry>50302010</entry>
-        <entry>no_goods</entry>
         <entry>transfer_</entry>
         <entry>address</entry>
         <entry>enable</entry>
@@ -1719,8 +1723,11 @@
         <entry>:no_cust</entry>
         <entry>:expired_at</entry>
         <entry>cookie</entry>
-        <entry>cust</entry>
         <entry>&quot;client_session&quot;</entry>
+        <entry>signed_in_duser</entry>
+        <entry>admin</entry>
+        <entry>deliverer_session</entry>
+        <entry>cust</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
