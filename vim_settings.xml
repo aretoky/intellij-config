@@ -165,12 +165,12 @@
         <mark key="^" line="41" column="83" />
         <mark key="." line="41" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" timestamp="1453972320906">
-        <mark key="'" line="33" column="51" />
-        <mark key="[" line="19" column="59" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" timestamp="1453974647409">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/app/concepts/session/operation.rb" timestamp="1451482486323">
         <mark key="[" line="1" column="26" />
@@ -1525,11 +1525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/application.rb" />
-      <jump line="282" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
-      <jump line="6" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
-      <jump line="30" column="87" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_inc.php" />
-      <jump line="39" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_inc.php" />
       <jump line="42" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_inc.php" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -1625,6 +1620,11 @@
       <jump line="270" column="31" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit.php" />
       <jump line="316" column="23" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="33" column="51" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="14" column="4" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="40" column="4" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="43" column="4" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1634,56 +1634,56 @@
         <text>normal_depo</text>
       </register>
       <register name="/" type="4">
-        <text>depo</text>
+        <text>:expired_at</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aGFzX21hbnkgOmZyb21fdHJhbnNmZXJfdGVscywgLT4geyBmcm9tX3RyYW5zZmVyIH0sCiAgICBjbGFzc19uYW1lOiAiVGVsIiwKICAgIHByaW1hcnlfa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXSwKICAgIGZvcmVpZ25fa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>normal_depo</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBAY3VycmVudF9jdXN0Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>show</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBAY3VycmVudF9jdXN0IGlmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICA9IGYuYnV0dG9uIDpzdWJtaXQsIHZhbHVlOiAi57eo6ZuG44GX55u044GZIiwgbmFtZTogImJhY2siLCBjbGFzczogImJ0biBidG4tZGVmYXVsdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICA9IGYuYnV0dG9uIDpzdWJtaXQsIGNsYXNzOiAnYnRuIGJ0bi1wcmltYXJ5IGJ0bi1yaWdodCcK</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvbls6ZXhwaXJlZF9hdF0gPSBpc19zYXZlX2xvbmdfdGltZSA/IDEubW9udGguZnJvbV9ub3cgOiAxMC5taW51dGVzLmZyb21fbm93Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgLSBpZiBmLm9iamVjdC5jb25maXJtaW5nID09ICIxIgo=</text>
+        <text encoding="base64">ICAgICAgIyBidWdzbmFn6Zay6Kan55SoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvbls6bm9fY3VzdF0gPSBAY3VycmVudF9jdXN0Lm5vX2N1c3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmJ1dHRvbiA6c3VibWl0LCB2YWx1ZTogIue3qOmbhuOBl+ebtOOBmSIsIG5hbWU6ICJiYWNrIiwgY2xhc3M6ICJidG4gYnRuLWRlZmF1bHQiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+IG5vLjMw44Gu44OH44Od44K444OD44OI55S76Z2i44Gu44OH44K244Kk44Oz6L+95Yqg77yI5LiA6Kan55S76Z2i44Gu44G/77yJCg==</text>
+      <register name="8" type="4">
+        <text>cookies.signed[:no_cust] = {
+      value: cust.no_cust,
+      expires: is_save_long_time ? 10.month.from_now : 10.minutes.from_now
+    }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNlc3Npb25bOm5vX2N1c3RdID0K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Fastladder/MediaCrawler/g</text>
+        <text>%s/:expired_at/&quot;expired_at&quot;/g</text>
       </register>
     </registers>
     <search>
       <last-search>depo</last-search>
       <last-offset />
-      <last-pattern>depo</last-pattern>
-      <last-replace>MediaCrawler</last-replace>
-      <last-substitute>Fastladder</last-substitute>
+      <last-pattern>:expired_at</last-pattern>
+      <last-replace>&quot;expired_at&quot;</last-replace>
+      <last-substitute>:expired_at</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>telpay</entry>
-        <entry>sq_hfix</entry>
-        <entry>store_previous_model_for_</entry>
         <entry>expires</entry>
         <entry>autoload</entry>
         <entry>dt_batch1</entry>
@@ -1701,11 +1701,11 @@
         <entry>localtimestamp</entry>
         <entry>dt_current</entry>
         <entry>depo</entry>
+        <entry>:cust_session</entry>
+        <entry>:no_cust</entry>
+        <entry>:expired_at</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;\/assets\///</entry>
-        <entry>%s/&quot;\/assets\/.//</entry>
-        <entry>%s/&quot;\/assets\/.+//</entry>
         <entry>%s/&quot;\/assets\/.*//</entry>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
@@ -1723,6 +1723,9 @@
         <entry>e</entry>
         <entry>s/Fastladder/MediaCrawler/g</entry>
         <entry>%s/Fastladder/MediaCrawler/g</entry>
+        <entry>%s/:cust_session/&quot;cust_session&quot;/g</entry>
+        <entry>%s/:no_cust/&quot;no_cust&quot;/g</entry>
+        <entry>%s/:expired_at/&quot;expired_at&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
