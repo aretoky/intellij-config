@@ -57,12 +57,12 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/db/seeds.rb" timestamp="1453992050346">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="85" column="67" />
-        <mark key="]" line="85" column="71" />
-        <mark key="." line="85" column="71" />
-        <mark key="^" line="85" column="71" />
+      <file name="$USER_HOME$/projects/media-crawler/db/seeds.rb" timestamp="1453994782266">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="83" column="19" />
+        <mark key="]" line="83" column="18" />
+        <mark key="." line="83" column="18" />
+        <mark key="^" line="83" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1448962344988">
         <mark key="[" line="102" column="50" />
@@ -696,6 +696,12 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="55" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/app/controllers/application_controller.rb" timestamp="1453994697152">
+        <mark key="[" line="1" column="87" />
+        <mark key="]" line="1" column="90" />
+        <mark key="^" line="1" column="90" />
+        <mark key="." line="1" column="90" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/models/article.rb" timestamp="1453556926197">
         <mark key="[" line="37" column="25" />
         <mark key="]" line="37" column="25" />
@@ -864,11 +870,11 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/Capfile" timestamp="1453448008095">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/projects/media-crawler/Capfile" timestamp="1453994555047">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/index.html.slim" timestamp="1453124774847">
         <mark key="[" line="14" column="86" />
@@ -1345,7 +1351,7 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/application_controller.rb" timestamp="1452792264049">
+      <file name="$USER_HOME$/projects/cplus/app/controllers/application_controller.rb" timestamp="1453994432728">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
@@ -1369,8 +1375,8 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/admin_controller.rb" timestamp="1453283811684">
-        <mark key="[" line="0" column="28" />
+      <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/admin_controller.rb" timestamp="1453994390132">
+        <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -1380,6 +1386,12 @@
         <mark key="]" line="25" column="44" />
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1453994524632">
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/initializers/ar_innodb_row_format.rb" timestamp="1453446302239">
         <mark key="[" line="6" column="76" />
@@ -1551,11 +1563,11 @@
       <register name="0" type="4">
         <text encoding="base64">aGFzX21hbnkgOmZyb21fdHJhbnNmZXJfdGVscywgLT4geyBmcm9tX3RyYW5zZmVyIH0sCiAgICBjbGFzc19uYW1lOiAiVGVsIiwKICAgIHByaW1hcnlfa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXSwKICAgIGZvcmVpZ25fa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhpdAo=</text>
       </register>
       <register name="2" type="4">
-        <text>HtmlCrawler</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
         <text>HtmlCrawler</text>
@@ -1573,7 +1585,7 @@
         <text>HtmlCrawler</text>
       </register>
       <register name="8" type="4">
-        <text>FeedCrawler</text>
+        <text>HtmlCrawler</text>
       </register>
       <register name="9" type="4">
         <text>FeedCrawler</text>
