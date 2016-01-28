@@ -171,12 +171,12 @@
         <mark key="^" line="41" column="83" />
         <mark key="." line="41" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" timestamp="1453976828662">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="28" column="34" />
-        <mark key="^" line="28" column="34" />
-        <mark key="." line="28" column="34" />
+      <file name="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" timestamp="1453979947457">
+        <mark key="'" line="51" column="2" />
+        <mark key="[" line="20" column="68" />
+        <mark key="]" line="20" column="72" />
+        <mark key="^" line="20" column="72" />
+        <mark key="." line="20" column="72" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/app/concepts/session/operation.rb" timestamp="1451482486323">
         <mark key="[" line="1" column="26" />
@@ -798,11 +798,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/parse_job.rb" timestamp="1453976977150">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="31" />
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/parse_job.rb" timestamp="1453979748179">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/temp_ymdroom_array_factory.rb" timestamp="1453815039829">
         <mark key="'" line="2" column="4" />
@@ -1324,11 +1324,11 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453585229643">
-        <mark key="[" line="9" column="59" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="58" />
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1453979360784">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/addr.rb" timestamp="1453958574954">
         <mark key="'" line="61" column="14" />
@@ -1532,7 +1532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="8" column="3" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="36" column="20" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -1632,13 +1631,14 @@
       <jump line="43" column="4" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
       <jump line="1" column="7" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
+      <jump line="52" column="2" filename="$USER_HOME$/projects/cplus/app/helpers/client/sessions_helper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>second</text>
       </register>
       <register name="/" type="4">
         <text>&quot;client_session&quot;</text>
@@ -1646,34 +1646,32 @@
       <register name="0" type="4">
         <text encoding="base64">aGFzX21hbnkgOmZyb21fdHJhbnNmZXJfdGVscywgLT4geyBmcm9tX3RyYW5zZmVyIH0sCiAgICBjbGFzc19uYW1lOiAiVGVsIiwKICAgIHByaW1hcnlfa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXSwKICAgIGZvcmVpZ25fa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXMuZGVsZXRlKDpub19jdXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>client</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">YmVmb3JlX2VucXVldWUgZG8gfGpvYnwKICAgICMg5q+O5Zue6Kit5a6a44GZ44KL5b+F6KaB44Gv44Gq44GE44GM44CB5Yid5pyf6Kit5a6a44GZ44KL5aC05omA44GM5YiG44GL44KJ44Gq44GE44CCCiAgICBTaWRla2lxOjpRdWV1ZVsicGFyc2VycyJdLmxpbWl0ID0gMwogIGVuZAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>cookies.signed[:no_duser] = {
-      value: duser.no_duser
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHVybCA9IGpvYi5hcmd1bWVudHMuZmlyc3QK</text>
       </register>
       <register name="6" type="4">
-        <text>cust</text>
+        <text>second</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWU6IGR1c2VyLm5vX2R1c2VyCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgYmVmb3JlX2VucXVldWUgZG8gfGpvYnwKICAgICMg5q+O5Zue6Kit5a6a44GZ44KL5b+F6KaB44Gv44Gq44GE44GM44CB5Yid5pyf6Kit5a6a44GZ44KL5aC05omA44GM5YiG44GL44KJ44Gq44GE44CCCiAgICBtZWRpYV9zaXRlX2lkID0gam9iLmFyZ3VtZW50cy5zZWNvbmQKICAgIFNpZGVraXE6OlF1ZXVlWyJkb3dubG9hZGVyXyN7bWVkaWFfc2l0ZV9pZH0iXS5saW1pdCA9IDIKICBlbmQ=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXMuc2lnbmVkWzpub19kdXNlcl0gPSB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;client_session&quot;/:client_session/g</text>
