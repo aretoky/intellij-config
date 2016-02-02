@@ -1492,11 +1492,11 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/deploy/production.rb" timestamp="1453365764754">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/projects/media-crawler/config/deploy/production.rb" timestamp="1454381149617">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/_form.html.slim" timestamp="1453460084125">
         <mark key="[" line="10" column="15" />
@@ -1636,40 +1636,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>160.16.225.27</text>
       </register>
       <register name="/" type="4">
         <text>crawl_status</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aGFzX21hbnkgOmZyb21fdHJhbnNmZXJfdGVscywgLT4geyBmcm9tX3RyYW5zZmVyIH0sCiAgICBjbGFzc19uYW1lOiAiVGVsIiwKICAgIHByaW1hcnlfa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXSwKICAgIGZvcmVpZ25fa2V5OiBbOm5vX2N1c3QsIDpjZF9wYSwgOnNxX21wbGFuXQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VydmVyICIxNjAuMTYuMjI1LjI3IiwgdXNlcjogInJvb3QiLCByb2xlczogJXd7d2ViIGFwcCBkYn0sIHByaW1hcnk6IHRydWUK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>160.16.225.27</text>
       </register>
       <register name="2" type="4">
+        <text>, primary: true</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
         <text>#</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIyDmr47lm57oqK3lrprjgZnjgovlv4XopoHjga/jgarjgYTjgYzjgIHliJ3mnJ/oqK3lrprjgZnjgovloLTmiYDjgYzliIbjgYvjgonjgarjgYTjgIIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>crawl_status_id</text>
-      </register>
-      <register name="7" type="4">
-        <text>crawl_status_id</text>
       </register>
       <register name="8" type="4">
         <text>crawl_status_id</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>crawl_status_id</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;client_session&quot;/:client_session/g</text>
