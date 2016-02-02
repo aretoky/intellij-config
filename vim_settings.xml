@@ -455,6 +455,7 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/url_list_setting_job.rb" timestamp="1454400900553" />
       <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/application.css.scss" timestamp="1449723809039">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="12" column="11" />
@@ -1239,12 +1240,12 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1454385159702">
+      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1454400978245">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="35" column="28" />
-        <mark key="." line="35" column="28" />
-        <mark key="^" line="35" column="28" />
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="39" column="6" />
+        <mark key="." line="39" column="6" />
+        <mark key="^" line="39" column="6" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_hhs_base_input.rb" timestamp="1448878026861">
         <mark key="[" line="42" column="58" />
@@ -1312,12 +1313,11 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1454395524076">
-        <mark key="'" line="56" column="6" />
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="20" />
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" timestamp="1454400505824">
+        <mark key="'" line="60" column="6" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/ymdrooms.index.coffee" timestamp="1451266292304">
         <mark key="[" line="10" column="66" />
@@ -1636,7 +1636,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>160.16.225.27</text>
+        <text encoding="base64">cmV0dXJuIHRydWUg</text>
       </register>
       <register name="/" type="4">
         <text>crawl_status</text>
@@ -1645,31 +1645,31 @@
         <text encoding="base64">c2VydmVyICIxNjAuMTYuMjI1LjI3IiwgdXNlcjogInJvb3QiLCByb2xlczogJXd7d2ViIGFwcCBkYn0sIHByaW1hcnk6IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjcmF3bF9zdGF0dXMucGFnZV90eXBlICE9IDEwIHx8Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>160.16.225.27</text>
-      </register>
-      <register name="3" type="4">
-        <text>, primary: true</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>#</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyDmr47lm57oqK3lrprjgZnjgovlv4XopoHjga/jgarjgYTjgYzjgIHliJ3mnJ/oqK3lrprjgZnjgovloLTmiYDjgYzliIbjgYvjgonjgarjgYTjgIIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>crawl_status_id</text>
+      <register name="2" type="4">
+        <text encoding="base64">cmV0dXJuIHRydWUg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjcmF3bF9zdGF0dXMucGFnZV90eXBlICE9IDEwIHx8Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>160.16.225.27</text>
+      </register>
+      <register name="5" type="4">
+        <text>, primary: true</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>#</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIyDmr47lm57oqK3lrprjgZnjgovlv4XopoHjga/jgarjgYTjgYzjgIHliJ3mnJ/oqK3lrprjgZnjgovloLTmiYDjgYzliIbjgYvjgonjgarjgYTjgIIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;client_session&quot;/:client_session/g</text>
