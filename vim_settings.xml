@@ -477,11 +477,11 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/media_sites_controller.rb" timestamp="1453460073423">
-        <mark key="[" line="72" column="72" />
-        <mark key="]" line="45" column="79" />
-        <mark key="." line="45" column="79" />
-        <mark key="^" line="45" column="79" />
+      <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/media_sites_controller.rb" timestamp="1454435240112">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="30" column="71" />
+        <mark key="." line="30" column="71" />
+        <mark key="^" line="30" column="71" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/multiple_postals/_form.html.slim" timestamp="1453805524818">
         <mark key="[" line="7" column="45" />
@@ -567,6 +567,7 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1454435231736" />
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cplus_addressable.rb" timestamp="1453959116059">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -1468,11 +1469,11 @@
         <mark key="." line="5" column="72" />
         <mark key="^" line="5" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/_form.html.slim" timestamp="1453460084125">
+      <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/_form.html.slim" timestamp="1454435126112">
         <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="34" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/locales/ja.yml" timestamp="1453122793722">
         <mark key="[" line="1" column="0" />
@@ -1606,7 +1607,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>sidekiq</text>
@@ -1614,32 +1615,32 @@
       <register name="0" type="2">
         <text encoding="base64">c2VydmVyICIxNjAuMTYuMjI1LjI3IiwgdXNlcjogInJvb3QiLCByb2xlczogJXd7d2ViIGFwcCBkYn0sIHByaW1hcnk6IHRydWUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2V0IDpzaWRla2lxX2NvbmZpZ19kaXIK</text>
+      <register name="1" type="4">
+        <text>h</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cmV0dXJuIHRydWUg</text>
+        <text>p</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcmF3bF9zdGF0dXMucGFnZV90eXBlICE9IDEwIHx8Cg==</text>
+      <register name="5" type="4">
+        <text>x</text>
       </register>
       <register name="6" type="4">
-        <text>160.16.225.27</text>
+        <text>h</text>
       </register>
       <register name="7" type="4">
-        <text>, primary: true</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>#</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;client_session&quot;/:client_session/g</text>
