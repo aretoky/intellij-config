@@ -787,11 +787,10 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/jobs/parse_job.rb" timestamp="1454584353330">
-        <mark key="[" line="42" column="55" />
-        <mark key="]" line="54" column="38" />
-        <mark key="." line="54" column="38" />
-        <mark key="^" line="54" column="38" />
+      <file name="$USER_HOME$/projects/media-crawler/app/jobs/parse_job.rb" timestamp="1454586594286">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/client/client_application_mailer.rb" timestamp="1448987349242">
         <mark key="[" line="0" column="13" />
@@ -1089,7 +1088,7 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/html_crawler.rb" timestamp="1454585437081">
+      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/html_crawler.rb" timestamp="1454586470481">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="34" column="20" />
         <mark key="^" line="34" column="20" />
@@ -1651,31 +1650,31 @@
         <text encoding="base64">ICAgIGV4cGlyZSA9IG9wdGlvbnNbOmludGVydmFsXSB8fCA1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcHRoX2xpbWl0ID0gb3B0aW9uc1s6ZGVwdGhfbGltaXRdIHx8IDAK</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zWzpmb3JjZV0gPSB0cnVlIGlmIEBvcHRpb25zWzpmb3JjZV0gPT0gdHJ1ZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>expire</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBvcHRpb25zID0geyBpbnRlcnZhbDogbmV3X2NyYXdsX3N0YXR1cy5tZWRpYV9zaXRlLmNyYXdsX2ludGVydmFsIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>interval</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRlcHRoX2xpbWl0ID0gb3B0aW9uc1s6ZGVwdGhfbGltaXRdIHx8IDAK</text>
       </register>
       <register name="5" type="4">
-        <text>false</text>
+        <text>expire</text>
       </register>
       <register name="6" type="4">
-        <text>integer</text>
+        <text>interval</text>
       </register>
-      <register name="7" type="4">
-        <text>depth_limit</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="9" type="4">
-        <text>#</text>
+        <text>integer</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;client_session&quot;/:client_session/g</text>
