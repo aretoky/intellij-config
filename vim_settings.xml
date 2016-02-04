@@ -616,6 +616,7 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/config/initializers/bugsnag.rb" timestamp="1454565000284" />
       <file name="$USER_HOME$/projects/bitstar/spec/services/video_edit_service_spec.rb" timestamp="1449170898694">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="4" />
@@ -731,7 +732,7 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/environments/production.rb" timestamp="1454563940416" />
+      <file name="$USER_HOME$/projects/cplus/config/environments/production.rb" timestamp="1454565026226" />
       <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1452760392806">
         <mark key="[" line="137" column="5" />
         <mark key="]" line="140" column="60" />
@@ -1209,12 +1210,12 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1454411520207">
+      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1454565003734">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="74" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="27" />
+        <mark key="^" line="48" column="27" />
+        <mark key="." line="48" column="27" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_hhs_base_input.rb" timestamp="1448878026861">
         <mark key="[" line="42" column="58" />
@@ -1264,7 +1265,12 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/environments/production.rb" timestamp="1454563950608" />
+      <file name="$USER_HOME$/projects/media-crawler/config/environments/production.rb" timestamp="1454565070727">
+        <mark key="[" line="74" column="77" />
+        <mark key="]" line="74" column="77" />
+        <mark key="^" line="74" column="77" />
+        <mark key="." line="74" column="77" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/services/html_cache_saving_service.rb" timestamp="1453556949849">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="36" />
@@ -1612,46 +1618,46 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>sidekiq</text>
+        <text>bugsnag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VydmVyICIxNjAuMTYuMjI1LjI3IiwgdXNlcjogInJvb3QiLCByb2xlczogJXd7d2ViIGFwcCBkYn0sIHByaW1hcnk6IHRydWUK</text>
       </register>
-      <register name="1" type="4">
-        <text>h</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
-      </register>
-      <register name="3" type="4">
-        <text>a</text>
-      </register>
-      <register name="4" type="4">
-        <text>p</text>
-      </register>
-      <register name="5" type="4">
-        <text>x</text>
-      </register>
-      <register name="6" type="4">
         <text>h</text>
       </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text>t</text>
       </register>
-      <register name="8" type="4">
+      <register name="4" type="4">
         <text>a</text>
       </register>
-      <register name="9" type="4">
+      <register name="5" type="4">
         <text>p</text>
+      </register>
+      <register name="6" type="4">
+        <text>x</text>
+      </register>
+      <register name="7" type="4">
+        <text>h</text>
+      </register>
+      <register name="8" type="4">
+        <text>t</text>
+      </register>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;client_session&quot;/:client_session/g</text>
       </register>
     </registers>
     <search>
-      <last-search>sidekiq</last-search>
+      <last-search>bugsnag</last-search>
       <last-offset />
-      <last-pattern>sidekiq</last-pattern>
+      <last-pattern>bugsnag</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1659,7 +1665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plan</entry>
         <entry>dt_proc</entry>
         <entry>dt_start</entry>
         <entry>localtimestamp</entry>
@@ -1679,6 +1684,7 @@
         <entry>bundle_binstubs</entry>
         <entry>crawl_status</entry>
         <entry>sidekiq</entry>
+        <entry>bugsnag</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
