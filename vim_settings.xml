@@ -849,11 +849,12 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/sandbox/james-twillio/app.rb" timestamp="1454662066867">
-        <mark key="'" line="68" column="13" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/sandbox/james-twillio/app.rb" timestamp="1454662968810">
+        <mark key="'" line="72" column="8" />
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="17" />
+        <mark key="." line="72" column="17" />
+        <mark key="^" line="72" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/boolean_between_dts_input.rb" timestamp="1451250269258">
         <mark key="[" line="8" column="0" />
@@ -1558,12 +1559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="360" column="9" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="363" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="364" column="8" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="135" column="18" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
-      <jump line="169" column="56" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="170" column="40" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="174" column="57" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="423" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
@@ -1654,10 +1649,16 @@
       <jump line="84" column="16" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="88" column="4" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
       <jump line="28" column="15" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
       <jump line="48" column="13" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
       <jump line="67" column="13" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
+      <jump line="81" column="26" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
+      <jump line="51" column="22" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
+      <jump line="33" column="8" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
+      <jump line="53" column="8" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
+      <jump line="72" column="8" filename="$USER_HOME$/sandbox/james-twillio/app.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1667,7 +1668,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PT4=</text>
+        <text>rescue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHUgPSB1LmdzdWIoL1wvXD9bXlwvXSskLywgIi8iKSAjIOODjuOCpOOCuumZpOWOuwo=</text>
@@ -1704,9 +1705,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PT4=</last-search>
+      <last-search>rescue</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PT4=</last-pattern>
+      <last-pattern>rescue</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1714,8 +1715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>depo</entry>
-        <entry>:cust_session</entry>
         <entry>:no_cust</entry>
         <entry>:expired_at</entry>
         <entry>cookie</entry>
@@ -1734,6 +1733,8 @@
         <entry>addressa</entry>
         <entry>page_type</entry>
         <entry encoding="base64">PT4=</entry>
+        <entry>handle</entry>
+        <entry>rescue</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
