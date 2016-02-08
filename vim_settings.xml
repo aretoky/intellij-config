@@ -468,11 +468,11 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/media_sites_controller.rb" timestamp="1454673578207">
-        <mark key="[" line="74" column="44" />
-        <mark key="]" line="74" column="44" />
-        <mark key="." line="74" column="44" />
-        <mark key="^" line="74" column="5" />
+      <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/media_sites_controller.rb" timestamp="1454931778638">
+        <mark key="[" line="74" column="63" />
+        <mark key="]" line="74" column="85" />
+        <mark key="." line="74" column="85" />
+        <mark key="^" line="74" column="85" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/multiple_postals/_form.html.slim" timestamp="1453805524818">
         <mark key="[" line="7" column="45" />
@@ -564,7 +564,12 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1454677133566" />
+      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1454931674864">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="26" column="58" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cplus_addressable.rb" timestamp="1453959116059">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -686,6 +691,9 @@
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1454664217191">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1452759599366">
         <mark key="[" line="1" column="26" />
@@ -966,6 +974,12 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160208112356_create_custom_columns.rb" timestamp="1454931776663">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/upds/_form.html.slim" timestamp="1449157090452">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="49" />
@@ -1129,11 +1143,11 @@
         <mark key="^" line="30" column="14" />
         <mark key="." line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/routes.rb" timestamp="1453185176214">
+      <file name="$USER_HOME$/projects/media-crawler/config/routes.rb" timestamp="1454931526418">
         <mark key="[" line="4" column="26" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/sessions_controller.rb" timestamp="1453981366855">
         <mark key="[" line="21" column="0" />
@@ -1225,6 +1239,9 @@
         <mark key="]" line="42" column="72" />
         <mark key="." line="42" column="72" />
         <mark key="^" line="42" column="72" />
+      </file>
+      <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/custom_columns_controller.rb" timestamp="1454931600639">
+        <mark key="[" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/views/welcome/index.php" timestamp="1450430186769">
         <mark key="[" line="3" column="6" />
@@ -1493,11 +1510,11 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/_form.html.slim" timestamp="1454673587476">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/_form.html.slim" timestamp="1454931794563">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/locales/ja.yml" timestamp="1453122793722">
         <mark key="[" line="1" column="0" />
@@ -1638,40 +1655,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>skip_query_strings</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHUgPSB1LmdzdWIoL1wvXD9bXlwvXSskLywgIi8iKSAjIOODjuOCpOOCuumZpOWOuwo=</text>
+        <text encoding="base64">ICAgID0gZi5pbnB1dCA6c2tpcF9xdWVyeV9zdHJpbmdzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>skip_query_strings</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBkZWYgYnVsawo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text>content</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>l</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text>=</text>
       </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;client_session&quot;/:client_session/g</text>
