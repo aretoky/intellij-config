@@ -27,9 +27,6 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1454673560129">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/admin/sessions_helper.rb" timestamp="1453984483067">
         <mark key="[" line="17" column="87" />
         <mark key="]" line="17" column="91" />
@@ -1271,7 +1268,8 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/environments/production.rb" timestamp="1454565724765">
+      <file name="$USER_HOME$/projects/media-crawler/config/environments/production.rb" timestamp="1454920244253">
+        <mark key="'" line="54" column="11" />
         <mark key="[" line="74" column="78" />
         <mark key="]" line="74" column="47" />
         <mark key="^" line="74" column="47" />
@@ -1338,7 +1336,7 @@
         <mark key="." line="67" column="56" />
         <mark key="^" line="67" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/initializers/sidekiq.rb" timestamp="1454055024708">
+      <file name="$USER_HOME$/projects/media-crawler/config/initializers/sidekiq.rb" timestamp="1454920054401">
         <mark key="[" line="24" column="36" />
         <mark key="]" line="24" column="36" />
         <mark key="." line="24" column="36" />
@@ -1534,11 +1532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="12" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="273" column="17" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="274" column="13" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="275" column="19" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="276" column="13" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="278" column="20" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="13" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="136" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
@@ -1634,6 +1627,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="29" column="7" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="46" column="25" filename="$USER_HOME$/projects/media-crawler/config/environments/production.rb" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/media-crawler/config/environments/production.rb" />
+      <jump line="79" column="9" filename="$USER_HOME$/projects/media-crawler/config/environments/production.rb" />
+      <jump line="53" column="20" filename="$USER_HOME$/projects/media-crawler/config/environments/production.rb" />
+      <jump line="54" column="11" filename="$USER_HOME$/projects/media-crawler/config/environments/production.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1643,7 +1641,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>unicorn</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHUgPSB1LmdzdWIoL1wvXD9bXlwvXSskLywgIi8iKSAjIOODjuOCpOOCuumZpOWOuwo=</text>
@@ -1680,9 +1678,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unicorn</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>unicorn</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1690,7 +1688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>signed_in_duser</entry>
         <entry>admin</entry>
         <entry>deliverer_session</entry>
         <entry>cust</entry>
@@ -1710,6 +1707,7 @@
         <entry>\?</entry>
         <entry>?</entry>
         <entry>unicorn</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
