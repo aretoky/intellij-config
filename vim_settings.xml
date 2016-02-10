@@ -27,6 +27,7 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/user/reserve_count.php" timestamp="1455095528184" />
       <file name="$USER_HOME$/projects/cplus/app/helpers/admin/sessions_helper.rb" timestamp="1453984483067">
         <mark key="[" line="17" column="87" />
         <mark key="]" line="17" column="91" />
@@ -99,7 +100,7 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1455093713455">
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1455094808515">
         <mark key="'" line="149" column="31" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -116,6 +117,12 @@
         <mark key="]" line="1" column="31" />
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/user/user_plan_cancel.php" timestamp="1455096862825">
+        <mark key="[" line="17" column="75" />
+        <mark key="]" line="17" column="74" />
+        <mark key="^" line="17" column="74" />
+        <mark key="." line="17" column="74" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_mplan_fields.html.slim" timestamp="1449673271170">
         <mark key="[" line="61" column="0" />
@@ -629,9 +636,6 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="/Ruby Console" timestamp="1455011150691">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/support/ajax.rb" timestamp="1455013014033">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
@@ -644,6 +648,7 @@
         <mark key="^" line="2" column="252" />
         <mark key="." line="2" column="252" />
       </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/user/user_information.php" timestamp="1455095491188" />
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/admin_application_controller.rb" timestamp="1452159703168">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="7" />
@@ -1237,11 +1242,11 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/cron/payment.php" timestamp="1455094712179">
-        <mark key="[" line="77" column="124" />
-        <mark key="]" line="77" column="141" />
-        <mark key="^" line="77" column="141" />
-        <mark key="." line="77" column="141" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/cron/payment.php" timestamp="1455098772318">
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="72" />
+        <mark key="." line="79" column="72" />
+        <mark key="^" line="79" column="72" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/admin/postal_mailer.rb" timestamp="1448990411081">
         <mark key="[" line="26" column="0" />
@@ -1437,6 +1442,12 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/payment/payment_mail.php" timestamp="1455095171987">
+        <mark key="[" line="66" column="24" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.sample.inc.php" timestamp="1452259507429">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="26" column="4" />
@@ -1479,7 +1490,13 @@
         <mark key="^" line="3" column="64" />
         <mark key="." line="3" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/user/test.php" timestamp="1455086771024" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/user/test.php" timestamp="1455096941163">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="332" column="9" />
+        <mark key="]" line="332" column="12" />
+        <mark key="." line="332" column="12" />
+        <mark key="^" line="332" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/views/template.php" timestamp="1450431281232">
         <mark key="[" line="21" column="46" />
         <mark key="]" line="21" column="44" />
@@ -1569,8 +1586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="83" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="168" column="270" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="171" column="268" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="53" column="2" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
@@ -1669,55 +1684,57 @@
       <jump line="82" column="33" filename="$USER_HOME$/projects/api.yourjam.es/lib/webpay-php-full-2.2.2/webpay/webpay/src/WebPay/AbstractData.php" />
       <jump line="85" column="17" filename="$USER_HOME$/projects/api.yourjam.es/lib/webpay-php-full-2.2.2/webpay/webpay/src/WebPay/AbstractData.php" />
       <jump line="127" column="21" filename="$USER_HOME$/projects/api.yourjam.es/cron/payment.php" />
+      <jump line="579" column="6" filename="$USER_HOME$/projects/api.yourjam.es/user/test.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/api.yourjam.es/user/test.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>(int)$user_id</text>
       </register>
       <register name="/" type="4">
-        <text>$fields</text>
+        <text>user_info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5zZXJ0LT5iaW5kVmFsdWUoJzpmYWlsdXJlX21lc3NhZ2UnLCAgKHN0cmluZykkY2hhcmdlLT5mYWlsdXJlX21lc3NhZ2UsIFBETzo6UEFSQU1fU1RSKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdXBkYXRlLT5iaW5kVmFsdWUoJzp1c2VyX2lkJywgIChpbnQpJHVzZXJfaWQsIFBETzo6UEFSQU1fSU5UKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>`</text>
+        <text>(int)$user_id</text>
       </register>
       <register name="2" type="4">
-        <text>`</text>
+        <text>user_id</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>NOW()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>exit</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>insert</text>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text>$update        v</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>exit;</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>$fields</last-search>
+      <last-search>user_info</last-search>
       <last-offset />
-      <last-pattern>$fields</last-pattern>
+      <last-pattern>user_info</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1725,7 +1742,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asahi</entry>
         <entry>bundle</entry>
         <entry>bundle_binstubs</entry>
         <entry>crawl_status</entry>
@@ -1745,6 +1761,7 @@
         <entry>interim_yn_goods99302016</entry>
         <entry>txn_id</entry>
         <entry>$fields</entry>
+        <entry>user_info</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
