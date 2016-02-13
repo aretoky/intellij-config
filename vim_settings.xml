@@ -213,6 +213,9 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1455356971759">
+        <mark key="'" line="216" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/layouts/pdf.html.slim" timestamp="1453878141784">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="4" column="37" />
@@ -1487,6 +1490,9 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1455357405879">
+        <mark key="'" line="116" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_addr_fields.html.slim" timestamp="1453969334552">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="12" />
@@ -1499,11 +1505,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/depo.rb" timestamp="1453967793997">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="22" column="30" />
-        <mark key="^" line="22" column="30" />
-        <mark key="." line="22" column="30" />
+      <file name="$USER_HOME$/projects/cplus/app/models/depo.rb" timestamp="1455357005863">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
       <file name="$USER_HOME$/projects/raditools/wercker.yml" timestamp="1455355905849">
         <mark key="[" line="5" column="24" />
@@ -1625,13 +1631,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="221" column="19" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="204" column="0" filename="$USER_HOME$/projects/cplus/app/views/client/profile_sheets/show.pdf.slim" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" />
       <jump line="190" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="215" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="216" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="180" column="2" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="270" column="31" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit.php" />
       <jump line="316" column="23" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
@@ -1725,6 +1727,10 @@
       <jump line="39" column="32" filename="$USER_HOME$/projects/raditools/class/force_liker.rb" />
       <jump line="52" column="3" filename="$USER_HOME$/projects/raditools/class/zozo_to_feed.rb" />
       <jump line="66" column="2" filename="$USER_HOME$/projects/raditools/app.rb" />
+      <jump line="88" column="11" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="215" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="216" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="116" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1734,7 +1740,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>paper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvYy5jc3MoJy8vbWV0YVtwcm9wZXJ0eT0ib2c6aW1hZ2UiXS9AY29udGVudCcpCg==</text>
@@ -1771,9 +1777,9 @@
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search>paper</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern>paper</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1781,8 +1787,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crawl_status</entry>
-        <entry>sidekiq</entry>
         <entry>bugsnag</entry>
         <entry>newrelic</entry>
         <entry>addressa</entry>
@@ -1801,6 +1805,8 @@
         <entry>user_info</entry>
         <entry>cancel</entry>
         <entry>href</entry>
+        <entry>depos</entry>
+        <entry>paper</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
