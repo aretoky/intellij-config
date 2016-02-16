@@ -95,8 +95,8 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1455605819560">
-        <mark key="'" line="60" column="24" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1455609069506">
+        <mark key="'" line="263" column="147" />
       </file>
       <file name="$USER_HOME$/project/air-reader/db/migrate/20151230173439_create_users.rb" timestamp="1451497258409">
         <mark key="[" line="7" column="20" />
@@ -580,11 +580,6 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/html_sources_controller.rb" timestamp="1454989177119">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" timestamp="1451259807090">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="40" />
@@ -620,11 +615,6 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/raditools/class/force_liker.rb" timestamp="1455292399525">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/active_record_extension.rb" timestamp="1449468123970">
         <mark key="[" line="22" column="7" />
@@ -1165,10 +1155,10 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1455605138319">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1455609129807">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/raditools/Gemfile" timestamp="1455282212938">
         <mark key="[" line="11" column="0" />
@@ -1265,6 +1255,9 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/db/structure.sql" timestamp="1455608004597">
+        <mark key="'" line="1794" column="41" />
       </file>
       <file name="$USER_HOME$/project/air-reader/db/migrate/20151230173806_create_advices.rb" timestamp="1451497344977">
         <mark key="[" line="14" column="36" />
@@ -1387,7 +1380,7 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/duser.rb" timestamp="1452159435900">
+      <file name="$USER_HOME$/projects/cplus/app/models/duser.rb" timestamp="1455608069591">
         <mark key="[" line="51" column="10" />
         <mark key="]" line="51" column="14" />
         <mark key="^" line="51" column="14" />
@@ -1416,6 +1409,12 @@
         <mark key="]" line="24" column="15" />
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/event_log.rb" timestamp="1455608106991">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="34" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings.yml" timestamp="1449562274180">
         <mark key="[" line="7" column="33" />
@@ -1604,6 +1603,12 @@
         <mark key="^" line="6" column="85" />
         <mark key="." line="6" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/elog/event_log.rb" timestamp="1455608783484">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/profile_sheet_creating_service.rb" timestamp="1449723142306">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="19" />
@@ -1646,11 +1651,18 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1455608765941" />
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/Procfile" timestamp="1452677526401">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/elog.rb" timestamp="1455608075143">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/bills/_form.html.slim" timestamp="1452613298784">
         <mark key="[" line="10" column="182" />
@@ -1660,25 +1672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
-      <jump line="3" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
-      <jump line="4" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
-      <jump line="66" column="0" filename="$USER_HOME$/projects/media-crawler/db/seeds.rb" />
-      <jump line="8" column="5" filename="$USER_HOME$/projects/media-crawler/config/deploy.rb" />
-      <jump line="9" column="5" filename="$USER_HOME$/projects/media-crawler/config/deploy.rb" />
-      <jump line="18" column="5" filename="$USER_HOME$/projects/media-crawler/config/deploy.rb" />
-      <jump line="19" column="56" filename="$USER_HOME$/projects/media-crawler/config/deploy.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/media-crawler/config/deploy.rb" />
-      <jump line="4" column="4" filename="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" />
-      <jump line="46" column="58" filename="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" />
-      <jump line="47" column="35" filename="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" />
-      <jump line="48" column="31" filename="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" />
-      <jump line="45" column="6" filename="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" />
-      <jump line="13" column="22" filename="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" />
-      <jump line="56" column="6" filename="$USER_HOME$/projects/media-crawler/app/jobs/download_job.rb" />
-      <jump line="70" column="7" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
-      <jump line="45" column="18" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
-      <jump line="69" column="5" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="75" column="5" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="76" column="5" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="77" column="5" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
@@ -1760,55 +1753,74 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" />
       <jump line="11" column="28" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="60" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="11" column="1" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="19" column="9" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="22" column="14" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1445" column="18" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1448" column="41" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1470" column="48" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1482" column="43" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1496" column="50" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1508" column="40" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1530" column="40" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1706" column="46" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1717" column="44" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1730" column="42" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1755" column="39" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1769" column="43" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1782" column="41" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="1794" column="41" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
+      <jump line="16" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="263" column="147" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>also_reload</text>
+        <text>book</text>
       </register>
       <register name="/" type="4">
-        <text>no_bill</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvYy5jc3MoJy8vbWV0YVtwcm9wZXJ0eT0ib2c6aW1hZ2UiXS9AY29udGVudCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc3RhbHMgPSBQb3N0YWwuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCAkY2RfcGEgPSAyMDsgPz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPD8gfSA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudF9sb2cK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>book</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>book</text>
       </register>
       <register name="7" type="4">
-        <text>also_reload</text>
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">YWxzb19yZWxvYWQg</text>
+        <text>duser</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvc3RhbHMgPSBQb3N0YWwuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>no_bill</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>no_bill</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1816,9 +1828,6 @@
     </search>
     <history>
       <history-search>
-        <entry>?</entry>
-        <entry>unicorn</entry>
-        <entry>logger</entry>
         <entry>interim_yn_goods99302016</entry>
         <entry>txn_id</entry>
         <entry>$fields</entry>
@@ -1836,6 +1845,9 @@
         <entry>depo</entry>
         <entry>354</entry>
         <entry>no_bill</entry>
+        <entry>elog</entry>
+        <entry>$_prog</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
