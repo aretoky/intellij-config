@@ -95,6 +95,9 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1455605819560">
+        <mark key="'" line="60" column="24" />
+      </file>
       <file name="$USER_HOME$/project/air-reader/db/migrate/20151230173439_create_users.rb" timestamp="1451497258409">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="32" />
@@ -1657,8 +1660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="29" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
-      <jump line="1" column="36" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
       <jump line="2" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
       <jump line="3" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
       <jump line="4" column="13" filename="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" />
@@ -1757,6 +1758,8 @@
       <jump line="96" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="362" column="18" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" />
+      <jump line="11" column="28" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="60" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1766,7 +1769,7 @@
         <text>also_reload</text>
       </register>
       <register name="/" type="4">
-        <text>354</text>
+        <text>no_bill</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvYy5jc3MoJy8vbWV0YVtwcm9wZXJ0eT0ib2c6aW1hZ2UiXS9AY29udGVudCcpCg==</text>
@@ -1803,9 +1806,9 @@
       </register>
     </registers>
     <search>
-      <last-search>354</last-search>
+      <last-search>no_bill</last-search>
       <last-offset />
-      <last-pattern>354</last-pattern>
+      <last-pattern>no_bill</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1813,7 +1816,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\?</entry>
         <entry>?</entry>
         <entry>unicorn</entry>
         <entry>logger</entry>
@@ -1833,6 +1835,7 @@
         <entry>tel_</entry>
         <entry>depo</entry>
         <entry>354</entry>
+        <entry>no_bill</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
