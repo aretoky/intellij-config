@@ -70,6 +70,11 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.credit_card.php" timestamp="1455690590131">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1448962344988">
         <mark key="[" line="102" column="50" />
         <mark key="]" line="104" column="39" />
@@ -117,6 +122,12 @@
         <mark key="]" line="199" column="17" />
         <mark key="^" line="199" column="17" />
         <mark key="." line="199" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1455689700108">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="142" column="9" />
+        <mark key="." line="142" column="9" />
+        <mark key="^" line="142" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1452610626277">
         <mark key="[" line="16" column="21" />
@@ -649,6 +660,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/payment/card_account_add.php" timestamp="1455689409111">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/air-reading/app/views/advices/new.html.slim" timestamp="1451489983114">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="24" />
@@ -763,10 +780,7 @@
         <mark key="." line="34" column="40" />
         <mark key="^" line="34" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1455619983556">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/payment/first_charge_add.php" timestamp="1455103002083">
+      <file name="$USER_HOME$/projects/api.yourjam.es/payment/first_charge_add.php" timestamp="1455689897133">
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="18" />
         <mark key="." line="37" column="18" />
@@ -1040,6 +1054,7 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/webpay-php-full-2.2.2/webpay/webpay/src/WebPay/AbstractData.php" timestamp="1455690491084" />
       <file name="$USER_HOME$/sandbox/james-twillio/Gemfile" timestamp="1454660342295">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="8" column="11" />
@@ -1185,9 +1200,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="^" line="61" column="42" />
         <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/controller/static_pages.php" timestamp="1455629090572">
-        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/rails_footnotes.rb" timestamp="1452781153936">
         <mark key="[" line="2" column="14" />
@@ -1867,7 +1879,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>permission</text>
@@ -1876,28 +1888,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRvLT5zdGFydGVkX2F0ID0gJzAwMDAtMDAtMDAgMDA6MDA6MDAnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>$</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHBkbzsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IGFycmF5KCk7Cg==</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGxvYWQoKXsK</text>
+      <register name="6" type="4">
+        <text>d</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>p</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>$</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
