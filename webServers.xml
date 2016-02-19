@@ -37,7 +37,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="7a849fb8-ab42-4f0e-94ab-63cc3d5024e3" name="kotera-test-yourjam.es" url="http://kotera-test-yourjam.es">
-        <fileTransfer host="133.242.225.152" port="10022" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/virtual/kotera/public_html/" accessType="SFTP" username="kotera" keyPair="true">
+        <fileTransfer host="153.120.63.192" port="10022" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/virtual/kotera/public_html/" accessType="SFTP" username="kotera" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
