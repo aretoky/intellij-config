@@ -70,12 +70,12 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.credit_card.php" timestamp="1455696885174">
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.credit_card.php" timestamp="1455883956093">
         <mark key="'" line="55" column="35" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="22" column="19" />
+        <mark key="[" line="138" column="85" />
+        <mark key="]" line="138" column="84" />
+        <mark key="." line="138" column="84" />
+        <mark key="^" line="138" column="84" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" timestamp="1455535947195">
         <mark key="'" line="0" column="0" />
@@ -136,11 +136,11 @@
         <mark key="^" line="199" column="17" />
         <mark key="." line="199" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1455882047681">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="88" column="63" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1455883393177">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="4" column="48" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1452610626277">
         <mark key="[" line="16" column="21" />
@@ -765,6 +765,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="127" />
+      </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" timestamp="1455883379500">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.csv.ruby" timestamp="1449488640789">
         <mark key="[" line="10" column="31" />
@@ -1932,40 +1938,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>last4</text>
       </register>
       <register name="/" type="4">
         <text>meta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIOeVquWPtzogeHh4eC14eHh4LXh4eHgtPD89JF9TRVNTSU9OWyJsYXN0NCJdOyA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAkdXBkYXRlLT5iaW5kVmFsdWUoJzpjYXJkX2xhc3Q0JywgIChpbnQpJGN1c3RvbWVyLT5hY3RpdmVfY2FyZC0+bGFzdDQsIFBETzo6UEFSQU1fU1RSKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
+      <register name="1" type="4">
+        <text>last4</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQ7ZAo=</text>
+      <register name="2" type="4">
+        <text>card_last4</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>last4</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>last4</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>last4</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">JHNxbCA9ICJVUERBVEUgYHVzZXJfdGJsYCBTRVQgYHBheXBhbF9zdGFydF9kYXRlYCA9IE5PVygpLCBgcGF5cGFsX2xhc3RfdXBkYXRlX2RhdGVgID0gTk9XKCksIGBwYXlwYWxfcGF5bWVudF9jb3VudGAgPSAxLCBgcGF5cGFsX2ZhaWxfcGF5bWVudF9kYXRlYCA9ICcwMDAwLTAwLTAwIDAwOjAwOjAwJyBXSEVSRSBgdXNlcl9pZGAgPSA6dXNlcl9pZDsiOwogICAgICAgICR1cGRhdGUgPSAkcGRvLT5wcmVwYXJlKCRzcWwpOwogICAgICAgICR1cGRhdGUtPmJpbmRWYWx1ZSgnOnVzZXJfaWQnLCAgKGludCkkdXNlcl9pZCwgUERPOjpQQVJBTV9JTlQpOwogICAgICAgICRycyA9ICR1cGRhdGUtPmV4ZWN1dGUoKTs=</text>
+        <text>last4</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>R</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAkZCA9IHN0cnRvdGltZSgkdXNlclsicGF5cGFsX2xhc3RfdXBkYXRlX2RhdGUiXSk7CiAgICAgICAgJGxhc3RfdXBkYXRlX2RhdGUgPSBkYXRlKCJZLW0tZCBIOmk6cyIsIG1rdGltZSgoaW50KWRhdGUoIkgiLCAkZCksIChpbnQpZGF0ZSgiaSIsICRkKSwgKGludClkYXRlKCJzIiwgJGQpLCAoaW50KWRhdGUoIm0iLCAkZCkgKyAxLCAoaW50KWRhdGUoImQiLCAkZCksIGRhdGUoIlkiLCAkZCkpKTsKICAgICAgICAkc3FsID0gIlVQREFURSBgdXNlcl90YmxgIFNFVCBgcGF5cGFsX2xhc3RfdXBkYXRlX2RhdGVgID0gOnBheXBhbF9sYXN0X3VwZGF0ZV9kYXRlLCBgcGF5cGFsX2ZhaWxfcGF5bWVudF9kYXRlYCA9ICcwMDAwLTAwLTAwIDAwOjAwOjAwJywgYHBheXBhbF9wYXltZW50X2NvdW50YCA9IGBwYXlwYWxfcGF5bWVudF9jb3VudGAgKyAxIFdIRVJFIGB1c2VyX2lkYCA9IDp1c2VyX2lkIjsKICAgICAgICAkdXBkYXRlID0gJHBkby0+cHJlcGFyZSgkc3FsKTsKICAgICAgICAkdXBkYXRlLT5iaW5kVmFsdWUoJzp1c2VyX2lkJywgIChpbnQpJHVzZXJfaWQsIFBETzo6UEFSQU1fSU5UKTsKICAgICAgICAkdXBkYXRlLT5iaW5kVmFsdWUoJzpwYXlwYWxfbGFzdF91cGRhdGVfZGF0ZScsICAkbGFzdF91cGRhdGVfZGF0ZSwgUERPOjpQQVJBTV9TVFIpOwogICAgICAgICR1cGRhdGUtPmV4ZWN1dGUoKTs=</text>
+        <text>T</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>S</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
