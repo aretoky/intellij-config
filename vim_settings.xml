@@ -70,12 +70,11 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.credit_card.php" timestamp="1455890489319">
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.credit_card.php" timestamp="1456117060694">
         <mark key="'" line="143" column="80" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="139" column="324" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" timestamp="1455535947195">
         <mark key="'" line="0" column="0" />
@@ -757,11 +756,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="127" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" timestamp="1455884802844">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" timestamp="1456117501574">
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="37" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.csv.ruby" timestamp="1449488640789">
         <mark key="[" line="10" column="31" />
@@ -905,11 +904,11 @@
         <mark key="^" line="50" column="21" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/payment/test.php" timestamp="1455695351366">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/payment/test.php" timestamp="1456115445353">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
         <mark key="^" line="33" column="43" />
-        <mark key="." line="34" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/client/client_application_mailer.rb" timestamp="1448987349242">
         <mark key="[" line="0" column="13" />
@@ -1935,40 +1934,42 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>お支払い方法をご選択の上</text>
+        <text>処理中にエラーが発生しました</text>
       </register>
       <register name="/" type="4">
         <text>決済</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdXBkYXRlLT5iaW5kVmFsdWUoJzpjYXJkX2xhc3Q0JywgIChpbnQpJGN1c3RvbWVyLT5hY3RpdmVfY2FyZC0+bGFzdDQsIFBETzo6UEFSQU1fU1RSKTsK</text>
+      <register name="0" type="4">
+        <text>case 'card_declined':
+                    $message = &quot;カードが決済に失敗しました&quot;;
+                    break;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDjg6rjgq/jgqjjgrnjg4jlr77osaHjga7jgqrjg5bjgrjjgqfjgq/jg4jjgYzlrZjlnKjjgZfjgarjgYQK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlrp/oo4Xjg5/jgrnjgavotbflm6DjgZnjgosK</text>
+      </register>
+      <register name="3" type="4">
+        <text>処理中にエラーが発生しました</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZXJyb3IpO2V4aXQ7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>お支払い方法をご選択の上</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb24o5b+F6aCIKTo8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iZGVzY3JpcHRpb24iIHZhbHVlID0iIj4K</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8cD4K</text>
       </register>
-      <register name="7" type="4">
-        <text>b</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PA==</text>
-      </register>
-      <register name="9" type="4">
-        <text>面倒な手続きも不要なオススメの決済方法です</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
