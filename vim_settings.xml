@@ -1225,6 +1225,9 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1456131867767">
+        <mark key="[" line="140" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/.env.sample" timestamp="1453552991508">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="32" />
@@ -1279,11 +1282,10 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1455614303848">
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1456131796914">
         <mark key="[" line="19" column="17" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="14" column="10" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/raditools/Gemfile" timestamp="1455282212938">
         <mark key="[" line="11" column="0" />
@@ -1814,6 +1816,7 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" timestamp="1456131906803" />
       <file name="$USER_HOME$/projects/cplus/lib/cplus/helper_utils.rb" timestamp="1451021600881">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="17" />
@@ -1958,28 +1961,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJleHBfeWVhciIgIHZhbHVlPSI8Pz0gJF9QT1NUWyJleHBfeWVhciJdOz8+IiAvPuW5tAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImV4cF9tb250aCIgIHZhbHVlPSI8Pz0gJF9QT1NUWyJleHBfbW9udGgiXTs/PiIvPuaciA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PG9wdGlvbiB2YWx1ZT0iMSI+MeaciDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIyIj4y5pyIPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjMiPjPmnIg8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNCI+NOaciDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI1Ij415pyIPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjYiPjbmnIg8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNyI+N+aciDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI4Ij445pyIPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjkiPjnmnIg8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMTAiPjEw5pyIPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjExIj4xMeaciDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxMiI+MTLmnIg8L29wdGlvbj4=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iOCI+MeaciDwvb3B0aW9uPgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJleHBfeWVhciIgIHZhbHVlPSI8Pz0gJF9QT1NUWyJleHBfeWVhciJdOz8+IiAvPuW5tAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImV4cF9tb250aCIgIHZhbHVlPSI8Pz0gJF9QT1NUWyJleHBfbW9udGgiXTs/PiIvPuaciA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PG9wdGlvbiB2YWx1ZT0iMSI+MeaciDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIyIj4y5pyIPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjMiPjPmnIg8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNCI+NOaciDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI1Ij415pyIPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjYiPjbmnIg8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNyI+N+aciDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI4Ij445pyIPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjkiPjnmnIg8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMTAiPjEw5pyIPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjExIj4xMeaciDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxMiI+MTLmnIg8L29wdGlvbj4=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>class.smtp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iOCI+MeaciDwvb3B0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
