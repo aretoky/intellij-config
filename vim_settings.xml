@@ -261,12 +261,12 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1456137508150">
-        <mark key="'" line="237" column="12" />
-        <mark key="[" line="332" column="33" />
-        <mark key="]" line="331" column="6" />
-        <mark key="^" line="332" column="23" />
-        <mark key="." line="331" column="6" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1456139122711">
+        <mark key="'" line="206" column="39" />
+        <mark key="[" line="207" column="39" />
+        <mark key="]" line="207" column="50" />
+        <mark key="^" line="207" column="50" />
+        <mark key="." line="207" column="50" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/layouts/pdf.html.slim" timestamp="1453878141784">
         <mark key="[" line="4" column="42" />
@@ -633,6 +633,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/email.rb" timestamp="1456138694296">
+        <mark key="[" line="56" column="3" />
+        <mark key="]" line="58" column="19" />
+        <mark key="^" line="58" column="19" />
+        <mark key="." line="58" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/html_sources_controller.rb" timestamp="1454989177119">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -702,6 +708,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="19" column="20" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/postal_email.rb" timestamp="1456138462342">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/postals.coffee" timestamp="1453808408516">
         <mark key="[" line="68" column="49" />
@@ -1003,6 +1015,7 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/fax_email.rb" timestamp="1456138441606" />
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_address_mplan_fields.html.slim" timestamp="1452761471774">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="43" />
@@ -1278,11 +1291,11 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1456137518059">
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1456137576268">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="22" column="58" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/raditools/Gemfile" timestamp="1455282212938">
         <mark key="[" line="11" column="0" />
@@ -1416,11 +1429,11 @@
         <mark key="." line="71" column="11" />
         <mark key="^" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/postal_mailer.rb" timestamp="1456135491069">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="18" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/postal_mailer.rb" timestamp="1456139202852">
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/postal_saving_service.rb" timestamp="1449472148468">
         <mark key="[" line="14" column="0" />
@@ -1464,6 +1477,7 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust_email.rb" timestamp="1456138145409" />
       <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115100424_create_media_sites.rb" timestamp="1453471098963">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="22" />
@@ -1795,7 +1809,7 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" timestamp="1456135289229">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" timestamp="1456139301772">
         <mark key="'" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/cplus/helper_utils.rb" timestamp="1451021600881">
@@ -1825,23 +1839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="33" filename="$USER_HOME$/projects/api.yourjam.es/lib/webpay-php-full-2.2.2/webpay/webpay/src/WebPay/AbstractData.php" />
-      <jump line="85" column="17" filename="$USER_HOME$/projects/api.yourjam.es/lib/webpay-php-full-2.2.2/webpay/webpay/src/WebPay/AbstractData.php" />
-      <jump line="127" column="21" filename="$USER_HOME$/projects/api.yourjam.es/cron/payment.php" />
-      <jump line="579" column="6" filename="$USER_HOME$/projects/api.yourjam.es/user/test.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/api.yourjam.es/user/test.php" />
-      <jump line="364" column="15" filename="$USER_HOME$/projects/api.yourjam.es/user/test.php" />
-      <jump line="58" column="17" filename="$USER_HOME$/projects/raditools/app.rb" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/raditools/class/force_liker.rb" />
-      <jump line="29" column="32" filename="$USER_HOME$/projects/raditools/class/force_liker.rb" />
-      <jump line="39" column="32" filename="$USER_HOME$/projects/raditools/class/force_liker.rb" />
-      <jump line="52" column="3" filename="$USER_HOME$/projects/raditools/class/zozo_to_feed.rb" />
-      <jump line="66" column="2" filename="$USER_HOME$/projects/raditools/app.rb" />
-      <jump line="88" column="11" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="215" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="216" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="116" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="175" column="12" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="8" column="4" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="31" column="19" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
@@ -1916,7 +1913,6 @@
       <jump line="8" column="11" filename="$USER_HOME$/projects/api.yourjam.es/user/login.php" />
       <jump line="10" column="4" filename="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" />
       <jump line="325" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="16" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="35" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="300" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -1925,55 +1921,73 @@
       <jump line="7" column="14" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="397" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="237" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="238" column="31" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="12" column="16" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="24" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="175" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="178" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="179" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="181" column="38" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="182" column="24" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="185" column="45" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="187" column="63" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="189" column="32" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="195" column="16" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="197" column="37" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="198" column="23" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="201" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="203" column="63" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="206" column="39" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>postal</text>
       </register>
       <register name="/" type="4">
-        <text>postals</text>
+        <text>email</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iOCI+MeaciDwvb3B0aW9uPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZXMoOnBvc3RhbHMpLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>unsent_emails_</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBvc3RhbF90ZXh0ID0gIiIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1c3RfZW5hYmxlLgo=</text>
+      <register name="4" type="4">
+        <text>postal</text>
       </register>
-      <register name="5" type="4">
-        <text>r</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZnJvbTogIiN7Y3VycmVudF9wZXJzb24ucHJvZmlsZV90eXBlX25hbWV9KOmDteS+v+eJqSkiLAo=</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>postals</last-search>
+      <last-search>email</last-search>
       <last-offset />
-      <last-pattern>postals</last-pattern>
+      <last-pattern>email</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1981,7 +1995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_bill</entry>
         <entry>elog</entry>
         <entry>$_prog</entry>
         <entry>update</entry>
@@ -2001,6 +2014,7 @@
         <entry>yn_use</entry>
         <entry>list_postal</entry>
         <entry>postals</entry>
+        <entry>email</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
