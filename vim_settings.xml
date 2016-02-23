@@ -778,7 +778,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="127" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1456246973308" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1456247378507" />
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" timestamp="1456233439431">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="25" />
@@ -1422,6 +1422,12 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1456247881650">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/services/media_site_saving_service.rb" timestamp="1453545729476">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1693,12 +1699,6 @@
         <mark key="^" line="14" column="61" />
         <mark key="." line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_month.rake" timestamp="1456246984291">
-        <mark key="[" line="25" column="58" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1456143037993">
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="39" />
@@ -1912,7 +1912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="4" filename="$USER_HOME$/projects/image_split_api/public/phpmyadmin/index.php" />
       <jump line="75" column="23" filename="$USER_HOME$/projects/image_split_api/public/phpmyadmin/error_report.php" />
       <jump line="4" column="6" filename="$USER_HOME$/projects/api.yourjam.es/lib/webpay-php-full-2.2.2/webpay/webpay/src/WebPay/AbstractData.php" />
       <jump line="142" column="9" filename="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" />
@@ -2012,55 +2011,56 @@
       <jump line="20" column="3" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="35" column="28" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="36" column="29" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
+      <jump line="34" column="17" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
-        <text>no_plan</text>
+        <text>bitem_min_dt_end</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYml0ZW1fbWluX2R0X3N0YXJ0ID0gcGxhbi5iaXRlbV9taW5fZHRfc3RhcnQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>class</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgYml0ZW1fbWluX2R0X2VuZCA9IHBsYW4uYml0ZW1fbWluX2R0X2VuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5vX3BsYW46Cg==</text>
+        <text encoding="base64">ICAgICAgYml0ZW1fbWluX2R0X3N0YXJ0ID0gcGxhbi5iaXRlbV9taW5fZHRfc3RhcnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5vX2N1c3Q6IHBsYW4ubm9fY3VzdCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbG9nOjpCYXRjaGJpbGxlcnJvcjAxLm5ldygK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>create</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0cnVuIGZhbHNlICBpZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>start</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>t</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>no_plan</last-search>
+      <last-search>bitem_min_dt_end</last-search>
       <last-offset />
-      <last-pattern>no_plan</last-pattern>
+      <last-pattern>bitem_min_dt_end</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2068,7 +2068,6 @@
     </search>
     <history>
       <history-search>
-        <entry>meta</entry>
         <entry>exp_momnth</entry>
         <entry>m</entry>
         <entry>month</entry>
@@ -2088,6 +2087,7 @@
         <entry>bitem</entry>
         <entry>bitems</entry>
         <entry>no_plan</entry>
+        <entry>bitem_min_dt_end</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
