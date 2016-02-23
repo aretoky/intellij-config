@@ -727,6 +727,12 @@
         <mark key="^" line="2" column="252" />
         <mark key="." line="2" column="252" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/postal_destroy.rake" timestamp="1456225197642">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/admin_application_controller.rb" timestamp="1452159703168">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="7" />
@@ -755,7 +761,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="127" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1456223642723" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1456224004662" />
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" timestamp="1456125123130">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="25" />
@@ -872,11 +878,6 @@
         <mark key="]" line="1" column="10" />
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/application_mailer.rb" timestamp="1456210784778">
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1452760392806">
         <mark key="[" line="137" column="5" />
@@ -1107,6 +1108,7 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_postal_destroy.php" timestamp="1456225120368" />
       <file name="$USER_HOME$/projects/cplus/app/models/person.rb" timestamp="1448957717553">
         <mark key="[" line="63" column="7" />
         <mark key="]" line="63" column="12" />
@@ -1221,11 +1223,10 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1456136027252">
-        <mark key="[" line="141" column="4" />
-        <mark key="]" line="141" column="51" />
-        <mark key="." line="141" column="51" />
-        <mark key="^" line="141" column="51" />
+      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1456224981492">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/.env.sample" timestamp="1453552991508">
         <mark key="[" line="6" column="9" />
@@ -1383,8 +1384,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1456223327937">
-        <mark key="[" line="0" column="42" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1456223999204">
+        <mark key="[" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/layouts/application.html.erb" timestamp="1454934874927">
         <mark key="[" line="8" column="13" />
@@ -1777,7 +1778,7 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1456223608804" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1456225271264" />
       <file name="$USER_HOME$/projects/cplus/app/services/profile_sheet_creating_service.rb" timestamp="1449723142306">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="19" />
@@ -1966,32 +1967,32 @@
       Smail.new(no_smailsend: no_smail, sq_seq: i + 1, cd_ml: 1, email: email)
     end</text>
       </register>
-      <register name="1" type="4">
-        <text>チ</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBzY29wZSA6Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>ッ</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzY29wZSA6Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>バ</text>
+        <text>チ</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>ッ</text>
       </register>
       <register name="5" type="4">
-        <text>会議室予約前日案内メール</text>
+        <text>バ</text>
       </register>
-      <register name="6" type="4">
-        <text>new</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
+        <text>会議室予約前日案内メール</text>
+      </register>
+      <register name="8" type="4">
+        <text>new</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">c21haWwgPSA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNtYWlsLnNhdmUhCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
