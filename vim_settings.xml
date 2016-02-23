@@ -3,9 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1456137072306">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/cplus/vendor/bundle/gems/actionmailer-4.2.5/lib/action_mailer/base.rb" timestamp="1456209343265" />
       <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1456139122711">
         <mark key="'" line="206" column="39" />
         <mark key="[" line="207" column="39" />
@@ -55,6 +53,16 @@
         <mark key="." line="76" column="72" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/smailbody.rb" timestamp="1456140449476" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/application_mailer.rb" timestamp="1456210784778">
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/environments/production.rb" timestamp="1456208661389">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/fax_email.rb" timestamp="1456138441606" />
       <file name="$USER_HOME$/projects/api.yourjam.es/payment/card_confirm.php" timestamp="1456119538561">
         <mark key="[" line="32" column="0" />
@@ -79,11 +87,16 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/smail.rb" timestamp="1456153507029">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1456212365180">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/smail.rb" timestamp="1456214156356">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/mail_template_service.rb" timestamp="1456152670170" />
       <file name="$USER_HOME$/projects/cplus/app/models/cust_email.rb" timestamp="1456138145409" />
@@ -93,7 +106,7 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" timestamp="1456140178892">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" timestamp="1456213790423">
         <mark key="'" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1456132809337" />
@@ -205,7 +218,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDwgQWN0aXZlUmVjb3JkOjpCYXNl</text>
+        <text>mailer</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
@@ -214,31 +227,31 @@
         <text encoding="base64">ICAgICAgb3V0cHV0ICs9ICJcclxu44CQQ1BMVVMg4oaSIOmhp+WuouOAkSN7cC5jbW50fSIgaWYgcC5jbW50LnByZXNlbnQ/Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IDwgQWN0aXZlUmVjb3JkOjpCYXNl</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkX3NtYWlsYm9keSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZWxmLnRhYmxlX25hbWUgPSAic21haWxib2R5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBzbWFpbF9pZCA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNtYWlsX2lkID0gbWVzc2FnZVs6c21haWxfaWRdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBtYWlsZXIgPSBtYWlsZXIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc3RhbF90ZXh0ID0gIiIK</text>
+      <register name="9" type="4">
+        <text>mailer</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
