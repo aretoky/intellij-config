@@ -61,6 +61,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/smailbody.rb" timestamp="1456140449476" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_postal.rake" timestamp="1456221251785">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1456219146012">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,7 +92,7 @@
         <mark key="." line="141" column="51" />
         <mark key="^" line="141" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1456218716958">
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail.rake" timestamp="1456220809588">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -117,6 +123,9 @@
         <mark key="." line="5" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust_email.rb" timestamp="1456138145409" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_month.rake" timestamp="1456221301514">
+        <mark key="[" line="0" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1456143037993">
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="39" />
@@ -235,7 +244,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>会議室予約前日案内メール</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
@@ -245,29 +254,29 @@
       Smail.new(no_smailsend: no_smail, sq_seq: i + 1, cd_ml: 1, email: email)
     end</text>
       </register>
-      <register name="1" type="4">
-        <text>new</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="4">
+        <text>会議室予約前日案内メール</text>
+      </register>
+      <register name="3" type="4">
+        <text>new</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">c21haWwgPSA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHNtYWlsLnNhdmUhCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub19zbWFpbCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.unsent_emails_postals</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBub19zbWFpbCA9IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
