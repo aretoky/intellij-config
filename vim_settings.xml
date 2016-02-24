@@ -134,10 +134,12 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1456297134134">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1456298459691">
+        <mark key="'" line="108" column="67" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+        <mark key="^" line="27" column="49" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/jobs/url_list_setter_job.rb" timestamp="1453279371407">
         <mark key="[" line="0" column="19" />
@@ -784,11 +786,11 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1456252040002">
         <mark key="'" line="57" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" timestamp="1456295132314">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="31" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" timestamp="1456298392682">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_postal.rake" timestamp="1456223423171">
         <mark key="[" line="1" column="26" />
@@ -838,11 +840,11 @@
         <mark key="." line="34" column="40" />
         <mark key="^" line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/payment/charge_add.php" timestamp="1456297089333">
-        <mark key="[" line="23" column="65" />
-        <mark key="]" line="23" column="71" />
-        <mark key="." line="23" column="71" />
-        <mark key="^" line="23" column="71" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/payment/charge_add.php" timestamp="1456298479919">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+        <mark key="^" line="20" column="61" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/elog/batchbill.rb" timestamp="1456250436924">
         <mark key="[" line="47" column="0" />
@@ -948,11 +950,11 @@
         <mark key="^" line="50" column="21" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/payment/test.php" timestamp="1456295648982">
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="78" column="63" />
-        <mark key="^" line="78" column="63" />
-        <mark key="." line="78" column="63" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/payment/test.php" timestamp="1456298149783">
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="67" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/client/client_application_mailer.rb" timestamp="1448987349242">
         <mark key="[" line="0" column="13" />
@@ -1916,7 +1918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="43" filename="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" />
       <jump line="24" column="40" filename="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" />
       <jump line="25" column="28" filename="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" />
       <jump line="32" column="35" filename="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" />
@@ -2016,55 +2017,56 @@
       <jump line="140" column="18" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="49" column="8" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
+      <jump line="103" column="67" filename="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>paypal_fail_payment_date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYml0ZW1fbWluX2R0X3N0YXJ0ID0gcGxhbi5iaXRlbV9taW5fZHRfc3RhcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgdmFyX2R1bXAoQ3JlZGl0Q2FyZDo6Y29va19lcnJvcl9tZXNzYWdlKCRyZXN1bHQpKTtleGl0Owo=</text>
+      <register name="2" type="4">
+        <text>d</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRyZXN1bHQpO2V4aXQ7Cg==</text>
+      <register name="4" type="4">
+        <text>u</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRyZXN1bHQpO2V4aXQ7Cg==</text>
+      <register name="5" type="4">
+        <text>u</text>
       </register>
       <register name="6" type="4">
-        <text>user_id</text>
+        <text>_</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkb3B0cyk7ZXhpdDsK</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVxKTtleGl0Owo=</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>paypal_fail_payment_date</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>paypal_fail_payment_date</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2072,7 +2074,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scope</entry>
         <entry>yn_use</entry>
         <entry>list_postal</entry>
         <entry>postals</entry>
@@ -2092,6 +2093,7 @@
         <entry>days</entry>
         <entry>no_batch</entry>
         <entry>init</entry>
+        <entry>paypal_fail_payment_date</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
