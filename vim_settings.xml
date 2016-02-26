@@ -73,6 +73,11 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.credit_card.php" timestamp="1456296322370">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.james_mailer.php" timestamp="1456446694023">
         <mark key="[" line="28" column="20" />
         <mark key="]" line="28" column="25" />
@@ -133,11 +138,12 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1456447573932">
-        <mark key="'" line="142" column="67" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment.php" timestamp="1456449387474">
+        <mark key="'" line="149" column="67" />
+        <mark key="[" line="90" column="54" />
+        <mark key="]" line="92" column="113" />
+        <mark key="^" line="92" column="113" />
+        <mark key="." line="92" column="113" />
       </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/mail_template/success_payment_light.php" timestamp="1456444941759">
         <mark key="[" line="0" column="15" />
@@ -855,6 +861,11 @@
       <file name="/Dummy.txt" timestamp="1456442332555">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/payment/first_charge_add.php" timestamp="1456296993100">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1452759599366">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
@@ -999,6 +1010,7 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/cron/paypal.php" timestamp="1456448700423" />
       <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160128174825_add_column_parsed_at_from_crawl_status.rb" timestamp="1454578280919">
         <mark key="[" line="2" column="45" />
         <mark key="]" line="2" column="52" />
@@ -1034,6 +1046,11 @@
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.recursion_payment_worker.php" timestamp="1456449412606">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/new.html.slim" timestamp="1449186783724">
         <mark key="[" line="7" column="52" />
@@ -1275,6 +1292,11 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1456224981492">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/.env.sample" timestamp="1453552991508">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="32" />
@@ -1470,11 +1492,10 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/api.yourjam.es/cron/payment.php" timestamp="1455880814010">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="11" />
-        <mark key="." line="71" column="11" />
-        <mark key="^" line="71" column="11" />
+      <file name="$USER_HOME$/projects/api.yourjam.es/cron/payment.php" timestamp="1456448620276">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/admin/postal_mailer.rb" timestamp="1456217210859">
         <mark key="[" line="48" column="28" />
@@ -2023,7 +2044,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnJlY3Vyc2lvbl9wcmljZXNbJHVzZXJbInBsYW4iXV1bImZpcnN0X3BheW1lbnRfbWFpbF90ZW1wbGF0ZSJdOw==</text>
+        <text>1st</text>
       </register>
       <register name="/" type="4">
         <text>SaveWrapper</text>
@@ -2032,31 +2053,31 @@
         <text encoding="base64">ICAgICAgYml0ZW1fbWluX2R0X3N0YXJ0ID0gcGxhbi5iaXRlbV9taW5fZHRfc3RhcnQK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICogVGltZTogMTA6MTYK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JHRoaXMtPnJlY3Vyc2lvbl9wcmljZXNbJHVzZXJbInBsYW4iXV1bImZpcnN0X3BheW1lbnRfbWFpbF90ZW1wbGF0ZSJdOw==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>1st</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlaWYoJHVzZXJbInBsYW4iXSA9PT0gInN0YW5kYXJkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdG1wbGF0ZV9uYW1lID0gInN1Y2Nlc3NfcGF5bWVudF9saWdodCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCR1c2VyWyJwbGFuIl0gPT09ICJsaWdodCIpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZigkc3RhcnRfZGF0ZSAhPT0gZGF0ZSgnWS1tLWQnLCBzdHJ0b3RpbWUoJHVzZXJbcHJlbWl1bV9sYXN0cGF5bWVudF9kYXRlXSkpKXsK</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHBheW1lbnRGYWlsTWFpbCgkdXNlclsiZW1haWwiXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
