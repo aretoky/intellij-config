@@ -46,7 +46,7 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/model/otamacandidate.php" timestamp="1456732904236">
+      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/model/otamacandidate.php" timestamp="1456733066892">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="25" />
         <mark key="^" line="7" column="25" />
@@ -438,11 +438,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/model/otamaitem.php" timestamp="1456732907857">
-        <mark key="[" line="53" column="47" />
-        <mark key="]" line="53" column="36" />
-        <mark key="^" line="53" column="36" />
-        <mark key="." line="53" column="36" />
+      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/model/otamaitem.php" timestamp="1456733336610">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="79" column="21" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160118085608_create_html_sources.rb" timestamp="1453646936233">
         <mark key="[" line="10" column="33" />
@@ -1902,11 +1902,11 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/image_split_api/fuel/app/tasks/otamaitems.php" timestamp="1456732584681">
-        <mark key="[" line="21" column="96" />
-        <mark key="]" line="21" column="94" />
-        <mark key="." line="21" column="94" />
-        <mark key="^" line="21" column="94" />
+      <file name="$USER_HOME$/projects/image_split_api/fuel/app/tasks/otamaitems.php" timestamp="1456733409983">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/_form.html.slim" timestamp="1454934804309">
         <mark key="[" line="14" column="23" />
@@ -2058,7 +2058,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>upload</text>
       </register>
       <register name="/" type="4">
         <text>success_payment_light</text>
@@ -2066,32 +2066,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdXBkYXRlLT5iaW5kVmFsdWUoJzpjYXJkX2N2Y19jaGVjaycsICAkY3VzdG9tZXItPmFjdGl2ZV9jYXJkLT5jdmNfY2hlY2ssIFBETzo6UEFSQU1fU1RSKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>upload</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG90YW1hX2l0ZW0tPmNoZWNrX2ZpbmlzaGVkKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>start</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoKCRvdGFtYV9pdGVtcyBhcyAkb3RhbWFfaXRlbSl7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>ImageSplit</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkb3RhbWFfaXRlbXMgPSBcTW9kZWxfT3RhbWFJdGVtOjpmaW5kKCJsYXN0IiwgYXJyYXkoJ3doZXJlJyA9PiBhcnJheShhcnJheSgnc3RhdHVzJywgJz0nLCAxKSkpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>ImageSplit</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>imagesplit</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY2hlY2soKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
