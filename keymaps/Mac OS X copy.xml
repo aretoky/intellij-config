@@ -1,7 +1,19 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl w" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="w" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="v" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -17,5 +29,12 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="u" />
+  </action>
+  <action id="com.jacksingleton.tabtonextsplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="n" />
   </action>
 </keymap>
