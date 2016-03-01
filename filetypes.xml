@@ -12,7 +12,6 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <removed_mapping ext="md" type="Markdown" />
       <mapping ext="mp3" type="Native" />
       <mapping pattern="crawler" type="PLAIN_TEXT" />
       <mapping pattern="form_delete_utf8" type="PLAIN_TEXT" />
@@ -39,7 +38,6 @@
       <mapping ext="cap" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="cofee" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="mc" type="PLAIN_TEXT" />
       <mapping ext="allow" type="PLAIN_TEXT" />
       <mapping ext="ruby" type="Ruby" />
