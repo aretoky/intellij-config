@@ -414,13 +414,6 @@
         <mark key="." line="45" column="91" />
         <mark key="^" line="45" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/model/otamaitem.php" timestamp="1456764222967">
-        <mark key="'" line="33" column="9" />
-        <mark key="[" line="87" column="48" />
-        <mark key="]" line="89" column="30" />
-        <mark key="^" line="89" column="30" />
-        <mark key="." line="89" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/.gitignore" timestamp="1452258940189">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="22" column="0" />
@@ -504,13 +497,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="37" column="57" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/controller/base/api.php" timestamp="1456765365969">
-        <mark key="'" line="232" column="5" />
-        <mark key="[" line="264" column="40" />
-        <mark key="]" line="265" column="46" />
-        <mark key="^" line="265" column="46" />
-        <mark key="." line="265" column="46" />
       </file>
       <file name="$USER_HOME$/project/air-reader/app/models/advice.rb" timestamp="1451497579269">
         <mark key="[" line="21" column="33" />
@@ -865,6 +851,12 @@
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/sinatra-template/Gemfile" timestamp="1456843065081">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/controller/staticpages.php" timestamp="1456764258439">
         <mark key="[" line="38" column="36" />
@@ -1229,6 +1221,12 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/sinatra-template/spec/spec_helper.rb" timestamp="1456843424420">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/tel_transaction.rb" timestamp="1453814597747">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="28" />
@@ -1247,6 +1245,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/sinatra-template/.env_example" timestamp="1456842871765" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/upds/_form.html.slim" timestamp="1449157090452">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="49" />
@@ -1445,6 +1444,7 @@
         <mark key="^" line="11" column="70" />
         <mark key="." line="11" column="70" />
       </file>
+      <file name="$USER_HOME$/projects/sinatra-template/config.ru" timestamp="1456842370472" />
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/sessions_controller.rb" timestamp="1453981366855">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -2126,7 +2126,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>plan_info_array</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_show</text>
@@ -2135,31 +2135,31 @@
         <text encoding="base64">CSdzYW1wbGUnID0+ICdzdGF0aWNwYWdlcy9zYW1wbGUnCg==</text>
       </register>
       <register name="1" type="4">
-        <text>plan_info_array</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogVGltZTogMjA6MzAK</text>
+      <register name="4" type="4">
+        <text>CET</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogRGF0ZTogMy8xLzE2Cg==</text>
+        <text encoding="base64">IyBBIHNhbXBsZSBHZW1maWxlCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogVXNlcjogYXJldG9reQo=</text>
+      <register name="6" type="4">
+        <text>plan_info_array</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBJbnRlbGxpSiBJREVBLgo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICogVGltZTogMjA6MzAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
