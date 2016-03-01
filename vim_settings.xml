@@ -414,6 +414,13 @@
         <mark key="." line="45" column="91" />
         <mark key="^" line="45" column="91" />
       </file>
+      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/model/otamaitem.php" timestamp="1456764222967">
+        <mark key="'" line="33" column="9" />
+        <mark key="[" line="87" column="48" />
+        <mark key="]" line="89" column="30" />
+        <mark key="^" line="89" column="30" />
+        <mark key="." line="89" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/.gitignore" timestamp="1452258940189">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="22" column="0" />
@@ -497,6 +504,13 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="37" column="57" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/image_split_api/fuel/app/classes/controller/base/api.php" timestamp="1456765365969">
+        <mark key="'" line="232" column="5" />
+        <mark key="[" line="264" column="40" />
+        <mark key="]" line="265" column="46" />
+        <mark key="^" line="265" column="46" />
+        <mark key="." line="265" column="46" />
       </file>
       <file name="$USER_HOME$/project/air-reader/app/models/advice.rb" timestamp="1451497579269">
         <mark key="[" line="21" column="33" />
@@ -588,7 +602,8 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/services/parsing_service.rb" timestamp="1454929402829">
+      <file name="$USER_HOME$/projects/media-crawler/app/services/parsing_service.rb" timestamp="1456844888414">
+        <mark key="'" line="0" column="19" />
         <mark key="[" line="8" column="5" />
         <mark key="]" line="11" column="42" />
         <mark key="^" line="11" column="42" />
@@ -2020,7 +2035,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="16" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="35" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="300" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -2120,6 +2134,7 @@
       <jump line="129" column="25" filename="$USER_HOME$/projects/image_split_api/fuel/app/classes/controller/base/api.php" />
       <jump line="125" column="36" filename="$USER_HOME$/projects/image_split_api/fuel/app/classes/controller/base/api.php" />
       <jump line="232" column="5" filename="$USER_HOME$/projects/image_split_api/fuel/app/classes/controller/base/api.php" />
+      <jump line="0" column="19" filename="$USER_HOME$/projects/media-crawler/app/services/parsing_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2129,7 +2144,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_show</text>
+        <text>with</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSdzYW1wbGUnID0+ICdzdGF0aWNwYWdlcy9zYW1wbGUnCg==</text>
@@ -2166,9 +2181,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_show</last-search>
+      <last-search>with</last-search>
       <last-offset />
-      <last-pattern>_show</last-pattern>
+      <last-pattern>with</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2176,7 +2191,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_fr</entry>
         <entry>plan</entry>
         <entry>bitem</entry>
         <entry>bitems</entry>
@@ -2196,6 +2210,7 @@
         <entry>output</entry>
         <entry>_select_fields</entry>
         <entry>_show</entry>
+        <entry>with</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
