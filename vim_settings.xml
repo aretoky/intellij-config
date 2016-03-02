@@ -457,6 +457,13 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/sandbox/my_rails_template/template.rb" timestamp="1456905582901">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="153" column="23" />
+        <mark key="]" line="188" column="0" />
+        <mark key="^" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/admin/media_sites/new.html.slim" timestamp="1453124783882">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="23" />
@@ -1929,6 +1936,9 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1456905462301">
+        <mark key="'" line="71" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/config/initializers/ar_innodb_row_format.rb" timestamp="1453446302239">
         <mark key="[" line="6" column="76" />
         <mark key="]" line="6" column="85" />
@@ -2033,13 +2043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="300" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="312" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="10" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="397" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="237" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="238" column="31" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="12" column="16" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="24" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="175" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -2133,6 +2136,13 @@
       <jump line="232" column="5" filename="$USER_HOME$/projects/image_split_api/fuel/app/classes/controller/base/api.php" />
       <jump line="0" column="19" filename="$USER_HOME$/projects/media-crawler/app/services/parsing_service.rb" />
       <jump line="12" column="4" filename="$USER_HOME$/projects/media-crawler/app/services/parsing_service.rb" />
+      <jump line="6" column="2" filename="$USER_HOME$/sandbox/my_rails_template/template.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="37" column="8" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="38" column="8" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="52" column="124" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="53" column="7" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="71" column="15" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2142,7 +2152,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>with</text>
+        <text>sp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSdzYW1wbGUnID0+ICdzdGF0aWNwYWdlcy9zYW1wbGUnCg==</text>
@@ -2179,9 +2189,9 @@
       </register>
     </registers>
     <search>
-      <last-search>with</last-search>
+      <last-search>sp</last-search>
       <last-offset />
-      <last-pattern>with</last-pattern>
+      <last-pattern>sp</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2189,8 +2199,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plan</entry>
-        <entry>bitem</entry>
         <entry>bitems</entry>
         <entry>no_plan</entry>
         <entry>bitem_min_dt_end</entry>
@@ -2209,6 +2217,8 @@
         <entry>_select_fields</entry>
         <entry>_show</entry>
         <entry>with</entry>
+        <entry>spr</entry>
+        <entry>sp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
