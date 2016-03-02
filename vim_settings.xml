@@ -1636,6 +1636,13 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1456906261865">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="86" column="13" />
+        <mark key="]" line="89" column="22" />
+        <mark key="^" line="89" column="22" />
+        <mark key="." line="89" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115100424_create_media_sites.rb" timestamp="1453471098963">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="22" />
@@ -1936,7 +1943,7 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1456905462301">
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1456906265041">
         <mark key="'" line="71" column="15" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/initializers/ar_innodb_row_format.rb" timestamp="1453446302239">
@@ -2043,7 +2050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="16" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="24" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="175" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="178" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -2143,6 +2149,7 @@
       <jump line="52" column="124" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="53" column="7" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="71" column="15" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2152,46 +2159,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sp</text>
+        <text>default</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSdzYW1wbGUnID0+ICdzdGF0aWNwYWdlcy9zYW1wbGUnCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">IyBidW5kbGUgZXhlYyByYWtlIGRvYzpyYWlscyBnZW5lcmF0ZXMgdGhlIEFQSSB1bmRlciBkb2MvYXBpLgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBUdXJib2xpbmtzIG1ha2VzIGZvbGxvd2luZyBsaW5rcyBpbiB5b3VyIHdlYiBhcHBsaWNhdGlvbiBmYXN0ZXIuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3R1cmJvbGlua3MK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>CET</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBBIHNhbXBsZSBHZW1maWxlCg==</text>
-      </register>
       <register name="6" type="4">
-        <text>plan_info_array</text>
+        <text>#</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogCg==</text>
+      <register name="7" type="4">
+        <text>e</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL2V4ZWNqcyNyZWFkbWUgZm9yIG1vcmUgc3VwcG9ydGVkIHJ1bnRpbWVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogVGltZTogMjA6MzAK</text>
+        <text encoding="base64">IyBVc2UgQ29mZmVlU2NyaXB0IGZvciAuY29mZmVlIGFzc2V0cyBhbmQgdmlld3MK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>sp</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern>sp</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2199,7 +2206,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bitems</entry>
         <entry>no_plan</entry>
         <entry>bitem_min_dt_end</entry>
         <entry>no_bitem</entry>
@@ -2219,6 +2225,7 @@
         <entry>with</entry>
         <entry>spr</entry>
         <entry>sp</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
