@@ -1636,12 +1636,12 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1456906261865">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="86" column="13" />
-        <mark key="]" line="89" column="22" />
-        <mark key="^" line="89" column="22" />
-        <mark key="." line="89" column="22" />
+      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1456982732719">
+        <mark key="'" line="86" column="5" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="86" column="29" />
+        <mark key="^" line="86" column="29" />
+        <mark key="." line="86" column="29" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115100424_create_media_sites.rb" timestamp="1453471098963">
         <mark key="[" line="10" column="20" />
@@ -2050,9 +2050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="175" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="178" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="179" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="181" column="38" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="182" column="24" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -2150,6 +2147,9 @@
       <jump line="53" column="7" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="71" column="15" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
+      <jump line="86" column="5" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2159,7 +2159,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>sinatra</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSdzYW1wbGUnID0+ICdzdGF0aWNwYWdlcy9zYW1wbGUnCg==</text>
@@ -2196,9 +2196,9 @@
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>sinatra</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>sinatra</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2206,7 +2206,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_plan</entry>
         <entry>bitem_min_dt_end</entry>
         <entry>no_bitem</entry>
         <entry>cd_pn</entry>
@@ -2226,6 +2225,7 @@
         <entry>spr</entry>
         <entry>sp</entry>
         <entry>default</entry>
+        <entry>sinatra</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
