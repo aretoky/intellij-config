@@ -832,6 +832,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160303054843_create_crawl_statuses.rb" timestamp="1456984453036">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/payment_common.php" timestamp="1456832516642">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="34" />
@@ -2156,7 +2162,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>sinatra</text>
@@ -2164,32 +2170,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSdzYW1wbGUnID0+ICdzdGF0aWNwYWdlcy9zYW1wbGUnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBidW5kbGUgZXhlYyByYWtlIGRvYzpyYWlscyBnZW5lcmF0ZXMgdGhlIEFQSSB1bmRlciBkb2MvYXBpLgo=</text>
+      <register name="1" type="4">
+        <text>_</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
+      <register name="2" type="4">
+        <text>a</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBUdXJib2xpbmtzIG1ha2VzIGZvbGxvd2luZyBsaW5rcyBpbiB5b3VyIHdlYiBhcHBsaWNhdGlvbiBmYXN0ZXIuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3R1cmJvbGlua3MK</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>#</text>
-      </register>
-      <register name="7" type="4">
         <text>e</text>
       </register>
+      <register name="6" type="4">
+        <text>m</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBidW5kbGUgZXhlYyByYWtlIGRvYzpyYWlscyBnZW5lcmF0ZXMgdGhlIEFQSSB1bmRlciBkb2MvYXBpLgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL2V4ZWNqcyNyZWFkbWUgZm9yIG1vcmUgc3VwcG9ydGVkIHJ1bnRpbWVzCg==</text>
+        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBVc2UgQ29mZmVlU2NyaXB0IGZvciAuY29mZmVlIGFzc2V0cyBhbmQgdmlld3MK</text>
+        <text encoding="base64">IyBUdXJib2xpbmtzIG1ha2VzIGZvbGxvd2luZyBsaW5rcyBpbiB5b3VyIHdlYiBhcHBsaWNhdGlvbiBmYXN0ZXIuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3R1cmJvbGlua3MK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
