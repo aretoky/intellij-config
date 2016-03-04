@@ -336,8 +336,11 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/models/html_source/html_parsable.rb" timestamp="1457083962545">
-        <mark key="[" line="23" column="5" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/html_source/html_parsable.rb" timestamp="1457084630772">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="25" />
+        <mark key="^" line="85" column="4" />
+        <mark key="." line="28" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/multiple_postals_controller.rb" timestamp="1449204739457">
         <mark key="[" line="4" column="61" />
@@ -374,6 +377,9 @@
         <mark key="]" line="2" column="95" />
         <mark key="^" line="2" column="95" />
         <mark key="." line="2" column="95" />
+      </file>
+      <file name="$USER_HOME$/projects/media-crawler/db/schema.rb" timestamp="1456992771289">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/james-twillio/config.ru" timestamp="1454661383069">
         <mark key="[" line="1" column="0" />
@@ -1239,11 +1245,11 @@
         <mark key="^" line="89" column="51" />
         <mark key="." line="89" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" timestamp="1457084239520">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" timestamp="1457085723539">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="8" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/cocoon_patch.rb" timestamp="1449217597944">
         <mark key="[" line="34" column="29" />
@@ -1438,7 +1444,7 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/html_crawler.rb" timestamp="1457084084298" />
+      <file name="$USER_HOME$/projects/media-crawler/app/crawlers/html_crawler.rb" timestamp="1457084441759" />
       <file name="$USER_HOME$/projects/raditools/Gemfile" timestamp="1455282212938">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1675,6 +1681,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="54" />
+      </file>
+      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1457084454368">
+        <mark key="'" line="33" column="7" />
+        <mark key="[" line="92" column="13" />
+        <mark key="]" line="91" column="78" />
+        <mark key="^" line="91" column="78" />
+        <mark key="." line="91" column="78" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115100424_create_media_sites.rb" timestamp="1453471098963">
         <mark key="[" line="10" column="20" />
@@ -1983,6 +1996,9 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1457084715011">
+        <mark key="'" line="52" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/config/initializers/ar_innodb_row_format.rb" timestamp="1456987561298">
         <mark key="[" line="6" column="76" />
         <mark key="]" line="6" column="85" />
@@ -2175,7 +2191,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="37" column="8" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="38" column="8" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
-      <jump line="52" column="124" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="53" column="7" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="71" column="15" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
@@ -2188,16 +2203,17 @@
       <jump line="25" column="13" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
       <jump line="32" column="124" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
       <jump line="33" column="7" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
+      <jump line="52" column="60" filename="$USER_HOME$/projects/media-crawler/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>media_uri</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
-        <text>page</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSdzYW1wbGUnID0+ICdzdGF0aWNwYWdlcy9zYW1wbGUnCg==</text>
@@ -2205,38 +2221,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="2" type="4">
+        <text>@</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY3Jhd2xfc3RhdHVzLnBhZ2VfdHlwZQo=</text>
+      <register name="3" type="4">
+        <text>@</text>
       </register>
       <register name="4" type="4">
-        <text>media_uri</text>
-      </register>
-      <register name="5" type="4">
-        <text>i</text>
-      </register>
-      <register name="6" type="4">
-        <text>r</text>
-      </register>
-      <register name="7" type="4">
-        <text>u</text>
-      </register>
-      <register name="8" type="4">
         <text>_</text>
       </register>
-      <register name="9" type="4">
+      <register name="5" type="4">
         <text>a</text>
+      </register>
+      <register name="6" type="4">
+        <text>i</text>
+      </register>
+      <register name="7" type="4">
+        <text>d</text>
+      </register>
+      <register name="8" type="4">
+        <text>e</text>
+      </register>
+      <register name="9" type="4">
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>page</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>page</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2244,8 +2260,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_batch</entry>
-        <entry>init</entry>
         <entry>paypal_fail_payment_date</entry>
         <entry>SaveWrapper</entry>
         <entry>success_payment_light</entry>
@@ -2264,6 +2278,8 @@
         <entry>status</entry>
         <entry>spring</entry>
         <entry>page</entry>
+        <entry>address</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
