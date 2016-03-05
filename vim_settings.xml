@@ -31,8 +31,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/models/site.rb" timestamp="1457173499703">
-        <mark key="[" line="16" column="31" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/site.rb" timestamp="1457174293985">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/models/html_source/html_parsable.rb" timestamp="1457099444855">
         <mark key="'" line="62" column="52" />
@@ -52,7 +55,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/url_list_setting_job.rb" timestamp="1457172703347">
+      <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1457174228231">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="26" column="58" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/url_list_setting_job.rb" timestamp="1457174316514">
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="54" />
         <mark key="." line="4" column="54" />
@@ -95,11 +104,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/models/crawl_status.rb" timestamp="1457173512663">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="14" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/crawl_status.rb" timestamp="1457174024205">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160303071318_create_sites.rb" timestamp="1457100087948">
         <mark key="[" line="7" column="25" />
@@ -108,7 +117,7 @@
         <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/environment.rb" timestamp="1456995129440" />
-      <file name="$USER_HOME$/projects/media-crawler/app/models/crawl_status.rb" timestamp="1457172374949">
+      <file name="$USER_HOME$/projects/media-crawler/app/models/crawl_status.rb" timestamp="1457173745902">
         <mark key="[" line="62" column="65" />
         <mark key="]" line="62" column="82" />
         <mark key="^" line="62" column="82" />
@@ -275,7 +284,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>unicorn</text>
@@ -283,32 +292,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAkcG9zdGRhdGFbInVzcl9pZCJdID0gJF9DT09LSUVbInVzZXJfaWQiXTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>o</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>o</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi4K</text>
+      <register name="5" type="4">
+        <text>crawlable</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2hlcmUoKS4K</text>
+      <register name="7" type="4">
+        <text>i</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="8" type="4">
+        <text>d</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
