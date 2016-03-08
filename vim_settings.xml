@@ -276,17 +276,23 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy.rb" timestamp="1457441521217">
-        <mark key="[" line="18" column="65" />
-        <mark key="]" line="18" column="83" />
-        <mark key="." line="18" column="83" />
-        <mark key="^" line="18" column="83" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy.rb" timestamp="1457454345073">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="33" column="55" />
+        <mark key="." line="33" column="55" />
+        <mark key="^" line="33" column="55" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/config/environments/production.rb" timestamp="1451407190309">
         <mark key="[" line="42" column="96" />
         <mark key="]" line="43" column="65" />
         <mark key="^" line="43" column="65" />
         <mark key="." line="43" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/meta_crawler/.env.sample" timestamp="1457454049078">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/datetime_normalizer.rb" timestamp="1449168661094">
         <mark key="[" line="9" column="7" />
@@ -823,11 +829,11 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/.gitignore" timestamp="1457355247952">
-        <mark key="[" line="87" column="6" />
-        <mark key="]" line="91" column="18" />
-        <mark key="^" line="91" column="18" />
-        <mark key="." line="91" column="18" />
+      <file name="$USER_HOME$/projects/meta_crawler/.gitignore" timestamp="1457454799874">
+        <mark key="[" line="93" column="7" />
+        <mark key="]" line="93" column="1" />
+        <mark key="^" line="93" column="15" />
+        <mark key="." line="93" column="1" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/postal_saving_service.rb" timestamp="1449472148468">
         <mark key="[" line="14" column="0" />
@@ -853,7 +859,7 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1457439462910" />
+      <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1457454313517" />
       <file name="$USER_HOME$/projects/cplus/app/models/smail.rb" timestamp="1456217523902">
         <mark key="[" line="33" column="55" />
         <mark key="]" line="34" column="15" />
@@ -871,6 +877,12 @@
         <mark key="]" line="5" column="35" />
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/meta_crawler/config/environments/production.rb" timestamp="1457453933372">
+        <mark key="[" line="77" column="58" />
+        <mark key="]" line="78" column="70" />
+        <mark key="^" line="78" column="70" />
+        <mark key="." line="78" column="70" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1457441201251">
         <mark key="'" line="79" column="20" />
@@ -1166,11 +1178,11 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/initializers/sidekiq.rb" timestamp="1457171796263">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="14" column="60" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/initializers/sidekiq.rb" timestamp="1457453984225">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="23" column="80" />
+        <mark key="^" line="23" column="80" />
+        <mark key="." line="23" column="80" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/bootstrap.php" timestamp="1450423030528">
         <mark key="[" line="19" column="0" />
@@ -2084,6 +2096,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/media-crawler/config/environments/production.rb" timestamp="1457453529403" />
       <file name="$USER_HOME$/projects/media-crawler/app/services/html_cache_saving_service.rb" timestamp="1457282244160">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="36" />
@@ -2346,7 +2359,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
@@ -2354,92 +2367,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBoYXNfbWFueSA6Y3VzdG9tX2NvbHVtbnMK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSAnY2FwaXN0cmFuby9wdW1hL25naW54Jwo=</text>
+      <register name="2" type="4">
+        <text>y</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text># server-based syntax
-# ======================
-# Defines a single server with a list of roles and multiple properties.
-# You can define all roles on a single server, or split them:
-
-# server 'example.com', user: 'deploy', roles: %w{app db web}, my_property: :my_value
-# server 'example.com', user: 'deploy', roles: %w{app web}, other_property: :other_value
-# server 'db.example.com', user: 'deploy', roles: %w{db}
-
-
-
-# role-based syntax
-# ==================
-
-# Defines a role with one or multiple servers. The primary server in each
-# group is considered to be the first unless any  hosts have the primary
-# property set. Specify the username and a domain or IP for the server.
-# Don't use `:all`, it's a meta role.
-
-# role :app, %w{deploy@example.com}, my_property: :my_value
-# role :web, %w{user1@primary.com user2@additional.com}, other_property: :other_value
-# role :db,  %w{deploy@example.com}
-
-
-
-# Configuration
-# =============
-# You can set any configuration variable like in config/deploy.rb
-# These variables are then only loaded and set in this stage.
-# For available Capistrano configuration variables see the documentation page.
-# http://capistranorb.com/documentation/getting-started/configuration/
-# Feel free to add new variables to customise your setup.
-
-
-
-# Custom SSH Options
-# ==================
-# You may pass any option but keep in mind that net/ssh understands a
-# limited set of options, consult the Net::SSH documentation.
-# http://net-ssh.github.io/net-ssh/classes/Net/SSH.html#method-c-start
-#
-# Global options
-# --------------
-#  set :ssh_options, {
-#    keys: %w(/home/rlisowski/.ssh/id_rsa),
-#    forward_agent: false,
-#    auth_methods: %w(password)
-#  }
-#
-# The server-based syntax can be used to override options:
-# ------------------------------------
-# server 'example.com',
-#   user: 'user_name',
-#   roles: %w{web app},
-#   ssh_options: {
-#     user: 'user_name', # overrides user setting above
-#     keys: %w(/home/user_name/.ssh/id_rsa),
-#     forward_agent: false,
-#     auth_methods: %w(publickey password)
-#     # password: 'please use keys'
-#   }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgojIERlZmF1bHQgYnJhbmNoIGlzIDptYXN0ZXIKIyBhc2sgOmJyYW5jaCwgYGdpdCByZXYtcGFyc2UgLS1hYmJyZXYtcmVmIEhFQURgLmNob21wCgojIERlZmF1bHQgZGVwbG95X3RvIGRpcmVjdG9yeSBpcyAvdmFyL3d3dy9teV9hcHBfbmFtZQojIHNldCA6ZGVwbG95X3RvLCAnL3Zhci93d3cvbXlfYXBwX25hbWUnCgojIERlZmF1bHQgdmFsdWUgZm9yIDpzY20gaXMgOmdpdAojIHNldCA6c2NtLCA6Z2l0CgojIERlZmF1bHQgdmFsdWUgZm9yIDpmb3JtYXQgaXMgOnByZXR0eQojIHNldCA6Zm9ybWF0LCA6cHJldHR5CgojIERlZmF1bHQgdmFsdWUgZm9yIDpsb2dfbGV2ZWwgaXMgOmRlYnVnCiMgc2V0IDpsb2dfbGV2ZWwsIDpkZWJ1ZwoKIyBEZWZhdWx0IHZhbHVlIGZvciA6cHR5IGlzIGZhbHNlCiMgc2V0IDpwdHksIHRydWUKCiMgRGVmYXVsdCB2YWx1ZSBmb3IgOmxpbmtlZF9maWxlcyBpcyBbXQojIHNldCA6bGlua2VkX2ZpbGVzLCBmZXRjaCg6bGlua2VkX2ZpbGVzLCBbXSkucHVzaCgnY29uZmlnL2RhdGFiYXNlLnltbCcsICdjb25maWcvc2VjcmV0cy55bWwnKQoKIyBEZWZhdWx0IHZhbHVlIGZvciBsaW5rZWRfZGlycyBpcyBbXQojIHNldCA6bGlua2VkX2RpcnMsIGZldGNoKDpsaW5rZWRfZGlycywgW10pLnB1c2goJ2xvZycsICd0bXAvcGlkcycsICd0bXAvY2FjaGUnLCAndG1wL3NvY2tldHMnLCAndmVuZG9yL2J1bmRsZScsICdwdWJsaWMvc3lzdGVtJykKCiMgRGVmYXVsdCB2YWx1ZSBmb3IgZGVmYXVsdF9lbnYgaXMge30KIyBzZXQgOmRlZmF1bHRfZW52LCB7IHBhdGg6ICIvb3B0L3J1YnkvYmluOiRQQVRIIiB9CgojIERlZmF1bHQgdmFsdWUgZm9yIGtlZXBfcmVsZWFzZXMgaXMgNQojIHNldCA6a2VlcF9yZWxlYXNlcywgNQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>-</text>
-      </register>
-      <register name="8" type="4">
+      <register name="3" type="4">
         <text>a</text>
       </register>
-      <register name="9" type="4">
+      <register name="4" type="4">
+        <text>w</text>
+      </register>
+      <register name="5" type="4">
+        <text>l</text>
+      </register>
+      <register name="6" type="4">
         <text>i</text>
+      </register>
+      <register name="7" type="4">
+        <text>a</text>
+      </register>
+      <register name="8" type="4">
+        <text>r</text>
+      </register>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
