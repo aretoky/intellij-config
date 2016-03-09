@@ -148,18 +148,19 @@
         <mark key="." line="93" column="1" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/deploy.rb" timestamp="1457455557801" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/templates/nginx_conf.erb" timestamp="1457491887321" />
       <file name="$USER_HOME$/projects/meta_crawler/config/environments/production.rb" timestamp="1457453933372">
         <mark key="[" line="77" column="58" />
         <mark key="]" line="78" column="70" />
         <mark key="^" line="78" column="70" />
         <mark key="." line="78" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1457455570959">
-        <mark key="'" line="79" column="20" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="82" column="25" />
+      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1457492940244">
+        <mark key="'" line="80" column="20" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/assets/javascripts/application.js" timestamp="1457338081500">
         <mark key="[" line="15" column="31" />
@@ -192,7 +193,7 @@
         <mark key="^" line="14" column="61" />
         <mark key="." line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1457455566100">
+      <file name="$USER_HOME$/projects/media-crawler/Gemfile" timestamp="1457492944792">
         <mark key="'" line="81" column="8" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/config/initializers/bugsnag.rb" timestamp="1456987677987" />
@@ -361,6 +362,7 @@
         <mark key="^" line="0" column="72" />
         <mark key="." line="0" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/config/sidekiq.yml" timestamp="1457492557027" />
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1457344035929">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="48" />
@@ -495,7 +497,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>nginx_server_name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBoYXNfbWFueSA6Y3VzdG9tX2NvbHVtbnMK</text>
@@ -532,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>nginx_server_name</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>nginx_server_name</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -542,7 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spring</entry>
         <entry>page</entry>
         <entry>address</entry>
         <entry>add</entry>
@@ -562,6 +563,7 @@
         <entry>co</entry>
         <entry>skip</entry>
         <entry>env</entry>
+        <entry>nginx_server_name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
