@@ -1118,6 +1118,12 @@
         <mark key="^" line="19" column="73" />
         <mark key="." line="19" column="73" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/lib/text_discerner.rb" timestamp="1457595310879">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/config/deploy/production.rb" timestamp="1457440115743">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="25" />
@@ -2397,7 +2403,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>詞</text>
       </register>
       <register name="/" type="4">
         <text>nginx_server_name</text>
@@ -2409,28 +2415,28 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVSSS5yZWdleHAubWF0Y2godGV4dCkubmlsPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyYXdsX3N0YXR1cy5odG1sX3NvdXJjZS5zYXZlX3BhcnNpbmdfY29sdW1ucwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBnZW0gIiIK</text>
+      <register name="5" type="4">
+        <text>詞</text>
+      </register>
+      <register name="6" type="4">
+        <text>名</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>|</text>
       </register>
       <register name="8" type="4">
-        <text>y</text>
+        <text>号</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>記</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
