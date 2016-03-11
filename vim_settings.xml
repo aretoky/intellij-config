@@ -706,6 +706,12 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/sandbox/yourjam.es/Gemfile" timestamp="1457692386902">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/classes/controller/welcome.php" timestamp="1450429933439">
         <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="16" />
@@ -1295,6 +1301,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/sandbox/yourjam.es/spec/spec_helper.rb" timestamp="1457693238390">
+        <mark key="[" line="14" column="75" />
+        <mark key="]" line="14" column="74" />
+        <mark key="." line="14" column="74" />
+        <mark key="^" line="14" column="74" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/layouts/pdf.html.slim" timestamp="1453878141784">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="4" column="37" />
@@ -1508,6 +1520,13 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="16" column="3" />
       </file>
+      <file name="$USER_HOME$/sandbox/yourjam.es/spec/features/payment_spec.rb" timestamp="1457694032760">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/sandbox/yourjam.es/spec/features/login_spec.rb" timestamp="1457694023176" />
       <file name="$USER_HOME$/projects/cplus/app/services/postal_csv_creating_service.rb" timestamp="1449489249611">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="3" />
@@ -2017,6 +2036,12 @@
         <mark key="^" line="49" column="45" />
         <mark key="." line="49" column="45" />
       </file>
+      <file name="$USER_HOME$/sandbox/yourjam.es/spec/login_spec.rb" timestamp="1457693902543">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/mail_template/sucess_payment_standard_premium.txt" timestamp="1456443389919">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -2034,6 +2059,12 @@
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/sandbox/yourjam.es/.gitignore" timestamp="1457692258590">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="6" />
+        <mark key="^" line="38" column="6" />
+        <mark key="." line="38" column="6" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_hhs_base_input.rb" timestamp="1448878026861">
         <mark key="[" line="42" column="58" />
@@ -2359,7 +2390,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>ン</text>
       </register>
       <register name="/" type="4">
         <text>confirm</text>
@@ -2368,28 +2399,32 @@
         <text encoding="base64">ICAkY2FyZF9uYW1lID0gaXNzZXQoJF9QT1NUWyJuYW1lIl0pID8gJF9QT1NUWyJuYW1lIl0gOiAkX1NFU1NJT05bIm5hbWUiXTsK</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>ン</text>
       </register>
       <register name="2" type="4">
-        <text>g</text>
+        <text>イ</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>グ</text>
       </register>
       <register name="4" type="4">
-        <text>p</text>
+        <text>ロ</text>
       </register>
-      <register name="5" type="4">
-        <text>y</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHAgY3VycmVudF9wYXRoCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>m</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>w</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>module ::RSpec::Core
+  class ExampleGroup
+    include Capybara::DSL
+  end
+end</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
