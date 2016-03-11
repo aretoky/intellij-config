@@ -1107,11 +1107,11 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/yourjam.es/yourjam.es/payment_confirm.php" timestamp="1457672828604">
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="44" column="17" />
-        <mark key="." line="44" column="17" />
+      <file name="$USER_HOME$/sandbox/yourjam.es/yourjam.es/payment_confirm.php" timestamp="1457675589108">
+        <mark key="[" line="126" column="69" />
+        <mark key="]" line="126" column="107" />
+        <mark key="^" line="126" column="107" />
+        <mark key="." line="126" column="107" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/locales/ja.yml" timestamp="1453122793722">
         <mark key="[" line="1" column="0" />
@@ -2350,7 +2350,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>nginx_server_name</text>
+        <text>_POST</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBoYXNfbWFueSA6Y3VzdG9tX2NvbHVtbnMK</text>
@@ -2387,9 +2387,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nginx_server_name</last-search>
+      <last-search>_POST</last-search>
       <last-offset />
-      <last-pattern>nginx_server_name</last-pattern>
+      <last-pattern>_POST</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2397,7 +2397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>page</entry>
         <entry>address</entry>
         <entry>add</entry>
         <entry>html_</entry>
@@ -2417,6 +2416,7 @@
         <entry>skip</entry>
         <entry>env</entry>
         <entry>nginx_server_name</entry>
+        <entry>_POST</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
