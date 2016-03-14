@@ -725,11 +725,11 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/initializers/wicked_pdf.rb" timestamp="1457979405534">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="10" />
+      <file name="$USER_HOME$/projects/cplus/config/initializers/wicked_pdf.rb" timestamp="1457983997807">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/classes/controller/welcome.php" timestamp="1450429933439">
         <mark key="[" line="35" column="18" />
@@ -1496,6 +1496,7 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/carrierwave.rb" timestamp="1457983955128" />
       <file name="$USER_HOME$/projects/cplus/config/deploy/production.rb" timestamp="1457976114443" />
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/mail_template/failed_payment_last.txt" timestamp="1456443488985">
         <mark key="[" line="0" column="7" />
@@ -2395,7 +2396,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>#{Gem.loaded_specs['wkhtmltopdf-binary-edge'].full_gem_path}</text>
       </register>
       <register name="/" type="4">
         <text>error_msg</text>
@@ -2404,31 +2405,31 @@
         <text encoding="base64">ICAgICAgY2FyZF90eXBlOiAiIiwK</text>
       </register>
       <register name="1" type="4">
-        <text>x</text>
+        <text>#{Gem.loaded_specs['wkhtmltopdf-binary-edge'].full_gem_path}</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>x</text>
       </register>
       <register name="3" type="4">
+        <text>e</text>
+      </register>
+      <register name="4" type="4">
         <text>, git: 'https://github.com/insphire/wkhtmltopdf-binary-aml'</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Z2VtICd3a2h0bWx0b3BkZi1iaW5hcnknCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>, github: &quot;mileszs/wicked_pdf&quot;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
