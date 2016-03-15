@@ -622,11 +622,11 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1458038583205">
-        <mark key="[" line="89" column="40" />
-        <mark key="]" line="89" column="51" />
-        <mark key="^" line="89" column="51" />
-        <mark key="." line="89" column="51" />
+      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1458062659859">
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="68" column="12" />
+        <mark key="^" line="68" column="12" />
+        <mark key="." line="68" column="12" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160309121254_add_to_trim_from_custom_column.rb" timestamp="1457598998238">
         <mark key="[" line="3" column="43" />
@@ -1336,7 +1336,7 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458061031872" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458062584584" />
       <file name="$USER_HOME$/projects/cplus/app/views/layouts/pdf.html.slim" timestamp="1453878141784">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="4" column="37" />
@@ -1355,7 +1355,7 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1458061168348">
+      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1458062507742">
         <mark key="'" line="153" column="16" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/sales_analytics/index.csv.ruby" timestamp="1449598101702">
@@ -1640,11 +1640,11 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_month_service_spec.rb" timestamp="1458061757402">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_month_service_spec.rb" timestamp="1458062027513">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_year.rake" timestamp="1456234957887">
         <mark key="[" line="2" column="14" />
@@ -1804,6 +1804,9 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1458062648111">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/vendor/amazon.php" timestamp="1456764062078">
         <mark key="[" line="4" column="12" />
@@ -2046,12 +2049,12 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1458061325142">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1458063102384">
         <mark key="'" line="0" column="13" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="12" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+        <mark key="^" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/layouts/application.html.erb" timestamp="1454934874927">
         <mark key="[" line="8" column="13" />
@@ -2344,7 +2347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="$USER_HOME$/sandbox/yourjam.es/yourjam.es/mypage/common_header.php" />
       <jump line="1" column="65" filename="$USER_HOME$/sandbox/yourjam.es/yourjam.es/mypage/cancel.php" />
       <jump line="35" column="39" filename="$USER_HOME$/sandbox/yourjam.es/yourjam.es/mypage/cancel.php" />
       <jump line="23" column="4" filename="$USER_HOME$/sandbox/yourjam.es/spec/features/payment_spec.rb" />
@@ -2444,16 +2446,17 @@
       <jump line="363" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="128" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>し</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dt_next</text>
+        <text>yn_stop</text>
       </register>
       <register name="0" type="4">
         <text>describe &quot;今日登録されたプラン&quot; do
@@ -2467,40 +2470,40 @@
   end</text>
       </register>
       <register name="1" type="4">
-        <text>し</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>な</text>
+        <text>p</text>
       </register>
-      <register name="3" type="4">
-        <text>化</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcCBwbGFuCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>変</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcCAiYWFhIgo=</text>
       </register>
       <register name="5" type="4">
-        <text>今日更新プラン</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>た</text>
+        <text>p</text>
       </register>
       <register name="7" type="4">
-        <text>れ</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>さ</text>
+        <text>p</text>
       </register>
       <register name="9" type="4">
-        <text>録</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>dt_next</last-search>
+      <last-search>yn_stop</last-search>
       <last-offset />
-      <last-pattern>dt_next</last-pattern>
+      <last-pattern>yn_stop</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2508,7 +2511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>temp_plan</entry>
         <entry>yn_make</entry>
         <entry>cd_pk</entry>
         <entry>_po</entry>
@@ -2528,6 +2530,7 @@
         <entry>no_person</entry>
         <entry>existing_plan</entry>
         <entry>dt_next</entry>
+        <entry>yn_stop</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
