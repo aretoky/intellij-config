@@ -1130,12 +1130,12 @@
         <mark key="^" line="29" column="7" />
         <mark key="." line="29" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/profile_sheets/show.pdf.slim" timestamp="1458113759788">
+      <file name="$USER_HOME$/projects/cplus/app/views/client/profile_sheets/show.pdf.slim" timestamp="1458116298773">
         <mark key="'" line="30" column="15" />
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="50" column="21" />
-        <mark key="^" line="50" column="21" />
-        <mark key="." line="50" column="21" />
+        <mark key="[" line="55" column="66" />
+        <mark key="]" line="56" column="31" />
+        <mark key="^" line="56" column="31" />
+        <mark key="." line="56" column="31" />
       </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/tasks/imagesplits.php" timestamp="1456763734968">
         <mark key="[" line="25" column="29" />
@@ -1440,8 +1440,8 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458113355902">
-        <mark key="'" line="28" column="3" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458115781625">
+        <mark key="'" line="244" column="12" />
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="1" />
@@ -1464,6 +1464,7 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1458115835435" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/sales_analytics/index.csv.ruby" timestamp="1449598101702">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="11" />
@@ -1949,6 +1950,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/decorators/plan_decorator.rb" timestamp="1458116311342">
+        <mark key="[" line="2" column="94" />
+        <mark key="]" line="2" column="94" />
+        <mark key="^" line="2" column="94" />
+        <mark key="." line="2" column="94" />
+      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.recursion_payment_worker.php" timestamp="1456449899133">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -2377,13 +2384,6 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1458039003069">
-        <mark key="'" line="13" column="73" />
-        <mark key="[" line="85" column="21" />
-        <mark key="]" line="86" column="13" />
-        <mark key="." line="86" column="13" />
-        <mark key="^" line="86" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_addr_fields.html.slim" timestamp="1453969334552">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="12" />
@@ -2467,46 +2467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="905" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new_confirm.php" />
-      <jump line="929" column="155" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new_confirm.php" />
-      <jump line="942" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new_confirm.php" />
-      <jump line="1212" column="117" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new_confirm.php" />
-      <jump line="1222" column="28" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new_confirm.php" />
-      <jump line="768" column="149" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="338" column="47" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="838" column="31" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="828" column="78" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="1033" column="69" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="235" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="237" column="103" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="4" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="7" column="3" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="40" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="41" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="42" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="47" column="90" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="88" column="32" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="89" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="142" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="146" column="51" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="150" column="51" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="154" column="70" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="158" column="51" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="162" column="51" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="197" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="208" column="45" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="772" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="769" column="86" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="215" column="21" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="192" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="56" column="44" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="57" column="119" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="58" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="59" column="77" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="61" column="46" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="62" column="49" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
       <jump line="63" column="18" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
       <jump line="0" column="22" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
       <jump line="2" column="14" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
@@ -2529,7 +2489,6 @@
       <jump line="287" column="20" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="297" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="318" column="26" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="29" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="39" column="8" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_initializer.rb" />
       <jump line="39" column="8" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_initializer.rb" />
@@ -2567,6 +2526,47 @@
       <jump line="185" column="42" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="186" column="98" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="188" column="156" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
+      <jump line="29" column="14" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="81" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="82" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="85" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="86" column="27" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="90" column="42" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="91" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="92" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="96" column="38" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="97" column="23" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="98" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="102" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="103" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="104" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="108" column="38" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="110" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="111" column="43" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="115" column="35" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="128" column="137" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="129" column="24" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="133" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="134" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="139" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="140" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="152" column="24" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="156" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="157" column="16" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="158" column="24" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="164" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="166" column="16" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="167" column="26" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="176" column="23" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="179" column="34" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="182" column="41" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="190" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="192" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="195" column="42" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="198" column="49" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="207" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="243" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="244" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2576,7 +2576,7 @@
         <text encoding="base64">VEVMOjAzLTYyMjgtMTIyMeOAgA==</text>
       </register>
       <register name="/" type="4">
-        <text>mplan</text>
+        <text>plan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGYuZHRfeW1kX2d0ZXEgPSBtaW5fZGF5ICBpZiBzZWxmLmR0X3ltZF9ndGVxLmJsYW5rPwo=</text>
@@ -2613,9 +2613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mplan</last-search>
+      <last-search>plan</last-search>
       <last-offset />
-      <last-pattern>mplan</last-pattern>
+      <last-pattern>plan</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2627,7 +2627,6 @@
         <entry>['db_data']['yet']</entry>
         <entry>plan_no_plan</entry>
         <entry encoding="base64">IHE=</entry>
-        <entry>plan</entry>
         <entry>30</entry>
         <entry>uncre</entry>
         <entry>dt_next</entry>
@@ -2643,6 +2642,7 @@
         <entry>$_tpl['row']['mplan']</entry>
         <entry>row</entry>
         <entry>mplan</entry>
+        <entry>plan</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
