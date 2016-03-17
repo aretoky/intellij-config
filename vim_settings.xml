@@ -24,8 +24,12 @@
       <file name="/a.dummy" timestamp="1458213758898">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" timestamp="1458219292886">
+      <file name="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" timestamp="1458221336411">
         <mark key="'" line="9" column="14" />
+        <mark key="[" line="33" column="50" />
+        <mark key="]" line="33" column="50" />
+        <mark key="^" line="33" column="50" />
+        <mark key="." line="33" column="50" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1453125651992">
         <mark key="[" line="32" column="0" />
@@ -494,12 +498,12 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bitems/_uncreated_bitems_table.html.slim" timestamp="1458214321633">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bitems/_uncreated_bitems_table.html.slim" timestamp="1458221571475">
         <mark key="'" line="12" column="9" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="12" column="8" />
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="72" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_email_fields.html.slim" timestamp="1451019396040">
         <mark key="[" line="1" column="17" />
@@ -1456,8 +1460,9 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" timestamp="1458219548436">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" timestamp="1458220977457">
         <mark key="'" line="82" column="88" />
+        <mark key="[" line="154" column="20" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/mime_types.rb" timestamp="1449723302848">
         <mark key="[" line="4" column="0" />
@@ -2622,7 +2627,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>plan_type_yet</text>
@@ -2630,32 +2635,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGYuZHRfeW1kX2d0ZXEgPSBtaW5fZGF5ICBpZiBzZWxmLmR0X3ltZF9ndGVxLmJsYW5rPwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgcGxhbnNfdG9fY3JlYXRlX2JpdGVtczogQGN1c3QucGxhbnNfdG9fY3JlYXRlX2JpdGVtcywK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgdW5jcmVhdGVkX2JpdGVtczogQGN1c3QudW5jcmVhdGVkX2JpdGVtcywK</text>
+      <register name="2" type="4">
+        <text>!</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgcGxhbnNfdG9fY3JlYXRlX2JpdGVtczogQGN1c3QucGxhbnNfdG9fY3JlYXRlX2JpdGVtcywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZXJleyAoKGR0X3Byb2MgIT0gbmlsKSAmIChkdF9lbmQgPj0gdG9kYXlfZHQpKSB8ICgoZHRfcHJvYyA9PSBuaWwpICYgKGR0X3Byb2MgPj0gdG9kYXlfZHQpKSAmIChkdF9zdGFydCA8PSB0b2RheV9kdCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgdW5jcmVhdGVkX2JpdGVtczogQGN1c3QudW5jcmVhdGVkX2JpdGVtcywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvZGF5X2R0ID0gRGF0ZS50b2RheS50b19zKDpkdCkK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHdoZXJleyAoKGR0X3Byb2MgIT0gbmlsKSAmIChkdF9lbmQgPj0gdG9kYXlfZHQpKSB8ICgoZHRfcHJvYyA9PSBuaWwpICYgKGR0X3Byb2MgPj0gdG9kYXlfZHQpKSAmIChkdF9zdGFydCA8PSB0b2RheV9kdCkgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiDmr47mnIjoh6rli5XkvZzmiJDoq4vmsYLmm7jkvZzmiJDjg5Djg4Pjg4Eo5pyq44OG44K544OIKQo=</text>
+        <text encoding="base64">ICAgIHRvZGF5X2R0ID0gRGF0ZS50b2RheS50b19zKDpkdCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiDmr47mnIjoh6rli5XkvZzmiJDoq4vmsYLmm7jkvZzmiJDjg5Djg4Pjg4Eo5pyq44OG44K544OIKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
