@@ -24,7 +24,7 @@
       <file name="/a.dummy" timestamp="1458213758898">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" timestamp="1458212549720">
+      <file name="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" timestamp="1458215556868">
         <mark key="'" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1453125651992">
@@ -458,8 +458,8 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1458121058946">
-        <mark key="'" line="77" column="15" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1458214380061">
+        <mark key="'" line="14" column="15" />
         <mark key="[" line="78" column="18" />
         <mark key="]" line="78" column="40" />
         <mark key="^" line="78" column="40" />
@@ -494,7 +494,7 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bitems/_uncreated_bitems_table.html.slim" timestamp="1458214077609">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bitems/_uncreated_bitems_table.html.slim" timestamp="1458214321633">
         <mark key="'" line="12" column="9" />
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="8" />
@@ -1456,8 +1456,8 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" timestamp="1458108619237">
-        <mark key="'" line="63" column="18" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" timestamp="1458214465810">
+        <mark key="'" line="82" column="88" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/mime_types.rb" timestamp="1449723302848">
         <mark key="[" line="4" column="0" />
@@ -1482,8 +1482,8 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458213841182">
-        <mark key="'" line="151" column="3" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458214349864">
+        <mark key="'" line="367" column="7" />
         <mark key="[" line="115" column="39" />
         <mark key="]" line="115" column="291" />
         <mark key="^" line="150" column="52" />
@@ -2516,13 +2516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="49" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="207" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="243" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="285" column="22" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="112" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="111" column="42" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="18" column="6" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="22" column="7" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="57" column="12" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -2616,6 +2609,13 @@
       <jump line="147" column="30" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="148" column="44" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="12" column="9" filename="$USER_HOME$/projects/cplus/app/views/admin/bitems/_uncreated_bitems_table.html.slim" />
+      <jump line="268" column="30" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="366" column="8" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="367" column="7" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="14" column="15" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
+      <jump line="68" column="88" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
+      <jump line="82" column="88" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2625,7 +2625,7 @@
         <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>to_create_bitem</text>
+        <text>plan_type_yet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGYuZHRfeW1kX2d0ZXEgPSBtaW5fZGF5ICBpZiBzZWxmLmR0X3ltZF9ndGVxLmJsYW5rPwo=</text>
@@ -2662,9 +2662,9 @@
       </register>
     </registers>
     <search>
-      <last-search>to_create_bitem</last-search>
+      <last-search>plan_type_yet</last-search>
       <last-offset />
-      <last-pattern>to_create_bitem</last-pattern>
+      <last-pattern>plan_type_yet</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2672,9 +2672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mplan</entry>
-        <entry>_plan</entry>
-        <entry>fix</entry>
         <entry>nm_goods</entry>
         <entry>bitems</entry>
         <entry>bill</entry>
@@ -2692,6 +2689,9 @@
         <entry>plan</entry>
         <entry>plans_to_create_bitems</entry>
         <entry>to_create_bitem</entry>
+        <entry>uncrea</entry>
+        <entry>uncre</entry>
+        <entry>plan_type_yet</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
