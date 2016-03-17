@@ -1249,7 +1249,7 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/decorators/cust_decorator.rb" timestamp="1458122931644">
+      <file name="$USER_HOME$/projects/cplus/app/decorators/cust_decorator.rb" timestamp="1458191795379">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="8" column="55" />
@@ -1387,8 +1387,8 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458185196496">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458191806195">
+        <mark key="'" line="151" column="3" />
         <mark key="[" line="150" column="45" />
         <mark key="]" line="150" column="52" />
         <mark key="^" line="150" column="52" />
@@ -2415,7 +2415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="108" column="38" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="110" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="115" column="35" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -2515,6 +2514,7 @@
       <jump line="19" column="331" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/ymdroom/index.php" />
       <jump line="28" column="32" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/ymdroom/index.php" />
       <jump line="29" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/ymdroom/index.php" />
+      <jump line="151" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2524,7 +2524,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>cd_bk_</text>
+        <text>current_re</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGYuZHRfeW1kX2d0ZXEgPSBtaW5fZGF5ICBpZiBzZWxmLmR0X3ltZF9ndGVxLmJsYW5rPwo=</text>
@@ -2565,9 +2565,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cd_bk_</last-search>
+      <last-search>current_re</last-search>
       <last-offset />
-      <last-pattern>cd_bk_</last-pattern>
+      <last-pattern>current_re</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2575,7 +2575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>会社設立プラス</entry>
         <entry>プラン</entry>
         <entry>$_tpl['row']['mplan']</entry>
         <entry>row</entry>
@@ -2595,6 +2594,7 @@
         <entry>room</entry>
         <entry>order</entry>
         <entry>cd_bk_</entry>
+        <entry>current_re</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
