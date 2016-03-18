@@ -1417,12 +1417,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458236231385">
-        <mark key="'" line="194" column="41" />
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458274299131">
+        <mark key="'" line="325" column="21" />
+        <mark key="[" line="359" column="3" />
+        <mark key="]" line="360" column="8" />
+        <mark key="^" line="360" column="8" />
+        <mark key="." line="360" column="8" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/layouts/pdf.html.slim" timestamp="1453878141784">
         <mark key="[" line="4" column="42" />
@@ -1442,12 +1442,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1458238571853">
-        <mark key="'" line="166" column="9" />
-        <mark key="[" line="172" column="15" />
-        <mark key="]" line="172" column="14" />
-        <mark key="^" line="172" column="14" />
-        <mark key="." line="172" column="14" />
+      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1458274361259">
+        <mark key="'" line="174" column="9" />
+        <mark key="[" line="77" column="39" />
+        <mark key="]" line="75" column="5" />
+        <mark key="^" line="75" column="5" />
+        <mark key="." line="75" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/sales_analytics/index.csv.ruby" timestamp="1449598101702">
         <mark key="[" line="9" column="6" />
@@ -1551,6 +1551,12 @@
         <mark key="]" line="151" column="0" />
         <mark key="^" line="130" column="31" />
         <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458274348233">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="30" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/tel_transaction_array_factory.rb" timestamp="1453816336878">
         <mark key="[" line="27" column="7" />
@@ -2135,7 +2141,7 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1458271637638">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1458274325656">
         <mark key="'" line="92" column="18" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -2409,6 +2415,7 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458273828995" />
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/migrations/001_create_requests.php" timestamp="1456748654611">
         <mark key="[" line="11" column="67" />
         <mark key="]" line="13" column="56" />
@@ -2438,11 +2445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="112" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="113" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="114" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="115" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
       <jump line="3" column="27" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
       <jump line="7" column="8" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
       <jump line="55" column="13" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
@@ -2538,55 +2540,60 @@
       <jump line="129" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="297" column="50" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="377" column="57" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="172" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="358" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="361" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="18" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="325" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>dt_next</text>
+        <text>yn_stop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGwsIDpjb3VudCkuYnkoMSkuCg==</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>h</text>
       </register>
       <register name="2" type="4">
-        <text>z</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>m</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>bill_necessary</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="7" type="4">
+        <text>.where(dt_next: date.to_s(:dt))</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGxlcnJvcjAxICwgOmNvdW50KS5ieSgwKQo=</text>
+        <text encoding="base64">ICAgIGRhdGUgfHw9IERhdGUudG9kYXkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGwsIDpjb3VudCkuYnkoMSkuCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LT4oZGF0ZSA9IG5pbCk=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>dt_next</last-search>
+      <last-search>yn_stop</last-search>
       <last-offset />
-      <last-pattern>dt_next</last-pattern>
+      <last-pattern>yn_stop</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2594,7 +2601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>proc</entry>
         <entry>good_to</entry>
         <entry>1000000</entry>
         <entry>plan_type_yet</entry>
@@ -2614,6 +2620,7 @@
         <entry>ts_batch_end</entry>
         <entry>@@batchbill</entry>
         <entry>dt_next</entry>
+        <entry>yn_stop</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
