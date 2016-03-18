@@ -1514,7 +1514,7 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1458289313915">
+      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1458291739766">
         <mark key="'" line="175" column="9" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -1623,8 +1623,8 @@
         <mark key="^" line="130" column="31" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458290714441">
-        <mark key="[" line="24" column="4" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458292245177">
+        <mark key="[" line="126" column="16" />
         <mark key="]" line="24" column="4" />
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="4" />
@@ -1647,7 +1647,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/forms/bills_creating_by_bitems_form_spec.rb" timestamp="1458288776834">
+      <file name="$USER_HOME$/projects/cplus/spec/forms/bills_creating_by_bitems_form_spec.rb" timestamp="1458292065809">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="29" column="48" />
@@ -2368,11 +2368,12 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_year_service_spec.rb" timestamp="1458290755125">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_year_service_spec.rb" timestamp="1458292227490">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="72" column="6" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/addr.rb" timestamp="1458184162596">
         <mark key="'" line="105" column="13" />
@@ -2515,7 +2516,7 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458282734326">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458292319048">
         <mark key="[" line="137" column="15" />
         <mark key="]" line="137" column="15" />
         <mark key="." line="137" column="15" />
@@ -2664,31 +2665,31 @@
         <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGwsIDpjb3VudCkuYnkoMSkuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcCBQbGFuLm1ha2VfYmlsbF95ZWFybHkuaW5jbHVkZXMoOmN1c3QpCg==</text>
+        <text encoding="base64">ICAgICMgcCBwbGFuLmR0X3Byb2MgPSAoRGF0ZS50b2RheSArIDM2NSkudG9fcyg6ZHQpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcCBjdXN0LnBsYW5zX3RvX2NyZWF0ZV9iaXRlbXMuZmlyc3QuZHRfcHJvYwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>p</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcCBEYXRlLnRvZGF5LnRvX3MoOmR0KQo=</text>
+        <text encoding="base64">ICAgICAgcCBQbGFuLmFsbAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="4">
-        <text>p</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="7" type="4">
+        <text>#</text>
+      </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
