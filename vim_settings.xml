@@ -1733,11 +1733,11 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_month_service_spec.rb" timestamp="1458272164362">
-        <mark key="[" line="44" column="98" />
-        <mark key="]" line="44" column="96" />
-        <mark key="^" line="44" column="96" />
-        <mark key="." line="44" column="96" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_month_service_spec.rb" timestamp="1458272366392">
+        <mark key="[" line="33" column="71" />
+        <mark key="]" line="33" column="75" />
+        <mark key="^" line="33" column="75" />
+        <mark key="." line="33" column="75" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_year.rake" timestamp="1456234957887">
         <mark key="[" line="2" column="14" />
@@ -1757,8 +1757,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="127" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1458243571082">
-        <mark key="'" line="378" column="57" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1458272975464">
+        <mark key="'" line="377" column="57" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/controllers/api/v1/api_v1_custom_records_controller.rb" timestamp="1457416138659">
         <mark key="[" line="7" column="60" />
@@ -2438,13 +2438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="102" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="103" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="104" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="105" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="106" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
-      <jump line="110" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
       <jump line="111" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
       <jump line="112" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
       <jump line="113" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/inc.php" />
@@ -2538,55 +2531,62 @@
       <jump line="57" column="4" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
       <jump line="61" column="4" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
       <jump line="92" column="18" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="398" column="28" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="404" column="36" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="128" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="129" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="297" column="50" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="377" column="57" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>@@batchbill</text>
+        <text>dt_next</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGwsIDpjb3VudCkuYnkoMSkuCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>z</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGxlcnJvcjAxICwgOmNvdW50KS5ieSgwKQo=</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGwsIDpjb3VudCkuYnkoMSkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>d</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>n</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>a</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGxlcnJvcjAxICwgOmNvdW50KS5ieSgwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCkK</text>
+        <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGwsIDpjb3VudCkuYnkoMSkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>@@batchbill</last-search>
+      <last-search>dt_next</last-search>
       <last-offset />
-      <last-pattern>@@batchbill</last-pattern>
+      <last-pattern>dt_next</last-pattern>
       <last-replace>:client_session</last-replace>
       <last-substitute>&quot;client_session&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2594,7 +2594,6 @@
     </search>
     <history>
       <history-search>
-        <entry>good</entry>
         <entry>proc</entry>
         <entry>good_to</entry>
         <entry>1000000</entry>
@@ -2614,6 +2613,7 @@
         <entry>bill_user_id</entry>
         <entry>ts_batch_end</entry>
         <entry>@@batchbill</entry>
+        <entry>dt_next</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvIlwvYXNzZXRzXC88LipcLnBuZz4iLy8=</entry>
