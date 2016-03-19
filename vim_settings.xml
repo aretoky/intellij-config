@@ -1619,11 +1619,11 @@
         <mark key="^" line="130" column="31" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458377644353">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="124" column="4" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458405452606">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="126" column="37" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/tel_transaction_array_factory.rb" timestamp="1453816336878">
         <mark key="[" line="27" column="7" />
@@ -2512,7 +2512,8 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458377744439">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458406029917">
+        <mark key="'" line="582" column="19" />
         <mark key="[" line="137" column="15" />
         <mark key="]" line="137" column="15" />
         <mark key="." line="137" column="15" />
@@ -2543,16 +2544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="37" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="168" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="169" column="41" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
-      <jump line="41" column="22" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="54" column="22" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="75" column="24" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="85" column="122" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="4" column="3" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="71" column="0" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="174" column="9" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="167" column="9" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -2643,6 +2634,16 @@
       <jump line="9" column="77" filename="$USER_HOME$/projects/cplus/app/controllers/client/ymdrooms_controller.rb" />
       <jump line="50" column="11" filename="$USER_HOME$/projects/cplus/app/controllers/client/ymdrooms_controller.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="15" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="66" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="219" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="225" column="68" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="231" column="41" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="276" column="82" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="277" column="80" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="300" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="313" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="582" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2652,13 +2653,13 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>rspec</text>
+        <text>error_no</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGwsIDpjb3VudCkuYnkoMSkuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -2667,31 +2668,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIFNldHRpbmdzIHNwZWNpZmllZCBoZXJlIHdpbGwgdGFrZSBwcmVjZWRlbmNlIG92ZXIgdGhvc2UgaW4gY29uZmlnL2FwcGxpY2F0aW9uLnJiLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIGFuZCByZWNyZWF0ZWQgYmV0d2VlbiB0ZXN0IHJ1bnMuIERvbid0IHJlbHkgb24gdGhlIGRhdGEgdGhlcmUhCg==</text>
+        <text encoding="base64">ICAjIFNldHRpbmdzIHNwZWNpZmllZCBoZXJlIHdpbGwgdGFrZSBwcmVjZWRlbmNlIG92ZXIgdGhvc2UgaW4gY29uZmlnL2FwcGxpY2F0aW9uLnJiLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIHlvdXIgdGVzdCBkYXRhYmFzZSBpcyAic2NyYXRjaCBzcGFjZSIgZm9yIHRoZSB0ZXN0IHN1aXRlIGFuZCBpcyB3aXBlZAo=</text>
+        <text encoding="base64">ICAjIGFuZCByZWNyZWF0ZWQgYmV0d2VlbiB0ZXN0IHJ1bnMuIERvbid0IHJlbHkgb24gdGhlIGRhdGEgdGhlcmUhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIHRlc3Qgc3VpdGUuIFlvdSBuZXZlciBuZWVkIHRvIHdvcmsgd2l0aCBpdCBvdGhlcndpc2UuIFJlbWVtYmVyIHRoYXQK</text>
+        <text encoding="base64">ICAjIHlvdXIgdGVzdCBkYXRhYmFzZSBpcyAic2NyYXRjaCBzcGFjZSIgZm9yIHRoZSB0ZXN0IHN1aXRlIGFuZCBpcyB3aXBlZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIFRoZSB0ZXN0IGVudmlyb25tZW50IGlzIHVzZWQgZXhjbHVzaXZlbHkgdG8gcnVuIHlvdXIgYXBwbGljYXRpb24ncwo=</text>
+        <text encoding="base64">ICAjIHRlc3Qgc3VpdGUuIFlvdSBuZXZlciBuZWVkIHRvIHdvcmsgd2l0aCBpdCBvdGhlcndpc2UuIFJlbWVtYmVyIHRoYXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIFRoZSB0ZXN0IGVudmlyb25tZW50IGlzIHVzZWQgZXhjbHVzaXZlbHkgdG8gcnVuIHlvdXIgYXBwbGljYXRpb24ncwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
       </register>
     </registers>
     <search>
-      <last-search>rspec</last-search>
+      <last-search>error_no</last-search>
       <last-offset />
-      <last-pattern>rspec</last-pattern>
+      <last-pattern>error_no</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2699,7 +2700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_data_yet</entry>
         <entry>yet</entry>
         <entry>no_bitem</entry>
         <entry>no_plan</entry>
@@ -2719,6 +2719,7 @@
         <entry>to_create_bitem</entry>
         <entry>prd</entry>
         <entry>rspec</entry>
+        <entry>error_no</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
