@@ -1619,11 +1619,11 @@
         <mark key="^" line="130" column="31" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458405452606">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="126" column="37" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458406845322">
+        <mark key="[" line="119" column="16" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="128" column="37" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/tel_transaction_array_factory.rb" timestamp="1453816336878">
         <mark key="[" line="27" column="7" />
@@ -2512,8 +2512,8 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458406029917">
-        <mark key="'" line="582" column="19" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458407353541">
+        <mark key="'" line="524" column="29" />
         <mark key="[" line="137" column="15" />
         <mark key="]" line="137" column="15" />
         <mark key="." line="137" column="15" />
@@ -2544,10 +2544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="9" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="167" column="9" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="264" column="22" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="366" column="8" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="367" column="7" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="20" column="3" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -2644,6 +2640,10 @@
       <jump line="300" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="313" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="582" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="54" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="56" column="4" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="524" column="29" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2653,7 +2653,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>error_no</text>
+        <text>temp_ymd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmQgY2hhbmdlKCBFbG9nOjpCYXRjaGJpbGwsIDpjb3VudCkuYnkoMSkuCg==</text>
@@ -2690,9 +2690,9 @@
       </register>
     </registers>
     <search>
-      <last-search>error_no</last-search>
+      <last-search>temp_ymd</last-search>
       <last-offset />
-      <last-pattern>error_no</last-pattern>
+      <last-pattern>temp_ymd</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2700,8 +2700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>yet</entry>
-        <entry>no_bitem</entry>
         <entry>no_plan</entry>
         <entry>unco</entry>
         <entry>uncrea</entry>
@@ -2720,6 +2718,8 @@
         <entry>prd</entry>
         <entry>rspec</entry>
         <entry>error_no</entry>
+        <entry>$yn_send_mail_after_convert</entry>
+        <entry>temp_ymd</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
