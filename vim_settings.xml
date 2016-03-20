@@ -154,11 +154,11 @@
         <mark key="^" line="56" column="57" />
         <mark key="." line="56" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bill_mailer.rb" timestamp="1458494872158">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bill_mailer.rb" timestamp="1458497020786">
+        <mark key="[" line="4" column="59" />
+        <mark key="]" line="15" column="39" />
+        <mark key="^" line="15" column="39" />
+        <mark key="." line="15" column="39" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/multiple_postals.coffee" timestamp="1453808420686">
         <mark key="[" line="5" column="103" />
@@ -1580,12 +1580,12 @@
         <mark key="^" line="130" column="31" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458495788740">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458496741777">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="139" column="7" />
-        <mark key="." line="140" column="0" />
+        <mark key="[" line="115" column="28" />
+        <mark key="]" line="115" column="30" />
+        <mark key="." line="115" column="30" />
+        <mark key="^" line="115" column="30" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/tel_transaction_array_factory.rb" timestamp="1453816336878">
         <mark key="[" line="27" column="7" />
@@ -2493,8 +2493,8 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458495806406">
-        <mark key="'" line="170" column="22" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458497415024">
+        <mark key="'" line="14" column="26" />
         <mark key="[" line="646" column="0" />
         <mark key="]" line="646" column="0" />
         <mark key="." line="646" column="0" />
@@ -2528,7 +2528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="34" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="100" column="57" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="101" column="57" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="102" column="56" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -2628,55 +2627,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="187" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="190" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="14" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>emails</text>
+        <text>hpay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZHRfc3RhcnQ6IGkxOG4ubChiaWxsLmR0X3N0YXJ0LCBmb3JtYXQ6IDpsb25nKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>h</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
-      </register>
-      <register name="5" type="4">
         <text>e</text>
       </register>
-      <register name="6" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcCAiYWFhIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYmlsbC5yZWxvYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmlsbAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
       </register>
     </registers>
     <search>
-      <last-search>emails</last-search>
+      <last-search>hpay</last-search>
       <last-offset />
-      <last-pattern>emails</last-pattern>
+      <last-pattern>hpay</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2690,7 +2690,6 @@
         <entry>_ho</entry>
         <entry>ho</entry>
         <entry>cd_ho</entry>
-        <entry>hpay</entry>
         <entry>long</entry>
         <entry>mplan</entry>
         <entry>yn_fix</entry>
@@ -2704,6 +2703,7 @@
         <entry>temp_mp</entry>
         <entry>current_reg</entry>
         <entry>emails</entry>
+        <entry>hpay</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
