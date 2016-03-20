@@ -1014,11 +1014,11 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/smail.rb" timestamp="1458460663469">
-        <mark key="[" line="38" column="11" />
-        <mark key="]" line="38" column="12" />
-        <mark key="." line="38" column="12" />
-        <mark key="^" line="38" column="12" />
+      <file name="$USER_HOME$/projects/cplus/app/models/smail.rb" timestamp="1458465962092">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/config/application.rb" timestamp="1457286170455">
         <mark key="[" line="41" column="58" />
@@ -2290,11 +2290,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1458464275866">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1458465386801">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/yourjam.es/.gitignore" timestamp="1457715201076">
         <mark key="[" line="39" column="10" />
@@ -2683,40 +2683,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>smail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHAgbWVzc2FnZVs6bm9fc21haWxdCg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VbOm5vX2N1c3RdIHx8PSBuaWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAgbWVzc2FnZVs6bm9fc21haWxdID09IG5pbAo=</text>
+        <text encoding="base64">ICAgIHAgImFhYWEiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>a</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHAgbWVzc2FnZS5iY2MK</text>
       </register>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHAgbWVzc2FnZS50bwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHAgbWVzc2FnZS5ib2R5LnRvX3MK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHAgbWVzc2FnZS5zdWJqZWN0Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>#</text>
+      <register name="7" type="4">
+        <text>text_part</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgbWVzc2FnZVs6bm9fc21haWxdID09IG5pbCB8fCBtZXNzYWdlWzpub19zbWFpbF0udmFsdWUgPT0gbmlsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgbWVzc2FnZVs6bm9fc21haWxdLnZhbHVlCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgbWVzc2FnZVs6bm9fcGVyc29uXS52YWx1ZQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgbWFpbF90ZW1wbGF0ZV9zZXJ2aWNlLmNkX2h1Cg==</text>
+      <register name="9" type="4">
+        <text>save</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
