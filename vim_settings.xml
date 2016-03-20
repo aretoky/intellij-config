@@ -1154,7 +1154,7 @@
         <mark key="^" line="54" column="73" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1458467621870">
+      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1458489516383">
         <mark key="'" line="63" column="24" />
         <mark key="[" line="51" column="16" />
         <mark key="]" line="51" column="16" />
@@ -2003,11 +2003,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" timestamp="1458417732653">
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="55" column="19" />
-        <mark key="^" line="55" column="19" />
-        <mark key="." line="55" column="19" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" timestamp="1458489395177">
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="55" column="32" />
+        <mark key="^" line="55" column="32" />
+        <mark key="." line="55" column="32" />
       </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/views/welcome/sample.php" timestamp="1455628697379">
         <mark key="[" line="3" column="30" />
@@ -2493,8 +2493,8 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458488667637">
-        <mark key="'" line="647" column="66" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458489488398">
+        <mark key="'" line="399" column="57" />
         <mark key="[" line="137" column="15" />
         <mark key="]" line="137" column="15" />
         <mark key="." line="137" column="15" />
@@ -2528,13 +2528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="582" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="524" column="29" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="2" column="21" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" />
-      <jump line="11" column="7" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="19" column="47" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="20" column="45" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="32" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="38" column="21" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="42" column="14" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
@@ -2628,6 +2621,13 @@
       <jump line="66" column="18" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="69" column="59" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="53" column="16" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
+      <jump line="11" column="7" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="636" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="397" column="70" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="419" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="406" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="399" column="57" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2637,7 +2637,7 @@
         <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>mplan</text>
+        <text>bill_user_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZHRfc3RhcnQ6IGkxOG4ubChiaWxsLmR0X3N0YXJ0LCBmb3JtYXQ6IDpsb25nKSwK</text>
@@ -2674,9 +2674,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mplan</last-search>
+      <last-search>bill_user_id</last-search>
       <last-offset />
-      <last-pattern>mplan</last-pattern>
+      <last-pattern>bill_user_id</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2684,8 +2684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
-        <entry>bitem_min_dt_start</entry>
         <entry>bitem</entry>
         <entry>dt_proc</entry>
         <entry>billma</entry>
@@ -2704,6 +2702,8 @@
         <entry>hpay</entry>
         <entry>long</entry>
         <entry>mplan</entry>
+        <entry>yn_fix</entry>
+        <entry>bill_user_id</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
