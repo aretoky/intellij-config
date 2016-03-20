@@ -1092,7 +1092,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1458416241377">
+      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1458490783698">
         <mark key="'" line="172" column="9" />
         <mark key="[" line="187" column="4" />
         <mark key="]" line="187" column="9" />
@@ -1220,7 +1220,6 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/smailsend.rb" timestamp="1458466480258" />
       <file name="$USER_HOME$/projects/cplus/app/controllers/deliverer/sessions_controller.rb" timestamp="1453981389702">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="17" />
@@ -1287,7 +1286,6 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1458460627967" />
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/Procfile" timestamp="1452677526401">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -1578,12 +1576,12 @@
         <mark key="^" line="130" column="31" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458469849761">
-        <mark key="'" line="2" column="21" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458490554437">
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="133" column="26" />
-        <mark key="]" line="133" column="25" />
-        <mark key="^" line="133" column="25" />
-        <mark key="." line="133" column="25" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="133" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/tel_transaction_array_factory.rb" timestamp="1453816336878">
         <mark key="[" line="27" column="7" />
@@ -1795,7 +1793,6 @@
         <mark key="." line="19" column="6" />
         <mark key="^" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/smailbody.rb" timestamp="1458466203901" />
       <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_year.rake" timestamp="1458294835088">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2242,7 +2239,6 @@
         <mark key="^" line="57" column="10" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/placeymd.rb" timestamp="1458419130874" />
       <file name="$USER_HOME$/projects/air-reading/config/routes.rb" timestamp="1451484589983">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="25" />
@@ -2493,7 +2489,7 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458489488398">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1458490638344">
         <mark key="'" line="399" column="57" />
         <mark key="[" line="137" column="15" />
         <mark key="]" line="137" column="15" />
@@ -2528,7 +2524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="38" column="21" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="42" column="14" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="128" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
@@ -2628,6 +2623,7 @@
       <jump line="406" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="399" column="57" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2637,7 +2633,7 @@
         <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>bill_user_id</text>
+        <text>temp_plan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZHRfc3RhcnQ6IGkxOG4ubChiaWxsLmR0X3N0YXJ0LCBmb3JtYXQ6IDpsb25nKSwK</text>
@@ -2648,35 +2644,35 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>start</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>r</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>start</text>
       </register>
       <register name="7" type="4">
         <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbm9fY3VzdAo=</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
       </register>
     </registers>
     <search>
-      <last-search>bill_user_id</last-search>
+      <last-search>temp_plan</last-search>
       <last-offset />
-      <last-pattern>bill_user_id</last-pattern>
+      <last-pattern>temp_plan</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2684,7 +2680,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bitem</entry>
         <entry>dt_proc</entry>
         <entry>billma</entry>
         <entry>dt_start_14</entry>
@@ -2704,6 +2699,7 @@
         <entry>mplan</entry>
         <entry>yn_fix</entry>
         <entry>bill_user_id</entry>
+        <entry>temp_plan</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
