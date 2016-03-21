@@ -297,10 +297,11 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_postal_service_spec.rb" timestamp="1458548007687">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_postal_service_spec.rb" timestamp="1458548030567">
+        <mark key="[" line="27" column="60" />
+        <mark key="]" line="27" column="67" />
+        <mark key="." line="27" column="67" />
+        <mark key="^" line="27" column="67" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/config/environments/production.rb" timestamp="1451407190309">
         <mark key="[" line="42" column="96" />
@@ -690,11 +691,6 @@
         <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/interim_mailer.rb" timestamp="1458472066728">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/cocoon_patch.rb" timestamp="1449217597944">
         <mark key="[" line="34" column="29" />
@@ -1579,11 +1575,11 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1458547798998">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1458548164980">
         <mark key="[" line="64" column="4" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+        <mark key="^" line="29" column="31" />
       </file>
       <file name="$USER_HOME$/project/air-reader/app/models/advice.rb" timestamp="1451497579269">
         <mark key="[" line="21" column="33" />
@@ -2601,7 +2597,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>EventLog</text>
+        <text>newxt_day</text>
       </register>
       <register name="/" type="4">
         <text>batchbill</text>
@@ -2625,32 +2621,32 @@
     end
   end</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>newxt_day</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgcCBUaW1lLm5vdwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>EventLog</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>ト</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>ン</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>ベ</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>イ</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>find</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>includes(:postals).joins(:postals).merge</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
