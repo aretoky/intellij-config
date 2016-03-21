@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1458581251164">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bill_mailer.rb" timestamp="1458497687073">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -78,6 +81,9 @@
         <mark key="^" line="8" column="55" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1458581543656">
+        <mark key="'" line="123" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_postal.php" timestamp="1458577228068">
         <mark key="'" line="99" column="51" />
       </file>
@@ -123,7 +129,7 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1458576939413">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1458581146809">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="8" />
         <mark key="." line="25" column="8" />
@@ -222,19 +228,14 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_book_service.rb" timestamp="1458578338328">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="6" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_book_service.rb" timestamp="1458581248465">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="92" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="102" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="103" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="104" column="123" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="106" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="284" column="45" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="648" column="34" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="190" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
@@ -330,6 +331,11 @@
       <jump line="92" column="58" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_postal.php" />
       <jump line="91" column="33" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_postal.php" />
       <jump line="99" column="51" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_postal.php" />
+      <jump line="57" column="14" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="58" column="29" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="69" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="70" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="123" column="43" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,7 +345,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>yyyymm</text>
+        <text>b\.</text>
       </register>
       <register name="0" type="4">
         <text>describe &quot;来月1日の動作&quot; do
@@ -402,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>yyyymm</last-search>
+      <last-search>b\.</last-search>
       <last-offset />
-      <last-pattern>yyyymm</last-pattern>
+      <last-pattern>b\.</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -412,10 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_to</entry>
-        <entry>dt_fr</entry>
-        <entry>temp_cust</entry>
-        <entry>current_reg</entry>
         <entry>emails</entry>
         <entry>hpay</entry>
         <entry>year_plan_before_30_day</entry>
@@ -432,6 +434,10 @@
         <entry>dt_postal</entry>
         <entry>dt_batch</entry>
         <entry>yyyymm</entry>
+        <entry>use_</entry>
+        <entry>used</entry>
+        <entry>b.</entry>
+        <entry>b\.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
