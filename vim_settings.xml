@@ -12,7 +12,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_postal_service_spec.rb" timestamp="1458548030567">
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_postal_service_spec.rb" timestamp="1458583736533">
         <mark key="[" line="27" column="60" />
         <mark key="]" line="27" column="67" />
         <mark key="." line="27" column="67" />
@@ -40,6 +40,17 @@
         <mark key="]" line="9" column="52" />
         <mark key="^" line="9" column="52" />
         <mark key="." line="9" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/interim_mailer.rb" timestamp="1458472066728">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/postal_destroy_service_spec.rb" timestamp="1458583081503">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/smail.rb" timestamp="1458495669126">
         <mark key="[" line="22" column="15" />
@@ -81,8 +92,8 @@
         <mark key="^" line="8" column="55" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1458581543656">
-        <mark key="'" line="123" column="43" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1458582093347">
+        <mark key="'" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_postal.php" timestamp="1458577228068">
         <mark key="'" line="99" column="51" />
@@ -94,11 +105,11 @@
         <mark key="^" line="447" column="8" />
         <mark key="." line="447" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_postal_service.rb" timestamp="1458578250460">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_postal_service.rb" timestamp="1458584180321">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1458414440441">
         <mark key="'" line="53" column="51" />
@@ -201,11 +212,11 @@
         <mark key="^" line="21" column="58" />
         <mark key="." line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/postal_mailer.rb" timestamp="1458461137979">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="39" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/postal_mailer.rb" timestamp="1458584161523">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/placeymd.rb" timestamp="1458419130874" />
       <file name="$USER_HOME$/projects/cplus/app/models/good.rb" timestamp="1458543979533" />
@@ -228,15 +239,19 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_book_service.rb" timestamp="1458581248465">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="13" column="39" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_book_service_spec.rb" timestamp="1458584008367">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_book_service.rb" timestamp="1458583969117">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="45" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="648" column="34" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="190" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="186" column="32" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
@@ -336,16 +351,17 @@
       <jump line="69" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="70" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="123" column="43" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
+      <jump line="16" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>, no_smail</text>
       </register>
       <register name="/" type="4">
-        <text>b\.</text>
+        <text>dt_batch1</text>
       </register>
       <register name="0" type="4">
         <text>describe &quot;来月1日の動作&quot; do
@@ -367,38 +383,28 @@
   end</text>
       </register>
       <register name="1" type="4">
-        <text>books = Book.enable.used_room.
-      where(dt_book: 1.day.since.to_s(:dt)).
-      where.not(no_bill: nil).where(no_bitem: nil)
-    books.each do |book|
-      # 未完成
-      # event_log = Elog::EventLog.new
-      # begin
-      Admin::BookMailer.reminder_email(book).deliver_now
-      # rescue e
-      # end
-    end</text>
+        <text>, no_smail</text>
       </register>
-      <register name="2" type="4">
-        <text>k</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBub19zbWFpbCA9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>B</text>
+        <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>m</text>
       </register>
       <register name="7" type="4">
-        <text>k</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>_</text>
       </register>
       <register name="9" type="4">
         <text>o</text>
@@ -408,9 +414,9 @@
       </register>
     </registers>
     <search>
-      <last-search>b\.</last-search>
+      <last-search>dt_batch1</last-search>
       <last-offset />
-      <last-pattern>b\.</last-pattern>
+      <last-pattern>dt_batch1</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -418,7 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emails</entry>
         <entry>hpay</entry>
         <entry>year_plan_before_30_day</entry>
         <entry>temp_mp</entry>
@@ -438,6 +443,7 @@
         <entry>used</entry>
         <entry>b.</entry>
         <entry>b\.</entry>
+        <entry>dt_batch1</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
