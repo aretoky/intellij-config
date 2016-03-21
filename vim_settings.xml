@@ -297,11 +297,10 @@
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_postal_service_spec.rb" timestamp="1458546644458">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="4" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="18" column="4" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_postal_service_spec.rb" timestamp="1458548007687">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/config/environments/production.rb" timestamp="1451407190309">
         <mark key="[" line="42" column="96" />
@@ -1580,10 +1579,11 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1458547140820">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1458547798998">
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/project/air-reader/app/models/advice.rb" timestamp="1451497579269">
         <mark key="[" line="21" column="33" />
@@ -2601,40 +2601,56 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>EventLog</text>
       </register>
       <register name="/" type="4">
         <text>batchbill</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZHRfc3RhcnQ6IGkxOG4ubChiaWxsLmR0X3N0YXJ0LCBmb3JtYXQ6IDpsb25nKSwK</text>
+      <register name="0" type="4">
+        <text>describe &quot;来月1日の動作&quot; do
+    before do
+      cust
+      Timecop.travel(Time.now.next_month.beginning_of_month)
+    end
+
+    after do
+      Timecop.return
+    end
+
+    it &quot;イベントログが1増えること&quot; do
+      expect{ Batch::MakeBillPostalService.run }.to change(Elog::EventLog, :count).by(1)
+    end
+    it &quot;請求ログが1増えること&quot; do
+      expect{ Batch::MakeBillPostalService.run }.to change(Elog::Batchbill, :count).by(1)
+    end
+  end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCBUaW1lLm5vdwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>EventLog</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCAiYWFhYWFhIgo=</text>
+      <register name="3" type="4">
+        <text>ト</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgdGVtcF9jdXN0cwo=</text>
+      <register name="4" type="4">
+        <text>ン</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgImJiYmIiCg==</text>
+      <register name="5" type="4">
+        <text>ベ</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="6" type="4">
+        <text>イ</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlICLlpInljJYiIGRvCg==</text>
+      <register name="7" type="4">
+        <text>find</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3ViamVjdCB7IEJhdGNoOjpNYWtlQmlsbFBvc3RhbFNlcnZpY2UucnVuIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="9" type="4">
-        <text>Date</text>
+        <text>includes(:postals).joins(:postals).merge</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
