@@ -465,11 +465,11 @@
         <mark key="." line="106" column="9" />
         <mark key="^" line="106" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_postal.rake" timestamp="1458501853594">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_postal.rake" timestamp="1458535869630">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/views/admin/multiple_custom_columns/_form.html.slim" timestamp="1457340660602">
         <mark key="[" line="0" column="18" />
@@ -1570,6 +1570,12 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1458535863098">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/project/air-reader/app/models/advice.rb" timestamp="1451497579269">
         <mark key="[" line="21" column="33" />
         <mark key="]" line="28" column="31" />
@@ -2146,7 +2152,7 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1458417608023">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1458535809379">
         <mark key="'" line="94" column="18" />
         <mark key="[" line="115" column="25" />
         <mark key="]" line="53" column="0" />
@@ -2592,7 +2598,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>describe</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>temp_mplan</text>
@@ -2601,31 +2607,31 @@
         <text encoding="base64">ICAgICAgZHRfc3RhcnQ6IGkxOG4ubChiaWxsLmR0X3N0YXJ0LCBmb3JtYXQ6IDpsb25nKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBnZW0gImRlbG9yZWFuIgo=</text>
+      <register name="2" type="4">
+        <text>h</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBVc2UgdW5pY29ybiBhcyB0aGUgYXBwIHNlcnZlcgo=</text>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBidW5kbGUgZXhlYyByYWtlIGRvYzpyYWlscyBnZW5lcmF0ZXMgdGhlIEFQSSB1bmRlciBkb2MvYXBpLgo=</text>
+      <register name="4" type="4">
+        <text>n</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBUdXJib2xpbmtzIG1ha2VzIGZvbGxvd2luZyBsaW5rcyBpbiB5b3VyIHdlYiBhcHBsaWNhdGlvbiBmYXN0ZXIuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3R1cmJvbGlua3MK</text>
+      <register name="6" type="4">
+        <text>M</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBnZW0gJ3RoZXJ1YnlyYWNlcicsICBwbGF0Zm9ybXM6IDpydWJ5Cg==</text>
+        <text encoding="base64">ICBnZW0gImRlbG9yZWFuIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9naXRodWIuY29tL3NzdGVwaGVuc29uL2V4ZWNqcyNyZWFkbWUgZm9yIG1vcmUgc3VwcG9ydGVkIHJ1bnRpbWVzCg==</text>
+        <text encoding="base64">IyBVc2UgdW5pY29ybiBhcyB0aGUgYXBwIHNlcnZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
