@@ -65,8 +65,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1458663860128">
-        <mark key="'" line="89" column="42" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1458665741488">
+        <mark key="'" line="84" column="47" />
         <mark key="[" line="150" column="46" />
         <mark key="]" line="150" column="46" />
         <mark key="^" line="150" column="46" />
@@ -110,8 +110,14 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1458655474642">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/mplan.rb" timestamp="1458639300826">
+      <file name="$USER_HOME$/projects/cplus/app/models/mplan.rb" timestamp="1458665699296">
         <mark key="'" line="70" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/validators/bookable_prdhhs_validator.rb" timestamp="1458648520343">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458639035397">
         <mark key="'" line="0" column="0" />
@@ -143,12 +149,11 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458664871518">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458665416680">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-        <mark key="^" line="145" column="13" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/forms/bills_creating_by_bitems_form_spec.rb" timestamp="1458643563861">
         <mark key="[" line="30" column="0" />
@@ -236,21 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
-      <jump line="67" column="12" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
-      <jump line="70" column="33" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
-      <jump line="58" column="50" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="13" column="32" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="60" column="28" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="200" column="50" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="217" column="56" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="232" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="246" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="248" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="18" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
-      <jump line="200" column="104" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
-      <jump line="211" column="131" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
-      <jump line="228" column="31" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="243" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="263" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="265" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
@@ -336,16 +326,31 @@
       <jump line="399" column="99" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="434" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="703" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="148" column="26" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="122" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="4" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="48" column="22" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="55" column="22" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="58" column="25" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="59" column="25" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="62" column="48" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="67" column="48" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="70" column="48" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="73" column="25" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="74" column="25" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="78" column="48" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="84" column="47" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>find</text>
+        <text>bill</text>
       </register>
       <register name="/" type="4">
-        <text>cnt_cd_hu130</text>
+        <text>no_bill</text>
       </register>
       <register name="0" type="4">
         <text>def year_before_14_email(bill)
@@ -353,40 +358,40 @@
   end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwICJhYWFhYSIK</text>
-      </register>
-      <register name="2" type="4">
-        <text>find</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwICJhYWFhYSIK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwICJiYmJiYiIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwICJjY2NjIgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwICJhYWFhIgo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>bill</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwICJhYWFhYSIK</text>
+      </register>
+      <register name="5" type="4">
+        <text>find</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwICJhYWFhYSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcCAiYWFhYWEiCg==</text>
+        <text encoding="base64">ICAgICAgICBwICJiYmJiYiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcCAiYWFhYWEiCg==</text>
+        <text encoding="base64">ICAgICAgICBwICJjY2NjIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgImFhYWEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
       </register>
     </registers>
     <search>
-      <last-search>cnt_cd_hu130</last-search>
+      <last-search>no_bill</last-search>
       <last-offset />
-      <last-pattern>cnt_cd_hu130</last-pattern>
+      <last-pattern>no_bill</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -394,9 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>temp_prdhhs</entry>
-        <entry>hhs</entry>
-        <entry>prd</entry>
         <entry>book\.p</entry>
         <entry>book\.</entry>
         <entry>seed</entry>
@@ -414,6 +416,9 @@
         <entry>set_</entry>
         <entry>dt_queue</entry>
         <entry>cnt_cd_hu130</entry>
+        <entry>no_batch</entry>
+        <entry>dt_batch</entry>
+        <entry>no_bill</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
