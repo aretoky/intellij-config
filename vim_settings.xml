@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1458662407177">
+      <file name="/a.dummy" timestamp="1458666284238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bill_mailer.rb" timestamp="1458660435982">
@@ -21,10 +21,11 @@
       <file name="/Dummy.txt" timestamp="1458502085112">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1458664661486">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1458667213699">
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="8" />
+        <mark key="^" line="68" column="8" />
       </file>
       <file name="$USER_HOME$/projects/cplus/db/fixtures/010_ymd.rb" timestamp="1458663621671">
         <mark key="[" line="0" column="0" />
@@ -48,11 +49,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/billmail.rb" timestamp="1458661548423">
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="36" column="32" />
-        <mark key="^" line="36" column="32" />
-        <mark key="." line="36" column="32" />
+      <file name="$USER_HOME$/projects/cplus/app/models/billmail.rb" timestamp="1458666926273">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="4" />
+        <mark key="^" line="42" column="54" />
+        <mark key="." line="42" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/mail_template_service.rb" timestamp="1458656278122">
         <mark key="[" line="41" column="63" />
@@ -65,12 +66,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1458665741488">
-        <mark key="'" line="84" column="47" />
-        <mark key="[" line="150" column="46" />
-        <mark key="]" line="150" column="46" />
-        <mark key="^" line="150" column="46" />
-        <mark key="." line="150" column="46" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1458666431944">
+        <mark key="'" line="150" column="38" />
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="69" column="29" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1458643273831">
         <mark key="[" line="24" column="39" />
@@ -187,10 +188,11 @@
       <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail_year.rake" timestamp="1458578124981">
         <mark key="[" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1458664540624">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1458667149411">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1458641544272">
         <mark key="'" line="0" column="0" />
@@ -241,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
-      <jump line="263" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="265" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="0" column="17" filename="$USER_HOME$/projects/cplus/app/models/validators/bookable_prdhhs_validator.rb" />
       <jump line="54" column="26" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
@@ -299,7 +299,6 @@
       <jump line="319" column="155" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_year.php" />
       <jump line="252" column="42" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_year.php" />
       <jump line="57" column="15" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="65" column="12" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="85" column="35" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="93" column="34" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="103" column="57" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -328,7 +327,6 @@
       <jump line="703" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="148" column="26" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="122" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="4" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="48" column="22" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="55" column="22" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -341,57 +339,59 @@
       <jump line="74" column="25" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="78" column="48" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="84" column="47" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="65" column="13" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="145" column="10" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="150" column="38" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>bill</text>
+        <text>billmail.</text>
       </register>
       <register name="/" type="4">
-        <text>no_bill</text>
+        <text>billmails</text>
       </register>
       <register name="0" type="4">
-        <text>def year_before_14_email(bill)
-    base_mail(114, bill)
-  end</text>
+        <text encoding="base64">aGFzX21hbnkgOmJpbGxtYWlscywKICAgICAgICAgICAtPiB7IHR5cGVfeWVhci5zZW50IH0sCiAgICAgICAgICAgcHJpbWFyeV9rZXk6IDpub19iaWxsLCBmb3JlaWduX2tleTogOm5vX2JpbGw=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwICJiYmJiYiIK</text>
+      <register name="1" type="4">
+        <text>billmail.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwICJhYWFhIgo=</text>
+      <register name="2" type="4">
+        <text>billmail.</text>
       </register>
       <register name="3" type="4">
-        <text>bill</text>
+        <text>.enable.email_unsentable.where(dt_queue: dt_batch)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwICJhYWFhYSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>find</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgYmlsbG1haWwgPSBiaWxsLnllYXJfcGxhbl9iZWZvcmVfMTRfZGF5X2JpbGxtYWlsLmVuYWJsZS5lbWFpbF91bnNlbnRhYmxlLndoZXJlKGR0X3F1ZXVlOiBkdF9iYXRjaCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwICJhYWFhYSIK</text>
+      <register name="6" type="4">
+        <text>p</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwICJiYmJiYiIK</text>
+      <register name="7" type="4">
+        <text>.sent</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwICJjY2NjIgo=</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
       </register>
     </registers>
     <search>
-      <last-search>no_bill</last-search>
+      <last-search>billmails</last-search>
       <last-offset />
-      <last-pattern>no_bill</last-pattern>
+      <last-pattern>billmails</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -399,7 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>book\.p</entry>
         <entry>book\.</entry>
         <entry>seed</entry>
         <entry>no_prd: 9\, cd_hh: 100</entry>
@@ -419,6 +418,7 @@
         <entry>no_batch</entry>
         <entry>dt_batch</entry>
         <entry>no_bill</entry>
+        <entry>billmails</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
