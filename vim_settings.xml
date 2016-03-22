@@ -1598,6 +1598,12 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/book_saving_service_spec.rb" timestamp="1458653715965">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/models/postal_spec.rb" timestamp="1458633844032">
         <mark key="[" line="56" column="46" />
         <mark key="]" line="59" column="6" />
@@ -2280,10 +2286,11 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1458651872035">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1458653466983">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1458497708145">
         <mark key="[" line="16" column="4" />
@@ -2511,13 +2518,16 @@
         <mark key="." line="21" column="44" />
         <mark key="^" line="21" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/services/book_saving_service_spec.rb" timestamp="1458654168678">
+        <mark key="[" line="4" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/controllers/admin/admin_controller.rb" timestamp="1453994390132">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_book_service_spec.rb" timestamp="1458643622181">
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_book_service_spec.rb" timestamp="1458653699492">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="16" column="13" />
         <mark key="^" line="16" column="13" />
@@ -2682,7 +2692,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>Book, :count</text>
+        <text>Batch::SendmailBookService.run</text>
       </register>
       <register name="/" type="4">
         <text>no_prd: 9\, cd_hh: 100</text>
@@ -2693,29 +2703,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Batch::SendmailBookService.run</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">YnkoMSkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">U2VuZG1haWxCb29rU2VydmljZSA=</text>
       </register>
       <register name="4" type="4">
-        <text>Book, :count</text>
+        <text>と</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcCBmaWxlCg==</text>
+      <register name="5" type="4">
+        <text>こ</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cCBQcmRoaC5hbGwK</text>
+      <register name="6" type="4">
+        <text>る</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>れ</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>さ</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>存</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
