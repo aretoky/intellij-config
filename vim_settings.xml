@@ -411,6 +411,7 @@
         <mark key="^" line="68" column="49" />
         <mark key="." line="68" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/factories/cust_emails.rb" timestamp="1458639340593" />
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/config/staging/db.php" timestamp="1450421529241">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -689,22 +690,17 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1458632211287">
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="40" />
-        <mark key="^" line="58" column="40" />
-        <mark key="." line="58" column="40" />
+      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1458640356553">
+        <mark key="[" line="98" column="59" />
+        <mark key="]" line="98" column="64" />
+        <mark key="^" line="98" column="64" />
+        <mark key="." line="98" column="64" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160309121254_add_to_trim_from_custom_column.rb" timestamp="1457598998238">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/interim_mailer.rb" timestamp="1458472066728">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/cocoon_patch.rb" timestamp="1449217597944">
         <mark key="[" line="34" column="29" />
@@ -1389,6 +1385,9 @@
         <mark key="." line="84" column="36" />
         <mark key="^" line="84" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/mplan.rb" timestamp="1458639300826">
+        <mark key="'" line="70" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/editor_savable.rb" timestamp="1458239323391">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="4" />
@@ -1425,8 +1424,8 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458634889948">
-        <mark key="'" line="351" column="13" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458639035397">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="258" column="46" />
         <mark key="]" line="258" column="55" />
         <mark key="." line="258" column="55" />
@@ -1438,11 +1437,10 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_postal_service.rb" timestamp="1458635049260">
-        <mark key="[" line="4" column="62" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_postal_service.rb" timestamp="1458641033481">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/migrations/001_create_olddb.php" timestamp="1452177337451">
         <mark key="[" line="10" column="0" />
@@ -1501,7 +1499,7 @@
         <mark key="^" line="2" column="95" />
         <mark key="." line="2" column="95" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/upd_postalres_mailer.rb" timestamp="1458629794149">
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/upd_postalres_mailer.rb" timestamp="1458640389228">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="^" line="19" column="44" />
@@ -1628,17 +1626,23 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/factories/emails.rb" timestamp="1458640361785">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/plans.rb" timestamp="1458036738870">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_postal_service_spec.rb" timestamp="1458634587335">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="21" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_postal_service_spec.rb" timestamp="1458640991003">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/application.css.scss" timestamp="1449723809039">
         <mark key="[" line="11" column="2" />
@@ -2511,11 +2515,6 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_book_service.rb" timestamp="1458583969117">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/_temp_ymdroom.html.slim" timestamp="1458375747394">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -2539,10 +2538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/billmail.rb" />
-      <jump line="74" column="9" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="410" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="646" column="62" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="624" column="33" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="641" column="54" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="69" column="34" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_postal.php" />
@@ -2617,7 +2612,6 @@
       <jump line="55" column="47" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="67" column="73" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="220" column="28" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="9" column="5" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="286" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="56" column="43" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
@@ -2639,55 +2633,60 @@
       <jump line="49" column="17" filename="$USER_HOME$/projects/cplus/app/models/upd_postalres.rb" />
       <jump line="237" column="2" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
+      <jump line="345" column="20" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
+      <jump line="67" column="12" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
+      <jump line="70" column="33" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>upd_postalreses</text>
       </register>
       <register name="/" type="4">
-        <text>unsent</text>
+        <text>email</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQoOmN1c3QpICB7IGNyZWF0ZSg6Y3VzdF9mb3JfY3JlYXRlKSB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHAgImFhYWFhIgo=</text>
       </register>
       <register name="2" type="4">
-        <text>p</text>
+        <text>upd_postalreses</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>m</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
       </register>
     </registers>
     <search>
-      <last-search>unsent</last-search>
+      <last-search>email</last-search>
       <last-offset />
-      <last-pattern>unsent</last-pattern>
+      <last-pattern>email</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2695,7 +2694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>b.</entry>
         <entry>b\.</entry>
         <entry>dt_batch1</entry>
         <entry>no_smail</entry>
@@ -2705,7 +2703,6 @@
         <entry>700</entry>
         <entry>cd_hu</entry>
         <entry>cd_cb</entry>
-        <entry>email</entry>
         <entry>cnt_postal</entry>
         <entry>emails</entry>
         <entry>temp_postal</entry>
@@ -2715,6 +2712,8 @@
         <entry>upfile_code</entry>
         <entry>no_postal</entry>
         <entry>unsent</entry>
+        <entry>postal_notificating_enable_emails</entry>
+        <entry>email</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
