@@ -21,9 +21,6 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1458628147472">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1453125651992">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="0" />
@@ -65,6 +62,12 @@
         <mark key="]" line="12" column="49" />
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/factories/upds.rb" timestamp="1458632409328">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/project/air-reader/db/migrate/20151230173439_create_users.rb" timestamp="1451497258409">
         <mark key="[" line="7" column="20" />
@@ -457,6 +460,9 @@
         <mark key="." line="116" column="45" />
         <mark key="^" line="116" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/factories/upfiles.rb" timestamp="1458632426228">
+        <mark key="[" line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_abstract_object.php" timestamp="1456460469185">
         <mark key="[" line="106" column="4" />
         <mark key="]" line="106" column="9" />
@@ -683,7 +689,7 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1458237482909">
+      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1458632211287">
         <mark key="[" line="58" column="15" />
         <mark key="]" line="58" column="40" />
         <mark key="^" line="58" column="40" />
@@ -820,8 +826,8 @@
         <mark key="^" line="61" column="42" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/upd_postalres.rb" timestamp="1458621684920">
-        <mark key="[" line="25" column="23" />
+      <file name="$USER_HOME$/projects/cplus/spec/factories/upd_postalres.rb" timestamp="1458632680926">
+        <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="23" />
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
@@ -1065,6 +1071,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/upd.rb" timestamp="1458631899546">
+        <mark key="'" line="42" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1458498485394">
         <mark key="'" line="74" column="9" />
@@ -1435,11 +1444,11 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_postal_service.rb" timestamp="1458630162535">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="54" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_postal_service.rb" timestamp="1458631228365">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="34" column="40" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/migrations/001_create_olddb.php" timestamp="1452177337451">
         <mark key="[" line="10" column="0" />
@@ -1576,6 +1585,9 @@
         <mark key="]" line="27" column="21" />
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/models/postal_spec.rb" timestamp="1458633248915">
+        <mark key="[" line="53" column="38" />
       </file>
       <file name="$USER_HOME$/sandbox/yourjam.es/config.yml" timestamp="1457709868282">
         <mark key="[" line="1" column="0" />
@@ -1910,9 +1922,6 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1458578350759">
-        <mark key="^" line="0" column="24" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/hplaces.rb" timestamp="1449682433219">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="19" />
@@ -2069,7 +2078,8 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/upd_postalres.rb" timestamp="1458629209865">
+      <file name="$USER_HOME$/projects/cplus/app/models/upd_postalres.rb" timestamp="1458633008420">
+        <mark key="'" line="49" column="17" />
         <mark key="[" line="29" column="47" />
         <mark key="]" line="29" column="58" />
         <mark key="^" line="29" column="58" />
@@ -2520,7 +2530,7 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" timestamp="1458630174584">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" timestamp="1458631104663">
         <mark key="'" line="72" column="43" />
       </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/common/common.php" timestamp="1456832588093">
@@ -2531,14 +2541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="25" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="155" column="40" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="157" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="159" column="33" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="167" column="29" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="374" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="170" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
-      <jump line="115" column="32" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="14" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/billmail.rb" />
       <jump line="74" column="9" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -2631,6 +2633,14 @@
       <jump line="257" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="258" column="26" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="351" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="5" column="13" filename="$USER_HOME$/projects/cplus/app/models/upd.rb" />
+      <jump line="21" column="24" filename="$USER_HOME$/projects/cplus/app/models/upd.rb" />
+      <jump line="41" column="24" filename="$USER_HOME$/projects/cplus/app/models/upd.rb" />
+      <jump line="42" column="24" filename="$USER_HOME$/projects/cplus/app/models/upd.rb" />
+      <jump line="8" column="23" filename="$USER_HOME$/projects/cplus/app/models/upd_postalres.rb" />
+      <jump line="38" column="27" filename="$USER_HOME$/projects/cplus/app/models/upd_postalres.rb" />
+      <jump line="39" column="27" filename="$USER_HOME$/projects/cplus/app/models/upd_postalres.rb" />
+      <jump line="49" column="17" filename="$USER_HOME$/projects/cplus/app/models/upd_postalres.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2640,7 +2650,7 @@
         <text>_upd_postalres</text>
       </register>
       <register name="/" type="4">
-        <text>postals</text>
+        <text>no_postal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBwcmltYXJ5X2tleTogOm5vX3Bvc3RhbCwK</text>
@@ -2661,10 +2671,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwb3N0YWwudXBkX3Bvc3RhbHJlcy5jcmVhdGUobm9fc21haWw6IG5vX3NtYWlsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -2677,9 +2687,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postals</last-search>
+      <last-search>no_postal</last-search>
       <last-offset />
-      <last-pattern>postals</last-pattern>
+      <last-pattern>no_postal</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2687,8 +2697,6 @@
     </search>
     <history>
       <history-search>
-        <entry>use_</entry>
-        <entry>used</entry>
         <entry>b.</entry>
         <entry>b\.</entry>
         <entry>dt_batch1</entry>
@@ -2707,6 +2715,8 @@
         <entry>cd_pa</entry>
         <entry>unsent</entry>
         <entry>postals</entry>
+        <entry>upfile_code</entry>
+        <entry>no_postal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
