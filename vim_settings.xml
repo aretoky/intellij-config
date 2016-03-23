@@ -24,7 +24,7 @@
       <file name="/a.dummy" timestamp="1458666284238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1453125651992">
+      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1458703310818">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -173,6 +173,12 @@
         <mark key="]" line="30" column="32" />
         <mark key="^" line="30" column="32" />
         <mark key="." line="30" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/seed_dump_gen.rake" timestamp="1458701647579">
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+        <mark key="." line="9" column="61" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/mailtpl.rb" timestamp="1458459686516">
         <mark key="[" line="16" column="21" />
@@ -438,7 +444,7 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/postal_destroy.rake" timestamp="1458059572950">
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/postal_destroy.rake" timestamp="1458700572467">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
@@ -1523,6 +1529,12 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_const_db.rake" timestamp="1458702569063">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_plan_fields.html.slim" timestamp="1451021139928">
         <mark key="[" line="2" column="106" />
         <mark key="]" line="2" column="125" />
@@ -1655,7 +1667,7 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/rails_helper.rb" timestamp="1458667676074">
+      <file name="$USER_HOME$/projects/cplus/spec/rails_helper.rb" timestamp="1458702006882">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -1786,8 +1798,11 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail_year.rake" timestamp="1458578124981">
-        <mark key="[" line="0" column="27" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail_year.rake" timestamp="1458700658736">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/image_split_api/public/phpmyadmin/libraries/Config.class.php" timestamp="1455632934821">
         <mark key="[" line="1202" column="9" />
@@ -1975,7 +1990,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1458667149411">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1458700482306">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="25" />
         <mark key="." line="23" column="25" />
@@ -2047,8 +2062,8 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/circle.yml" timestamp="1458670450091">
-        <mark key="[" line="2" column="4" />
+      <file name="$USER_HOME$/projects/cplus/circle.yml" timestamp="1458700901657">
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="4" />
@@ -2719,7 +2734,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>billmails</text>
@@ -2728,31 +2743,31 @@
         <text encoding="base64">aGFzX21hbnkgOmJpbGxtYWlscywKICAgICAgICAgICAtPiB7IHR5cGVfeWVhci5zZW50IH0sCiAgICAgICAgICAgcHJpbWFyeV9rZXk6IDpub19iaWxsLCBmb3JlaWduX2tleTogOm5vX2JpbGw=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>:</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>billmail.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEJhdGNoOjpQb3N0YWxEZXN0cm95LnJ1bgo=</text>
       </register>
       <register name="6" type="4">
-        <text>billmail.</text>
+        <text>14日を過ぎた郵便物を破棄するバッチ</text>
       </register>
       <register name="7" type="4">
-        <text>.enable.email_unsentable.where(dt_queue: dt_batch)</text>
+        <text encoding="base64">cG9zdGFsX2Rlc3Ryb3kg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgYmlsbG1haWwgPSBiaWxsLnllYXJfcGxhbl9iZWZvcmVfMTRfZGF5X2JpbGxtYWlsLmVuYWJsZS5lbWFpbF91bnNlbnRhYmxlLndoZXJlKGR0X3F1ZXVlOiBkdF9iYXRjaCkK</text>
+      <register name="9" type="4">
+        <text>RoomMailfield</text>
       </register>
       <register name=":" type="4">
         <text>%s/MakeBillMonthService/MakeBillYearService/</text>
