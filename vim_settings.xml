@@ -152,11 +152,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1458848831255">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="43" column="30" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1458849516114">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="48" column="36" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/multiple_postals.coffee" timestamp="1453808420686">
         <mark key="[" line="5" column="103" />
@@ -1322,6 +1322,9 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1458849226340">
+        <mark key="'" line="67" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/Procfile" timestamp="1452677526401">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -1413,6 +1416,9 @@
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1458655474642">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/config/database.yml" timestamp="1457456193329">
         <mark key="[" line="41" column="31" />
@@ -1696,7 +1702,7 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/rails_helper.rb" timestamp="1458838794230" />
+      <file name="$USER_HOME$/projects/cplus/spec/rails_helper.rb" timestamp="1458849571164" />
       <file name="$USER_HOME$/projects/cplus/app/controllers/deliverer/deliverer_application_controller.rb" timestamp="1452159695954">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="7" />
@@ -2227,6 +2233,9 @@
         <mark key="." line="147" column="24" />
         <mark key="^" line="147" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_year.php" timestamp="1458662841771">
+        <mark key="'" line="95" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/models/addr_spec.rb" timestamp="1458813500626" />
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.payment_tools.php" timestamp="1456457878684">
         <mark key="[" line="1" column="0" />
@@ -2555,6 +2564,9 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1458649136431">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_addr_fields.html.slim" timestamp="1453969334552">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="12" />
@@ -2657,8 +2669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="38" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="67" column="14" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="68" column="30" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="69" column="30" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="18" column="6" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
@@ -2757,55 +2767,61 @@
       <jump line="367" column="26" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="370" column="18" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="371" column="28" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="96" column="59" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
+      <jump line="67" column="17" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>bitem</text>
+        <text>hhs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF9oaCA9IGJvb2suaGhzLmZpcnN0Cg==</text>
+      <register name="0" type="4">
+        <text>order(:cd_hh)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>describe &quot;前後に余り時間が入っている&quot; do
+      let(:book) do
+        ymdroom_saving_form.save
+        book = ymdroom_saving_form.book
+      end</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgaGguY2RfaGggPT0gMTAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>first</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwIGJvb2suaGhzLm9yZGVyKDpjZF9oaCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>r</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>bitem</last-search>
+      <last-search>hhs</last-search>
       <last-offset />
-      <last-pattern>bitem</last-pattern>
+      <last-pattern>hhs</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2813,7 +2829,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_mailtpl</entry>
         <entry>103</entry>
         <entry>billmail</entry>
         <entry>yn_on</entry>
@@ -2833,6 +2848,7 @@
         <entry>temp_prdhhs</entry>
         <entry>person</entry>
         <entry>bitem</entry>
+        <entry>hhs</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
