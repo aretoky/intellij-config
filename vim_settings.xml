@@ -152,11 +152,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1458846572814">
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="15" column="4" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="15" column="4" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1458848831255">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="43" column="30" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/multiple_postals.coffee" timestamp="1453808420686">
         <mark key="[" line="5" column="103" />
@@ -1499,8 +1499,8 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458748310328">
-        <mark key="'" line="156" column="12" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1458847644184">
+        <mark key="'" line="371" column="28" />
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
@@ -2355,7 +2355,7 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1458846559668">
+      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1458847381163">
         <mark key="'" line="25" column="109" />
         <mark key="[" line="49" column="27" />
         <mark key="]" line="49" column="28" />
@@ -2657,19 +2657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="38" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="117" column="9" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="132" column="36" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="158" column="30" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="159" column="47" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="162" column="13" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="163" column="39" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="164" column="13" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="167" column="9" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="174" column="39" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="176" column="30" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="178" column="14" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="180" column="42" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="188" column="38" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="67" column="14" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="68" column="30" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
@@ -2751,61 +2738,74 @@
       <jump line="65" column="13" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="145" column="10" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="150" column="38" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="156" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="31" column="23" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="17" column="22" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
       <jump line="24" column="69" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
       <jump line="25" column="109" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="158" column="68" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="247" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="250" column="22" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="252" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="253" column="26" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="255" column="22" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="265" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="267" column="28" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="268" column="26" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="366" column="16" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="367" column="26" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="370" column="18" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="371" column="28" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
-        <text>person</text>
+        <text>bitem</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aGFzX21hbnkgOnRyYW5zZmVyX2FkZHJzLCAtPnsKICAgIHRvX3RyYW5zZmVyCiAgICAub3JkZXIoOnNxX3NlcSkKICB9LGNsYXNzX25hbWU6ICdBZGRyJywKICAgICAgICAgICBwcmltYXJ5X2tleTogWzpub19jdXN0LCA6Y2RfcGEsIDpzcV9tcGxhbl0sCiAgICAgICAgICAgZm9yZWlnbl9rZXk6IFs6bm9fY3VzdCwgOmNkX3BhLCA6c3FfbXBsYW5d</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaXJzdF9oaCA9IGJvb2suaGhzLmZpcnN0Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>_</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>o</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>_</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgaGguY2RfaGggPT0gMTAwCg==</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>first</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>person</last-search>
+      <last-search>bitem</last-search>
       <last-offset />
-      <last-pattern>person</last-pattern>
+      <last-pattern>bitem</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2813,7 +2813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cd_hu</entry>
         <entry>no_mailtpl</entry>
         <entry>103</entry>
         <entry>billmail</entry>
@@ -2833,6 +2832,7 @@
         <entry>transfer_addrs</entry>
         <entry>temp_prdhhs</entry>
         <entry>person</entry>
+        <entry>bitem</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
