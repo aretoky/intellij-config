@@ -152,11 +152,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1458839039252">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1458846572814">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/multiple_postals.coffee" timestamp="1453808420686">
         <mark key="[" line="5" column="103" />
@@ -2355,11 +2355,12 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1458843395958">
-        <mark key="[" line="43" column="52" />
-        <mark key="]" line="43" column="52" />
-        <mark key="^" line="43" column="13" />
-        <mark key="." line="43" column="52" />
+      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1458846559668">
+        <mark key="'" line="25" column="109" />
+        <mark key="[" line="49" column="27" />
+        <mark key="]" line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="28" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1458497708145">
         <mark key="[" line="16" column="4" />
@@ -2656,9 +2657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="26" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="80" column="32" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="81" column="17" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="82" column="38" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="117" column="9" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="132" column="36" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
@@ -2756,55 +2754,58 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="156" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="31" column="23" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
+      <jump line="17" column="22" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="24" column="69" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="25" column="109" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>temp_prdhhs</text>
+        <text>person</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aGFzX21hbnkgOnRyYW5zZmVyX2FkZHJzLCAtPnsKICAgIHRvX3RyYW5zZmVyCiAgICAub3JkZXIoOnNxX3NlcSkKICB9LGNsYXNzX25hbWU6ICdBZGRyJywKICAgICAgICAgICBwcmltYXJ5X2tleTogWzpub19jdXN0LCA6Y2RfcGEsIDpzcV9tcGxhbl0sCiAgICAgICAgICAgZm9yZWlnbl9rZXk6IFs6bm9fY3VzdCwgOmNkX3BhLCA6c3FfbXBsYW5d</text>
       </register>
       <register name="1" type="4">
-        <text>a</text>
-      </register>
-      <register name="2" type="4">
         <text>_</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="4">
         <text>o</text>
       </register>
+      <register name="3" type="4">
+        <text>n</text>
+      </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>_</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgYXJyYXkK</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+      <register name="6" type="4">
+        <text>n</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="8" type="4">
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>temp_prdhhs</last-search>
+      <last-search>person</last-search>
       <last-offset />
-      <last-pattern>temp_prdhhs</last-pattern>
+      <last-pattern>person</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2812,7 +2813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>630</entry>
         <entry>cd_hu</entry>
         <entry>no_mailtpl</entry>
         <entry>103</entry>
@@ -2832,6 +2832,7 @@
         <entry>transfer</entry>
         <entry>transfer_addrs</entry>
         <entry>temp_prdhhs</entry>
+        <entry>person</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
