@@ -1994,7 +1994,8 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/radibot/scripts/github.coffee" timestamp="1458924813779">
+      <file name="$USER_HOME$/projects/radibot/scripts/github.coffee" timestamp="1458926611800">
+        <mark key="'" line="0" column="39" />
         <mark key="[" line="5" column="136" />
         <mark key="]" line="5" column="142" />
         <mark key="^" line="5" column="142" />
@@ -2682,8 +2683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="30" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
-      <jump line="69" column="30" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="18" column="6" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="36" column="29" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="64" column="36" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
@@ -2782,6 +2781,8 @@
       <jump line="96" column="59" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="67" column="17" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="1" column="46" filename="$USER_HOME$/projects/radibot/scripts/github.coffee" />
+      <jump line="0" column="39" filename="$USER_HOME$/projects/radibot/scripts/github.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2791,7 +2792,7 @@
         <text>aretoky</text>
       </register>
       <register name="/" type="4">
-        <text>bugs</text>
+        <text>pull-request-conditional-merge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEJ1Z3NuYWcubm90aWZ5IGUK</text>
@@ -2828,9 +2829,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bugs</last-search>
+      <last-search>pull-request-conditional-merge</last-search>
       <last-offset />
-      <last-pattern>bugs</last-pattern>
+      <last-pattern>pull-request-conditional-merge</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2838,7 +2839,6 @@
     </search>
     <history>
       <history-search>
-        <entry>billmail</entry>
         <entry>yn_on</entry>
         <entry>cust</entry>
         <entry>mail</entry>
@@ -2858,6 +2858,7 @@
         <entry>bitem</entry>
         <entry>hhs</entry>
         <entry>bugs</entry>
+        <entry>pull-request-conditional-merge</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
