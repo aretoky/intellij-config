@@ -1499,6 +1499,12 @@
         <mark key="^" line="23" column="99" />
         <mark key="." line="23" column="76" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/show.html.slim" timestamp="1458884063511">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="59" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="57" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/dynamic_account_object_helper.rb" timestamp="1453803115256">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="10" />
@@ -1624,11 +1630,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/edit.html.slim" timestamp="1451273495737">
-        <mark key="[" line="45" column="88" />
-        <mark key="]" line="45" column="91" />
-        <mark key="." line="45" column="91" />
-        <mark key="^" line="45" column="91" />
+      <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/edit.html.slim" timestamp="1458884398855">
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="41" />
+        <mark key="." line="45" column="41" />
+        <mark key="^" line="45" column="41" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/.gitignore" timestamp="1452258940189">
         <mark key="[" line="21" column="18" />
@@ -2364,12 +2370,12 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1458847381163">
+      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1458883726604">
         <mark key="'" line="25" column="109" />
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="28" />
-        <mark key="^" line="49" column="28" />
-        <mark key="." line="49" column="28" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="66" column="33" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1458497708145">
         <mark key="[" line="16" column="4" />
@@ -2775,44 +2781,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">ICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>hhs</text>
       </register>
-      <register name="0" type="4">
-        <text>order(:cd_hh)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxpIOaxuua4iOacn+mZkO+8iOOCq+ODvOODiTLml6Xjg7vmjK/ovrwy5pel44CC5oyv6L6844Gu5aC05ZCI44CB5pyf6ZmQ5pel44GM6YqA6KGM5LyR5pel44Gu5aC05ZCI44Gv44CB57+M5Za25qWt5pel44GuMTXmmYLjgb7jgafvvIkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAueW1kcm9vbS1idG4tb24g5LqI57SE5LitCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGkg5rG65riI5pyf6ZmQ77yI44Kr44O844OJMuaXpeODu+aMr+i+vDLml6XvvIkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAueW1kcm9vbS1idG4tb24g5LqI57SE5LitCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxpIOOAggo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>業</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>営</text>
       </register>
       <register name="6" type="4">
-        <text>describe &quot;前後に余り時間が入っている&quot; do
-      let(:book) do
-        ymdroom_saving_form.save
-        book = ymdroom_saving_form.book
-      end</text>
+        <text>業</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>営</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwIGJvb2suaGhzLm9yZGVyKDpjZF9oaCkK</text>
+        <text encoding="base64">ICBsZXQoOnltZHJvb21fc2F2aW5nX2Zvcm1fcGFyYW0pIHsgYXR0cmlidXRlc19mb3IoOnltZHJvb21fc2F2aW5nX2Zvcm1fcGFyYW0pLm1lcmdlKGN1cnJlbnRfcGVyc29uOiBwZXJzb24pICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAueW1kcm9vbS1idG4tb24g5LqI57SE5LitCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
