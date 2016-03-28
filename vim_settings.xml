@@ -541,6 +541,7 @@
       <file name="/Dummy.txt" timestamp="1458740351581">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/elog/batchbill.rb" timestamp="1459146209181" />
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1452759599366">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
@@ -752,6 +753,7 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" timestamp="1459146000675" />
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/cocoon_patch.rb" timestamp="1449217597944">
         <mark key="[" line="34" column="29" />
         <mark key="]" line="36" column="43" />
@@ -799,6 +801,12 @@
         <mark key="]" line="42" column="4" />
         <mark key="^" line="42" column="54" />
         <mark key="." line="42" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/elog/batchbills_controller.rb" timestamp="1459145837231">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160303071318_create_sites.rb" timestamp="1457596527166">
         <mark key="[" line="2" column="23" />
@@ -853,6 +861,12 @@
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1459146281305">
+        <mark key="[" line="40" column="46" />
+        <mark key="]" line="42" column="48" />
+        <mark key="^" line="42" column="48" />
+        <mark key="." line="42" column="48" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1458030525076">
         <mark key="[" line="79" column="30" />
@@ -1197,6 +1211,12 @@
         <mark key="^" line="29" column="7" />
         <mark key="." line="29" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/elog/batchbills/index.html.slim" timestamp="1459146213854">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/tasks/imagesplits.php" timestamp="1456763734968">
         <mark key="[" line="25" column="29" />
         <mark key="]" line="26" column="12" />
@@ -1396,12 +1416,6 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1458917660042">
-        <mark key="'" line="31" column="23" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/postal/multiple_attribute_updater.rb" timestamp="1449472056788">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="5" />
@@ -1492,12 +1506,6 @@
         <mark key="]" line="23" column="76" />
         <mark key="^" line="23" column="99" />
         <mark key="." line="23" column="76" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/validators/bookable_prdhhs_validator.rb" timestamp="1458648520343">
-        <mark key="'" line="0" column="17" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/show.html.slim" timestamp="1458884063511">
         <mark key="[" line="46" column="0" />
@@ -1653,12 +1661,6 @@
         <mark key="]" line="151" column="0" />
         <mark key="^" line="130" column="31" />
         <mark key="." line="151" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1458665416680">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/tel_transaction_array_factory.rb" timestamp="1453816336878">
         <mark key="[" line="27" column="7" />
@@ -2660,6 +2662,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bills_controller.rb" timestamp="1459145657020" />
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_book_service_spec.rb" timestamp="1458670483948">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="2" />
@@ -2688,6 +2691,12 @@
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/elog/batch_bills_controller.rb" timestamp="1459145590546">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/_temp_ymdroom.html.slim" timestamp="1458375747394">
         <mark key="[" line="7" column="0" />
@@ -2821,7 +2830,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>自動</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -2833,28 +2842,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aCDnorrlrpoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>自動</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICdoZWFkZXInID0+IGltcGxvZGUoIlxyXG4iLCAkaGVhZGVycyksCiAgICAncHJvdG9jb2xfdmVyc2lvbicgPT4gMS4xCg==</text>
+      <register name="6" type="4">
+        <text>年月</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>顧客</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>請求日</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>請求書名</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
