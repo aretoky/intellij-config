@@ -307,7 +307,8 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1458916682927">
+      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1459169624518">
+        <mark key="'" line="8" column="2" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="20" />
         <mark key="^" line="16" column="19" />
@@ -856,6 +857,13 @@
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1459146281305">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="40" column="46" />
+        <mark key="]" line="42" column="48" />
+        <mark key="^" line="42" column="48" />
+        <mark key="." line="42" column="48" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1458030525076">
         <mark key="[" line="79" column="30" />
@@ -1517,6 +1525,9 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1459169528014">
+        <mark key="'" line="317" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/layouts/pdf.html.slim" timestamp="1453878141784">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="4" column="37" />
@@ -2007,6 +2018,13 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/radibot/scripts/github.coffee" timestamp="1458928107805">
+        <mark key="'" line="0" column="39" />
+        <mark key="[" line="1" column="77" />
+        <mark key="]" line="1" column="80" />
+        <mark key="^" line="1" column="80" />
+        <mark key="." line="1" column="80" />
+      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/assets/common/js/script.js" timestamp="1450430513160">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="10" />
@@ -2036,6 +2054,12 @@
         <mark key="]" line="23" column="25" />
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" timestamp="1459169669414">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="33" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/hplaces.rb" timestamp="1449682433219">
         <mark key="[" line="6" column="16" />
@@ -2703,15 +2727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="11" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="66" column="11" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="67" column="35" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="68" column="26" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="69" column="27" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="70" column="17" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="72" column="26" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
-      <jump line="76" column="30" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="77" column="80" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="78" column="24" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="79" column="14" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
@@ -2777,7 +2792,6 @@
       <jump line="24" column="69" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
       <jump line="25" column="109" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
       <jump line="158" column="68" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="247" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="250" column="22" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="252" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -2803,6 +2817,16 @@
       <jump line="99" column="0" filename="$USER_HOME$/projects/cplus/app/views/client/postals/index.html.slim" />
       <jump line="108" column="26" filename="$USER_HOME$/projects/cplus/app/views/client/postals/index.html.slim" />
       <jump line="37" column="6" filename="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="210" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="213" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="318" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="421" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="194" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="198" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="317" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="7" column="37" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
+      <jump line="8" column="2" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2812,7 +2836,7 @@
         <text>clear</text>
       </register>
       <register name="/" type="4">
-        <text>no_postals</text>
+        <text>before_validation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvZGVfYXJyYXlbMTVdLmNsZWFyCg==</text>
@@ -2849,9 +2873,9 @@
       </register>
     </registers>
     <search>
-      <last-search>no_postals</last-search>
+      <last-search>before_validation</last-search>
       <last-offset />
-      <last-pattern>no_postals</last-pattern>
+      <last-pattern>before_validation</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2859,9 +2883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_bill</entry>
-        <entry>billmails</entry>
-        <entry>transfer</entry>
         <entry>transfer_addrs</entry>
         <entry>temp_prdhhs</entry>
         <entry>person</entry>
@@ -2879,6 +2900,9 @@
         <entry>bugsnag</entry>
         <entry>_ur</entry>
         <entry>no_postals</entry>
+        <entry>fax_enable_emails</entry>
+        <entry>cust_enable_emails</entry>
+        <entry>before_validation</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
