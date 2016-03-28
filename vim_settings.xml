@@ -33,6 +33,13 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" timestamp="1459179484298">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="23" />
+        <mark key="^" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.james_mailer.php" timestamp="1456469555601">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="50" column="20" />
@@ -171,11 +178,11 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1459175258809">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1459179881944">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="6" />
         <mark key="^" line="30" column="21" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="24" column="6" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/services/parse_service.rb" timestamp="1457068185387">
         <mark key="[" line="0" column="10" />
@@ -315,12 +322,11 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1459175598181">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="1" column="30" />
+      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1459179918265">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/db/seeds.rb" timestamp="1451480814323">
         <mark key="[" line="1" column="65" />
@@ -658,11 +664,11 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_address_mplan_fields.html.slim" timestamp="1458748073710">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="43" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="12" column="43" />
+      <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_address_mplan_fields.html.slim" timestamp="1459179394922">
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="70" />
+        <mark key="^" line="13" column="70" />
+        <mark key="." line="13" column="70" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/config/redis.yml" timestamp="1453451015956">
         <mark key="[" line="10" column="11" />
@@ -2733,8 +2739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="23" filename="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bill_mailer.rb" />
-      <jump line="16" column="22" filename="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bill_mailer.rb" />
       <jump line="17" column="22" filename="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bill_mailer.rb" />
       <jump line="51" column="13" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" />
       <jump line="136" column="38" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" />
@@ -2815,7 +2819,6 @@
       <jump line="1571" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
       <jump line="1424" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
-      <jump line="0" column="9" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="1" column="17" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="39" column="47" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="42" column="46" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
@@ -2833,55 +2836,58 @@
       <jump line="321" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="434" column="39" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="4" column="23" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
+      <jump line="314" column="31" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
+      <jump line="10" column="19" filename="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXR0ci5ibGFuaz8gfHwg</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>namelist</text>
+        <text>cust_ena</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvZGVfYXJyYXlbMTVdLmNsZWFyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAgImFhYWFhIgo=</text>
+        <text encoding="base64">ICBleHRlbmQgQWN0aXZlTW9kZWw6OkNhbGxiYWNrcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcCBjdXN0Lm5hbWVsaXN0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YXR0ci5ibGFuaz8gfHwg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcCBuYW1lbGlzdHMuc2l6ZQo=</text>
+        <text encoding="base64">ICAgIHAgY3VzdC5wcmV2aW91c19jaGFuZ2VzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcCBjdXN0LmN1c3RfZW5hYmxlX2VtYWlscwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlIHVubGVzcyBwZXJzb24uY3VzdD8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcHJlcGFyZV9zZW5kX2VtYWlsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>#</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>namelist</last-search>
+      <last-search>cust_ena</last-search>
       <last-offset />
-      <last-pattern>namelist</last-pattern>
+      <last-pattern>cust_ena</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2889,8 +2895,6 @@
     </search>
     <history>
       <history-search>
-        <entry>express</entry>
-        <entry>file_get</entry>
         <entry>form</entry>
         <entry>elapsed_time</entry>
         <entry>elog</entry>
@@ -2909,6 +2913,8 @@
         <entry>name</entry>
         <entry>cust_enable_ema</entry>
         <entry>namelist</entry>
+        <entry>build</entry>
+        <entry>cust_ena</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
