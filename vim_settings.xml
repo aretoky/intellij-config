@@ -22,11 +22,11 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1459200396290">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="25" />
+      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1459209266032">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1459200683187">
         <mark key="[" line="11" column="20" />
@@ -34,12 +34,12 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" timestamp="1459204242294">
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" timestamp="1459208949593">
         <mark key="'" line="74" column="20" />
-        <mark key="[" line="108" column="35" />
-        <mark key="]" line="109" column="12" />
-        <mark key="." line="109" column="12" />
-        <mark key="^" line="109" column="12" />
+        <mark key="[" line="115" column="7" />
+        <mark key="]" line="116" column="38" />
+        <mark key="^" line="116" column="38" />
+        <mark key="." line="116" column="38" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_address_mplan_fields.html.slim" timestamp="1459179394922">
         <mark key="[" line="13" column="71" />
@@ -72,11 +72,18 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/decorators/cust/attribute_saver_decorator.rb" timestamp="1459204376588">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
+      <file name="$USER_HOME$/projects/cplus/app/decorators/cust/attribute_saver_decorator.rb" timestamp="1459208358914">
+        <mark key="[" line="18" column="98" />
+        <mark key="]" line="18" column="124" />
+        <mark key="." line="18" column="124" />
+        <mark key="^" line="18" column="124" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/environments/development.rb" timestamp="1459209308407">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+        <mark key="^" line="16" column="50" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1458666431944">
         <mark key="'" line="150" column="38" />
@@ -177,8 +184,14 @@
         <mark key="^" line="1" column="80" />
         <mark key="." line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1459200371366">
-        <mark key="'" line="46" column="13" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" timestamp="1459205687015">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1459205094131">
+        <mark key="'" line="276" column="8" />
         <mark key="[" line="272" column="12" />
         <mark key="]" line="272" column="18" />
         <mark key="." line="272" column="18" />
@@ -244,9 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="28" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/giftcard_order.php" />
-      <jump line="18" column="57" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/batchres/index.php" />
-      <jump line="52" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="70" column="17" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="99" column="0" filename="$USER_HOME$/projects/cplus/app/views/client/postals/index.html.slim" />
@@ -344,55 +354,58 @@
       <jump line="33" column="0" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
       <jump line="71" column="33" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
       <jump line="68" column="12" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="276" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/cplus/config/environments/development.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>address_mplans</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlc1s6YWRkcmVzc19tcGxhbnNdIHx8PSB7fQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+      <register name="1" type="4">
+        <text>false</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>address_mplans</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgIG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1wbGFuID0gYWRkcmVzc19tcGxhbnMuc2VsZWN0IHsgfG1wbGFufCBtcGxhbi5zcV9tcGxhbiA9PSBrZXkgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICB2LmVhY2ggZG8gfGtleSwgdmFsdWV8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHAgQG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgbXBsYW4udHJhbnNmZXJfZW5hYmxlX2VtYWlscy5hbnk/IHsgfG58IG4uY2hhbmdlZD8gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cust_ena</entry>
-        <entry>320</entry>
         <entry>$string_changed_addr</entry>
         <entry>$string_changed_email</entry>
         <entry>$list_changed['email']</entry>
@@ -420,6 +431,8 @@
         <entry>namelists</entry>
         <entry>cust_enable_tel</entry>
         <entry>email</entry>
+        <entry>address_mp</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
