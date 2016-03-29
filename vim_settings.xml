@@ -172,10 +172,11 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1459252800362">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1459253724568">
+        <mark key="[" line="57" column="9" />
+        <mark key="]" line="61" column="9" />
+        <mark key="." line="59" column="6" />
+        <mark key="^" line="59" column="5" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/services/parse_service.rb" timestamp="1457068185387">
         <mark key="[" line="0" column="10" />
@@ -1577,12 +1578,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1459239702474">
-        <mark key="'" line="174" column="12" />
-        <mark key="[" line="240" column="46" />
-        <mark key="]" line="240" column="56" />
-        <mark key="^" line="240" column="56" />
-        <mark key="." line="240" column="56" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1459253514557">
+        <mark key="'" line="200" column="33" />
+        <mark key="[" line="199" column="55" />
+        <mark key="]" line="199" column="55" />
+        <mark key="^" line="199" column="70" />
+        <mark key="." line="199" column="55" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/layouts/pdf.html.slim" timestamp="1453878141784">
         <mark key="[" line="4" column="42" />
@@ -2793,12 +2794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="318" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="421" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="194" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="198" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="317" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="7" column="37" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="8" column="2" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="453" column="4" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
@@ -2893,55 +2888,63 @@
       <jump line="42" column="22" filename="$USER_HOME$/projects/radibot/node_modules/pull-request-conditional-merge/src/pull-request-conditional-merge.coffee" />
       <jump line="44" column="63" filename="$USER_HOME$/projects/radibot/node_modules/pull-request-conditional-merge/src/pull-request-conditional-merge.coffee" />
       <jump line="67" column="91" filename="$USER_HOME$/projects/radibot/node_modules/pull-request-conditional-merge/src/pull-request-conditional-merge.coffee" />
+      <jump line="326" column="28" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="429" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="329" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="328" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="327" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="200" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>ActionMailer::Base.deliveries.size</text>
+        <text>, autosave: true</text>
       </register>
       <register name="/" type="4">
-        <text>sha</text>
+        <text>cust_enable_</text>
       </register>
       <register name="0" type="4">
-        <text>expect{ subject }.to change{ ActionMailer::Base.deliveries.size }.by(1)</text>
+        <text>it &quot;メールアドレスが追加されること&quot; do
+        expect{ subject }.to change{ cust.cust_enable_emails.count }.by(1)
+      end</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwIGN1c3QuY3VzdF9lbmFibGVfZW1haWxzCg==</text>
+      <register name="1" type="4">
+        <text>, autosave: true</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwIGN1c3QuY3VzdF9lbmFibGVfZW1haWxzLmZpcnN0LnNhdmUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICYgY3VzdC5jdXN0X2VuYWJsZV9lbWFpbHMuZmlyc3Quc2F2ZQ==</text>
       </register>
-      <register name="3" type="4">
-        <text>ActionMailer::Base.deliveries.size</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjdXN0Lm5tX2N1c3QgPSAiaG9nZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>何も変更がなければ</text>
-      </register>
-      <register name="6" type="4">
-        <text>first.email = &quot;kotera@gmail.com&quot;</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwIGN1c3QuY3VzdF9lbmFibGVfZW1haWxzCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>radicode.co.jp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwIGN1c3QuY3VzdF9lbmFibGVfZW1haWxzCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwIGN1c3QuY3VzdF9lbmFibGVfZW1haWxzLmZpcnN0LnNhdmUK</text>
+      </register>
+      <register name="7" type="4">
+        <text>ActionMailer::Base.deliveries.size</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>何も変更がなければ</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>sha</last-search>
+      <last-search>cust_enable_</last-search>
       <last-offset />
-      <last-pattern>sha</last-pattern>
+      <last-pattern>cust_enable_</last-pattern>
       <last-replace>MakeBillYearService</last-replace>
       <last-substitute>MakeBillMonthService</last-substitute>
       <last-dir>1</last-dir>
@@ -2949,7 +2952,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$list_changed['email']</entry>
         <entry>$list_changed[\'email\']</entry>
         <entry>msg</entry>
         <entry>321</entry>
@@ -2969,6 +2971,7 @@
         <entry>error</entry>
         <entry>cd_ur</entry>
         <entry>sha</entry>
+        <entry>cust_enable_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
