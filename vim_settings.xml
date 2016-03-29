@@ -172,11 +172,10 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1459251887921">
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="28" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1459252800362">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/services/parse_service.rb" timestamp="1457068185387">
         <mark key="[" line="0" column="10" />
@@ -1778,7 +1777,7 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/rails_helper.rb" timestamp="1459239798617">
+      <file name="$USER_HOME$/projects/cplus/spec/rails_helper.rb" timestamp="1459252249252">
         <mark key="[" line="47" column="3" />
         <mark key="]" line="47" column="3" />
         <mark key="^" line="47" column="3" />
@@ -2900,40 +2899,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>ActionMailer::Base.deliveries.size</text>
       </register>
       <register name="/" type="4">
         <text>sha</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlc1s6YWRkcmVzc19tcGxhbnNdIHx8PSB7fQo=</text>
+      <register name="0" type="4">
+        <text>expect{ subject }.to change{ ActionMailer::Base.deliveries.size }.by(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIGN1c3QuY3VzdF9lbmFibGVfZW1haWxzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBwIGN1c3QuY3VzdF9lbmFibGVfZW1haWxzLmZpcnN0LnNhdmUK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0eyBzdWJqZWN0IH0udG8K</text>
+      <register name="3" type="4">
+        <text>ActionMailer::Base.deliveries.size</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGl0ICJCaXRlbeOBjOS4gOOBpOWil+OBiOOCi+OBk+OBqCIgZG8K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="5" type="4">
+        <text>何も変更がなければ</text>
+      </register>
+      <register name="6" type="4">
+        <text>first.email = &quot;kotera@gmail.com&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0eyBzdWJqZWN0IH0udG8K</text>
+        <text encoding="base64">ICAgICAgICBwIGN1c3QuY3VzdF9lbmFibGVfZW1haWxzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0ICJCaWxs44GM5LiA44Gk5aKX44GI44KL44GT44GoIiBkbwo=</text>
+      <register name="8" type="4">
+        <text>radicode.co.jp</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
