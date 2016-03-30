@@ -495,9 +495,6 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/upfiles.rb" timestamp="1458632426228">
-        <mark key="[" line="3" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/yamatos/index.html.slim" timestamp="1459240797265">
         <mark key="[" line="26" column="10" />
         <mark key="]" line="26" column="54" />
@@ -539,12 +536,6 @@
         <mark key="]" line="18" column="56" />
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
-      </file>
-      <file name="/dummy.sql" timestamp="1458651458992">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1459245699746">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1459200683187">
         <mark key="[" line="11" column="20" />
@@ -660,9 +651,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/Rakefile" timestamp="1458730553124">
-        <mark key="[" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_address_mplan_fields.html.slim" timestamp="1459179394922">
         <mark key="[" line="13" column="71" />
@@ -1163,9 +1151,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="8" column="44" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1459153054214">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/postals/show.html.slim" timestamp="1453800999017">
         <mark key="[" line="8" column="0" />
@@ -2219,11 +2204,10 @@
         <mark key="." line="32" column="52" />
         <mark key="^" line="32" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/environment.rb" timestamp="1456995145166">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/environment.rb" timestamp="1459355318717">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/.rspec" timestamp="1457977042226">
         <mark key="[" line="0" column="7" />
@@ -2284,6 +2268,12 @@
         <mark key="]" line="11" column="18" />
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/views/layouts/application.html.slim" timestamp="1459355115477">
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="8" column="74" />
+        <mark key="." line="8" column="74" />
+        <mark key="^" line="8" column="87" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/db/migrate/20151229191708_create_sessions.rb" timestamp="1451481487017">
         <mark key="[" line="3" column="34" />
@@ -2366,9 +2356,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1459328196884">
-        <mark key="[" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/layouts/application.html.erb" timestamp="1454934874927">
         <mark key="[" line="8" column="13" />
@@ -2833,7 +2820,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, debug: false</text>
       </register>
       <register name="/" type="4">
         <text>cd_fr</text>
@@ -2842,31 +2829,31 @@
         <text encoding="base64">ICAgICAgICAic3RhcnQiOiB7ICAiZGF0ZVRpbWUiOiBib29rLmZyb21fdGltZS5pc284NjAxICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAidGV4dF9kaXNjZXJuZXIiCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+      <register name="2" type="4">
+        <text>, debug: false</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV3X2NyYXdsX3N0YXR1cyA9IENyYXdsU3RhdHVzLmZpbmRfb3JfYnVpbGRfYnkodXJsOiB1cmwsIHNpdGVfaWQ6IGNyYXdsX3N0YXR1cy5zaXRlX2lkKQo=</text>
+      <register name="3" type="4">
+        <text>, debug: false</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>=</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>=</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
