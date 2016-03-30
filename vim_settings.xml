@@ -2186,6 +2186,7 @@
         <mark key="." line="98" column="32" />
         <mark key="^" line="98" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/concerns/belongs_to_cust.rb" timestamp="1459328369615" />
       <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160128174825_add_column_parsed_at_from_crawl_status.rb" timestamp="1454578280919">
         <mark key="[" line="2" column="45" />
         <mark key="]" line="2" column="52" />
@@ -2421,6 +2422,12 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1459328196884">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/views/layouts/application.html.erb" timestamp="1454934874927">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="37" />
@@ -2572,6 +2579,12 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/add_event_on_google_calender_service.rb" timestamp="1459329036695">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_year_service_spec.rb" timestamp="1458662076161">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="46" column="7" />
@@ -2687,12 +2700,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1459246939707">
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1459328830682">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+        <mark key="[" line="118" column="16" />
+        <mark key="]" line="119" column="52" />
+        <mark key="^" line="119" column="52" />
+        <mark key="." line="119" column="52" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_addr_fields.html.slim" timestamp="1453969334552">
         <mark key="[" line="7" column="13" />
@@ -2907,31 +2920,31 @@
         <text>nested_attributes_previous_changes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3R7IHN1YmplY3QgfS50byBjaGFuZ2V7IGN1c3QuY3VzdF9lbmFibGVfZW1haWxzLmNvdW50IH0uYnkoMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaXQgIuODoeODvOODq+OCouODieODrOOCueOBjOi/veWKoOOBleOCjOOCi+OBk+OBqCIgZG8K</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgImJiIgo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3R7IHN1YmplY3QgfS50byBjaGFuZ2V7IGN1c3QuY3VzdF9lbmFibGVfZW1haWxzLmNvdW50IH0uYnkoMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgQG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXNbOmFkZHJlc3NfbXBsYW5zXQo=</text>
+        <text encoding="base64">ICAgICAgaXQgIuODoeODvOODq+OCouODieODrOOCueOBjOi/veWKoOOBleOCjOOCi+OBk+OBqCIgZG8K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
