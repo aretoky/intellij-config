@@ -142,11 +142,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/multiple_custom_columns_controller.rb" timestamp="1459405581031">
-        <mark key="[" line="0" column="53" />
-        <mark key="]" line="0" column="53" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/multiple_custom_columns_controller.rb" timestamp="1459407717783">
+        <mark key="[" line="0" column="56" />
+        <mark key="]" line="0" column="56" />
         <mark key="^" line="0" column="53" />
-        <mark key="." line="0" column="53" />
+        <mark key="." line="0" column="56" />
       </file>
       <file name="$USER_HOME$/projects/cplus/.env" timestamp="1459330565493">
         <mark key="[" line="12" column="15" />
@@ -547,11 +547,11 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/sites_controller.rb" timestamp="1459405589006">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="37" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/sites_controller.rb" timestamp="1459407750412">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/postals_controller.rb" timestamp="1449151684080">
         <mark key="[" line="18" column="49" />
@@ -562,7 +562,7 @@
       <file name="/dummy.sql" timestamp="1458651458992">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1459406851789">
+      <file name="/Dummy.txt" timestamp="1459407675935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1459200683187">
@@ -2324,10 +2324,11 @@
         <mark key="." line="63" column="12" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/class/google-api-php-client-1.1.4/src/Google/Auth/AssertionCredentials.php" timestamp="1459336118693" />
-      <file name="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" timestamp="1459353581043">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" timestamp="1459408138686">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="42" />
+        <mark key="^" line="31" column="42" />
       </file>
       <file name="$USER_HOME$/projects/raditools/.gitignore" timestamp="1455354981938">
         <mark key="[" line="7" column="10" />
@@ -2946,7 +2947,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>tel</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -2955,31 +2956,31 @@
         <text encoding="base64">ICAgICAgICAic3RhcnQiOiB7ICAiZGF0ZVRpbWUiOiBib29rLmZyb21fdGltZS5pc284NjAxICB9LAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiMgPCU9IGFwcF9jb25zdF9iYXNlICU+CgojIyBJbml0aWFsIHNldHVwCgojIyMgV2l0aG91dCBWYWdyYW50CgoqIEluc3RhbGwgYW5kIHNldHVwIFBvc3RncmVTUUwKICAqIFVidW50dQogICAgKiBodHRwOi8vc29jcmF0ZW9zLmJsb2dzcG90LmNvbS5ici8yMDEyLzA4L2luc3RhbGxpbmctcG9zdGdyZXNxbC05MS1vbi11YnVudHUtMTIwNC5odG1sCiAgICAqIGh0dHBzOi8vaGVscC51YnVudHUuY29tL2NvbW11bml0eS9Qb3N0Z3JlU1FMCiAgICAqIGBzdWRvIGFwdC1nZXQgaW5zdGFsbCBsaWJwcS1kZXZgCiogW0luc3RhbGwgUGhhbnRvbS5qc10oaHR0cDovL3BoYW50b21qcy5vcmcvZG93bmxvYWQuaHRtbCkgZm9yIHJ1bm5pbmcgSlMgYW5kCiAgaW50ZWdyYXRpb24gc3BlY3MKKiBNYWtlIHN1cmUgeW91IGhhdmUgcmVxdWlyZWQgbGlicmFyaWVzIGZvciBpbnN0YWxsaW5nIFtub2tvZ2lyaV0oaHR0cDovL25va29naXJpLm9yZykKICAodXNlZCBieSBDYXB5YmFyYSkKICAqIFVidW50dSAtPiBgc3VkbyBhcHQtZ2V0IGluc3RhbGwgbGlieHNsdC1kZXYgbGlieG1sMi1kZXZgCiogUnVuOgoKYGBgdGVybWluYWwKY3AgY29uZmlnL2RhdGFiYXNlLnltbC5zYW1wbGUgY29uZmlnL2RhdGFiYXNlLnltbApjcCAuZW52LnNhbXBsZSAuZW52CmJ1bmRsZSBpbnN0YWxsCmJ1bmRsZSBleGVjIHJha2UgZGI6cmVzZXQgZGI6c2V0dXAKYGBgCgojIyMjIFJ1bm5pbmcgdGhlIGFwcAoKYGdlbSBpbnN0YWxsIGZvcmVtYW5gIGlmIGl0IGlzIG5vdCBpbnN0YWxsZWQKCmBidW5kbGUgZXhlYyBmb3JlbWFuIHN0YXJ0YCB3aWxsIGZpcmUgdXAgYSB1bmljb3JuIHNlcnZlciBhdApodHRwOi8vbG9jYWxob3N0OjgwODAKCiMjIyBXaXRoIFZhZ3JhbnQgKGV4cGVyaW1lbnRhbCkKCk1ha2Ugc3VyZSB5b3UgaGF2ZSBWYWdyYW50IGFuZCBWaXJ0dWFsQm94IGluc3RhbGxlZCBvbiB5b3VyIG1hY2hpbmUsIGNoZWNrIGlmIHlvdQpoYXZlIHRoZSBbcHJlcmVxdWlzaXRlc10oaHR0cDovL3ZhZ3JhbnR1cC5jb20vdjEvZG9jcy9uZnMuaHRtbCNwcmVyZXF1aXNpdGVzKQp0byB1c2UgTkZTIFNoYXJlZCBGb2xkZXJzIHdpdGggVmFncmFudCBhbmQgcnVuOgoKYGBgdGVybWluYWwKc2NyaXB0L3NldHVwX3ZhZ3JhbnQKYGBgCgojIyMjIFJ1bm5pbmcgdGhlIGFwcAoKYGBgdGVybWluYWwKW2hvc3QtbWFjaGluZV0gJCB2YWdyYW50IHNzaApbdmFncmFudC12bV0gICAkIGNkIC92YWdyYW50Clt2YWdyYW50LXZtXSAgICQgZm9yZW1hbiBzdGFydApgYGAKCiMjIFNldHRpbmcgdXAgcHJvZHVjdGlvbiAvIHN0YWdpbmcKCiMjIyBBbWF6b24gUzMgYnVja2V0CgpDcmVhdGUgYSBidWNrZXQgd2l0aCBgcHVibGljIHJlYWRgIGFjY2VzcyBhbmQgZW5hYmxlIENPUlMgb24gaXQgc28gdGhhdCBbY3VzdG9tIGZvbnRzIGdldCBsb2FkZWQgb24gRmlyZWZveF0oCmh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTEyNjE4MDUvcmFpbHMtMy1mb250LWZhY2UtZmFpbGluZy1pbi1wcm9kdWN0aW9uLXdpdGgtZmlyZWZveCkuCgojIyMgSGVyb2t1CgojIyMjIFByb2R1Y3Rpb24KCmBgYHRlcm1pbmFsCmhlcm9rdSBhZGRvbnM6YWRkIG1lbWNhY2hpZXI6ZGV2IC0tYXBwIDwlPSBhcHBfY29uc3RfYmFzZS51bmRlcnNjb3JlICU+CgpoZXJva3UgbGFiczplbmFibGUgdXNlci1lbnYtY29tcGlsZSAtLWFwcCA8JT0gYXBwX2NvbnN0X2Jhc2UudW5kZXJzY29yZSAlPgoKaGVyb2t1IGNvbmZpZzphZGQgLS1hcHAgPCU9IGFwcF9jb25zdF9iYXNlLnVuZGVyc2NvcmUgJT4gRk9HX1BST1ZJREVSPUFXUyBcCiAgICAgICBBV1NfQUNDRVNTX0tFWV9JRD0nPGFjY2Vzcy1rZXk+JyBcCiAgICAgICBBV1NfU0VDUkVUX0FDQ0VTU19LRVk9JzxzZWNyZXQta2V5PicgXAogICAgICAgRk9HX1JFR0lPTj0nPGZvZy1yZWdpb24+JyBcCiAgICAgICBGT0dfRElSRUNUT1JZPSc8YnVja2V0LW5hbWU+JyBcCiAgICAgICBBU1NFVF9TWU5DX0daSVBfQ09NUFJFU1NJT049dHJ1ZSBcCiAgICAgICBBU1NFVF9TWU5DX01BTklGRVNUPWZhbHNlIFwKICAgICAgIEFTU0VUX1NZTkNfRVhJU1RJTkdfUkVNT1RFX0ZJTEVTPWtlZXAgXAogICAgICAgVFo9J0FtZXJpY2EvU2FvX1BhdWxvJwpgYGAKCiMjIyMgU3RhZ2luZwoKYGBgCmhlcm9rdSBhZGRvbnM6YWRkIG1lbWNhY2hpZXI6ZGV2IC0tYXBwIDwlPSBhcHBfY29uc3RfYmFzZS51bmRlcnNjb3JlICU+LXN0YWdpbmcKCmhlcm9rdSBsYWJzOmVuYWJsZSB1c2VyLWVudi1jb21waWxlIC0tYXBwIDwlPSBhcHBfY29uc3RfYmFzZS51bmRlcnNjb3JlICU+LXN0YWdpbmcKCmhlcm9rdSBjb25maWc6YWRkIC0tYXBwIDwlPSBhcHBfY29uc3RfYmFzZS51bmRlcnNjb3JlICU+LXN0YWdpbmcgRk9HX1BST1ZJREVSPUFXUyBcCiAgICAgICBBV1NfQUNDRVNTX0tFWV9JRD0nPGFjY2Vzcy1rZXk+JyBcCiAgICAgICBBV1NfU0VDUkVUX0FDQ0VTU19LRVk9JzxzZWNyZXQta2V5PicgXAogICAgICAgRk9HX1JFR0lPTj0nPGZvZy1yZWdpb24+JyBcCiAgICAgICBGT0dfRElSRUNUT1JZPSc8YnVja2V0LW5hbWU+JyBcCiAgICAgICBBU1NFVF9TWU5DX0daSVBfQ09NUFJFU1NJT049dHJ1ZSBcCiAgICAgICBBU1NFVF9TWU5DX01BTklGRVNUPWZhbHNlIFwKICAgICAgIEFTU0VUX1NZTkNfRVhJU1RJTkdfUkVNT1RFX0ZJTEVTPWtlZXAgXAogICAgICAgVFo9J0FtZXJpY2EvU2FvX1BhdWxvJwpgYGAKCgo=</text>
+        <text>n</text>
       </register>
       <register name="2" type="4">
-        <text>tel</text>
+        <text>i</text>
       </register>
       <register name="3" type="4">
-        <text>tel</text>
+        <text>m</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSAidGV4dF9kaXNjZXJuZXIiCg==</text>
+      <register name="4" type="4">
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>, debug: false</text>
+        <text>A</text>
       </register>
       <register name="6" type="4">
-        <text>, debug: false</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text>m</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
