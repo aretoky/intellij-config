@@ -615,12 +615,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" timestamp="1459320003414">
-        <mark key="'" line="79" column="22" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="114" column="62" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" timestamp="1459384943792">
+        <mark key="'" line="80" column="11" />
+        <mark key="[" line="95" column="21" />
+        <mark key="]" line="95" column="25" />
+        <mark key="^" line="95" column="25" />
+        <mark key="." line="95" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/boolean_between_dts_input.rb" timestamp="1451250269258">
         <mark key="[" line="8" column="0" />
@@ -2714,7 +2714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1255" column="164" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
       <jump line="1244" column="21" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
       <jump line="977" column="49" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
       <jump line="343" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
@@ -2814,13 +2813,14 @@
       <jump line="26" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_add_events_on_google_calender.php" />
       <jump line="163" column="17" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
+      <jump line="80" column="11" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>, debug: false</text>
+        <text>tel</text>
       </register>
       <register name="/" type="4">
         <text>cd_fr</text>
@@ -2828,32 +2828,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAic3RhcnQiOiB7ICAiZGF0ZVRpbWUiOiBib29rLmZyb21fdGltZS5pc284NjAxICB9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSAidGV4dF9kaXNjZXJuZXIiCg==</text>
+      <register name="1" type="4">
+        <text>tel</text>
       </register>
       <register name="2" type="4">
-        <text>, debug: false</text>
+        <text>tel</text>
       </register>
-      <register name="3" type="4">
-        <text>, debug: false</text>
+      <register name="3" type="2">
+        <text encoding="base64">cmVxdWlyZSAidGV4dF9kaXNjZXJuZXIiCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>, debug: false</text>
       </register>
       <register name="5" type="4">
-        <text>=</text>
+        <text>, debug: false</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text>=</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
