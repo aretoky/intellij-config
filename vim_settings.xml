@@ -303,11 +303,11 @@
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/lib/meta_crawler.rb" timestamp="1457435352518">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="26" column="91" />
-        <mark key="." line="26" column="91" />
-        <mark key="^" line="26" column="91" />
+      <file name="$USER_HOME$/projects/meta_crawler/lib/meta_crawler.rb" timestamp="1459509643648">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="83" />
+        <mark key="." line="29" column="83" />
+        <mark key="^" line="29" column="83" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admin/multiple_custom_columns_controller.rb" timestamp="1457409802741">
         <mark key="[" line="11" column="0" />
@@ -561,11 +561,11 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/sites_controller.rb" timestamp="1459407750412">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="40" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="40" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/sites_controller.rb" timestamp="1459510408109">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="50" column="51" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/postals_controller.rb" timestamp="1449151684080">
         <mark key="[" line="18" column="49" />
@@ -2753,6 +2753,12 @@
         <mark key="^" line="12" column="61" />
         <mark key="." line="12" column="61" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/_form.html.slim" timestamp="1459510422785">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/migrations/001_create_requests.php" timestamp="1456748654611">
         <mark key="[" line="11" column="67" />
         <mark key="]" line="13" column="56" />
@@ -2782,6 +2788,12 @@
         <mark key="]" line="23" column="15" />
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/new.html.slim" timestamp="1459510243527">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -2900,31 +2912,31 @@
         <text encoding="base64">ICBpbmRleCh7IHNpdGVfaWQ6IDEgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmcmFtZSNhcnRpY2xlX3BhZ2UK</text>
       </register>
-      <register name="2" type="4">
-        <text>site_id</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>site_id</text>
       </register>
-      <register name="5" type="4">
-        <text>== true)</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>crawled_at == nil</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
+        <text>== true)</text>
+      </register>
+      <register name="8" type="4">
+        <text>crawled_at == nil</text>
+      </register>
+      <register name="9" type="4">
         <text>!</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
