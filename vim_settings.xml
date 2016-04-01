@@ -2157,11 +2157,11 @@
         <mark key="^" line="50" column="21" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1459495465884">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-        <mark key="^" line="3" column="51" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1459518828102">
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="8" column="74" />
+        <mark key="." line="8" column="74" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/client/client_application_mailer.rb" timestamp="1448987349242">
         <mark key="[" line="0" column="13" />
@@ -2914,7 +2914,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>site_id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>vendor</text>
@@ -2922,32 +2922,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBpbmRleCh7IHNpdGVfaWQ6IDEgfSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmcmFtZSNhcnRpY2xlX3BhZ2UK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>sidekiq_downloader</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmcmFtZSNhcnRpY2xlX3BhZ2UK</text>
       </register>
-      <register name="4" type="4">
-        <text>site_id</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>== true)</text>
+      <register name="6" type="4">
+        <text>site_id</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>crawled_at == nil</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>!</text>
+        <text>== true)</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
