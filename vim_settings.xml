@@ -522,7 +522,6 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/circle.yml" timestamp="1459512795128" />
       <file name="$USER_HOME$/projects/cplus/app/models/emp.rb" timestamp="1458239816322">
         <mark key="[" line="123" column="16" />
         <mark key="]" line="123" column="8" />
@@ -1093,7 +1092,6 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/templates/nginx_conf.erb" timestamp="1459495323772" />
       <file name="$USER_HOME$/projects/meta_crawler/config/application.rb" timestamp="1457286170455">
         <mark key="[" line="41" column="58" />
         <mark key="]" line="42" column="45" />
@@ -1670,6 +1668,13 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" timestamp="1459655543375">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="97" column="17" />
+        <mark key="]" line="97" column="37" />
+        <mark key="." line="97" column="37" />
+        <mark key="^" line="97" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/edit.html.slim" timestamp="1458884398855">
         <mark key="[" line="45" column="30" />
         <mark key="]" line="45" column="41" />
@@ -1838,7 +1843,6 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/deploy/production.rb" timestamp="1459513120357" />
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/mail_template/failed_payment_last.txt" timestamp="1456443488985">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="17" />
@@ -2271,7 +2275,7 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/person.rb" timestamp="1448957717553">
+      <file name="$USER_HOME$/projects/cplus/app/models/person.rb" timestamp="1459655092344">
         <mark key="[" line="63" column="7" />
         <mark key="]" line="63" column="12" />
         <mark key="^" line="63" column="12" />
@@ -2765,9 +2769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1183" column="205" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
-      <jump line="1161" column="183" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
-      <jump line="1448" column="97" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
       <jump line="1670" column="177" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
       <jump line="1243" column="33" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm.php" />
@@ -2865,55 +2866,58 @@
       <jump line="29" column="3" filename="$USER_HOME$/projects/meta_crawler/circle/install_mecab.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/meta_crawler/circle/install_mecab.sh" />
       <jump line="5" column="15" filename="$USER_HOME$/projects/meta_crawler/circle/install_mecab.sh" />
+      <jump line="7" column="30" filename="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" />
+      <jump line="35" column="13" filename="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" />
+      <jump line="91" column="0" filename="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>current_person.no_key</text>
       </register>
       <register name="/" type="4">
-        <text>vendor</text>
+        <text>current_person</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbmRleCh7IHNpdGVfaWQ6IDEgfSkK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>current_person.no_key</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Z2VtICdybWFnaWNrJwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>sidekiq_downloader</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmcmFtZSNhcnRpY2xlX3BhZ2UK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>site_id</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>vendor</last-search>
+      <last-search>current_person</last-search>
       <last-offset />
-      <last-pattern>vendor</last-pattern>
+      <last-pattern>current_person</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2921,7 +2925,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plan_nil</entry>
         <entry>size</entry>
         <entry>hash</entry>
         <entry>md5</entry>
@@ -2941,6 +2944,7 @@
         <entry>kaminari</entry>
         <entry>'</entry>
         <entry>vendor</entry>
+        <entry>current_person</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
