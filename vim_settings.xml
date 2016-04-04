@@ -573,11 +573,11 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/sites_controller.rb" timestamp="1459704883130">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/sites_controller.rb" timestamp="1459756348809">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
         <mark key="^" line="50" column="51" />
-        <mark key="." line="51" column="0" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/postals_controller.rb" timestamp="1449151684080">
         <mark key="[" line="18" column="49" />
@@ -824,7 +824,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/parse_job.rb" timestamp="1457286065731">
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/parse_job.rb" timestamp="1459757068706">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="10" column="6" />
@@ -1406,6 +1406,11 @@
         <mark key="." line="128" column="96" />
         <mark key="^" line="128" column="96" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/multiple_parsers/create.js.coffee" timestamp="1459756288502">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/spec_helper.rb" timestamp="1459248716358">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="328" />
@@ -1513,13 +1518,6 @@
         <mark key="]" line="16" column="21" />
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/config/environments/test.rb" timestamp="1459711012666">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="39" column="26" />
       </file>
       <file name="$USER_HOME$/projects/radibot/.gitignore" timestamp="1458924876777">
         <mark key="[" line="2" column="14" />
@@ -1641,6 +1639,7 @@
         <mark key="^" line="2" column="72" />
         <mark key="." line="2" column="72" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/html_source/html_parsable.rb" timestamp="1459758830640" />
       <file name="$USER_HOME$/projects/media-crawler/config/database.yml.sample" timestamp="1453371342913">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="17" />
@@ -1765,11 +1764,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/show.html.slim" timestamp="1459705020407">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="91" />
-        <mark key="^" line="5" column="91" />
-        <mark key="." line="5" column="91" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/show.html.slim" timestamp="1459756374033">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
       </file>
       <file name="$USER_HOME$/projects/air-reading/app/concepts/advice/views/form.slim" timestamp="1451486903619">
         <mark key="[" line="0" column="18" />
@@ -1807,6 +1806,7 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/html_source.rb" timestamp="1459757946312" />
       <file name="$USER_HOME$/projects/cplus/app/controllers/deliverer/deliverer_application_controller.rb" timestamp="1452159695954">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="7" />
@@ -2173,7 +2173,7 @@
         <mark key="^" line="50" column="21" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1459755597630">
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1459757000261">
         <mark key="[" line="8" column="74" />
         <mark key="]" line="8" column="74" />
         <mark key="." line="8" column="74" />
@@ -2314,7 +2314,7 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/index.html.slim" timestamp="1459419312778">
+      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/index.html.slim" timestamp="1459756365893">
         <mark key="[" line="13" column="58" />
         <mark key="]" line="13" column="59" />
         <mark key="^" line="13" column="59" />
@@ -2331,6 +2331,12 @@
         <mark key="]" line="63" column="12" />
         <mark key="^" line="63" column="12" />
         <mark key="." line="63" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" timestamp="1459757169001">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/raditools/.gitignore" timestamp="1455354981938">
         <mark key="[" line="7" column="10" />
@@ -2934,7 +2940,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmFpbHMuZW52LmRldmVsb3BtZW50PyB8fCA=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>nm_bill</text>
@@ -2943,31 +2949,31 @@
         <text encoding="base64">ICBpZiBSYWlscy5lbnYuZGV2ZWxvcG1lbnQ/IHx8IFJhaWxzLmVudi50ZXN0Pwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBjdXN0b21fcmVjb3JkCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmlzaXQgYWRtaW5fYmlsbHNfcGF0aAo=</text>
+      <register name="2" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="4" type="4">
+        <text>_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHN0YXR1c19jb2RlKS50byBiZSgyMDApCg==</text>
+      <register name="5" type="4">
+        <text>d</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0ICLooajnpLrjgZXjgozjgovjgZPjgagiIGRvCg==</text>
+      <register name="6" type="4">
+        <text>i</text>
+      </register>
+      <register name="7" type="4">
+        <text>_</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JCgnI2N1c3RvbS1yZWNvcmQtYWpheC1yZXNwb25zZS13cmFwcGVyJykuaHRtbCgnPCU9aiByZW5kZXIgQGNyYXdsX3N0YXR1cy5jdXN0b21fcmVjb3JkICU+Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIEBjdXN0b21fcmVjb3JkCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
