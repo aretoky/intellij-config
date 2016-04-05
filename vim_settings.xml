@@ -391,9 +391,6 @@
         <mark key="." line="7" column="75" />
         <mark key="^" line="7" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/postal/edit_confirm.php" timestamp="1459763733744">
-        <mark key="'" line="397" column="91" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/postals_updating_form.rb" timestamp="1448953966006">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="13" />
@@ -583,17 +580,20 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/sites_controller.rb" timestamp="1459756348809">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="50" column="51" />
-        <mark key="." line="1" column="25" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/sites_controller.rb" timestamp="1459864280327">
+        <mark key="[" line="50" column="52" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="25" />
+        <mark key="." line="51" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/postals_controller.rb" timestamp="1449151684080">
         <mark key="[" line="18" column="49" />
         <mark key="]" line="18" column="56" />
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1459863633221">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1459200683187">
         <mark key="[" line="11" column="20" />
@@ -1148,11 +1148,11 @@
         <mark key="." line="41" column="63" />
         <mark key="^" line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/environments/production.rb" timestamp="1457453933372">
-        <mark key="[" line="77" column="58" />
-        <mark key="]" line="78" column="70" />
-        <mark key="^" line="78" column="70" />
-        <mark key="." line="78" column="70" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/environments/production.rb" timestamp="1459863442297">
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="48" column="26" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/assets/javascripts/application.js" timestamp="1457338081500">
         <mark key="[" line="15" column="31" />
@@ -1581,7 +1581,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/models/site.rb" timestamp="1459497044491">
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/site.rb" timestamp="1459863816302">
         <mark key="[" line="33" column="31" />
         <mark key="]" line="33" column="31" />
         <mark key="^" line="33" column="31" />
@@ -2004,7 +2004,7 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/url_list_setting_job.rb" timestamp="1459416124259">
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/url_list_setting_job.rb" timestamp="1459864393381">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="28" />
@@ -2172,7 +2172,7 @@
         <mark key="^" line="50" column="21" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1459862410864">
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1459863418167">
         <mark key="[" line="8" column="74" />
         <mark key="]" line="8" column="74" />
         <mark key="." line="8" column="74" />
@@ -2578,6 +2578,12 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160405134138_add_to_regular_crawl_depth_at_site.rb" timestamp="1459864244641">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="94" />
+        <mark key="^" line="2" column="94" />
+        <mark key="." line="2" column="94" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/db/migrate/20160115101521_create_articles.rb" timestamp="1457867805613">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="19" />
@@ -2776,11 +2782,11 @@
         <mark key="^" line="12" column="61" />
         <mark key="." line="12" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/_form.html.slim" timestamp="1459510422785">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/_form.html.slim" timestamp="1459864322102">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
       </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/migrations/001_create_requests.php" timestamp="1456748654611">
         <mark key="[" line="11" column="67" />
@@ -2926,40 +2932,40 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>crawl_night_interval</text>
       </register>
       <register name="/" type="4">
         <text>format</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpZiBSYWlscy5lbnYuZGV2ZWxvcG1lbnQ/IHx8IFJhaWxzLmVudi50ZXN0Pwo=</text>
+      <register name="0" type="4">
+        <text>=</text>
       </register>
       <register name="1" type="4">
-        <text>-</text>
+        <text>crawl_night_interval</text>
       </register>
       <register name="2" type="4">
-        <text>-</text>
+        <text>debug</text>
       </register>
       <register name="3" type="4">
-        <text>active</text>
+        <text>-</text>
       </register>
       <register name="4" type="4">
-        <text>warning</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
+        <text>active</text>
+      </register>
+      <register name="6" type="4">
+        <text>warning</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAg</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPSBwb3N0YWwuY2RfdXJfbmFtZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZWxzZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gaWYgcG9zdGFsLmNkX3VyID09IDk5Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
