@@ -351,13 +351,6 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy.rb" timestamp="1459881344657">
-        <mark key="'" line="38" column="11" />
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="36" column="29" />
-        <mark key="." line="36" column="29" />
-        <mark key="^" line="36" column="29" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_postal_service_spec.rb" timestamp="1458583736533">
         <mark key="[" line="27" column="60" />
         <mark key="]" line="27" column="67" />
@@ -718,6 +711,7 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1459935832590" />
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_address_mplan_fields.html.slim" timestamp="1459179394922">
         <mark key="[" line="13" column="71" />
         <mark key="]" line="13" column="70" />
@@ -927,13 +921,6 @@
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1459826921150">
-        <mark key="'" line="175" column="6" />
-        <mark key="[" line="177" column="54" />
-        <mark key="]" line="177" column="58" />
-        <mark key="^" line="177" column="58" />
-        <mark key="." line="177" column="58" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/wicked_pdf.rb" timestamp="1458021477694">
         <mark key="[" line="5" column="0" />
@@ -1627,10 +1614,10 @@
         <mark key="^" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/client/postals.css.scss" timestamp="1459935236673">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="$USER_HOME$/projects/fuel-api.yourjam.es/fuel/app/migrations/001_create_olddb.php" timestamp="1452177337451">
         <mark key="[" line="10" column="0" />
@@ -2011,12 +1998,12 @@
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/db/seeds.rb" timestamp="1459933853354">
+      <file name="$USER_HOME$/projects/cplus/db/seeds.rb" timestamp="1459936055260">
         <mark key="'" line="55" column="2" />
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="105" column="7" />
+        <mark key="]" line="105" column="26" />
+        <mark key="^" line="105" column="26" />
+        <mark key="." line="105" column="26" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/edit.html.slim" timestamp="1459416504789">
         <mark key="[" line="6" column="23" />
@@ -3009,7 +2996,7 @@
         <text encoding="base64">bG4gLXNmIGNvbmZpZy9kYXRhYmFzZS5oZXJva3UueW1sIGNvbmZpZy9kYXRhYmFzZS55bWwgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>ee3d07</text>
+        <text>Book</text>
       </register>
       <register name="/" type="4">
         <text>account</text>
@@ -3018,31 +3005,31 @@
         <text encoding="base64">c2VydmVyICIxMzMuMjQyLjIyNi4yMTciLCB1c2VyOiAicm9vdCIsIHJvbGVzOiAld3t3ZWIgYXBwIGRiIHNpZGVraXFfZG93bmxvYWRlcn0K</text>
       </register>
       <register name="1" type="4">
-        <text>ee3d07</text>
+        <text>Book</text>
       </register>
       <register name="2" type="4">
-        <text>maroon</text>
+        <text>ee3d07</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>maroon</text>
       </register>
       <register name="4" type="4">
         <text>#</text>
       </register>
       <register name="5" type="4">
-        <text>]</text>
+        <text>#</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>]</text>
       </register>
       <register name="7" type="4">
+        <text>[</text>
+      </register>
+      <register name="8" type="4">
         <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjZF9wYTogMTAsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjZF9wYTogMCwK</text>
+        <text encoding="base64">ICBjZF9wYTogMTAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
