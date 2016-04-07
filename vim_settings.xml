@@ -27,6 +27,9 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1460037704971">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/Capfile" timestamp="1459878866037">
         <mark key="[" line="19" column="33" />
         <mark key="]" line="20" column="55" />
@@ -592,6 +595,9 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
+      <file name="/Dummy.txt" timestamp="1459863633221">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1459200683187">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="27" />
@@ -745,6 +751,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" timestamp="1460037853413">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160307072911_create_custom_columns.rb" timestamp="1457601318691">
         <mark key="[" line="8" column="19" />
@@ -2296,11 +2308,11 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/circle.yml" timestamp="1459511692552">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="9" column="39" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+      <file name="$USER_HOME$/projects/cplus/circle.yml" timestamp="1460037394655">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="112" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/projects/api.yourjam.es/lib/class.recursion_payment_worker.php" timestamp="1456449899133">
         <mark key="[" line="29" column="0" />
@@ -5187,7 +5199,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>express</text>
@@ -5197,32 +5209,32 @@
           expect{ subject }.to change{ cust.expresses.count  }.by(-1)
         end</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>x</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC1wcmU6Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>u</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
