@@ -622,11 +622,10 @@
         <mark key="." line="19" column="65" />
         <mark key="^" line="19" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/application_mailer.rb" timestamp="1460041215556">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/application_mailer.rb" timestamp="1460042287856">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/postal_saving_service_spec.rb" timestamp="1459765151012">
         <mark key="[" line="64" column="0" />
@@ -5209,32 +5208,32 @@
           expect{ subject }.to change{ cust.expresses.count  }.by(-1)
         end</text>
       </register>
-      <register name="1" type="4">
-        <text>x</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBkZWZhdWx0IGNoYXJzZXQ6ICJJU08tMjAyMi1KUCIK</text>
       </register>
       <register name="2" type="4">
+        <text>x</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC1wcmU6Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>t</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>n</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>u</text>
       </register>
-      <register name="8" type="4">
-        <text>o</text>
-      </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
