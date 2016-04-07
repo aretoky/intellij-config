@@ -1088,7 +1088,7 @@
         <mark key="^" line="119" column="6" />
         <mark key="." line="119" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/postals/index.html.slim" timestamp="1459924710388">
+      <file name="$USER_HOME$/projects/cplus/app/views/client/postals/index.html.slim" timestamp="1460005242277">
         <mark key="[" line="93" column="13" />
         <mark key="]" line="93" column="16" />
         <mark key="." line="93" column="16" />
@@ -1458,6 +1458,9 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1460007121060">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/Procfile" timestamp="1452677526401">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -1469,6 +1472,12 @@
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/forms/client/dashboard_form.rb" timestamp="1460007554375">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="58" />
+        <mark key="." line="13" column="58" />
+        <mark key="^" line="13" column="58" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/bills/_form.html.slim" timestamp="1452613298784">
         <mark key="[" line="10" column="182" />
@@ -1535,6 +1544,11 @@
         <mark key="]" line="21" column="75" />
         <mark key="^" line="21" column="75" />
         <mark key="." line="21" column="75" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/static_pages_controller.rb" timestamp="1460004733412">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust/before_validation_callback.rb" timestamp="1459938780644" />
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1452610626277">
@@ -2217,6 +2231,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/client/custom.css.scss" timestamp="1459922783664">
+        <mark key="[" line="482" column="0" />
+        <mark key="]" line="482" column="0" />
+        <mark key="." line="482" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/jobs/parse_job.rb" timestamp="1457083163669">
         <mark key="[" line="49" column="16" />
         <mark key="]" line="50" column="21" />
@@ -2544,6 +2563,12 @@
         <mark key="]" line="37" column="15" />
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/static_pages/dashboard.html.slim" timestamp="1460007954490">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bitem/to_create_from_plan/save_wrapper.rb" timestamp="1458543428780">
         <mark key="[" line="20" column="31" />
@@ -2913,7 +2938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="28" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="244" column="9" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="8" column="9" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="158" column="6" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
@@ -3013,6 +3037,7 @@
       <jump line="66" column="20" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
       <jump line="73" column="39" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
       <jump line="188" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5156,49 +5181,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localhost:3000</text>
+        <text>.include?(true, &quot;true&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>pswd</text>
+        <text>params[&quot;after_usable&quot;]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VydmVyICIxMzMuMjQyLjIyNi4yMTciLCB1c2VyOiAicm9vdCIsIHJvbGVzOiAld3t3ZWIgYXBwIGRiIHNpZGVraXFfZG93bmxvYWRlcn0K</text>
+        <text encoding="base64">ICAgICAgICBAYm9va19zZWFyY2guc29ydHMgPSBbImR0X2Jvb2sgZGVzYyIsICJjZF9oaF9mciJdCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>localhost:3000</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>.include?(true, &quot;true&quot;)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>.include?(true, &quot;true&quot;)</text>
       </register>
-      <register name="5" type="4">
-        <text>=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcCBwYXJhbXNbImFmdGVyX3VzYWJsZSJdCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text>?</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>pswd</last-search>
+      <last-search>params[&quot;after_usable&quot;]</last-search>
       <last-offset />
-      <last-pattern>pswd</last-pattern>
+      <last-pattern>params[&quot;after_usable&quot;]</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5206,8 +5231,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nm_bill</entry>
-        <entry>710</entry>
         <entry>no_mailtpl</entry>
         <entry>shortcut_li_tag</entry>
         <entry>shortcut_button_tag</entry>
@@ -5226,6 +5249,8 @@
         <entry>hplace</entry>
         <entry>account</entry>
         <entry>pswd</entry>
+        <entry>ransack</entry>
+        <entry>params[&quot;after_usable&quot;]</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
