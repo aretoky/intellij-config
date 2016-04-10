@@ -435,6 +435,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/custom_datum.rb" timestamp="1460268252012">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/media-crawler/app/models/media_site.rb" timestamp="1457338301246">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="26" column="58" />
@@ -953,6 +959,12 @@
         <mark key="^" line="84" column="10" />
         <mark key="." line="84" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160410060238_create_custom_data.rb" timestamp="1460268959077">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/upd_postalres.rb" timestamp="1458632680926">
         <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="23" />
@@ -1037,11 +1049,11 @@
         <mark key="^" line="16" column="61" />
         <mark key="." line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160410040748_create_custom_records.rb" timestamp="1460266690702">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="58" />
-        <mark key="^" line="13" column="58" />
-        <mark key="." line="13" column="58" />
+      <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160410040748_create_custom_records.rb" timestamp="1460269197266">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="12" column="58" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/sessions_controller.rb" timestamp="1453981366855">
         <mark key="[" line="21" column="0" />
@@ -2391,11 +2403,11 @@
         <mark key="^" line="63" column="12" />
         <mark key="." line="63" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" timestamp="1459875142424">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" timestamp="1460270329984">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/projects/raditools/.gitignore" timestamp="1455354981938">
         <mark key="[" line="7" column="10" />
@@ -2558,11 +2570,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/models/custom_record.rb" timestamp="1460260368739">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/custom_record.rb" timestamp="1460270380423">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/admin/postal_mailer.rb" timestamp="1458627921065">
         <mark key="[" line="29" column="11" />
@@ -5163,37 +5175,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>mail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3VzdG9tX3JlY29yZHMsIDp1cmwK</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3VzdG9tX2RhdGEsIDpjdXN0b21fcmVjb3JkX2lkCg==</text>
       </register>
       <register name="1" type="4">
-        <text>url</text>
+        <text>p</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>a</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>m</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHAgYQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>site_id</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlY29yZC5hdHRyaWJ1dGVzID0geyBkYXRhOiBhIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgWyBrLCB2IF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCg6c3UpeyBBY3Rpb25NYWlsZXI6OkJhc2UuZGVsaXZlcmllcy5sYXN0ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>mailer</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
