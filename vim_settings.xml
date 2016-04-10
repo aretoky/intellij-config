@@ -1037,11 +1037,11 @@
         <mark key="^" line="16" column="61" />
         <mark key="." line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160410040748_create_custom_records.rb" timestamp="1460261873831">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160410040748_create_custom_records.rb" timestamp="1460266690702">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="58" />
+        <mark key="^" line="13" column="58" />
+        <mark key="." line="13" column="58" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/sessions_controller.rb" timestamp="1453981366855">
         <mark key="[" line="21" column="0" />
@@ -5163,40 +5163,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>site_id</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>mail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3VzdG9tX3JlY29yZHMsIDpzaXRlX2lkCg==</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3VzdG9tX3JlY29yZHMsIDp1cmwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>url</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>site_id</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCg6c3UpeyBBY3Rpb25NYWlsZXI6OkJhc2UuZGVsaXZlcmllcy5sYXN0ICB9Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>mailer</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>site_id</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxldCg6c3UpeyBBY3Rpb25NYWlsZXI6OkJhc2UuZGVsaXZlcmllcy5sYXN0ICB9Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>mailer</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
