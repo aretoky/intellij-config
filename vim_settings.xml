@@ -75,11 +75,11 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/postals/_form.html.slim" timestamp="1460604494946">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/views/client/postals/_form.html.slim" timestamp="1460614384290">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/upds.rb" timestamp="1458632409328">
         <mark key="[" line="16" column="0" />
@@ -395,11 +395,11 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/multiple_postals/_form.html.slim" timestamp="1460612668304">
-        <mark key="[" line="13" column="74" />
-        <mark key="]" line="13" column="78" />
-        <mark key="^" line="13" column="78" />
-        <mark key="." line="13" column="78" />
+      <file name="$USER_HOME$/projects/cplus/app/views/client/multiple_postals/_form.html.slim" timestamp="1460613644003">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="10" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/postals_updating_form.rb" timestamp="1448953966006">
         <mark key="[" line="0" column="6" />
@@ -5252,7 +5252,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>letter</text>
@@ -5261,31 +5261,31 @@
         <text encoding="base64">ICBnZW0gImxldHRlcl9vcGVuZXIiCg==</text>
       </register>
       <register name="1" type="4">
-        <text>error</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
+        <text>, input_wrapper_html: { class: &quot;col-xs-3 input-group&quot; }</text>
+      </register>
+      <register name="3" type="4">
+        <text>error</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IGRhbmdlcg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICA9IHJlbmRlciAiZXJyb3Jfbm90aWZpY2F0aW9uIiwgZjogZgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>active</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>, default: 99</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAtIGlmIGYub2JqZWN0LmNvbmZpcm1pbmcgPT0gIjEiCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>集</text>
-      </register>
-      <register name="9" type="4">
-        <text>編</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
