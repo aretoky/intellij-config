@@ -268,7 +268,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/postals.rb" timestamp="1459668506605">
+      <file name="$USER_HOME$/projects/cplus/spec/factories/postals.rb" timestamp="1460616698182">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="39" />
         <mark key="^" line="7" column="39" />
@@ -2091,12 +2091,12 @@
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/db/seeds.rb" timestamp="1460290702437">
+      <file name="$USER_HOME$/projects/cplus/db/seeds.rb" timestamp="1460616889064">
         <mark key="'" line="55" column="2" />
-        <mark key="[" line="92" column="13" />
-        <mark key="]" line="93" column="14" />
-        <mark key="^" line="93" column="14" />
-        <mark key="." line="93" column="14" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="124" column="16" />
+        <mark key="." line="124" column="16" />
+        <mark key="^" line="124" column="16" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/edit.html.slim" timestamp="1459416504789">
         <mark key="[" line="6" column="23" />
@@ -5252,49 +5252,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>letter</text>
+        <text>posta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBnZW0gImxldHRlcl9vcGVuZXIiCg==</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>, input_wrapper_html: { class: &quot;col-xs-3 input-group&quot; }</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
-        <text>error</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGRhbmdlcg==</text>
+        <text>{</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>#</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA9IHJlbmRlciAiZXJyb3Jfbm90aWZpY2F0aW9uIiwgZjogZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>active</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>, default: 99</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGlmIGYub2JqZWN0LmNvbmZpcm1pbmcgPT0gIjEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>letter</last-search>
+      <last-search>posta</last-search>
       <last-offset />
-      <last-pattern>letter</last-pattern>
+      <last-pattern>posta</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5302,7 +5302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cd_ur</entry>
         <entry>express</entry>
         <entry>default</entry>
         <entry>mail</entry>
@@ -5322,6 +5321,7 @@
         <entry>click</entry>
         <entry>@buttons</entry>
         <entry>letter</entry>
+        <entry>posta</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
