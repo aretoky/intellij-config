@@ -1231,8 +1231,8 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1460288239602">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1460653234155">
+        <mark key="'" line="84" column="18" />
         <mark key="[" line="104" column="11" />
         <mark key="]" line="105" column="52" />
         <mark key="^" line="105" column="52" />
@@ -3061,7 +3061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_initializer.rb" />
       <jump line="39" column="8" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_initializer.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
       <jump line="190" column="31" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
@@ -3114,7 +3113,6 @@
       <jump line="391" column="6" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="445" column="12" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="85" column="10" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" />
       <jump line="32" column="16" filename="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" />
       <jump line="9" column="6" filename="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" />
@@ -3161,6 +3159,8 @@
       <jump line="0" column="81" filename="$USER_HOME$/projects/cplus/lib/tasks/heroku.rake" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/environments/production.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/email.rb" />
+      <jump line="0" column="20" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
+      <jump line="84" column="18" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5307,7 +5307,7 @@
         <text>kotera</text>
       </register>
       <register name="/" type="4">
-        <text>postal_notificating_enable</text>
+        <text>sidekiq</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBnZW0gImxldHRlcl9vcGVuZXIiCg==</text>
@@ -5344,9 +5344,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postal_notificating_enable</last-search>
+      <last-search>sidekiq</last-search>
       <last-offset />
-      <last-pattern>postal_notificating_enable</last-pattern>
+      <last-pattern>sidekiq</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5354,7 +5354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
         <entry>mongo</entry>
         <entry>includes</entry>
         <entry>custom_data</entry>
@@ -5374,6 +5373,7 @@
         <entry>posta</entry>
         <entry>'</entry>
         <entry>postal_notificating_enable</entry>
+        <entry>sidekiq</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
