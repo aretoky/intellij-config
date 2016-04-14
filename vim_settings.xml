@@ -75,6 +75,12 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/postals/_form.html.slim" timestamp="1460604494946">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/upds.rb" timestamp="1458632409328">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -908,6 +914,12 @@
         <mark key="]" line="0" column="76" />
         <mark key="^" line="0" column="76" />
         <mark key="." line="0" column="76" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/multiple_postals/edit.html.slim" timestamp="1460604942977">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/models/crawl_status.rb" timestamp="1459885079524">
         <mark key="[" line="41" column="33" />
@@ -2073,7 +2085,7 @@
         <mark key="^" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/sessions/new.html.slim" timestamp="1460530623196">
+      <file name="$USER_HOME$/projects/cplus/app/views/client/sessions/new.html.slim" timestamp="1460604683812">
         <mark key="[" line="29" column="14" />
         <mark key="]" line="29" column="20" />
         <mark key="^" line="29" column="20" />
@@ -2702,6 +2714,12 @@
         <mark key="]" line="4" column="44" />
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/postals/edit.html.slim" timestamp="1460604787333">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/views/welcome/index.php" timestamp="1450430186769">
         <mark key="[" line="3" column="6" />
@@ -5240,7 +5258,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ウィンドウズ</text>
+        <text>集</text>
       </register>
       <register name="/" type="4">
         <text>letter</text>
@@ -5248,14 +5266,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICBnZW0gImxldHRlcl9vcGVuZXIiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>ウィンドウズ</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAtIGlmIGYub2JqZWN0LmNvbmZpcm1pbmcgPT0gIjEiCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBicgo=</text>
+      <register name="2" type="4">
+        <text>集</text>
       </register>
       <register name="3" type="4">
-        <text>warning</text>
+        <text>編</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -5264,16 +5282,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyYXdsX3N0YXR1cy5odG1sX3NvdXJjZS5jb250ZW50X3VybHMK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="7" type="4">
+        <text />
+      </register>
+      <register name="8" type="4">
+        <text>ウィンドウズ</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBicgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
