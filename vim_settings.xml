@@ -2845,11 +2845,12 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1460310154971">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="11" column="51" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1461083733151">
+        <mark key="'" line="14" column="19" />
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/db/migrate/20160405134138_add_to_regular_crawl_depth_at_site.rb" timestamp="1459864244641">
         <mark key="[" line="1" column="12" />
@@ -3127,10 +3128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="13" filename="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" />
-      <jump line="21" column="6" filename="$USER_HOME$/projects/meta_crawler/app/models/custom_record.rb" />
-      <jump line="27" column="11" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
-      <jump line="196" column="40" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
       <jump line="199" column="40" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
       <jump line="203" column="36" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
       <jump line="218" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
@@ -3227,6 +3224,10 @@
       <jump line="113" column="41" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="285" column="30" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="77" column="39" filename="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" />
+      <jump line="0" column="15" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
+      <jump line="12" column="27" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
+      <jump line="13" column="39" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
+      <jump line="14" column="19" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5370,49 +5371,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>だ</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>expec</text>
+        <text>crawl_depth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmlsbF9pbiAiY3VzdF9jaGFuZ2VfcHN3ZCIsIHdpdGg6ICJjaGFuZ2VwYXNzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>|</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGlja19idXR0b24gIueiuuiqjeOBmeOCiyIK</text>
+      <register name="3" type="4">
+        <text>|</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>|</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QgeyBjbGlja19idXR0b24gIueiuuiqjeOBmeOCiyIgfS50byBjaGFuZ2UoQ3VzdCwgOmNvdW50KS5ieSgwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXQgIueiuuiqjeeUu+mdouOBp+OBr+ODrOOCs+ODvOODieOBr+Wil+OBiOOBquOBhOOBk+OBqCIgZG8K</text>
+        <text encoding="base64">ICAgICAgICBjbGlja19idXR0b24gIueiuuiqjeOBmeOCiyIK</text>
       </register>
-      <register name="9" type="4">
-        <text>だ</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>expec</last-search>
+      <last-search>crawl_depth</last-search>
       <last-offset />
-      <last-pattern>expec</last-pattern>
+      <last-pattern>crawl_depth</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5420,7 +5421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remark</entry>
         <entry>remarks</entry>
         <entry>cd_ur</entry>
         <entry>rega</entry>
@@ -5440,6 +5440,7 @@
         <entry>_save</entry>
         <entry>person</entry>
         <entry>expec</entry>
+        <entry>crawl_depth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
