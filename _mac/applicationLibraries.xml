@@ -5738,6 +5738,36 @@
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/kgio-2.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="libv8 (v3.16.14.11, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.11-x86_64-darwin-15/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.11-x86_64-darwin-15/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.11-x86_64-darwin-15/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.11-x86_64-darwin-15/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.11-x86_64-darwin-15/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.11-x86_64-darwin-15/vendor" />
+      </SOURCES>
+    </library>
+    <library name="libv8 (v3.16.14.13, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/vendor" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/patches" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/release" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/vendor" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/patches" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.13/release" />
+      </SOURCES>
+    </library>
     <library name="libv8 (v3.16.14.7, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/libv8-3.16.14.7-x86_64-darwin-13/ext" />
@@ -10183,6 +10213,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/ref-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="ref (v2.0.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ref-2.0.0/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ref-2.0.0/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ref-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="remotipart (v1.2.1, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/remotipart-1.2.1/lib" />
@@ -11202,6 +11243,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/therubyracer-0.12.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/therubyracer-0.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.12.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.2/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.2/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.1, rbenv: 2.1.2) [gem]">
