@@ -27,6 +27,9 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1461133169162">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/Capfile" timestamp="1461130544953">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -563,6 +566,9 @@
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
+      <file name="/Ruby Console" timestamp="1461067086457">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/postal_destroy.rake" timestamp="1458700572467">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="1" column="22" />
@@ -634,6 +640,9 @@
         <mark key="]" line="18" column="56" />
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1460289492108">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1459200683187">
         <mark key="[" line="11" column="20" />
@@ -1342,11 +1351,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1460051579719">
-        <mark key="[" line="78" column="19" />
-        <mark key="]" line="78" column="47" />
-        <mark key="." line="78" column="47" />
-        <mark key="^" line="78" column="47" />
+      <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1461134251760">
+        <mark key="[" line="89" column="36" />
+        <mark key="]" line="90" column="46" />
+        <mark key="^" line="90" column="46" />
+        <mark key="." line="90" column="46" />
       </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/migrations/004_create_otamacandidates.php" timestamp="1456746099422">
         <mark key="[" line="14" column="0" />
@@ -1952,6 +1961,9 @@
         <mark key="]" line="47" column="3" />
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/html_source.rb" timestamp="1460485945538">
+        <mark key="[" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/deliverer/deliverer_application_controller.rb" timestamp="1452159695954">
         <mark key="[" line="11" column="6" />
@@ -2697,6 +2709,9 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/postal_mailer.rb" timestamp="1460363477323">
+        <mark key="[" line="0" column="57" />
+      </file>
       <file name="$USER_HOME$/sandbox/yourjam.es/spec/login_spec.rb" timestamp="1457693902543">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="29" />
@@ -2727,11 +2742,11 @@
         <mark key="." line="40" column="6" />
         <mark key="^" line="40" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1460340788863">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="86" />
-        <mark key="^" line="17" column="86" />
-        <mark key="." line="17" column="86" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1461133448950">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_hhs_base_input.rb" timestamp="1448878026861">
         <mark key="[" line="42" column="58" />
@@ -2859,6 +2874,9 @@
         <mark key="]" line="2" column="35" />
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/settings.yml" timestamp="1460363282948">
+        <mark key="[" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/layouts/_navigation.html.slim" timestamp="1449596707435">
         <mark key="[" line="67" column="26" />
@@ -5303,7 +5321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHJhbnNhY3Rpb24g</text>
+        <text>mailer.content</text>
       </register>
       <register name="/" type="4">
         <text>bugsnag_api_key</text>
@@ -5318,25 +5336,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dHJhbnNhY3Rpb24g</text>
-      </register>
-      <register name="5" type="4">
-        <text>transaction</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmVmb3JlIGRvCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dHJhbnNhY3Rpb24g</text>
+        <text>mailer.content</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>message</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>transaction</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
