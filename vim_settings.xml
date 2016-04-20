@@ -217,7 +217,7 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1461069536410">
+      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1461120409056">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -740,12 +740,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" timestamp="1461119054308">
-        <mark key="'" line="107" column="23" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" timestamp="1461120246534">
+        <mark key="'" line="168" column="2" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="39" />
+        <mark key="^" line="169" column="4" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/multiple_custom_columns/_custom_column_fields.html.slim" timestamp="1459417836901">
         <mark key="[" line="10" column="0" />
@@ -2190,11 +2190,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/concerns/cust_previous_change_attributable.rb" timestamp="1461119068923">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+      <file name="$USER_HOME$/projects/cplus/app/models/concerns/cust_previous_change_attributable.rb" timestamp="1461120202338">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="119" column="6" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/services/special_crawler_managing_service.rb" timestamp="1460491092180">
         <mark key="[" line="0" column="36" />
@@ -3138,7 +3138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="157" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
       <jump line="51" column="91" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
       <jump line="135" column="34" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" />
@@ -3238,6 +3237,7 @@
       <jump line="104" column="82" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
       <jump line="105" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
       <jump line="107" column="23" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
+      <jump line="168" column="2" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5381,7 +5381,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Changable</text>
+        <text>ば</text>
       </register>
       <register name="/" type="4">
         <text>previous</text>
@@ -5393,13 +5393,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IyBhdHRyX3JlYWRlciA6bmFtZWxpc3RzX3dhcmUsCiAgIyAgICAgICAgICAgICA6Y3VzdF9lbmFibGVfYWRkcnNfd2FyZSwKICAjICAgICAgICAgICAgIDpjdXN0X2VuYWJsZV90ZWxzX3dhcmUsCiAgIyAgICAgICAgICAgICA6Y3VzdF9lbmFibGVfZW1haWxzX3dhcmUsCiAgIyAgICAgICAgICAgICA6ZmF4X2VuYWJsZV9lbWFpbHNfd2FyZSwKICAjICAgICAgICAgICAgIDplbmFibGVfZGVwb3Nfd2FyZSwKICAjICAgICAgICAgICAgIDphZGRyZXNzX21wbGFuc193YXJlLAogICMgICAgICAgICAgICAgOm5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXMKICAjCiAgIyBhZnRlcl9pbml0aWFsaXplIDppbml0X25lc3RlZF9vbGRfYXR0cmlidXRlcwogICMgYWZ0ZXJfdmFsaWRhdGlvbiA6Y2hlY2tfbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlcwogICMKICAjIGRlZiBuZXN0ZWRfYXR0cmlidXRlc19wcmV2aW91c19jaGFuZ2VzCiAgIyAgIEBuZXN0ZWRfYXR0cmlidXRlc19wcmV2aW91c19jaGFuZ2VzLmVhY2ggZG8gfGssIHZ8CiAgIyAgICAgdi5wb3AgaWYgMiA8PSB2LnNpemUKICAjICAgICBjYXNlIGsKICAjICAgICB3aGVuIDpuYW1lbGlzdHMKICAjICAgICAgIHYgPDwgbmFtZWxpc3RzLm1hcCBkbyB8bmFtZWxpc3R8CiAgIyAgICAgICAgIFtuYW1lbGlzdC5pZCwgbmFtZWxpc3Qubm1fbmFtZWxpc3RdCiAgIyAgICAgICBlbmQudG9faAogICMgICAgIHdoZW4gOmN1c3RfZW5hYmxlX2FkZHJzCiAgIyAgICAgICB2IDw8IGN1c3RfZW5hYmxlX2FkZHJzLm1hcCBkbyB8YWRkcnwKICAjICAgICAgICAgW2FkZHIuaWQsIGFkZHIuYWRkcmVzc10KICAjICAgICAgIGVuZC50b19oCiAgIyAgICAgd2hlbiA6Y3VzdF9lbmFibGVfdGVscwogICMgICAgICAgdiA8PCBjdXN0X2VuYWJsZV90ZWxzLm1hcCBkbyB8dGVsfAogICMgICAgICAgICBbdGVsLmlkLCB0ZWwudGVsXQogICMgICAgICAgZW5kLnRvX2gKICAjICAgICB3aGVuIDpjdXN0X2VuYWJsZV9lbWFpbHMKICAjICAgICAgIHYgPDwgY3VzdF9lbmFibGVfZW1haWxzLm1hcCBkbyB8ZW1haWx8CiAgIyAgICAgICAgIFtlbWFpbC5pZCwgZW1haWwuZW1haWxdCiAgIyAgICAgICBlbmQudG9faAogICMgICAgIHdoZW4gOmZheF9lbmFibGVfZW1haWxzCiAgIyAgICAgICB2IDw8IGZheF9lbmFibGVfZW1haWxzLm1hcCBkbyB8ZW1haWx8CiAgIyAgICAgICAgIFtlbWFpbC5pZCwgZW1haWwuZW1haWxdCiAgIyAgICAgICBlbmQudG9faAogICMgICAgIHdoZW4gOmVuYWJsZV9kZXBvcwogICMgICAgICAgdiA8PCBlbmFibGVfZGVwb3MubWFwIGRvIHxkZXBvfAogICMgICAgICAgICBbZGVwby5pZCwgZGVwby5kZXBvX3N0cmluZ10KICAjICAgICAgIGVuZC50b19oCiAgIyAgICAgd2hlbiA6YWRkcmVzc19tcGxhbnMKICAjICAgICAgIHYuZWFjaCBkbyB8a2V5LCB2YWx1ZXwKICAjICAgICAgICAgbXBsYW4gPSBhZGRyZXNzX21wbGFucy5zZWxlY3QgeyB8bXBsYW58IG1wbGFuLnNxX21wbGFuID09IGtleSB9LmZpcnN0CiAgIyAgICAgICAgIHZhbHVlWzp0cmFuc2Zlcl9lbmFibGVfZW1haWxzXSA8PCBtcGxhbi50cmFuc2Zlcl9lbmFibGVfZW1haWxzLm1hcCBkbyB8ZW1haWx8CiAgIyAgICAgICAgICAgW2VtYWlsLmlkLCBlbWFpbC5lbWFpbF0KICAjICAgICAgICAgZW5kCiAgIyAgICAgICBlbmQKICAjICAgICBlbmQKICAjICAgZW5kCiAgIyAgIGlmIEBuZXN0ZWRfYXR0cmlidXRlc19wcmV2aW91c19jaGFuZ2VzWzphZGRyZXNzX21wbGFuc10gJiYgQG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXNbOmFkZHJlc3NfbXBsYW5zXS5zaXplID09IDAKICAjICAgICBAbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlcy5kZWxldGUoOmFkZHJlc3NfbXBsYW5zKQogICMgICBlbmQKICAjICAgQG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXMKICAjIGVuZAogICMKICAjIHByaXZhdGUKICAjCiAgIyBkZWYgY2hlY2tfbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlcwogICMgICBpZiBuYW1lbGlzdHMuYW55PyB7IHxufCBuLmNoYW5nZWQ/IH0KICAjICAgICBAbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlc1s6bmFtZWxpc3RzXSA9IFtAbmFtZWxpc3RzX3dhcmVdCiAgIyAgIGVuZAogICMgICBpZiBjdXN0X2VuYWJsZV9hZGRycy5hbnk/IHsgfG58IG4uY2hhbmdlZD8gfQogICMgICAgIEBuZXN0ZWRfYXR0cmlidXRlc19wcmV2aW91c19jaGFuZ2VzWzpjdXN0X2VuYWJsZV9hZGRyc10gPSBbQGN1c3RfZW5hYmxlX2FkZHJzX3dhcmVdCiAgIyAgIGVuZAogICMgICBpZiBjdXN0X2VuYWJsZV90ZWxzLmFueT8geyB8bnwgbi5jaGFuZ2VkPyB9CiAgIyAgICAgQG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXNbOmN1c3RfZW5hYmxlX3RlbHNdID0gW0BjdXN0X2VuYWJsZV90ZWxzX3dhcmVdCiAgIyAgIGVuZAogICMgICBpZiBjdXN0X2VuYWJsZV9lbWFpbHMuYW55PyB7IHxufCBuLmNoYW5nZWQ/IH0KICAjICAgICBAbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlc1s6Y3VzdF9lbmFibGVfZW1haWxzXSA9IFtAY3VzdF9lbmFibGVfZW1haWxzX3dhcmVdCiAgIyAgIGVuZAogICMgICBpZiBmYXhfZW5hYmxlX2VtYWlscy5hbnk/IHsgfG58IG4uY2hhbmdlZD8gfQogICMgICAgIEBuZXN0ZWRfYXR0cmlidXRlc19wcmV2aW91c19jaGFuZ2VzWzpmYXhfZW5hYmxlX2VtYWlsc10gPSBbQGZheF9lbmFibGVfZW1haWxzX3dhcmVdCiAgIyAgIGVuZAogICMgICBpZiBlbmFibGVfZGVwb3MuYW55PyB7IHxufCBuLmNoYW5nZWQ/IH0KICAjICAgICBAbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlc1s6ZmF4X2VuYWJsZV9kZXBvc10gPSBbQGVuYWJsZV9kZXBvc193YXJlXQogICMgICBlbmQKICAjICAgQG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXNbOmFkZHJlc3NfbXBsYW5zXSA9IHt9CiAgIyAgIGFkZHJlc3NfbXBsYW5zLmVhY2ggZG8gfG1wbGFufAogICMgICAgIGlmIG1wbGFuLnRyYW5zZmVyX2VuYWJsZV9lbWFpbHMuYW55PyB7IHxufCBuLmNoYW5nZWQ/IH0KICAjICAgICAgIEBuZXN0ZWRfYXR0cmlidXRlc19wcmV2aW91c19jaGFuZ2VzWzphZGRyZXNzX21wbGFuc10gfHw9IHt9CiAgIyAgICAgICBAbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlc1s6YWRkcmVzc19tcGxhbnNdW21wbGFuLnNxX21wbGFuXSB8fD0ge30KICAjICAgICAgIHAgYWRkcmVzc19tcGxhbnNfd2FyZVttcGxhbi5zcV9tcGxhbl1bOnRyYW5zZmVyX2VuYWJsZV9lbWFpbHNdCiAgIyAgICAgICBAbmVzdGVkX2F0dHJpYnV0ZXNfcHJldmlvdXNfY2hhbmdlc1s6YWRkcmVzc19tcGxhbnNdW21wbGFuLnNxX21wbGFuXVs6dHJhbnNmZXJfZW5hYmxlX2VtYWlsc10gPSBbQGFkZHJlc3NfbXBsYW5zX3dhcmVbbXBsYW4uc3FfbXBsYW5dWzp0cmFuc2Zlcl9lbmFibGVfZW1haWxzXV0KICAjICAgICBlbmQKICAjICAgZW5kCiAgIyBlbmQKICAjCiAgIyBkZWYgaW5pdF9uZXN0ZWRfb2xkX2F0dHJpYnV0ZXMKICAjICAgQG5lc3RlZF9hdHRyaWJ1dGVzX3ByZXZpb3VzX2NoYW5nZXMgPSB7fQogICMgICBAbmFtZWxpc3RzX3dhcmUgPSBuYW1lbGlzdHMubWFwIGRvIHxuYW1lbGlzdHwKICAjICAgICBbbmFtZWxpc3QuaWQsIG5hbWVsaXN0Lm5tX25hbWVsaXN0XQogICMgICBlbmQudG9faAogICMgICBAY3VzdF9lbmFibGVfYWRkcnNfd2FyZSA9IGN1c3RfZW5hYmxlX2FkZHJzLm1hcCBkbyB8YWRkcnwKICAjICAgICBbYWRkci5pZCwgYWRkci5hZGRyZXNzXQogICMgICBlbmQudG9faAogICMgICBAY3VzdF9lbmFibGVfdGVsc193YXJlID0gY3VzdF9lbmFibGVfdGVscy5tYXAgZG8gfHRlbHwKICAjICAgICBbdGVsLmlkLCB0ZWwudGVsXQogICMgICBlbmQudG9faAogICMgICBAY3VzdF9lbmFibGVfZW1haWxzX3dhcmUgPSBjdXN0X2VuYWJsZV9lbWFpbHMubWFwIGRvIHxlbWFpbHwKICAjICAgICBbZW1haWwuaWQsIGVtYWlsLmVtYWlsXQogICMgICBlbmQudG9faAogICMgICBAZmF4X2VuYWJsZV9lbWFpbHNfd2FyZSA9IGZheF9lbmFibGVfZW1haWxzLm1hcCBkbyB8ZW1haWx8CiAgIyAgICAgW2VtYWlsLmlkLCBlbWFpbC5lbWFpbF0KICAjICAgZW5kLnRvX2gKICAjICAgQGVuYWJsZV9kZXBvc193YXJlID0gZW5hYmxlX2RlcG9zLm1hcCBkbyB8ZGVwb3wKICAjICAgICBbZGVwby5pZCwgZGVwby5kZXBvX3N0cmluZ10KICAjICAgZW5kLnRvX2gKICAjICAgQGFkZHJlc3NfbXBsYW5zX3dhcmUgPSB7fQogICMgICBhZGRyZXNzX21wbGFucy5lYWNoIGRvIHxtcGxhbnwKICAjICAgICBAYWRkcmVzc19tcGxhbnNfd2FyZVttcGxhbi5zcV9tcGxhbl0gPSB7CiAgIyAgICAgICB0cmFuc2Zlcl9lbmFibGVfZW1haWxzOiBtcGxhbi50cmFuc2Zlcl9lbmFibGVfZW1haWxzLm1hcCB7IHxlbWFpbHwgIFtlbWFpbC5pZCwgZW1haWwuZW1haWxdIH0udG9faAogICMgICAgIH0KICAjICAgZW5kCiAgIyBlbmQ=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -5408,13 +5408,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>Changable</text>
+        <text>ば</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>れ</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>け</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
