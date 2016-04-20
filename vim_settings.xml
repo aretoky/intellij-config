@@ -5351,7 +5351,7 @@
         <text>D</text>
       </register>
       <register name="/" type="4">
-        <text>bugsnag_api_key</text>
+        <text>depth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmlsbF9pbiAiY3VzdF9jaGFuZ2VfcHN3ZCIsIHdpdGg6ICJjaGFuZ2VwYXNzIgo=</text>
@@ -5388,9 +5388,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bugsnag_api_key</last-search>
+      <last-search>depth</last-search>
       <last-offset />
-      <last-pattern>bugsnag_api_key</last-pattern>
+      <last-pattern>depth</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5398,7 +5398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reg</entry>
         <entry>lega</entry>
         <entry>ym_</entry>
         <entry>change</entry>
@@ -5418,6 +5417,7 @@
         <entry encoding="base64">IGN1c3Q6</entry>
         <entry>previous</entry>
         <entry>bugsnag_api_key</entry>
+        <entry>depth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
