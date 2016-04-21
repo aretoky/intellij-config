@@ -883,7 +883,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/parse_job.rb" timestamp="1460297366956">
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/parse_job.rb" timestamp="1461242701407">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="26" />
@@ -2756,6 +2756,13 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1461242712818">
+        <mark key="'" line="13" column="39" />
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/config/application.rb" timestamp="1461160629588">
         <mark key="[" line="22" column="66" />
         <mark key="]" line="45" column="63" />
@@ -3037,7 +3044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="11" filename="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" />
       <jump line="821" column="29" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm_old.php" />
       <jump line="823" column="16" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm_old.php" />
       <jump line="12" column="8" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
@@ -3119,10 +3125,6 @@
       <jump line="113" column="41" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="285" column="30" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="77" column="39" filename="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" />
-      <jump line="0" column="15" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
-      <jump line="12" column="27" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
-      <jump line="13" column="39" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
-      <jump line="14" column="19" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
       <jump line="379" column="12" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="111" column="7" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="55" column="2" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_saver.rb" />
@@ -3137,6 +3139,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
       <jump line="28" column="5" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
       <jump line="10" column="9" filename="$USER_HOME$/projects/company-list/Gemfile" />
+      <jump line="42" column="49" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
+      <jump line="14" column="19" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
+      <jump line="12" column="27" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
+      <jump line="13" column="39" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5283,7 +5290,7 @@
         <text>unicorn-rails</text>
       </register>
       <register name="/" type="4">
-        <text>depth</text>
+        <text>crawl_depth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmlsbF9pbiAiY3VzdF9jaGFuZ2VfcHN3ZCIsIHdpdGg6ICJjaGFuZ2VwYXNzIgo=</text>
@@ -5320,9 +5327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>depth</last-search>
+      <last-search>crawl_depth</last-search>
       <last-offset />
-      <last-pattern>depth</last-pattern>
+      <last-pattern>crawl_depth</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5345,11 +5352,11 @@
         <entry>_save</entry>
         <entry>person</entry>
         <entry>expec</entry>
-        <entry>crawl_depth</entry>
         <entry encoding="base64">IGN1c3Q6</entry>
         <entry>previous</entry>
         <entry>bugsnag_api_key</entry>
         <entry>depth</entry>
+        <entry>crawl_depth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
