@@ -372,6 +372,13 @@
         <mark key="." line="27" column="67" />
         <mark key="^" line="27" column="67" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy.rb" timestamp="1461253420553">
+        <mark key="'" line="36" column="22" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/air-reading/config/environments/production.rb" timestamp="1451407190309">
         <mark key="[" line="42" column="96" />
         <mark key="]" line="43" column="65" />
@@ -2757,11 +2764,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1461250173958">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="34" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1461254181920">
+        <mark key="[" line="33" column="50" />
+        <mark key="]" line="33" column="50" />
+        <mark key="." line="33" column="50" />
+        <mark key="^" line="33" column="50" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/application.rb" timestamp="1461160629588">
         <mark key="[" line="22" column="66" />
@@ -3044,7 +3051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="821" column="29" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm_old.php" />
       <jump line="823" column="16" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm_old.php" />
       <jump line="12" column="8" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
       <jump line="21" column="7" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
@@ -3144,6 +3150,7 @@
       <jump line="14" column="19" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
       <jump line="12" column="27" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
       <jump line="13" column="39" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
+      <jump line="36" column="22" filename="$USER_HOME$/projects/meta_crawler/config/deploy.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5287,40 +5294,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>IPSocket::getaddress(</text>
       </register>
       <register name="/" type="4">
         <text>crawl_depth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmlsbF9pbiAiY3VzdF9jaGFuZ2VfcHN3ZCIsIHdpdGg6ICJjaGFuZ2VwYXNzIgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcigic3luY2hyb25pemUgc3RhcnQiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="1" type="4">
+        <text>IPSocket::getaddress(</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFRpbWVvdXQudGltZW91dCgxMCkgZG8K</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="3" type="4">
+        <text>}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVGltZW91dC50aW1lb3V0KDEwKSBkbwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>p</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhaXNlCg==</text>
+      <register name="6" type="4">
+        <text>p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCAic3luY2hyb25pemUgZW5kIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHAgInN5bmNocm9uaXplIHN0YXJ0Igo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>start</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
