@@ -629,7 +629,7 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460289492108">
+      <file name="/Dummy.txt" timestamp="1461504097978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1459200683187">
@@ -698,8 +698,8 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1461172437145">
-        <mark key="'" line="10" column="9" />
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1461504004489">
+        <mark key="'" line="0" column="25" />
         <mark key="[" line="102" column="20" />
         <mark key="]" line="95" column="25" />
         <mark key="." line="95" column="25" />
@@ -3051,7 +3051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="823" column="16" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/person/edit_confirm_old.php" />
       <jump line="12" column="8" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
       <jump line="21" column="7" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
       <jump line="41" column="17" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
@@ -3151,6 +3150,7 @@
       <jump line="12" column="27" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
       <jump line="13" column="39" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
       <jump line="36" column="22" filename="$USER_HOME$/projects/meta_crawler/config/deploy.rb" />
+      <jump line="0" column="25" filename="$USER_HOME$/projects/company-list/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5297,7 +5297,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>crawl_depth</text>
+        <text>spring</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHAgb3B0aW9uc1siY3Jhd2xfZGVwdGgiXQo=</text>
@@ -5334,9 +5334,9 @@
       </register>
     </registers>
     <search>
-      <last-search>crawl_depth</last-search>
+      <last-search>spring</last-search>
       <last-offset />
-      <last-pattern>crawl_depth</last-pattern>
+      <last-pattern>spring</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5344,7 +5344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lega</entry>
         <entry>ym_</entry>
         <entry>change</entry>
         <entry>pwd</entry>
@@ -5364,6 +5363,7 @@
         <entry>bugsnag_api_key</entry>
         <entry>depth</entry>
         <entry>crawl_depth</entry>
+        <entry>spring</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
