@@ -800,11 +800,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/db/migrate/20160424133202_create_custom_records.rb" timestamp="1461505492631">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-        <mark key="^" line="12" column="66" />
+      <file name="$USER_HOME$/projects/company-list/db/migrate/20160424133202_create_custom_records.rb" timestamp="1461520993904">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
       </file>
       <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/cardchange.php" timestamp="1458805823932">
         <mark key="[" line="73" column="50" />
@@ -848,8 +848,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/db/migrate/20160420143148_devise_create_users.rb" timestamp="1461517342886">
-        <mark key="[" line="38" column="59" />
+      <file name="$USER_HOME$/projects/company-list/db/migrate/20160420143148_devise_create_users.rb" timestamp="1461520001622">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="56" />
+        <mark key="^" line="2" column="56" />
+        <mark key="." line="2" column="56" />
       </file>
       <file name="$USER_HOME$/sandbox/james-twillio/Gemfile" timestamp="1454660342295">
         <mark key="[" line="7" column="17" />
@@ -1097,6 +1100,11 @@
         <mark key="^" line="13" column="75" />
         <mark key="." line="13" column="75" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/app/services/fetching_remote_custom_records_service.rb" timestamp="1461520351126">
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/sales_analytics_result.rb" timestamp="1449598311372">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="48" />
@@ -1265,7 +1273,9 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1461505846840" />
+      <file name="$USER_HOME$/projects/meta_crawler/Gemfile" timestamp="1461521190864">
+        <mark key="'" line="93" column="68" />
+      </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/assets/javascripts/application.js" timestamp="1457338081500">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="16" column="17" />
@@ -2631,6 +2641,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="33" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/lib/tasks/fetching_remote_custom_records.rake" timestamp="1461520520744">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/my_human_input.rb" timestamp="1448976792115">
         <mark key="[" line="22" column="35" />
         <mark key="]" line="22" column="38" />
@@ -2667,6 +2683,7 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1461520434591" />
       <file name="$USER_HOME$/projects/media-crawler/app/views/layouts/application.html.erb" timestamp="1454934874927">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="37" />
@@ -3095,7 +3112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="8" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
       <jump line="21" column="7" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
       <jump line="41" column="17" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
       <jump line="43" column="7" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" />
@@ -3195,6 +3211,7 @@
       <jump line="13" column="39" filename="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" />
       <jump line="36" column="22" filename="$USER_HOME$/projects/meta_crawler/config/deploy.rb" />
       <jump line="0" column="25" filename="$USER_HOME$/projects/company-list/Gemfile" />
+      <jump line="93" column="68" filename="$USER_HOME$/projects/meta_crawler/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5338,109 +5355,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>160.16.221.191</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>ransack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHAgb3B0aW9uc1siY3Jhd2xfZGVwdGgiXQo=</text>
+        <text encoding="base64">ICAgICAgdC50aW1lc3RhbXAgOmZldGNoX3VwZGF0ZWRfYXQsIG51bGw6IGZhbHNlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>160.16.221.191</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="3" type="4">
-        <text>sidekiq_parser</text>
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">c2V0IDpzaWRla2lxX3JvbGUsIFs6c2lkZWtpcV9wYXJzZXIsIDpzaWRla2lxX2Rvd25sb2FkZXJdCnNldCA6c2lkZWtpcV9jb25maWcsIC0+IHsgRmlsZS5qb2luKHNoYXJlZF9wYXRoLCAnY29uZmlnJywgJ3NpZGVraXEueW1sJykgfQpzZXQgOnNpZGVraXFfZG93bmxvYWRlcl9wcm9jZXNzZXMsIDEKc2V0IDpzaWRla2lxX3BhcnNlcl9wcm9jZXNzZXMsIDQKCnNldCA6c2lkZWtpcV9tb25pdF9jb25mX2RpciwgLT4geyAnL2V0Yy9tb25pdC5kLycgfQo=</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>meta_crawler</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>meta_crawler</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>meta-crawler</text>
+        <text>c</text>
       </register>
-      <register name="9" type="4">
-        <text># server-based syntax
-# ======================
-# Defines a single server with a list of roles and multiple properties.
-# You can define all roles on a single server, or split them:
-
-# server 'example.com', user: 'deploy', roles: %w{app db web}, my_property: :my_value
-# server 'example.com', user: 'deploy', roles: %w{app web}, other_property: :other_value
-# server 'db.example.com', user: 'deploy', roles: %w{db}
-
-
-
-# role-based syntax
-# ==================
-
-# Defines a role with one or multiple servers. The primary server in each
-# group is considered to be the first unless any  hosts have the primary
-# property set. Specify the username and a domain or IP for the server.
-# Don't use `:all`, it's a meta role.
-
-# role :app, %w{deploy@example.com}, my_property: :my_value
-# role :web, %w{user1@primary.com user2@additional.com}, other_property: :other_value
-# role :db,  %w{deploy@example.com}
-
-
-
-# Configuration
-# =============
-# You can set any configuration variable like in config/deploy.rb
-# These variables are then only loaded and set in this stage.
-# For available Capistrano configuration variables see the documentation page.
-# http://capistranorb.com/documentation/getting-started/configuration/
-# Feel free to add new variables to customise your setup.
-
-
-
-# Custom SSH Options
-# ==================
-# You may pass any option but keep in mind that net/ssh understands a
-# limited set of options, consult the Net::SSH documentation.
-# http://net-ssh.github.io/net-ssh/classes/Net/SSH.html#method-c-start
-#
-# Global options
-# --------------
-#  set :ssh_options, {
-#    keys: %w(/home/rlisowski/.ssh/id_rsa),
-#    forward_agent: false,
-#    auth_methods: %w(password)
-#  }
-#
-# The server-based syntax can be used to override options:
-# ------------------------------------
-# server 'example.com',
-#   user: 'user_name',
-#   roles: %w{web app},
-#   ssh_options: {
-#     user: 'user_name', # overrides user setting above
-#     keys: %w(/home/user_name/.ssh/id_rsa),
-#     forward_agent: false,
-#     auth_methods: %w(publickey password)
-#     # password: 'please use keys'
-#   }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3VzdG9tX3JlY29yZHMsIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>ransack</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>ransack</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5448,7 +5405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ym_</entry>
         <entry>change</entry>
         <entry>pwd</entry>
         <entry>change_pswd</entry>
@@ -5468,6 +5424,7 @@
         <entry>depth</entry>
         <entry>crawl_depth</entry>
         <entry>spring</entry>
+        <entry>ransack</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\/assets\/(.*)&quot;//</entry>
