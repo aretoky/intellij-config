@@ -372,7 +372,7 @@
         <mark key="." line="27" column="67" />
         <mark key="^" line="27" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy.rb" timestamp="1461253420553">
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy.rb" timestamp="1461516136749">
         <mark key="'" line="36" column="22" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="10" />
@@ -628,7 +628,7 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461504699386">
+      <file name="/Dummy.txt" timestamp="1461517075839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_fields.html.slim" timestamp="1459200683187">
@@ -847,6 +847,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/company-list/db/migrate/20160420143148_devise_create_users.rb" timestamp="1461517342886">
+        <mark key="[" line="38" column="59" />
       </file>
       <file name="$USER_HOME$/sandbox/james-twillio/Gemfile" timestamp="1454660342295">
         <mark key="[" line="7" column="17" />
@@ -1659,11 +1662,11 @@
         <mark key="^" line="21" column="75" />
         <mark key="." line="21" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/deploy/production.rb" timestamp="1461506938348">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/projects/company-list/config/deploy/production.rb" timestamp="1461516307093">
+        <mark key="[" line="6" column="75" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1452610626277">
         <mark key="[" line="16" column="21" />
@@ -2376,7 +2379,7 @@
         <mark key="^" line="50" column="21" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1461506922682">
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1461516466570">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
@@ -2841,11 +2844,11 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/deploy.rb" timestamp="1461506547394">
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="36" column="44" />
-        <mark key="^" line="36" column="44" />
-        <mark key="." line="36" column="44" />
+      <file name="$USER_HOME$/projects/company-list/config/deploy.rb" timestamp="1461516206125">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/premium_paypal_callback.php" timestamp="1459140001298">
         <mark key="[" line="34" column="41" />
@@ -2915,6 +2918,12 @@
         <mark key="]" line="13" column="39" />
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/company-list/app/services/fetching_remote_custom_records.rb" timestamp="1461516558875">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/remote_custom_record.rb" timestamp="1461503177486">
         <mark key="[" line="4" column="0" />
@@ -5329,7 +5338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>meta-crawler</text>
+        <text>160.16.221.191</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
@@ -5338,9 +5347,30 @@
         <text encoding="base64">ICAgIHAgb3B0aW9uc1siY3Jhd2xfZGVwdGgiXQo=</text>
       </register>
       <register name="1" type="4">
-        <text>meta-crawler</text>
+        <text>160.16.221.191</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>sidekiq_parser</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">c2V0IDpzaWRla2lxX3JvbGUsIFs6c2lkZWtpcV9wYXJzZXIsIDpzaWRla2lxX2Rvd25sb2FkZXJdCnNldCA6c2lkZWtpcV9jb25maWcsIC0+IHsgRmlsZS5qb2luKHNoYXJlZF9wYXRoLCAnY29uZmlnJywgJ3NpZGVraXEueW1sJykgfQpzZXQgOnNpZGVraXFfZG93bmxvYWRlcl9wcm9jZXNzZXMsIDEKc2V0IDpzaWRla2lxX3BhcnNlcl9wcm9jZXNzZXMsIDQKCnNldCA6c2lkZWtpcV9tb25pdF9jb25mX2RpciwgLT4geyAnL2V0Yy9tb25pdC5kLycgfQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>meta_crawler</text>
+      </register>
+      <register name="7" type="4">
+        <text>meta_crawler</text>
+      </register>
+      <register name="8" type="4">
+        <text>meta-crawler</text>
+      </register>
+      <register name="9" type="4">
         <text># server-based syntax
 # ======================
 # Defines a single server with a list of roles and multiple properties.
@@ -5402,38 +5432,6 @@
 #     auth_methods: %w(publickey password)
 #     # password: 'please use keys'
 #   }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>#
-# every 2.hours do
-#   command &quot;/usr/bin/some_great_command&quot;
-#   runner &quot;MyModel.some_method&quot;
-#   rake &quot;some:great:rake:task&quot;
-# end
-#
-# every 4.days do
-#   runner &quot;AnotherModel.prune_old_records&quot;
-# end
-
-# Learn more: http://github.com/javan/whenever</text>
-      </register>
-      <register name="6" type="4">
-        <text>my</text>
-      </register>
-      <register name="7" type="4">
-        <text>o</text>
-      </register>
-      <register name="8" type="4">
-        <text>t</text>
-      </register>
-      <register name="9" type="4">
-        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
