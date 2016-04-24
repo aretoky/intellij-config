@@ -697,12 +697,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1461505843264">
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1461506668351">
         <mark key="'" line="0" column="25" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="97" column="31" />
+        <mark key="[" line="107" column="24" />
+        <mark key="]" line="107" column="15" />
+        <mark key="." line="107" column="15" />
+        <mark key="^" line="107" column="15" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bitem/to_create_from_plan/validator.rb" timestamp="1458242623973">
         <mark key="[" line="19" column="60" />
@@ -1659,6 +1659,12 @@
         <mark key="^" line="21" column="75" />
         <mark key="." line="21" column="75" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/config/deploy/production.rb" timestamp="1461506938348">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1452610626277">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="21" />
@@ -1712,6 +1718,12 @@
         <mark key="]" line="14" column="5" />
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/company-list/Capfile" timestamp="1461506527729">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="28" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/mime_types.rb" timestamp="1449723302848">
         <mark key="[" line="4" column="0" />
@@ -2250,7 +2262,7 @@
         <mark key="." line="10" column="46" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/Capfile" timestamp="1459878461853">
+      <file name="$USER_HOME$/projects/meta_crawler/Capfile" timestamp="1461506910648">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="21" column="55" />
         <mark key="^" line="21" column="55" />
@@ -2364,7 +2376,7 @@
         <mark key="^" line="50" column="21" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1459881513121">
+      <file name="$USER_HOME$/projects/meta_crawler/config/deploy/production.rb" timestamp="1461506922682">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
@@ -2829,6 +2841,12 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/config/deploy.rb" timestamp="1461506547394">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="36" column="44" />
+        <mark key="^" line="36" column="44" />
+        <mark key="." line="36" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/premium_paypal_callback.php" timestamp="1459140001298">
         <mark key="[" line="34" column="41" />
         <mark key="]" line="36" column="28" />
@@ -2933,6 +2951,12 @@
         <mark key="]" line="25" column="25" />
         <mark key="." line="25" column="25" />
         <mark key="^" line="25" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/company-list/config/schedule.rb" timestamp="1461506799780">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/provision-script/phpmyadmin/config.sample.inc.php" timestamp="1452259507429">
         <mark key="[" line="16" column="27" />
@@ -5305,7 +5329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>meta-crawler</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
@@ -5313,32 +5337,103 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHAgb3B0aW9uc1siY3Jhd2xfZGVwdGgiXQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>meta-crawler</text>
+      </register>
+      <register name="2" type="4">
+        <text># server-based syntax
+# ======================
+# Defines a single server with a list of roles and multiple properties.
+# You can define all roles on a single server, or split them:
+
+# server 'example.com', user: 'deploy', roles: %w{app db web}, my_property: :my_value
+# server 'example.com', user: 'deploy', roles: %w{app web}, other_property: :other_value
+# server 'db.example.com', user: 'deploy', roles: %w{db}
+
+
+
+# role-based syntax
+# ==================
+
+# Defines a role with one or multiple servers. The primary server in each
+# group is considered to be the first unless any  hosts have the primary
+# property set. Specify the username and a domain or IP for the server.
+# Don't use `:all`, it's a meta role.
+
+# role :app, %w{deploy@example.com}, my_property: :my_value
+# role :web, %w{user1@primary.com user2@additional.com}, other_property: :other_value
+# role :db,  %w{deploy@example.com}
+
+
+
+# Configuration
+# =============
+# You can set any configuration variable like in config/deploy.rb
+# These variables are then only loaded and set in this stage.
+# For available Capistrano configuration variables see the documentation page.
+# http://capistranorb.com/documentation/getting-started/configuration/
+# Feel free to add new variables to customise your setup.
+
+
+
+# Custom SSH Options
+# ==================
+# You may pass any option but keep in mind that net/ssh understands a
+# limited set of options, consult the Net::SSH documentation.
+# http://net-ssh.github.io/net-ssh/classes/Net/SSH.html#method-c-start
+#
+# Global options
+# --------------
+#  set :ssh_options, {
+#    keys: %w(/home/rlisowski/.ssh/id_rsa),
+#    forward_agent: false,
+#    auth_methods: %w(password)
+#  }
+#
+# The server-based syntax can be used to override options:
+# ------------------------------------
+# server 'example.com',
+#   user: 'user_name',
+#   roles: %w{web app},
+#   ssh_options: {
+#     user: 'user_name', # overrides user setting above
+#     keys: %w(/home/user_name/.ssh/id_rsa),
+#     forward_agent: false,
+#     auth_methods: %w(publickey password)
+#     # password: 'please use keys'
+#   }</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBlbmNvZGluZzogdXRmOAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICA=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>#
+# every 2.hours do
+#   command &quot;/usr/bin/some_great_command&quot;
+#   runner &quot;MyModel.some_method&quot;
+#   rake &quot;some:great:rake:task&quot;
+# end
+#
+# every 4.days do
+#   runner &quot;AnotherModel.prune_old_records&quot;
+# end
+
+# Learn more: http://github.com/javan/whenever</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>my</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBlbmNvZGluZzogdXRmOAo=</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
