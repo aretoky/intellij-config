@@ -1958,11 +1958,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" timestamp="1461580991399">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="37" column="13" />
-        <mark key="^" line="37" column="13" />
-        <mark key="." line="37" column="13" />
+      <file name="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" timestamp="1461648486347">
+        <mark key="[" line="108" column="22" />
+        <mark key="]" line="108" column="40" />
+        <mark key="." line="108" column="22" />
+        <mark key="^" line="108" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/edit.html.slim" timestamp="1461552293290">
         <mark key="[" line="45" column="12" />
@@ -5468,40 +5468,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>:postals_hour_visit</text>
       </register>
       <register name="/" type="4">
         <text>method_defined</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6bm9fdmlzaXQsIHByZXNlbmNlOiB0cnVlCg==</text>
+      <register name="0" type="4">
+        <text>:&quot;postals_#{name}&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>:postals_hour_visit</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>:hour_visit</text>
       </register>
       <register name="3" type="4">
-        <text>時</text>
+        <text>hour_visit</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bm9fdmlzaXQg</text>
+        <text>attr</text>
       </register>
-      <register name="5" type="4">
-        <text>所</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>場</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>、</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
         <text>時</text>
       </register>
       <register name="9" type="4">
-        <text>日</text>
+        <text encoding="base64">bm9fdmlzaXQg</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
