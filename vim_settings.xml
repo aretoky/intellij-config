@@ -1467,6 +1467,12 @@
         <mark key="." line="29" column="36" />
         <mark key="^" line="29" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/regular_crawl_job.rb" timestamp="1461721933051">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/image_split_api/fuel/app/tasks/imagesplits.php" timestamp="1456763734968">
         <mark key="[" line="25" column="29" />
         <mark key="]" line="26" column="12" />
@@ -1677,11 +1683,8 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/initializers/sidekiq.rb" timestamp="1460293994660">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/initializers/sidekiq.rb" timestamp="1461722505206">
+        <mark key="[" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/bootstrap.php" timestamp="1450423030528">
         <mark key="[" line="19" column="0" />
@@ -1809,7 +1812,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/models/site.rb" timestamp="1460318521716">
+      <file name="$USER_HOME$/projects/meta_crawler/app/models/site.rb" timestamp="1461721791056">
         <mark key="[" line="33" column="33" />
         <mark key="]" line="33" column="31" />
         <mark key="^" line="33" column="31" />
@@ -2301,7 +2304,7 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/url_list_setting_job.rb" timestamp="1459865301328">
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/url_list_setting_job.rb" timestamp="1461721697750">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="3" column="47" />
@@ -2952,6 +2955,12 @@
         <mark key="^" line="46" column="40" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/validators/email_validator.rb" timestamp="1461580754587" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/schedule.yml" timestamp="1461722288332">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/config/application.rb" timestamp="1461160629588">
         <mark key="[" line="22" column="66" />
         <mark key="]" line="45" column="63" />
@@ -5499,7 +5508,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>transmit</text>
+        <text>cron</text>
       </register>
       <register name="/" type="4">
         <text>cap</text>
@@ -5507,32 +5516,32 @@
       <register name="0" type="4">
         <text>is_expected.to be_valid }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBnZW0gIm1vbmdvaWQiCg==</text>
+      <register name="1" type="4">
+        <text>cron</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHAgeW5fY2FsY19ub3RfZXhwcmVzcz8K</text>
+      <register name="2" type="4">
+        <text>default</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCBjb2RlX2FycmF5ID0gY29kZV9hcnJheSAqIHNlbGYuY2xhc3M6OlBFUk1JVF9ZTl9DQUxDX05PVF9FWFBSRVNTX0NEX1VSCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29kZV9hcnJheSA9IGNvZGVfYXJyYXkgKiBzZWxmLmNsYXNzOjpQRVJNSVRfQ0FMQ19OT1RfVFJBTlNNSVRfQ0RfVVIK</text>
+      <register name="4" type="4">
+        <text>crawl_status_id = nil, options = {}</text>
       </register>
       <register name="5" type="4">
-        <text>transmit</text>
+        <text>content_urls_setters</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgImFhYSIK</text>
+        <text encoding="base64">IyBnZW0gIm1vbmdvaWQiCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>用</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHAgeW5fY2FsY19ub3RfZXhwcmVzcz8K</text>
       </register>
-      <register name="8" type="4">
-        <text>不</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcCBjb2RlX2FycmF5ID0gY29kZV9hcnJheSAqIHNlbGYuY2xhc3M6OlBFUk1JVF9ZTl9DQUxDX05PVF9FWFBSRVNTX0NEX1VSCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>送</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29kZV9hcnJheSA9IGNvZGVfYXJyYXkgKiBzZWxmLmNsYXNzOjpQRVJNSVRfQ0FMQ19OT1RfVFJBTlNNSVRfQ0RfVVIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
