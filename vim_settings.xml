@@ -934,11 +934,10 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/parse_job.rb" timestamp="1461500325106">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="49" />
-        <mark key="^" line="9" column="49" />
-        <mark key="." line="9" column="49" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/jobs/parse_job.rb" timestamp="1461763582204">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/views/admin/multiple_custom_columns/_custom_column_fields.html.slim" timestamp="1457343103392">
         <mark key="[" line="3" column="21" />
@@ -2696,6 +2695,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/meta_crawler/app/services/parsing_service.rb" timestamp="1461763724823">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/raditools/.gitignore" timestamp="1455354981938">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="13" />
@@ -3129,11 +3134,11 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/multiple_parsers_controller.rb" timestamp="1459704866274">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
+      <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/multiple_parsers_controller.rb" timestamp="1461763785554">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="5" />
       </file>
       <file name="$USER_HOME$/sandbox/james-twillio/.gitignore" timestamp="1454659701161">
         <mark key="[" line="2" column="5" />
@@ -3425,32 +3430,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ciA9IHN0ci5nc3ViKC8o77yI5pyJ77yJfFwo5pyJXCl844iyKS8sICLmnInpmZDkvJrnpL4iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>期</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text>定</text>
+        <text>期</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>定</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>{crawl_depth: @site.regular_crawl_depth}</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
+        <text>{crawl_depth: @site.regular_crawl_depth}</text>
+      </register>
+      <register name="7" type="4">
         <text>unrunning</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHAgY29tcGFueQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>(（有）|\(有\)|㈲)</text>
       </register>
       <register name=":" type="4">
         <text>%s/telephone/url/g</text>
