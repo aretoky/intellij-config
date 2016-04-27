@@ -594,11 +594,11 @@
         <mark key="^" line="42" column="13" />
         <mark key="." line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1461739621730">
-        <mark key="[" line="32" column="7" />
-        <mark key="]" line="34" column="15" />
-        <mark key="." line="34" column="15" />
-        <mark key="^" line="34" column="15" />
+      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1461742036582">
+        <mark key="[" line="44" column="7" />
+        <mark key="]" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/yamatos/index.html.slim" timestamp="1460290388548">
         <mark key="[" line="28" column="0" />
@@ -867,7 +867,7 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/custom_record.rb" timestamp="1461736053876">
+      <file name="$USER_HOME$/projects/company-list/app/models/custom_record.rb" timestamp="1461741949275">
         <mark key="[" line="42" column="35" />
         <mark key="]" line="43" column="26" />
         <mark key="." line="43" column="26" />
@@ -5524,7 +5524,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>telephone</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>telephone</text>
@@ -5532,32 +5532,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y29tcGFueV9nZW5yZXMsIDpjb21wYW55X2lkCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>telephone</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>custom_recor</text>
+        <text encoding="base64">ICA=</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>custom_record</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIGNvbXBhbnkuY29tcGFueV9jdXN0b21fcmVjb3Jkcy5lCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>custom_record</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>custom_record</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="4">
-        <text>custom_records</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>custom_records</text>
+        <text>f</text>
       </register>
       <register name="9" type="4">
-        <text>]</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/telephone/url/g</text>
