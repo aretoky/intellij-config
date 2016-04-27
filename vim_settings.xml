@@ -27,9 +27,6 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1461663678304">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/Capfile" timestamp="1461130544953">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -556,6 +553,9 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
+      </file>
+      <file name="/Ruby Console" timestamp="1461725961914">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/postal_destroy.rake" timestamp="1458700572467">
         <mark key="[" line="0" column="28" />
@@ -1683,8 +1683,11 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/meta_crawler/config/initializers/sidekiq.rb" timestamp="1461722505206">
-        <mark key="[" line="22" column="36" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/initializers/sidekiq.rb" timestamp="1461725979503">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="26" column="75" />
+        <mark key="^" line="26" column="75" />
+        <mark key="." line="26" column="75" />
       </file>
       <file name="$USER_HOME$/projects/fuelphp-1.7.3/fuel/app/bootstrap.php" timestamp="1450423030528">
         <mark key="[" line="19" column="0" />
@@ -2955,11 +2958,11 @@
         <mark key="^" line="46" column="40" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/validators/email_validator.rb" timestamp="1461580754587" />
-      <file name="$USER_HOME$/projects/meta_crawler/config/schedule.yml" timestamp="1461722288332">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/projects/meta_crawler/config/schedule.yml" timestamp="1461724793125">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/application.rb" timestamp="1461160629588">
         <mark key="[" line="22" column="66" />
@@ -5508,7 +5511,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cron</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cap</text>
@@ -5516,32 +5519,32 @@
       <register name="0" type="4">
         <text>is_expected.to be_valid }</text>
       </register>
-      <register name="1" type="4">
-        <text>cron</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>default</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>crawl_status_id = nil, options = {}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>content_urls_setters</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBnZW0gIm1vbmdvaWQiCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgeW5fY2FsY19ub3RfZXhwcmVzcz8K</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcCBjb2RlX2FycmF5ID0gY29kZV9hcnJheSAqIHNlbGYuY2xhc3M6OlBFUk1JVF9ZTl9DQUxDX05PVF9FWFBSRVNTX0NEX1VSCg==</text>
+      <register name="8" type="4">
+        <text>cron</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29kZV9hcnJheSA9IGNvZGVfYXJyYXkgKiBzZWxmLmNsYXNzOjpQRVJNSVRfQ0FMQ19OT1RfVFJBTlNNSVRfQ0RfVVIK</text>
+      <register name="9" type="4">
+        <text>default</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
