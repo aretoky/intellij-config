@@ -670,6 +670,11 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/config/initializers/devise.rb" timestamp="1461834300732">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/meta_crawler/db/seeds.rb" timestamp="1459413603516">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="65" />
@@ -718,12 +723,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1461570620936">
-        <mark key="'" line="50" column="5" />
-        <mark key="[" line="108" column="39" />
-        <mark key="]" line="108" column="39" />
-        <mark key="." line="108" column="39" />
-        <mark key="^" line="108" column="43" />
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1461834196896">
+        <mark key="'" line="17" column="71" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="106" column="43" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bitem/to_create_from_plan/validator.rb" timestamp="1458242623973">
         <mark key="[" line="19" column="60" />
@@ -3319,8 +3324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="37" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="293" column="2" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="24357" column="45" filename="$USER_HOME$/projects/cplus/log/development.log" />
       <jump line="3579" column="45" filename="$USER_HOME$/projects/cplus/log/development.log" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
@@ -3419,6 +3422,8 @@
       <jump line="0" column="7" filename="$USER_HOME$/projects/company-list/db/migrate/20160427070249_create_company_telephones.rb" />
       <jump line="0" column="7" filename="$USER_HOME$/projects/company-list/db/migrate/20160427070904_create_company_urls.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/company-list/config/deploy.rb" />
+      <jump line="106" column="12" filename="$USER_HOME$/projects/company-list/Gemfile" />
+      <jump line="17" column="71" filename="$USER_HOME$/projects/company-list/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3458,7 +3463,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>meta</text>
+        <text>rmag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByYWtlICJmZXRjaGluZ19yZW1vdGVfY3VzdG9tX3JlY29yZHMiCg==</text>
@@ -3467,37 +3472,37 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>config/sidekiq.yml config/mongoid.yml</text>
+        <text>#</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyBVc2Ugc3FsaXRlMyBhcyB0aGUgZGF0YWJhc2UgZm9yIEFjdGl2ZSBSZWNvcmQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Z2VtICdzcWxpdGUzJwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>config/sidekiq.yml config/mongoid.yml</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">UkVESVNfVVJMPSJyZWRpczovL2xvY2FsaG9zdDo2Mzc5LzMiCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>opt</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2V0IDpyYmVudl90eXBlLCA6c3lzdGVtCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>user</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">c2V0IDpyYmVudl90eXBlLCA6c3lzdGVtCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/telephone/url/g</text>
       </register>
     </registers>
     <search>
-      <last-search>meta</last-search>
+      <last-search>rmag</last-search>
       <last-offset />
-      <last-pattern>meta</last-pattern>
+      <last-pattern>rmag</last-pattern>
       <last-replace>url</last-replace>
       <last-substitute>telephone</last-substitute>
       <last-dir>1</last-dir>
@@ -3505,7 +3510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>activeresource</entry>
         <entry>mysql</entry>
         <entry>multi</entry>
         <entry>dt_visit</entry>
@@ -3525,6 +3529,7 @@
         <entry>telephone</entry>
         <entry>sidekiq</entry>
         <entry>meta</entry>
+        <entry>rmag</entry>
       </history-search>
       <history-cmd>
         <entry>s/multipe_postals_updating_form/postal/g</entry>
