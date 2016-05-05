@@ -535,6 +535,13 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/db/migrate/20160427070249_create_company_telephones.rb" timestamp="1461747109457">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="4" column="68" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/postal_email.rb" timestamp="1456138462342">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="14" />
@@ -607,11 +614,10 @@
         <mark key="^" line="42" column="13" />
         <mark key="." line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1461758849474">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1462428941463">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/yamatos/index.html.slim" timestamp="1460290388548">
         <mark key="[" line="28" column="0" />
@@ -2012,7 +2018,7 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" timestamp="1461664527957">
+      <file name="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" timestamp="1462428907126">
         <mark key="'" line="123" column="25" />
         <mark key="[" line="79" column="30" />
         <mark key="]" line="79" column="36" />
@@ -2921,6 +2927,13 @@
         <mark key="." line="97" column="59" />
         <mark key="^" line="97" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/db/migrate/20160427070029_create_company_emails.rb" timestamp="1461747105962">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bitem/to_create_from_plan/save_wrapper.rb" timestamp="1458543428780">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="21" column="58" />
@@ -3489,31 +3502,31 @@
         <text>ApplicationController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm90ZWN0X2Zyb21fZm9yZ2VyeSB3aXRoOiA6ZXhjZXB0aW9uCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIEZvciBBUElzLCB5b3UgbWF5IHdhbnQgdG8gdXNlIDpudWxsX3Nlc3Npb24gaW5zdGVhZC4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAjIFByZXZlbnQgQ1NSRiBhdHRhY2tzIGJ5IHJhaXNpbmcgYW4gZXhjZXB0aW9uLgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>ActionController::Base</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZSBGaWxlLmV4cGFuZF9wYXRoKEZpbGUuZGlybmFtZShfX0ZJTEVfXykgKyAiL2Vudmlyb25tZW50IikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Z2VtICd3aGVuZXZlcicsIHJlcXVpcmU6IGZhbHNlCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcm90ZWN0X2Zyb21fZm9yZ2VyeSB3aXRoOiA6ZXhjZXB0aW9uCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAjIEZvciBBUElzLCB5b3UgbWF5IHdhbnQgdG8gdXNlIDpudWxsX3Nlc3Npb24gaW5zdGVhZC4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAjIFByZXZlbnQgQ1NSRiBhdHRhY2tzIGJ5IHJhaXNpbmcgYW4gZXhjZXB0aW9uLgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>ActionController::Base</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmVxdWlyZSBGaWxlLmV4cGFuZF9wYXRoKEZpbGUuZGlybmFtZShfX0ZJTEVfXykgKyAiL2Vudmlyb25tZW50IikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Z2VtICd3aGVuZXZlcicsIHJlcXVpcmU6IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/telephone/url/g</text>
