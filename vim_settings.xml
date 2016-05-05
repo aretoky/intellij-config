@@ -270,8 +270,10 @@
         <mark key="." line="14" column="66" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1462435593378" />
-      <file name="$USER_HOME$/projects/company-list/app/models/company.rb" timestamp="1462432998481">
-        <mark key="[" line="30" column="51" />
+      <file name="$USER_HOME$/projects/company-list/app/models/company.rb" timestamp="1462452711547">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/.env" timestamp="1461831180151">
         <mark key="[" line="0" column="0" />
@@ -863,11 +865,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/db/migrate/20160424133202_create_custom_records.rb" timestamp="1461749535936">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="39" />
-        <mark key="." line="22" column="39" />
-        <mark key="^" line="8" column="47" />
+      <file name="$USER_HOME$/projects/company-list/db/migrate/20160424133202_create_custom_records.rb" timestamp="1462452589234">
+        <mark key="[" line="2" column="157" />
+        <mark key="]" line="2" column="157" />
+        <mark key="." line="2" column="157" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/cardchange.php" timestamp="1458805823932">
         <mark key="[" line="73" column="50" />
@@ -3480,7 +3482,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, type: :fulltext</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>whe</text>
@@ -3488,22 +3490,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlbW92ZV9pbmRleCA6Y29tcGFuaWVzLCA6bmFtZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>, type: :fulltext</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cCBGaW5kIG1lIGluIGFwcC92aWV3cy9hZG1pbnMvY29tcGFuaWVzL3Nob3cuaHRtbC5zbGltCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aDEgQWRtaW5zOjpDb21wYW5pZXMjc2hvdwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>, type: :fulltext</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">cCBGaW5kIG1lIGluIGFwcC92aWV3cy9hZG1pbnMvY29tcGFuaWVzL3Nob3cuaHRtbC5zbGltCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aDEgQWRtaW5zOjpDb21wYW5pZXMjc2hvdwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAg</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>namespace :admins do
   get 'companies/index'
   end
@@ -3519,15 +3530,6 @@
   namespace :admins do
   get 'companies/show'
   end</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAjIFRoZSBwcmlvcml0eSBpcyBiYXNlZCB1cG9uIG9yZGVyIG9mIGNyZWF0aW9uOiBmaXJzdCBjcmVhdGVkIC0+IGhpZ2hlc3QgcHJpb3JpdHkuCiAgIyBTZWUgaG93IGFsbCB5b3VyIHJvdXRlcyBsYXkgb3V0IHdpdGggInJha2Ugcm91dGVzIi4KCiAgIyBZb3UgY2FuIGhhdmUgdGhlIHJvb3Qgb2YgeW91ciBzaXRlIHJvdXRlZCB3aXRoICJyb290IgogICMgcm9vdCAnd2VsY29tZSNpbmRleCcKCiAgIyBFeGFtcGxlIG9mIHJlZ3VsYXIgcm91dGU6CiAgIyAgIGdldCAncHJvZHVjdHMvOmlkJyA9PiAnY2F0YWxvZyN2aWV3JwoKICAjIEV4YW1wbGUgb2YgbmFtZWQgcm91dGUgdGhhdCBjYW4gYmUgaW52b2tlZCB3aXRoIHB1cmNoYXNlX3VybChpZDogcHJvZHVjdC5pZCkKICAjICAgZ2V0ICdwcm9kdWN0cy86aWQvcHVyY2hhc2UnID0+ICdjYXRhbG9nI3B1cmNoYXNlJywgYXM6IDpwdXJjaGFzZQoKICAjIEV4YW1wbGUgcmVzb3VyY2Ugcm91dGUgKG1hcHMgSFRUUCB2ZXJicyB0byBjb250cm9sbGVyIGFjdGlvbnMgYXV0b21hdGljYWxseSk6CiAgIyAgIHJlc291cmNlcyA6cHJvZHVjdHMKCiAgIyBFeGFtcGxlIHJlc291cmNlIHJvdXRlIHdpdGggb3B0aW9uczoKICAjICAgcmVzb3VyY2VzIDpwcm9kdWN0cyBkbwogICMgICAgIG1lbWJlciBkbwogICMgICAgICAgZ2V0ICdzaG9ydCcKICAjICAgICAgIHBvc3QgJ3RvZ2dsZScKICAjICAgICBlbmQKICAjCiAgIyAgICAgY29sbGVjdGlvbiBkbwogICMgICAgICAgZ2V0ICdzb2xkJwogICMgICAgIGVuZAogICMgICBlbmQKCiAgIyBFeGFtcGxlIHJlc291cmNlIHJvdXRlIHdpdGggc3ViLXJlc291cmNlczoKICAjICAgcmVzb3VyY2VzIDpwcm9kdWN0cyBkbwogICMgICAgIHJlc291cmNlcyA6Y29tbWVudHMsIDpzYWxlcwogICMgICAgIHJlc291cmNlIDpzZWxsZXIKICAjICAgZW5kCgogICMgRXhhbXBsZSByZXNvdXJjZSByb3V0ZSB3aXRoIG1vcmUgY29tcGxleCBzdWItcmVzb3VyY2VzOgogICMgICByZXNvdXJjZXMgOnByb2R1Y3RzIGRvCiAgIyAgICAgcmVzb3VyY2VzIDpjb21tZW50cwogICMgICAgIHJlc291cmNlcyA6c2FsZXMgZG8KICAjICAgICAgIGdldCAncmVjZW50Jywgb246IDpjb2xsZWN0aW9uCiAgIyAgICAgZW5kCiAgIyAgIGVuZAoKICAjIEV4YW1wbGUgcmVzb3VyY2Ugcm91dGUgd2l0aCBjb25jZXJuczoKICAjICAgY29uY2VybiA6dG9nZ2xlYWJsZSBkbwogICMgICAgIHBvc3QgJ3RvZ2dsZScKICAjICAgZW5kCiAgIyAgIHJlc291cmNlcyA6cG9zdHMsIGNvbmNlcm5zOiA6dG9nZ2xlYWJsZQogICMgICByZXNvdXJjZXMgOnBob3RvcywgY29uY2VybnM6IDp0b2dnbGVhYmxlCgogICMgRXhhbXBsZSByZXNvdXJjZSByb3V0ZSB3aXRoaW4gYSBuYW1lc3BhY2U6CiAgIyAgIG5hbWVzcGFjZSA6YWRtaW4gZG8KICAjICAgICAjIERpcmVjdHMgL2FkbWluL3Byb2R1Y3RzLyogdG8gQWRtaW46OlByb2R1Y3RzQ29udHJvbGxlcgogICMgICAgICMgKGFwcC9jb250cm9sbGVycy9hZG1pbi9wcm9kdWN0c19jb250cm9sbGVyLnJiKQogICMgICAgIHJlc291cmNlcyA6cHJvZHVjdHMKICAjICAgZW5k</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICA=</text>
-      </register>
-      <register name="9" type="4">
-        <text>custs</text>
       </register>
       <register name=":" type="4">
         <text>%s/telephone/url/g</text>
