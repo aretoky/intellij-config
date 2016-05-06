@@ -412,9 +412,6 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/index.php" timestamp="1461553651128">
-        <mark key="'" line="96" column="117" />
-      </file>
       <file name="$USER_HOME$/projects/air-reading/config/environments/production.rb" timestamp="1451407190309">
         <mark key="[" line="42" column="96" />
         <mark key="]" line="43" column="65" />
@@ -762,7 +759,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1462524826283">
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1462527196249">
         <mark key="'" line="34" column="21" />
         <mark key="[" line="106" column="104" />
         <mark key="]" line="107" column="13" />
@@ -919,11 +916,11 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/custom_record.rb" timestamp="1462519618533">
-        <mark key="[" line="31" column="43" />
-        <mark key="]" line="31" column="46" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="46" />
+      <file name="$USER_HOME$/projects/company-list/app/models/custom_record.rb" timestamp="1462526861341">
+        <mark key="[" line="31" column="74" />
+        <mark key="]" line="31" column="42" />
+        <mark key="^" line="31" column="42" />
+        <mark key="." line="31" column="42" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bil_mailer.rb" timestamp="1458469074666">
         <mark key="[" line="0" column="13" />
@@ -3073,7 +3070,7 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/db/migrate/20160425065731_create_addresses.rb" timestamp="1461740522861">
+      <file name="$USER_HOME$/projects/company-list/db/migrate/20160425065731_create_addresses.rb" timestamp="1462526827476">
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
@@ -3278,9 +3275,6 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1461666324506">
-        <mark key="'" line="72" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_addr_fields.html.slim" timestamp="1453969334552">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="12" />
@@ -3299,8 +3293,8 @@
         <mark key="^" line="47" column="67" />
         <mark key="." line="47" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/db/schema.rb" timestamp="1462525893969">
-        <mark key="'" line="5" column="74" />
+      <file name="$USER_HOME$/projects/company-list/db/schema.rb" timestamp="1462526503739">
+        <mark key="'" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/custom_records/_custom_record.html.slim" timestamp="1461048665557">
         <mark key="[" line="9" column="16" />
@@ -3400,7 +3394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="31" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="85" column="41" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="88" column="43" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="91" column="42" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
@@ -3500,6 +3493,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="24" column="16" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="5" column="74" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
+      <jump line="23" column="21" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3539,7 +3533,7 @@
         <text encoding="base64">ICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>location</text>
+        <text>point</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cHJvZHVjdGlvbjoKICBhZGFwdGVyOiBteXNxbDIKICBkYXRhYmFzZTogY29tcGFueV9saXN0X3Byb2R1Y3Rpb24KICBlbmNvZGluZzogdXRmOG1iNAogIGNoYXJzZXQ6IHV0ZjhtYjQKICBjb2xsYXRpb246IHV0ZjhtYjRfZ2VuZXJhbF9jaQogICMgdXNlcm5hbWU6IG15X3VzZXIgCiAgIyBwYXNzd29yZDogbXlfcGFzcwogICMgaG9zdDogbG9jYWxob3N0CiAgcG9vbDogNQogIHRpbWVvdXQ6IDUwMDAKCg==</text>
@@ -3576,9 +3570,9 @@
       </register>
     </registers>
     <search>
-      <last-search>location</last-search>
+      <last-search>point</last-search>
       <last-offset />
-      <last-pattern>location</last-pattern>
+      <last-pattern>point</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3586,7 +3580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_visit</entry>
         <entry>method_defined</entry>
         <entry>multiple</entry>
         <entry>cd_ur</entry>
@@ -3606,6 +3599,7 @@
         <entry>listing_status</entry>
         <entry>'</entry>
         <entry>location</entry>
+        <entry>point</entry>
       </history-search>
       <history-cmd>
         <entry>s/multipe_postals_updating_form/postal/g</entry>
