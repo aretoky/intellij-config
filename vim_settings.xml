@@ -624,11 +624,11 @@
         <mark key="^" line="42" column="13" />
         <mark key="." line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1462501952822">
-        <mark key="[" line="56" column="23" />
-        <mark key="]" line="56" column="21" />
-        <mark key="." line="56" column="21" />
-        <mark key="^" line="56" column="21" />
+      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1462503802427">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/yamatos/index.html.slim" timestamp="1460290388548">
         <mark key="[" line="28" column="0" />
@@ -3349,7 +3349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="72" column="4" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="620" column="2" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="324" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -3449,6 +3448,7 @@
       <jump line="0" column="27" filename="$USER_HOME$/projects/company-list/Capfile" />
       <jump line="106" column="9" filename="$USER_HOME$/projects/company-list/Gemfile" />
       <jump line="34" column="21" filename="$USER_HOME$/projects/company-list/Gemfile" />
+      <jump line="7" column="23" filename="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3485,49 +3485,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2000</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>whe</text>
+        <text>listing_status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlbW92ZV9pbmRleCA6Y29tcGFuaWVzLCA6bmFtZQo=</text>
       </register>
       <register name="1" type="4">
-        <text>2000</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW5kCiAgICAgIGlmIGFkZHJlc3MucHJlc2VudD8gJiYgY29tcGFueS5hZGRyZXNzZXMud2hlcmUoZnVsbF90ZXh0OiBhZGRyZXNzKS5zaXplID09IDAK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEFjdGl2ZVJlY29yZDo6QmFzZS5yZXRyaWFibGVfdHJhbnNhY3Rpb24oaXNvbGF0aW9uOiA6c2VyaWFsaXphYmxlKSBkbwo=</text>
       </register>
       <register name="4" type="4">
+        <text>2000</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZW5kCiAgICAgIGlmIGFkZHJlc3MucHJlc2VudD8gJiYgY29tcGFueS5hZGRyZXNzZXMud2hlcmUoZnVsbF90ZXh0OiBhZGRyZXNzKS5zaXplID09IDAK</text>
+      </register>
+      <register name="6" type="4">
+        <text>'</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>, comment: 'engine &quot;innodb&quot;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, comment: 'engine &quot;innodb&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text>, type: :fulltext</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/telephone/url/g</text>
       </register>
     </registers>
     <search>
-      <last-search>whe</last-search>
+      <last-search>listing_status</last-search>
       <last-offset />
-      <last-pattern>whe</last-pattern>
+      <last-pattern>listing_status</last-pattern>
       <last-replace>url</last-replace>
       <last-substitute>telephone</last-substitute>
       <last-dir>1</last-dir>
@@ -3535,7 +3535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_visit</entry>
         <entry>visit</entry>
         <entry>nm_visit</entry>
         <entry>no_visit</entry>
@@ -3555,6 +3554,7 @@
         <entry>rmag</entry>
         <entry>require &quot;whenever</entry>
         <entry>whe</entry>
+        <entry>listing_status</entry>
       </history-search>
       <history-cmd>
         <entry>s/multipe_postals_updating_form/postal/g</entry>
