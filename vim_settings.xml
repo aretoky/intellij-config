@@ -618,11 +618,11 @@
         <mark key="^" line="42" column="13" />
         <mark key="." line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1462431600148">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1462455374834">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/yamatos/index.html.slim" timestamp="1460290388548">
         <mark key="[" line="28" column="0" />
@@ -865,10 +865,10 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/db/migrate/20160424133202_create_custom_records.rb" timestamp="1462454411321">
+      <file name="$USER_HOME$/projects/company-list/db/migrate/20160424133202_create_custom_records.rb" timestamp="1462455087243">
         <mark key="[" line="2" column="158" />
-        <mark key="]" line="2" column="177" />
-        <mark key="." line="2" column="177" />
+        <mark key="]" line="2" column="158" />
+        <mark key="." line="2" column="158" />
         <mark key="^" line="2" column="177" />
       </file>
       <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/cardchange.php" timestamp="1458805823932">
@@ -3482,7 +3482,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>whe</text>
@@ -3490,46 +3490,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlbW92ZV9pbmRleCA6Y29tcGFuaWVzLCA6bmFtZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>, type: :fulltext</text>
+      <register name="3" type="4">
+        <text>, comment: 'engine &quot;innodb&quot;</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cCBGaW5kIG1lIGluIGFwcC92aWV3cy9hZG1pbnMvY29tcGFuaWVzL3Nob3cuaHRtbC5zbGltCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aDEgQWRtaW5zOjpDb21wYW5pZXMjc2hvdwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>, type: :fulltext</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cCBGaW5kIG1lIGluIGFwcC92aWV3cy9hZG1pbnMvY29tcGFuaWVzL3Nob3cuaHRtbC5zbGltCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>namespace :admins do
-  get 'companies/index'
-  end
-
-  namespace :admins do
-  get 'companies/edit'
-  end
-
-  namespace :admins do
-  get 'companies/update'
-  end
-
-  namespace :admins do
-  get 'companies/show'
-  end</text>
+      <register name="9" type="2">
+        <text encoding="base64">aDEgQWRtaW5zOjpDb21wYW5pZXMjc2hvdwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/telephone/url/g</text>
