@@ -141,11 +141,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462785839553">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="20" column="61" />
-        <mark key="^" line="18" column="67" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462786705913">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="46" />
+        <mark key="." line="30" column="46" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425082152_create_emails.rb" timestamp="1461740513719">
         <mark key="[" line="9" column="29" />
@@ -238,7 +238,7 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1462785827445">
+      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1462786557126">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="30" />
         <mark key="." line="51" column="29" />
@@ -452,7 +452,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>administrative_area_level_1</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>address_components_of_type</text>
@@ -460,32 +460,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkZHJlc3NfY29tcG9uZW50c19vZl90eXBlKGFkZHJlc3MsIDpzdWJsb2NhbGl0eV9sZXZlbF8yKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="1" type="4">
+        <text>:</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWRkcmVzcy5hZG1pbmlzdHJhdGl2ZV9hcmVhX2xldmVsXzEgPSBhZG1pbmlzdHJhdGl2ZV9hcmVhX2xldmVsXzEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGFkbWluaXN0cmF0aXZlX2FyZWFfbGV2ZWxfMSA9IGdlby5hZGRyZXNzX2NvbXBvbmVudHNfb2ZfdHlwZSg6YWRtaW5pc3RyYXRpdmVfYXJlYV9sZXZlbF8xKS5maXJzdAo=</text>
+        <text encoding="base64">ICAgICAgbG9jYWxpdHkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>administrative_area_level_1</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>administrative_area_level_1</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>:sublocality_level_3</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkcmVzc19jb21wb25lbnRzX29mX3R5cGUoYWRkcmVzcywgOnN1YmxvY2FsaXR5X2xldmVsXzIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkcmVzc19jb21wb25lbnRzX29mX3R5cGUoYWRkcmVzcywgOmFkbWluaXN0cmF0aXZlX2FyZWFfbGV2ZWxfMSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
