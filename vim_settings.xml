@@ -141,11 +141,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462790762746">
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="15" />
-        <mark key="." line="46" column="15" />
-        <mark key="^" line="46" column="15" />
+      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462792702393">
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="52" column="58" />
+        <mark key="." line="52" column="58" />
+        <mark key="^" line="52" column="58" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425082152_create_emails.rb" timestamp="1461740513719">
         <mark key="[" line="9" column="29" />
@@ -461,31 +461,31 @@
         <text encoding="base64">ICAgIGFkZHJlc3NfY29tcG9uZW50c19vZl90eXBlKGFkZHJlc3MsIDpzdWJsb2NhbGl0eV9sZXZlbF8yKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3MK</text>
+        <text encoding="base64">ICBkZWYgc2VsZi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFkZHJlc3MK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>JpPrefecture::Prefecture.find(name: geo.state)</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgcCBhZGRyZXNzLnNlbmQoIiN7dHlwZX09IiwgYVsibG9uZ19uYW1lIl0pCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcCBhCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHAgdHlwZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcCBrZXkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgYWRkcmVzcwo=</text>
+        <text encoding="base64">ICAgICAgcCBrZXkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
