@@ -141,11 +141,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462788547332">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="23" column="44" />
+      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462790762746">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="15" />
+        <mark key="." line="46" column="15" />
+        <mark key="^" line="46" column="15" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425082152_create_emails.rb" timestamp="1461740513719">
         <mark key="[" line="9" column="29" />
@@ -452,7 +452,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>JpPrefecture::Prefecture.find(name: geo.state)</text>
       </register>
       <register name="/" type="4">
         <text>address_components_of_type</text>
@@ -461,31 +461,31 @@
         <text encoding="base64">ICAgIGFkZHJlc3NfY29tcG9uZW50c19vZl90eXBlKGFkZHJlc3MsIDpzdWJsb2NhbGl0eV9sZXZlbF8yKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZHJlc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3MucHJlZmVjdHVyZV9pZCA9IEpwUHJlZmVjdHVyZTo6UHJlZmVjdHVyZS5maW5kKG5hbWU6IGdlby5zdGF0ZSkuY29kZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3MuemlwY29kZSA9IGdlby5wb3N0YWxfY29kZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>JpPrefecture::Prefecture.find(name: geo.state)</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcCBhZGRyZXNzLnNlbmQoIiN7dHlwZX09IiwgYVsibG9uZ19uYW1lIl0pCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcCBhCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>g</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHAgdHlwZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcCBrZXkK</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHAgYWRkcmVzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
