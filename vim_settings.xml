@@ -63,12 +63,12 @@
         <mark key="." line="2" column="83" />
         <mark key="^" line="2" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1462547452854">
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1462782116432">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="106" column="13" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="107" column="19" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160427061404_create_urls.rb" timestamp="1461740775993">
         <mark key="[" line="9" column="25" />
@@ -141,11 +141,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462768306635">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462783975262">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="75" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425082152_create_emails.rb" timestamp="1461740513719">
         <mark key="[" line="9" column="29" />
@@ -238,11 +238,11 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1462768256753">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="53" />
-        <mark key="." line="35" column="53" />
-        <mark key="^" line="35" column="53" />
+      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1462783447032">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="30" />
+        <mark key="." line="51" column="29" />
+        <mark key="^" line="51" column="29" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1462432921448" />
       <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1461661742699">
@@ -281,7 +281,9 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/geocoder-1.3.4/lib/geocoder/results/google.rb" timestamp="1462768572534" />
+      <file name="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/geocoder-1.3.4/lib/geocoder/results/google.rb" timestamp="1462783134774">
+        <mark key="'" line="7" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1461762476147">
         <mark key="[" line="46" column="24" />
         <mark key="]" line="46" column="40" />
@@ -314,7 +316,6 @@
       <file name="$USER_HOME$/projects/company-list/db/schema.rb" timestamp="1462767853794" />
     </filemarks>
     <jumps>
-      <jump line="88" column="43" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="91" column="42" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="94" column="21" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
       <jump line="97" column="21" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
@@ -414,6 +415,7 @@
       <jump line="23" column="21" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="106" column="19" filename="$USER_HOME$/projects/company-list/Gemfile" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/company-list/Gemfile" />
+      <jump line="7" column="6" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/geocoder-1.3.4/lib/geocoder/results/google.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -450,49 +452,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ad</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>fore</text>
+        <text>colloquial_area</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6YWRkcmVzc2VzLCA6cGxhY2VfaWQK</text>
+        <text encoding="base64">ICAgIGFkZHJlc3MucHJlZmVjdHVyZV9jb2RlID0gSnBQcmVmZWN0dXJlOjpQcmVmZWN0dXJlLmZpbmQgbmFtZTogZ2VvLnN0YXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZHJlc3MucHJlZmVjdHVyZV9pZCA9IEpwUHJlZmVjdHVyZTo6UHJlZmVjdHVyZS5maW5kIG5hbWU6IGdlby5zdGF0ZQo=</text>
       </register>
       <register name="2" type="4">
-        <text>ad</text>
+        <text>d</text>
       </register>
       <register name="3" type="4">
-        <text>ad</text>
+        <text>i</text>
       </register>
-      <register name="4" type="4">
-        <text>cr</text>
-      </register>
-      <register name="5" type="4">
-        <text>cr</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>custom_records</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>custom_records</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>fore</last-search>
+      <last-search>colloquial_area</last-search>
       <last-offset />
-      <last-pattern>fore</last-pattern>
+      <last-pattern>colloquial_area</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -500,8 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry>multiple</entry>
-        <entry>cd_ur</entry>
         <entry>valid_cd</entry>
         <entry>first</entry>
         <entry>sq_mplan</entry>
@@ -520,6 +520,8 @@
         <entry>location</entry>
         <entry>point</entry>
         <entry>fore</entry>
+        <entry>administrative_area_level_1</entry>
+        <entry>colloquial_area</entry>
       </history-search>
       <history-cmd>
         <entry>s/multipe_postals_updating_form/postal/g</entry>
