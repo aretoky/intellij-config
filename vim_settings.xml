@@ -70,19 +70,12 @@
         <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1462810808625" />
-      <file name="$USER_HOME$/projects/active-engine/app/services/users/creating_with_omniauth_service.rb" timestamp="1462823231552">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/Gemfile" timestamp="1462820815191">
-        <mark key="'" line="60" column="17" />
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="64" column="16" />
-        <mark key="^" line="64" column="16" />
-        <mark key="." line="64" column="16" />
+      <file name="$USER_HOME$/projects/active-engine/Gemfile" timestamp="1462959246041">
+        <mark key="'" line="61" column="17" />
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="37" column="24" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="37" column="24" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/config/environments/production.rb" timestamp="1462842993331">
         <mark key="[" line="87" column="0" />
@@ -127,13 +120,6 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/users/sessions_controller.rb" timestamp="1462822218690">
-        <mark key="'" line="1" column="13" />
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425082152_create_emails.rb" timestamp="1461740513719">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -159,6 +145,12 @@
         <mark key="]" line="19" column="22" />
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/app/models/user_profile.rb" timestamp="1462958343255">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1461661742699">
         <mark key="'" line="117" column="28" />
@@ -208,9 +200,6 @@
         <mark key="]" line="5" column="39" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/layouts/application.html.slim" timestamp="1462813320175">
-        <mark key="'" line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" timestamp="1462430427832">
         <mark key="'" line="123" column="25" />
         <mark key="[" line="79" column="30" />
@@ -230,9 +219,6 @@
         <mark key="^" line="1" column="59" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/vendor/bundle/ruby/2.3.0/gems/omniauth-1.3.1/lib/omniauth.rb" timestamp="1462822453844">
-        <mark key="'" line="38" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/company-list/app/services/fetching_remote_custom_records_service.rb" timestamp="1462555661377">
         <mark key="'" line="11" column="42" />
         <mark key="[" line="7" column="15" />
@@ -240,7 +226,7 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/config/application.rb" timestamp="1462820981476">
+      <file name="$USER_HOME$/projects/active-engine/config/application.rb" timestamp="1462959183315">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="18" column="19" />
         <mark key="^" line="18" column="19" />
@@ -287,9 +273,6 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/geocoder-1.3.4/lib/geocoder/results/google.rb" timestamp="1462785418357">
-        <mark key="'" line="74" column="17" />
-      </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1461762476147">
         <mark key="[" line="46" column="24" />
         <mark key="]" line="46" column="40" />
@@ -320,13 +303,6 @@
         <mark key="]" line="104" column="0" />
         <mark key="^" line="93" column="16" />
         <mark key="." line="104" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/config/initializers/omniauth.rb" timestamp="1462822923476">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="74" />
-        <mark key="]" line="1" column="74" />
-        <mark key="^" line="1" column="84" />
-        <mark key="." line="1" column="74" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/config/database.yml" timestamp="1462810286182">
         <mark key="[" line="28" column="20" />
@@ -364,7 +340,24 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/active-engine/app/models/user.rb" timestamp="1462958467686">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511091727_create_user_profiles.rb" timestamp="1462958685099">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app.json" timestamp="1462815000226" />
+      <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511093031_create_practices.rb" timestamp="1462959289269">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/lib/templates/slim/scaffold/_form.html.slim" timestamp="1462815825001" />
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/url_list_setting_job.rb" timestamp="1461768103794">
         <mark key="[" line="9" column="0" />
@@ -408,6 +401,9 @@
         <mark key="]" line="14" column="3" />
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1462959027684">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425065145_create_companies.rb" timestamp="1462433536308">
         <mark key="[" line="4" column="30" />
@@ -592,49 +588,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>service</text>
+        <text>factory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">R0lUSFVCX0tFWT0K</text>
       </register>
-      <register name="1" type="4">
-        <text>_</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBiZWZvcmVfY3JlYXRlCg==</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>y</text>
       </register>
       <register name="3" type="4">
         <text>r</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>m</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>i</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlIDpzZXNzaW9ucywgb25seTogJXcoZGVzdHJveSkK</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
       <register name="9" type="4">
-        <text>'/signout'</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>service</last-search>
+      <last-search>factory</last-search>
       <last-offset />
-      <last-pattern>service</last-pattern>
+      <last-pattern>factory</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>telephone</entry>
         <entry>sidekiq</entry>
         <entry>meta</entry>
         <entry>rmag</entry>
@@ -662,6 +657,7 @@
         <entry>callback</entry>
         <entry>CreatingWithOmniauthService</entry>
         <entry>service</entry>
+        <entry>factory</entry>
       </history-search>
       <history-cmd>
         <entry>%s/multiple_postals_updating_form/postal/g</entry>
