@@ -197,11 +197,11 @@
         <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/layouts/application.html.slim" timestamp="1462814034793" />
-      <file name="$USER_HOME$/projects/active-engine/config/routes.rb" timestamp="1462823027369">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/active-engine/config/routes.rb" timestamp="1462943935617">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/layouts/application.html.slim" timestamp="1462813320175">
         <mark key="'" line="0" column="4" />
@@ -592,7 +592,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>settings.local.yml</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
@@ -603,29 +603,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">KiBkZXBsb3njga/jgZPjgaHjgonjgaflr77lv5zjgZfjgb7jgZkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyMgRGVwbG95bWVudCBpbnN0cnVjdGlvbnMK</text>
-      </register>
-      <register name="5" type="4">
-        <text>settings.local.yml</text>
-      </register>
-      <register name="6" type="4">
-        <text>config/settings.local.yml.sample config/settings.local.yml</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyMgU2VydmVyIHByb3Zpc2lvbmluZwoK5Lul5LiL44Gu44Kz44Oe44Oz44OJ44Gr44KI44KK44CBdmFncmFudOe1jOeUseOBp+ODreODvOOCq+ODq+OBq+mWi+eZuueSsOWig+OCkuani+evieOBp+OBjeOBvuOBmeOAggoKYGBgCnZhZ3JhbnQgYm94IGFkZCBvcHNjb2RlLWNlbnRvcy02LjYgaHR0cDovL29wc2NvZGUtdm0tYmVudG8uczMuYW1hem9uYXdzLmNvbS92YWdyYW50L3ZpcnR1YWxib3gvb3BzY29kZV9jZW50b3MtNi42X2NoZWYtcHJvdmlzaW9uZXJsZXNzLmJveAp2YWdyYW50IHBsdWdpbiBpbnN0YWxsIHZhZ3JhbnQtaXRhbWFlCnZhZ3JhbnQgdXAKYGBgCgrkuIroqJjjgrPjg57jg7Pjg4nlrp/ooYzlvozjgIFgaHR0cDovL2xvY2FsaG9zdDozMDAxL2Djgojjgorli5XkvZznorroqo3jgYzlj6/og73jgafjgZnjgIIKCuKAuyBEQuOBruaOpee2muWFiOOBr+OAgWBsb2NhbGhvc3Rg44Gn44Gv44Gq44GPYDIxOS4xMDUuNDYuMTJg44Gn44GZ44CCCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgRGVwbG95bWVudCBpbnN0cnVjdGlvbnMK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IyMjIEhUTUwoU2xpbSnjg4bjg7Pjg5fjg6zjg7zjg4gKYGBgCi9hcHAvdmlld3MvCmBgYAoK5L6LKQoqIOeuoeeQhueUu+mdouOBrumhp+WuouS4gOimp+ODmuODvOOCuOOBruODhuODs+ODl+ODrOODvOODiCBgL2FwcC92aWV3cy9hZG1pbi9jdXN0cy9pbmRleC5odG1sLnNsaW1gCiog566h55CG55S76Z2i5YWo5L2T44Gu44OG44Oz44OX44Os44O844OIIGAvYXBwL3ZpZXdzL2FkbWluL2xheWFvdXRzL2FwcGxpY2F0aW9uLmh0bWwuc2xpbWAK</text>
+        <text>settings.local.yml</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
