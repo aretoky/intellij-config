@@ -204,12 +204,8 @@
         <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/dynamic_account_object_helper.rb" timestamp="1462816472752" />
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/concerns/scaffoldable.rb" timestamp="1463070967097">
-        <mark key="'" line="56" column="92" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="110" column="4" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/concerns/scaffoldable.rb" timestamp="1463122355684">
+        <mark key="[" line="77" column="5" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form_fields.html.slim" timestamp="1462991089007">
         <mark key="[" line="3" column="31" />
@@ -259,17 +255,20 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/users/learnings_controller.rb" timestamp="1463070714140">
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/users/learnings_controller.rb" timestamp="1463122708587">
         <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-        <mark key="^" line="8" column="48" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_new.html.slim" timestamp="1463065849638">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="29" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/config/secrets.yml" timestamp="1462859490663">
+        <mark key="[" line="19" column="48" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/models/html_source/html_parsable.rb" timestamp="1461764475361">
         <mark key="[" line="93" column="0" />
@@ -419,6 +418,12 @@
         <mark key="^" line="205" column="21" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/confirmable.rb" timestamp="1462968262102" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/users/learnings/_form_fields.html.slim" timestamp="1463122250373">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/.env" timestamp="1462842779504">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="1" column="53" />
@@ -467,6 +472,9 @@
         <mark key="]" line="1" column="74" />
         <mark key="^" line="1" column="84" />
         <mark key="." line="1" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/config/database.yml" timestamp="1462810286182">
+        <mark key="[" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511102048_create_learning_reports.rb" timestamp="1462962126908">
         <mark key="[" line="4" column="21" />
@@ -595,6 +603,9 @@
         <mark key="." line="1" column="49" />
         <mark key="^" line="1" column="49" />
       </file>
+      <file name="/Dummy.txt" timestamp="1462962411215">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/models/comment.rb" timestamp="1462962381507">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="17" column="17" />
@@ -607,11 +618,11 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_form.html.slim" timestamp="1463064189327">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="39" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_form.html.slim" timestamp="1463122219877">
+        <mark key="[" line="2" column="76" />
+        <mark key="]" line="2" column="115" />
+        <mark key="^" line="2" column="115" />
+        <mark key="." line="2" column="115" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160509030337_add_address_info_from_addresses.rb" timestamp="1462766885638">
         <mark key="[" line="2" column="82" />
@@ -797,49 +808,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>show_path</text>
       </register>
       <register name="/" type="4">
-        <text>turbo</text>
+        <text>learning_params</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IC1pZiAodXJsX2ZvcihhY3Rpb246IDplZGl0LCBpZDogaW5zdGFuY2UuaWQpIHJlc2N1ZSBmYWxzZSk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="1" type="4">
+        <text>show_path</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>practice_category_id</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PSBmLmlucHV0IDpnb2FsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PSBmLmlucHV0IDpkZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PSBmLmlucHV0IDp0aXRsZQo=</text>
       </register>
       <register name="6" type="4">
-        <text>show</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text>new_for</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>(parctice_id: @practice.id)</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>url_for(controller: :learnings, action: :new)</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>turbo</last-search>
+      <last-search>learning_params</last-search>
       <last-offset />
-      <last-pattern>turbo</last-pattern>
+      <last-pattern>learning_params</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -847,7 +858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>administrative_area_level_1</entry>
         <entry>colloquial_area</entry>
         <entry>address_components_of_type</entry>
         <entry>4.2</entry>
@@ -867,6 +877,7 @@
         <entry>sha</entry>
         <entry>jquery.turbolinks</entry>
         <entry>turbo</entry>
+        <entry>learning_params</entry>
       </history-search>
       <history-cmd>
         <entry>%s/multiple_postals_updating_form/postal/g</entry>
