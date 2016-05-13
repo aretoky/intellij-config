@@ -276,11 +276,11 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/config/locales/020_models/ja.yml" timestamp="1463155073291">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/projects/active-engine/config/locales/020_models/ja.yml" timestamp="1463158288246">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/url_list_setting_job.rb" timestamp="1461768103794">
         <mark key="[" line="9" column="0" />
@@ -506,6 +506,12 @@
         <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/layouts/application.html.slim" timestamp="1462970730259" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/admins/learnings/show.html.slim" timestamp="1463158369520">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/common/_header.html.slim" timestamp="1462957520824">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="11" column="34" />
@@ -861,40 +867,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>習</text>
+        <text>日報</text>
       </register>
       <register name="/" type="4">
         <text>learning_params</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsaXN0aW5nX2xlYXJuaW5nczog5a2m57+S5LiA6KanCg==</text>
+        <text encoding="base64">ICAgICAgbGVhcm5pbmdfcmVwb3J0OiDml6XloLEK</text>
       </register>
       <register name="1" type="4">
-        <text>習</text>
+        <text>日報</text>
       </register>
       <register name="2" type="4">
-        <text>学</text>
+        <text>learning_report</text>
       </register>
       <register name="3" type="4">
-        <text>practice_categories</text>
+        <text>習</text>
       </register>
       <register name="4" type="4">
-        <text>categories</text>
+        <text>学</text>
       </register>
       <register name="5" type="4">
-        <text>, shallow: true</text>
+        <text>practice_categories</text>
       </register>
       <register name="6" type="4">
-        <text>, shallow: true do</text>
+        <text>categories</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="7" type="4">
+        <text>, shallow: true</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>, shallow: true do</text>
       </register>
-      <register name="9" type="4">
-        <text>title</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
