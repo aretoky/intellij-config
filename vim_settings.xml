@@ -205,12 +205,12 @@
       <file name="$USER_HOME$/projects/active-engine/Gemfile.lock" timestamp="1463384300257">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1462793803621">
+      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1463484966601">
         <mark key="'" line="6" column="14" />
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="64" />
-        <mark key="." line="26" column="64" />
-        <mark key="^" line="26" column="64" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+        <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/all_crawlers_controller.rb" timestamp="1461762954269">
         <mark key="[" line="2" column="12" />
@@ -233,7 +233,8 @@
         <mark key="^" line="89" column="6" />
         <mark key="." line="89" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1462787605318">
+      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1463484768882">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="30" />
         <mark key="]" line="51" column="31" />
         <mark key="." line="51" column="31" />
@@ -1003,7 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="74" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="23" column="21" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="106" column="19" filename="$USER_HOME$/projects/company-list/Gemfile" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/company-list/Gemfile" />
@@ -1103,6 +1103,7 @@
       <jump line="152" column="9" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" />
       <jump line="25" column="21" filename="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/company-list/app/models/address.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1142,7 +1143,7 @@
         <text>remote_custom_records</text>
       </register>
       <register name="/" type="4">
-        <text>ps</text>
+        <text>location</text>
       </register>
       <register name="0" type="4">
         <text>every 1.minute, roles: [:batch] do
@@ -1182,9 +1183,9 @@ end</text>
       </register>
     </registers>
     <search>
-      <last-search>ps</last-search>
+      <last-search>location</last-search>
       <last-offset />
-      <last-pattern>ps</last-pattern>
+      <last-pattern>location</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1192,7 +1193,6 @@ end</text>
     </search>
     <history>
       <history-search>
-        <entry>jquery.turbolinks</entry>
         <entry>turbo</entry>
         <entry>learning_params</entry>
         <entry>default</entry>
@@ -1212,6 +1212,7 @@ end</text>
         <entry>psw</entry>
         <entry>wd</entry>
         <entry>ps</entry>
+        <entry>location</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
