@@ -227,6 +227,12 @@
       <file name="$USER_HOME$/projects/active-engine/vendor/bundle/ruby/2.3.0/gems/activemodel-5.0.0.rc1/lib/active_model/validations/validates.rb" timestamp="1462969434942">
         <mark key="'" line="12" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/.gitignore" timestamp="1463484159221">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="89" column="6" />
+        <mark key="^" line="89" column="6" />
+        <mark key="." line="89" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1462787605318">
         <mark key="[" line="51" column="30" />
         <mark key="]" line="51" column="31" />
@@ -295,7 +301,6 @@
         <mark key="^" line="3" column="58" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/common/_nav.html.slim" timestamp="1463473122548" />
       <file name="$USER_HOME$/projects/company-list/app/controllers/admins/companies_controller.rb" timestamp="1462519307219">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="31" />
@@ -391,7 +396,6 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1463457090290" />
       <file name="$USER_HOME$/projects/company-list/app/models/company.rb" timestamp="1462962793730">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -460,6 +464,12 @@
         <mark key="^" line="0" column="74" />
         <mark key="." line="0" column="74" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/lib/tasks/fetching_geocoder.rake" timestamp="1463483784612">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/forms/multiple_postals_updating_form.rb" timestamp="1462430427832">
         <mark key="'" line="123" column="25" />
         <mark key="[" line="79" column="30" />
@@ -479,7 +489,7 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/lib/tasks/fetching_remote_custom_records.rake" timestamp="1462502778222">
+      <file name="$USER_HOME$/projects/company-list/lib/tasks/fetching_remote_custom_records.rake" timestamp="1463483757797">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
@@ -519,7 +529,6 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/020_views/ja.yml" timestamp="1463473937061" />
       <file name="$USER_HOME$/projects/active-engine/app/controllers/users/comments_controller.rb" timestamp="1463159721712">
         <mark key="[" line="11" column="8" />
       </file>
@@ -731,7 +740,6 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/config/environments/development.rb" timestamp="1463468540442" />
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160427070249_create_company_telephones.rb" timestamp="1461747109457">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="4" column="68" />
@@ -798,11 +806,11 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/schedule.rb" timestamp="1462380045339">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="28" />
+      <file name="$USER_HOME$/projects/company-list/config/schedule.rb" timestamp="1463484104177">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/lib/tasks/heroku.rake" timestamp="1462843289198">
         <mark key="[" line="2" column="23" />
@@ -1131,40 +1139,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>remote_custom_records</text>
       </register>
       <register name="/" type="4">
         <text>ps</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PSBmLmlucHV0IDp3aWtpX2NhdGVnb3J5X2lkX2VxLCBhczogOnNlbGVjdCwgY29sbGVjdGlvbjogV2lraUNhdGVnb3J5LmFsbCwgc2VsZWN0ZWQ6IEBzZWFyY2gud2lraV9jYXRlZ29yeV9pZF9lcQo=</text>
+      <register name="0" type="4">
+        <text>every 1.minute, roles: [:batch] do
+  rake &quot;fetching_remote_custom_records:run&quot;
+  rake &quot;parsing_custom_data:run&quot;
+end</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICByYWtlICJwYXJzaW5nX2N1c3RvbV9kYXRhOnJ1biIK</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>remote_custom_records</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Service</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
