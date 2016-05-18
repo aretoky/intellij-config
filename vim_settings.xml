@@ -347,7 +347,7 @@
         <mark key="." line="2" column="83" />
         <mark key="^" line="2" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/users/application_controller.rb" timestamp="1462817128428">
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/users/application_controller.rb" timestamp="1463583874194">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="36" />
@@ -638,6 +638,12 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/active-engine/spec/controllers/markdowns_controller_spec.rb" timestamp="1463584073530">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/new.html.slim" timestamp="1462980851891">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="18" />
@@ -697,6 +703,12 @@
         <mark key="]" line="46" column="40" />
         <mark key="." line="46" column="40" />
         <mark key="^" line="46" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/markdowns_controller.rb" timestamp="1463583878567">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_search_form.html.slim" timestamp="1463480219869">
         <mark key="[" line="8" column="9" />
@@ -852,7 +864,6 @@
       <file name="$USER_HOME$/projects/bitstar/db/seeds/users.rb" timestamp="1463548573039" />
     </filemarks>
     <jumps>
-      <jump line="23" column="21" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="106" column="19" filename="$USER_HOME$/projects/company-list/Gemfile" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/company-list/Gemfile" />
       <jump line="7" column="6" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/geocoder-1.3.4/lib/geocoder/results/google.rb" />
@@ -952,6 +963,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" />
       <jump line="25" column="21" filename="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/company-list/app/models/address.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/active-engine/spec/controllers/markdowns_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -991,7 +1003,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>acts_as_paranoid</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEZldGNoaW5nR2VvY29kZXJTZXJ2aWNlLnJ1bgo=</text>
@@ -999,38 +1011,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>r</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gcmVkaXJlY3RfdG8obWFya2Rvd25zX3VybCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>u</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlbGV0ZSA6ZGVzdHJveSwgcGFyYW1zOiB7aWQ6IG1hcmtkb3duLnRvX3BhcmFtfSwgc2Vzc2lvbjogdmFsaWRfc2Vzc2lvbgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>d</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbWFya2Rvd24gPSBNYXJrZG93bi5jcmVhdGUhIHZhbGlkX2F0dHJpYnV0ZXMK</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGl0ICJyZWRpcmVjdHMgdG8gdGhlIG1hcmtkb3ducyBsaXN0IiBkbwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>_</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>acts_as_paranoid</last-search>
+      <last-search>guard</last-search>
       <last-offset />
-      <last-pattern>acts_as_paranoid</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1038,13 +1050,11 @@
     </search>
     <history>
       <history-search>
-        <entry>learning_params</entry>
         <entry>default</entry>
         <entry>factory</entry>
         <entry>contro</entry>
         <entry>paranoia</entry>
         <entry>parano</entry>
-        <entry>'</entry>
         <entry>enum</entry>
         <entry>kaminari</entry>
         <entry>ransack</entry>
@@ -1058,6 +1068,8 @@
         <entry>ps</entry>
         <entry>location</entry>
         <entry>acts_as_paranoid</entry>
+        <entry>guard</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
