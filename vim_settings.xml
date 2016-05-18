@@ -916,10 +916,10 @@
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/spec/factories/users.rb" timestamp="1463369230271">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/projects/active-engine/spec/factories/users.rb" timestamp="1463569485721">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
         <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/deploy.rb" timestamp="1462787424032">
@@ -1182,7 +1182,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>, class: User</text>
       </register>
       <register name="/" type="4">
         <text>acts_as_paranoid</text>
@@ -1190,32 +1190,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEZldGNoaW5nR2VvY29kZXJTZXJ2aWNlLnJ1bgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>, class: User</text>
       </register>
-      <register name="2" type="4">
-        <text>build</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>さまざまな動作を確認し、確認した動作を</text>
+        <text>build</text>
       </register>
       <register name="4" type="4">
+        <text>さまざまな動作を確認し、確認した動作を</text>
+      </register>
+      <register name="5" type="4">
         <text>正しく動作を検証せよ</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>テストユーザ</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
