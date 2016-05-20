@@ -252,6 +252,7 @@
         <mark key="." line="1" column="53" />
       </file>
       <file name="$USER_HOME$/projects/bitstar/db/seeds.rb" timestamp="1463548545833" />
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/admins/wikis_controller.rb" timestamp="1463725054814" />
       <file name="$USER_HOME$/projects/active-engine/app/controllers/application_controller.rb" timestamp="1463723820496">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="5" column="51" />
@@ -290,6 +291,9 @@
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/app/models/user.rb" timestamp="1463725098466">
+        <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511093031_create_practices.rb" timestamp="1462960269648">
         <mark key="[" line="6" column="37" />
@@ -338,11 +342,11 @@
         <mark key="^" line="2" column="157" />
         <mark key="." line="2" column="137" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/sessions_controller.rb" timestamp="1463724407464">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="9" column="50" />
-        <mark key="^" line="9" column="50" />
-        <mark key="." line="9" column="50" />
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/sessions_controller.rb" timestamp="1463724562699">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1463547969248">
         <mark key="[" line="0" column="0" />
@@ -560,8 +564,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/users_controller.rb" timestamp="1463723835885">
-        <mark key="[" line="3" column="5" />
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/users_controller.rb" timestamp="1463725070220">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="16" column="6" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/show.html.slim" timestamp="1462980178453">
         <mark key="[" line="0" column="10" />
@@ -1053,32 +1060,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEZldGNoaW5nR2VvY29kZXJTZXJ2aWNlLnJ1bgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRmV0Y2hpbmdHZW9jb2RlclNlcnZpY2UucnVuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
+      <register name="1" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="2" type="4">
+        <text>,</text>
+      </register>
+      <register name="3" type="4">
+        <text>n</text>
+      </register>
       <register name="4" type="4">
-        <text>p</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>x</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
