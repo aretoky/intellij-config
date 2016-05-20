@@ -30,6 +30,13 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/active-engine/app/mailers/application_mailer.rb" timestamp="1463752903838">
+        <mark key="'" line="0" column="34" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/config/deploy/production.rb" timestamp="1463490093138">
         <mark key="[" line="6" column="59" />
         <mark key="]" line="6" column="64" />
@@ -85,9 +92,6 @@
         <mark key="]" line="79" column="36" />
         <mark key="." line="79" column="36" />
         <mark key="^" line="79" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/vendor/bundle/ruby/2.3.0/gems/omniauth-1.3.1/lib/omniauth.rb" timestamp="1462822453844">
-        <mark key="'" line="38" column="16" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/db/seeds/wikis.rb" timestamp="1463563434965">
         <mark key="[" line="3" column="8" />
@@ -206,9 +210,6 @@
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/spec/controllers/admins/wikis_controller_spec.rb" timestamp="1463572375887" />
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" timestamp="1463480637779">
-        <mark key="'" line="152" column="9" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/spec/controllers/admins/learnings_controller_spec.rb" timestamp="1463572233061" />
       <file name="$USER_HOME$/projects/active-engine/config/locales/020_views/ja.yml" timestamp="1463476429975">
         <mark key="[" line="20" column="32" />
@@ -225,12 +226,6 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/Gemfile.lock" timestamp="1463384300257">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/vendor/bundle/ruby/2.3.0/gems/activemodel-5.0.0.rc1/lib/active_model/validations/validates.rb" timestamp="1462969434942">
-        <mark key="'" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/users/sessions_controller.rb" timestamp="1462822218690">
         <mark key="'" line="1" column="13" />
@@ -259,9 +254,6 @@
         <mark key="]" line="72" column="11" />
         <mark key="." line="72" column="11" />
         <mark key="^" line="72" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1463040131806">
-        <mark key="'" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/common/_header.html.slim" timestamp="1463741725949">
         <mark key="[" line="18" column="79" />
@@ -293,9 +285,6 @@
         <mark key="^" line="7" column="18" />
       </file>
       <file name="restClient/response13.txt" timestamp="1463592658392" />
-      <file name="$USER_HOME$/projects/active-engine/config/locales/010_defaults/ja.yml" timestamp="1463747187270">
-        <mark key="'" line="106" column="15" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/config/routes.rb" timestamp="1463743878853" />
       <file name="$USER_HOME$/projects/company-list/lib/tasks/fetching_remote_custom_records.rake" timestamp="1463483757797">
         <mark key="[" line="1" column="18" />
@@ -341,9 +330,6 @@
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/common/_avatar.html.slim" timestamp="1463731673450">
-        <mark key="'" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/services/users/building_with_omniauth_service.rb" timestamp="1463728637531">
         <mark key="[" line="16" column="0" />
@@ -467,7 +453,6 @@
       <file name="$USER_HOME$/projects/bitstar/db/seeds/users.rb" timestamp="1463548573039" />
     </filemarks>
     <jumps>
-      <jump line="686" column="78" filename="$USER_HOME$/projects/active-engine/active-engine.iml" />
       <jump line="687" column="78" filename="$USER_HOME$/projects/active-engine/active-engine.iml" />
       <jump line="688" column="78" filename="$USER_HOME$/projects/active-engine/active-engine.iml" />
       <jump line="689" column="78" filename="$USER_HOME$/projects/active-engine/active-engine.iml" />
@@ -567,6 +552,7 @@
       <jump line="78" column="0" filename="$USER_HOME$/projects/active-engine/Gemfile" />
       <jump line="97" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="5" column="16" filename="$USER_HOME$/projects/active-engine/Gemfile" />
+      <jump line="0" column="34" filename="$USER_HOME$/projects/active-engine/app/mailers/application_mailer.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -603,40 +589,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
-        <text>staging</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PSBmLmlucHV0IDpmaXJzdF9uYW1lCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>from</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZW0gImxldHRlcl9vcGVuZXJfd2ViIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZW0gImxldHRlcl9vcGVuZXJfd2ViIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="9" type="4">
+      <register name="7" type="4">
         <text>=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
@@ -645,7 +631,7 @@
     <search>
       <last-search>staging</last-search>
       <last-offset />
-      <last-pattern>staging</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -663,7 +649,6 @@
         <entry>location</entry>
         <entry>acts_as_paranoid</entry>
         <entry>guard</entry>
-        <entry>'</entry>
         <entry>href</entry>
         <entry>#</entry>
         <entry>params</entry>
@@ -673,6 +658,7 @@
         <entry>lette</entry>
         <entry>letter</entry>
         <entry>staging</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
