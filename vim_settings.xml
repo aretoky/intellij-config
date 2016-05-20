@@ -9,7 +9,7 @@
         <mark key="^" line="2" column="95" />
         <mark key="." line="2" column="95" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_index.html.slim" timestamp="1463063972384">
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_index.html.slim" timestamp="1463741608015">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -27,18 +27,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="10" column="31" />
       </file>
+      <file name="/a.dummy" timestamp="1463738591142">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/spec/controllers/admins/practices_controller_spec.rb" timestamp="1463572274096">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="27" />
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" timestamp="1463726513370">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="99" column="70" />
-        <mark key="]" line="99" column="90" />
-        <mark key="^" line="99" column="90" />
-        <mark key="." line="99" column="90" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160505073202_add_name_uniq_index_from_companies.rb" timestamp="1462447287139">
         <mark key="[" line="3" column="45" />
@@ -52,11 +48,11 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/helpers/scaffoldable_helper.rb" timestamp="1463738230747">
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="22" column="52" />
+      <file name="$USER_HOME$/projects/active-engine/app/helpers/scaffoldable_helper.rb" timestamp="1463741027863">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/users/user_profiles/edit.html.slim" timestamp="1463731258434">
         <mark key="[" line="0" column="19" />
@@ -82,15 +78,11 @@
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/services/users/creating_with_omniauth_service.rb" timestamp="1463725596860">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="4" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/config/environments/production.rb" timestamp="1463469256221">
-        <mark key="'" line="85" column="0" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/users/user_profiles/_form.html.slim" timestamp="1463741343922">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160427065805_create_company_addresses.rb" timestamp="1461747102250">
         <mark key="[" line="4" column="66" />
@@ -103,13 +95,6 @@
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
         <mark key="^" line="0" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/fetching_geocoder_service.rb" timestamp="1463491313299">
-        <mark key="'" line="6" column="14" />
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="20" />
-        <mark key="." line="50" column="20" />
-        <mark key="^" line="50" column="20" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425082152_create_emails.rb" timestamp="1461740513719">
         <mark key="[" line="9" column="29" />
@@ -237,9 +222,6 @@
         <mark key="^" line="1" column="59" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/vendor/bundle/ruby/2.3.0/gems/omniauth-1.3.1/lib/omniauth.rb" timestamp="1462822453844">
-        <mark key="'" line="38" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/db/seeds/wikis.rb" timestamp="1463563434965">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
@@ -248,6 +230,9 @@
       </file>
       <file name="$USER_HOME$/projects/bitstar/Gemfile" timestamp="1463591927401" />
       <file name="$USER_HOME$/projects/cplus/config/locales/020_views/ja.yml" timestamp="1463473937061" />
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/users/comments_controller.rb" timestamp="1463159721712">
+        <mark key="[" line="11" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/users/practices_controller.rb" timestamp="1463041095607">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -309,17 +294,16 @@
         <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/models/concerns/confirmable.rb" timestamp="1463728116582" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_show.html.slim" timestamp="1463738553193">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/users/static_pages_controller.rb" timestamp="1462816315467">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/application_controller.rb" timestamp="1463730688278">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="24" column="61" />
-        <mark key="]" line="24" column="66" />
-        <mark key="." line="24" column="66" />
-        <mark key="^" line="24" column="66" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425082941_create_company_custom_records.rb" timestamp="1461747077874">
         <mark key="[" line="4" column="72" />
@@ -414,6 +398,9 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463547969248">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/config/locales/010_defaults/kaminari.ja.yml" timestamp="1463474038921">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="8" />
@@ -491,13 +478,6 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1463476447227">
-        <mark key="'" line="500" column="13" />
-        <mark key="[" line="207" column="27" />
-        <mark key="]" line="207" column="27" />
-        <mark key="^" line="207" column="27" />
-        <mark key="." line="207" column="27" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/app/models/application_record.rb" timestamp="1463498728525">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="29" />
@@ -511,10 +491,10 @@
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/spec/controllers/admins/wikis_controller_spec.rb" timestamp="1463572375887" />
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" timestamp="1463480637779">
-        <mark key="'" line="152" column="9" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/spec/controllers/admins/learnings_controller_spec.rb" timestamp="1463572233061" />
+      <file name="$USER_HOME$/projects/active-engine/config/locales/020_views/ja.yml" timestamp="1463476429975">
+        <mark key="[" line="20" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160427061404_create_urls.rb" timestamp="1461740775993">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="25" />
@@ -580,13 +560,6 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/Gemfile" timestamp="1463591930948">
-        <mark key="'" line="63" column="5" />
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="43" column="50" />
-        <mark key="." line="43" column="50" />
-        <mark key="^" line="43" column="50" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/admins/practice_categories_controller.rb" timestamp="1462992739090">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="33" />
@@ -605,9 +578,6 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/Gemfile.lock" timestamp="1463384300257">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/controllers/admins/all_crawlers_controller.rb" timestamp="1461762954269">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="3" column="12" />
@@ -620,21 +590,11 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/vendor/bundle/ruby/2.3.0/gems/activemodel-5.0.0.rc1/lib/active_model/validations/validates.rb" timestamp="1462969434942">
-        <mark key="'" line="12" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/company-list/.gitignore" timestamp="1463484159221">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="89" column="6" />
         <mark key="^" line="89" column="6" />
         <mark key="." line="89" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1463484768882">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="31" />
       </file>
       <file name="restClient/response29.txt" timestamp="1463593756515" />
       <file name="$USER_HOME$/projects/active-engine/app/models/practice.rb" timestamp="1463195417506">
@@ -650,7 +610,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/users_controller.rb" timestamp="1463729562040">
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/users_controller.rb" timestamp="1463741460167">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
@@ -664,6 +624,9 @@
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/spec_helper.rb" timestamp="1463592088682" />
       <file name="$USER_HOME$/projects/active-engine/app/views/common/_nav.html.slim" timestamp="1463473122548" />
+      <file name="restClient/response45.txt" timestamp="1463637345971">
+        <mark key="[" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/db/seeds/users.rb" timestamp="1463729600950">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="41" />
@@ -688,14 +651,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1463040131806">
-        <mark key="'" line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/common/_header.html.slim" timestamp="1463731824639">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="45" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="57" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/common/_header.html.slim" timestamp="1463741725949">
+        <mark key="[" line="18" column="79" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_new.html.slim" timestamp="1463065849638">
         <mark key="[" line="7" column="0" />
@@ -734,6 +694,12 @@
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/lib/tasks/fetching_geocoder.rake" timestamp="1463723030895">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_show.html.slim" timestamp="1463733742088">
         <mark key="[" line="0" column="5" />
       </file>
@@ -749,7 +715,7 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/helpers/application_helper.rb" timestamp="1463738150871">
+      <file name="$USER_HOME$/projects/active-engine/app/helpers/application_helper.rb" timestamp="1463738608103">
         <mark key="[" line="51" column="40" />
         <mark key="]" line="51" column="44" />
         <mark key="^" line="51" column="44" />
@@ -772,13 +738,6 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/spec/controllers/markdowns_controller_spec.rb" timestamp="1463636646052">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="44" />
-        <mark key="^" line="24" column="44" />
-        <mark key="." line="24" column="44" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/learnings/new.html.slim" timestamp="1463726224206" />
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_edit.html.slim" timestamp="1462979562210">
         <mark key="[" line="8" column="39" />
@@ -796,9 +755,6 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/common/_avatar.html.slim" timestamp="1463731673450">
-        <mark key="'" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/wikis/index.html.slim" timestamp="1463477903496">
         <mark key="[" line="0" column="49" />
@@ -853,13 +809,6 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/spec/controllers/users/static_pages_controller_spec.rb" timestamp="1463590830452">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="54" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/download_job.rb" timestamp="1461762476147">
         <mark key="[" line="46" column="24" />
         <mark key="]" line="46" column="40" />
@@ -878,7 +827,7 @@
         <mark key="^" line="8" column="60" />
         <mark key="." line="8" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/users/_user_profile_fields.html.slim" timestamp="1463729253207">
+      <file name="$USER_HOME$/projects/active-engine/app/views/users/_user_profile_fields.html.slim" timestamp="1463741341660">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="15" />
@@ -950,17 +899,17 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_edit.html.slim" timestamp="1463733796170">
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_edit.html.slim" timestamp="1463741603011">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="43" />
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/users/user_profiles_controller.rb" timestamp="1463732015820">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="64" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/users/user_profiles_controller.rb" timestamp="1463741541249">
+        <mark key="[" line="11" column="70" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/users/_search_form.html.slim" timestamp="1463500371133">
         <mark key="[" line="1" column="44" />
@@ -1003,9 +952,6 @@
         <mark key="]" line="9" column="72" />
         <mark key="." line="9" column="72" />
         <mark key="^" line="9" column="72" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1463394598532">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_index.html.slim" timestamp="1462979589923">
         <mark key="[" line="14" column="49" />
@@ -1051,11 +997,11 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_form.html.slim" timestamp="1463738212145">
-        <mark key="[" line="9" column="91" />
-        <mark key="]" line="9" column="89" />
-        <mark key="." line="9" column="89" />
-        <mark key="^" line="9" column="89" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_form.html.slim" timestamp="1463740213848">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/spec/models/learning_spec.rb" timestamp="1463374227648">
         <mark key="[" line="3" column="0" />
@@ -1213,40 +1159,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>require</text>
       </register>
       <register name="/" type="4">
         <text>params</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXNlci51c2VyX3Byb2ZsZS5maXJzdF9uYW1lID0gIuODhuOCueODiCIK</text>
+        <text encoding="base64">PSBmLmlucHV0IDpmaXJzdF9uYW1lCg==</text>
       </register>
       <register name="1" type="4">
-        <text>(</text>
+        <text>require</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
         <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>f</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>*</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>*</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
