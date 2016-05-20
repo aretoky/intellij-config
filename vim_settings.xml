@@ -52,6 +52,12 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/active-engine/app/helpers/scaffoldable_helper.rb" timestamp="1463734333306">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="26" column="12" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/users/user_profiles/edit.html.slim" timestamp="1463731258434">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="22" />
@@ -129,12 +135,9 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/controllers/concerns/scaffoldable.rb" timestamp="1463731976367">
-        <mark key="'" line="59" column="70" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
+      <file name="$USER_HOME$/projects/active-engine/app/controllers/concerns/scaffoldable.rb" timestamp="1463732768802">
+        <mark key="'" line="61" column="70" />
+        <mark key="[" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form_fields.html.slim" timestamp="1462991089007">
         <mark key="[" line="3" column="31" />
@@ -215,6 +218,7 @@
         <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/projects/bitstar/spec/features/spec_helper.rb" timestamp="1463591895343" />
+      <file name="$USER_HOME$/projects/active-engine/vendor/bundle/ruby/2.3.0/bundler/gems/rails-044e35f87379/actionview/lib/action_view/helpers/url_helper.rb" timestamp="1463733103673" />
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_show.json.jbuilder" timestamp="1462980301237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="74" />
@@ -710,6 +714,7 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_new.html.slim" timestamp="1463733785759" />
       <file name="$USER_HOME$/projects/active-engine/app/views/users/practices/__scaffold_link_index.html.slim" timestamp="1463066680977">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="31" />
@@ -728,6 +733,9 @@
         <mark key="]" line="3" column="52" />
         <mark key="." line="3" column="52" />
         <mark key="^" line="3" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_show.html.slim" timestamp="1463733742088">
+        <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/assets/javascripts/application.js" timestamp="1462973118805">
         <mark key="[" line="15" column="22" />
@@ -942,7 +950,7 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_edit.html.slim" timestamp="1463732081149">
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_edit.html.slim" timestamp="1463733796170">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="43" />
         <mark key="." line="1" column="43" />
@@ -1016,11 +1024,14 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_destroy.html.slim" timestamp="1463063763262">
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_destroy.html.slim" timestamp="1463733802927">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="1" column="49" />
         <mark key="." line="1" column="49" />
         <mark key="^" line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/app/services/creating_markdown_service.rb" timestamp="1463637619008">
+        <mark key="[" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/users/index.html.slim" timestamp="1463498502202">
         <mark key="[" line="0" column="64" />
@@ -1040,11 +1051,11 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_form.html.slim" timestamp="1463727518226">
-        <mark key="[" line="2" column="76" />
-        <mark key="]" line="2" column="115" />
-        <mark key="^" line="2" column="115" />
-        <mark key="." line="2" column="115" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_form.html.slim" timestamp="1463733989810">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="52" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/spec/models/learning_spec.rb" timestamp="1463374227648">
         <mark key="[" line="3" column="0" />
@@ -1202,7 +1213,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>params</text>
@@ -1210,32 +1221,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXNlci51c2VyX3Byb2ZsZS5maXJzdF9uYW1lID0gIuODhuOCueODiCIK</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>d</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>-</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>-</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
