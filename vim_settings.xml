@@ -113,11 +113,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/users/practices/_form.html.slim" timestamp="1464256237421">
+      <file name="$USER_HOME$/projects/active-engine/app/views/users/practices/_form.html.slim" timestamp="1464257308251">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="96" />
-        <mark key="^" line="3" column="96" />
-        <mark key="." line="3" column="96" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/users/new.html.slim" timestamp="1463731251432">
         <mark key="[" line="0" column="0" />
@@ -717,11 +717,11 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form.html.slim" timestamp="1464256231735">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="7" column="55" />
+      <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form.html.slim" timestamp="1464257333020">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/__scaffold_link_show.html.slim" timestamp="1463733742088">
         <mark key="[" line="0" column="5" />
@@ -1170,7 +1170,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, label_method: :title, value_method: :id, include_blank: false</text>
+        <text>, include_blank: false</text>
       </register>
       <register name="/" type="4">
         <text>scaffold_model_instance_name</text>
@@ -1179,31 +1179,31 @@
         <text encoding="base64">PSBmLmlucHV0IDpmaXJzdF9uYW1lCg==</text>
       </register>
       <register name="1" type="4">
-        <text>, label_method: :title, value_method: :id, include_blank: false</text>
+        <text>, include_blank: false</text>
       </register>
       <register name="2" type="4">
-        <text>company_name</text>
+        <text>, include_blank: false</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, label_method: :name, value_method: :id,</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>#, label_method: :name, value_method: :id,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>#, label_method: :name, value_method: :id, include_blank: false</text>
       </register>
       <register name="6" type="4">
-        <text>admin</text>
+        <text>title</text>
       </register>
       <register name="7" type="4">
-        <text>user</text>
+        <text>title</text>
       </register>
       <register name="8" type="4">
-        <text>pre_user</text>
+        <text>, label_method: :title, value_method: :id, include_blank: false</text>
       </register>
       <register name="9" type="4">
-        <text>role</text>
+        <text>company_name</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
