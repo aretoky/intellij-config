@@ -190,11 +190,11 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/views/admins/addresses/index.json.jbuilder" timestamp="1464332516605">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="37" />
-        <mark key="." line="1" column="37" />
-        <mark key="^" line="1" column="37" />
+      <file name="$USER_HOME$/projects/company-list/app/views/admins/addresses/index.json.jbuilder" timestamp="1464336598196">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/company.rb" timestamp="1462962793730">
         <mark key="[" line="35" column="0" />
@@ -251,10 +251,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/views/admins/companies/_form.html.slim" timestamp="1464331019514">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/views/admins/companies/_form.html.slim" timestamp="1464336000729">
+        <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/show.html.slim" timestamp="1461762744186">
         <mark key="[" line="8" column="13" />
@@ -280,17 +281,17 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/application.js" timestamp="1464330310654">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="3" />
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/application.js" timestamp="1464334980975">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/show.js.coffee" timestamp="1464329918522">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="10" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="31" column="10" />
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/show.js.coffee" timestamp="1464336871479">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="31" />
+        <mark key="." line="42" column="31" />
+        <mark key="^" line="42" column="31" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/layouts/mailer.text.erb" timestamp="1464266811146">
         <mark key="[" line="3" column="0" />
@@ -541,12 +542,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1464331602041">
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1464334500497">
         <mark key="'" line="42" column="7" />
-        <mark key="[" line="46" column="15" />
-        <mark key="]" line="46" column="15" />
-        <mark key="^" line="108" column="32" />
-        <mark key="." line="46" column="15" />
+        <mark key="[" line="108" column="12" />
+        <mark key="]" line="108" column="11" />
+        <mark key="^" line="108" column="11" />
+        <mark key="." line="108" column="11" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/views/scaffoldable/_scaffold_show.html.slim" timestamp="1464330465493" />
       <file name="$USER_HOME$/projects/active-engine/config/locales/010_defaults/simple_form.ja.yml" timestamp="1463500443786">
@@ -1272,7 +1273,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sublocality_level_4</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>mail</text>
@@ -1285,31 +1286,31 @@
     end</text>
       </register>
       <register name="1" type="4">
-        <text>sublocality_level_4</text>
+        <text>false</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>name</text>
       </register>
       <register name="3" type="4">
-        <text>longitude</text>
+        <text>places</text>
       </register>
       <register name="4" type="4">
-        <text>latitude</text>
+        <text>data</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>window.location.pathname + '/addresses.json'</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>instances</text>
+        <text>+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW5zdGFuY2VzID0gaW5zdGFuY2VfdmFyaWFibGVfZ2V0KCJAI3tzY2FmZm9sZF9tb2RlbF9pbnN0YW5jZV9uYW1lLnBsdXJhbGl6ZX0iLnRvX3N5bSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
