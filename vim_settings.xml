@@ -287,11 +287,11 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/show.js.coffee" timestamp="1464337818330">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="8" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="16" column="8" />
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/show.js.coffee" timestamp="1464337887797">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/layouts/mailer.text.erb" timestamp="1464266811146">
         <mark key="[" line="3" column="0" />
@@ -1285,32 +1285,32 @@
       expect(ActionMailer::Base.deliveries.size).to eq(1)
     end</text>
       </register>
-      <register name="1" type="4">
-        <text>false</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImFhYWEiKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>name</text>
+        <text>false</text>
       </register>
       <register name="3" type="4">
-        <text>places</text>
+        <text>name</text>
       </register>
       <register name="4" type="4">
-        <text>data</text>
+        <text>places</text>
       </register>
       <register name="5" type="4">
-        <text>window.location.pathname + '/addresses.json'</text>
+        <text>data</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>window.location.pathname + '/addresses.json'</text>
       </register>
       <register name="7" type="4">
-        <text>+</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="8" type="4">
+        <text>+</text>
+      </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
