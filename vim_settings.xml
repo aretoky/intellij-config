@@ -69,6 +69,9 @@
         <mark key="." line="0" column="47" />
         <mark key="^" line="0" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/active-engine/app/mailers/application_mailer.rb" timestamp="1464266176852">
+        <mark key="'" line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/config/deploy/production.rb" timestamp="1463490093138">
         <mark key="[" line="6" column="59" />
         <mark key="]" line="6" column="64" />
@@ -666,8 +669,8 @@
         <mark key="^" line="31" column="42" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/Gemfile.lock" timestamp="1464313958147">
-        <mark key="'" line="94" column="6" />
+      <file name="$USER_HOME$/projects/active-engine/Gemfile.lock" timestamp="1464350328239">
+        <mark key="'" line="39" column="7" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/new_confirm.php" timestamp="1464260205393">
         <mark key="'" line="10" column="37" />
@@ -1137,14 +1140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/company-list/Gemfile" />
-      <jump line="41" column="124" filename="$USER_HOME$/projects/company-list/Gemfile" />
-      <jump line="42" column="7" filename="$USER_HOME$/projects/company-list/Gemfile" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/company-list/app/helpers/scaffoldable_helper.rb" />
-      <jump line="42" column="30" filename="$USER_HOME$/projects/company-list/app/helpers/scaffoldable_helper.rb" />
-      <jump line="17" column="20" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/new_confirm.php" />
-      <jump line="187" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/new_confirm.php" />
-      <jump line="188" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/new_confirm.php" />
       <jump line="197" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/new_confirm.php" />
       <jump line="199" column="21" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/new_confirm.php" />
       <jump line="278" column="26" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/new_confirm.php" />
@@ -1191,7 +1186,6 @@
       <jump line="97" column="2" filename="$USER_HOME$/projects/active-engine/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/active-engine/Gemfile" />
       <jump line="89" column="5" filename="$USER_HOME$/projects/active-engine/Gemfile" />
-      <jump line="0" column="2" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
       <jump line="94" column="6" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
       <jump line="12" column="32" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="200" column="58" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
@@ -1237,6 +1231,15 @@
       <jump line="278" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="277" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="276" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
+      <jump line="3" column="7" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
+      <jump line="1" column="27" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
+      <jump line="6" column="6" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
+      <jump line="7" column="6" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
+      <jump line="18" column="6" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
+      <jump line="25" column="6" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
+      <jump line="37" column="6" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
+      <jump line="39" column="7" filename="$USER_HOME$/projects/active-engine/Gemfile.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1276,7 +1279,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>rails</text>
       </register>
       <register name="0" type="4">
         <text>it &quot;roleをpre_userからuserへ変更するとメールが送信されること&quot; do
@@ -1317,9 +1320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>rails</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>rails</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1327,8 +1330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>local_prefixes</entry>
-        <entry>bootstrap</entry>
         <entry>funda</entry>
         <entry>motion</entry>
         <entry>primary</entry>
@@ -1347,6 +1348,8 @@
         <entry>bundler</entry>
         <entry>send</entry>
         <entry>mail</entry>
+        <entry>active</entry>
+        <entry>rails</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
