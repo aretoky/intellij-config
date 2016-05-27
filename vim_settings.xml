@@ -264,11 +264,17 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/application.js" timestamp="1464005436333">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/application.js" timestamp="1464329427820">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/show.js.coffee" timestamp="1464329659243">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="6" />
+        <mark key="^" line="33" column="4" />
+        <mark key="." line="33" column="6" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/layouts/mailer.text.erb" timestamp="1464266811146">
         <mark key="[" line="3" column="0" />
@@ -383,6 +389,7 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/postals.coffee" timestamp="1464328932449" />
       <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511093031_create_practices.rb" timestamp="1462960269648">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="6" column="50" />
@@ -1223,7 +1230,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>heroku</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>mail</text>
@@ -1235,32 +1242,32 @@
       expect(ActionMailer::Base.deliveries.size).to eq(1)
     end</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Z2VtICJxdWlldF9hc3NldHMiCg==</text>
+      <register name="1" type="4">
+        <text>#</text>
       </register>
       <register name="2" type="4">
-        <text>heroku</text>
+        <text>postals</text>
       </register>
       <register name="3" type="4">
-        <text>user</text>
+        <text>client</text>
       </register>
-      <register name="4" type="4">
-        <text>r</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">Z2VtICJxdWlldF9hc3NldHMiCg==</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>heroku</text>
       </register>
       <register name="7" type="4">
-        <text>u</text>
+        <text>user</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
