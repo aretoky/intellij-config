@@ -87,6 +87,12 @@
         <mark key="." line="0" column="47" />
         <mark key="^" line="0" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/private_rds/db/migrate/20160527142051_create_act_logs.rb" timestamp="1464359523269">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/layouts/mailer.text.slim" timestamp="1464266572737">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="8" column="26" />
@@ -463,7 +469,7 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464356973286">
+      <file name="/Dummy.txt" timestamp="1464358788083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/config/locales/010_defaults/kaminari.ja.yml" timestamp="1463474038921">
@@ -911,6 +917,7 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/private_rds/spec/factories/act_logs.rb" timestamp="1464359445337" />
       <file name="$USER_HOME$/projects/company-list/app/views/scaffoldable/_scaffold_index.html.slim" timestamp="1464081972144">
         <mark key="[" line="0" column="88" />
         <mark key="]" line="1" column="19" />
@@ -1005,6 +1012,12 @@
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/private_rds/db/migrate/20160527141936_create_acts.rb" timestamp="1464358868927">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/spec/factories/learnings.rb" timestamp="1463371737028">
         <mark key="[" line="3" column="0" />
@@ -1195,7 +1208,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>null: false</text>
       </register>
       <register name="/" type="4">
         <text>rails</text>
@@ -1208,31 +1221,31 @@
     end</text>
       </register>
       <register name="1" type="4">
-        <text>r</text>
+        <text>null: false</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>null: false</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
         <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
