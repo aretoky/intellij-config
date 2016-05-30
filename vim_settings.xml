@@ -135,7 +135,12 @@
         <mark key="^" line="62" column="151" />
         <mark key="." line="62" column="151" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1464588916513" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1464594674908">
+        <mark key="[" line="330" column="57" />
+        <mark key="]" line="333" column="47" />
+        <mark key="^" line="333" column="47" />
+        <mark key="." line="333" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form_fields.html.slim" timestamp="1462991089007">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="31" />
@@ -561,6 +566,12 @@
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1464594191868">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/private_rds/config/navmenu.yml" timestamp="1464355769509">
         <mark key="[" line="0" column="0" />
@@ -1214,44 +1225,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>字</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rails</text>
       </register>
-      <register name="0" type="4">
-        <text>it &quot;roleをpre_userからuserへ変更するとメールが送信されること&quot; do
-      user.user_profile.role = :user
-      user.user_profile.save
-      expect(ActionMailer::Base.deliveries.size).to eq(1)
-    end</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0b29fbG9uZzogIiV7Y291bnR95YCL44G+44Gn44GX44GL55m76Yyy44Gn44GN44G+44Gb44KTIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>字</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text>文</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>字</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="4" type="4">
-        <text>文</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>null: false</text>
+        <text>3</text>
       </register>
-      <register name="6" type="4">
-        <text>null: false</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>d</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>g</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
