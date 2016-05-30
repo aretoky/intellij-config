@@ -153,11 +153,10 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/companies_controller.rb" timestamp="1464615716847">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/companies_controller.rb" timestamp="1464623282857">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/company_telephone.rb" timestamp="1461741215645">
         <mark key="[" line="19" column="14" />
@@ -524,6 +523,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/app/models/company_address.rb" timestamp="1464623956600" />
       <file name="$USER_HOME$/projects/active-engine/app/models/practice_category.rb" timestamp="1463195253411">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -698,11 +698,11 @@
         <mark key="^" line="89" column="6" />
         <mark key="." line="89" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1464332509987">
-        <mark key="[" line="62" column="35" />
-        <mark key="]" line="62" column="52" />
-        <mark key="^" line="62" column="52" />
-        <mark key="." line="62" column="52" />
+      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1464624003550">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="54" column="49" />
+        <mark key="^" line="54" column="49" />
+        <mark key="." line="54" column="49" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/models/practice.rb" timestamp="1463195417506">
         <mark key="[" line="29" column="0" />
@@ -1023,11 +1023,11 @@
         <mark key="]" line="11" column="2" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/addresses_controller.rb" timestamp="1464331199054">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/addresses_controller.rb" timestamp="1464624521202">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/regular_crawl_job.rb" timestamp="1461821126885">
         <mark key="[" line="9" column="64" />
@@ -1237,7 +1237,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addresses</text>
+        <text>Company</text>
       </register>
       <register name="/" type="4">
         <text>rails</text>
@@ -1245,32 +1245,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB0b29fbG9uZzogIiV7Y291bnR95YCL44G+44Gn44GX44GL55m76Yyy44Gn44GN44G+44Gb44KTIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="1" type="4">
+        <text>Company</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgaW5kZXgK</text>
+        <text encoding="base64">Y2xhc3MgQWRtaW5zOjpDb21wYW5pZXNDb250cm9sbGVyIDwgQWRtaW5zOjpBcHBsaWNhdGlvbkNvbnRyb2xsZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBjb21wYW5pZXMgPSBDb21wYW55Lgo=</text>
+        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>addresses</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>show</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
