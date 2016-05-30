@@ -135,7 +135,7 @@
         <mark key="^" line="62" column="151" />
         <mark key="." line="62" column="151" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1464588473738" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1464588916513" />
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form_fields.html.slim" timestamp="1462991089007">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="31" />
@@ -188,6 +188,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" timestamp="1464589517188">
+        <mark key="[" line="127" column="26" />
+        <mark key="]" line="127" column="26" />
+        <mark key="." line="127" column="26" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/models/html_source/html_parsable.rb" timestamp="1461764475361">
         <mark key="[" line="93" column="0" />
@@ -1209,7 +1214,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null: false</text>
+        <text>字</text>
       </register>
       <register name="/" type="4">
         <text>rails</text>
@@ -1222,31 +1227,31 @@
     end</text>
       </register>
       <register name="1" type="4">
-        <text>null: false</text>
+        <text>字</text>
       </register>
       <register name="2" type="4">
-        <text>null: false</text>
+        <text>文</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>字</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>文</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>null: false</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>null: false</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
