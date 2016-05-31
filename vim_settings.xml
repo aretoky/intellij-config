@@ -153,11 +153,11 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/companies_controller.rb" timestamp="1464662479684">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-        <mark key="^" line="5" column="45" />
+      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/companies_controller.rb" timestamp="1464678687303">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/company_telephone.rb" timestamp="1461741215645">
         <mark key="[" line="19" column="14" />
@@ -269,11 +269,11 @@
         <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/projects/private_rds/app/assets/javascripts/application.js" timestamp="1464356121880" />
-      <file name="$USER_HOME$/projects/company-list/app/views/admins/companies/_form.html.slim" timestamp="1464663485088">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/views/admins/companies/_form.html.slim" timestamp="1464677672904">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/views/admins/sites/show.html.slim" timestamp="1461762744186">
         <mark key="[" line="8" column="13" />
@@ -305,11 +305,11 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/show.js.coffee" timestamp="1464611423934">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/show.js.coffee" timestamp="1464677143854">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/layouts/mailer.text.erb" timestamp="1464266811146">
         <mark key="[" line="3" column="0" />
@@ -907,11 +907,11 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/index.js.coffee" timestamp="1464665086347">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/index.js.coffee" timestamp="1464678814707">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="4" column="66" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_search_form.html.slim" timestamp="1463480219869">
         <mark key="[" line="8" column="9" />
@@ -1017,11 +1017,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/addresses_controller.rb" timestamp="1464665509159">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="46" />
+      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/addresses_controller.rb" timestamp="1464678014693">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/regular_crawl_job.rb" timestamp="1461821126885">
         <mark key="[" line="9" column="64" />
@@ -1243,7 +1243,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2luZG93LmxvY2F0aW9uLnBhdGhuYW1lICsg</text>
+        <text>where(status: 2).</text>
       </register>
       <register name="/" type="4">
         <text>gon</text>
@@ -1252,10 +1252,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICB0b29fbG9uZzogIiV7Y291bnR95YCL44G+44Gn44GX44GL55m76Yyy44Gn44GN44G+44Gb44KTIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgZGF0YTogeyAiY29tcGFueV9pZHMiOiBnb24uY29tcGFueV9pZHMuam9pbigiLCIpIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>where(status: 2).</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1266,17 +1266,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
