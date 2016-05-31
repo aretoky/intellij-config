@@ -153,10 +153,10 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/companies_controller.rb" timestamp="1464623282857">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/companies_controller.rb" timestamp="1464661395933">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/company_telephone.rb" timestamp="1461741215645">
         <mark key="[" line="19" column="14" />
@@ -349,6 +349,13 @@
         <mark key="]" line="1" column="53" />
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/spec/models/user_profile_spec.rb" timestamp="1464280769823">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="18" column="55" />
+        <mark key="." line="18" column="55" />
+        <mark key="^" line="18" column="55" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_show.html.slim" timestamp="1463749965447">
         <mark key="[" line="0" column="13" />
@@ -566,6 +573,13 @@
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1464661487743">
+        <mark key="'" line="42" column="7" />
+        <mark key="[" line="108" column="23" />
+        <mark key="]" line="109" column="7" />
+        <mark key="^" line="109" column="7" />
+        <mark key="." line="109" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/app/views/scaffoldable/_scaffold_show.html.slim" timestamp="1464330465493" />
       <file name="$USER_HOME$/projects/active-engine/config/locales/010_defaults/simple_form.ja.yml" timestamp="1463500443786">
         <mark key="[" line="6" column="25" />
@@ -590,6 +604,7 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/app/controllers/concerns/scaffoldable.rb" timestamp="1464661445845" />
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160427061404_create_urls.rb" timestamp="1461740775993">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="25" />
@@ -661,6 +676,13 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/Gemfile" timestamp="1464352569554">
+        <mark key="'" line="89" column="5" />
+        <mark key="[" line="89" column="15" />
+        <mark key="]" line="89" column="44" />
+        <mark key="." line="89" column="44" />
+        <mark key="^" line="89" column="44" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/admins/practice_categories_controller.rb" timestamp="1462992739090">
         <mark key="[" line="7" column="35" />
@@ -1245,32 +1267,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB0b29fbG9uZzogIiV7Y291bnR95YCL44G+44Gn44GX44GL55m76Yyy44Gn44GN44G+44Gb44KTIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>find</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Company</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQWRtaW5zOjpDb21wYW5pZXNDb250cm9sbGVyIDwgQWRtaW5zOjpBcHBsaWNhdGlvbkNvbnRyb2xsZXIK</text>
+      <register name="4" type="4">
+        <text>find</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
+      <register name="5" type="4">
+        <text>Company</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Y2xhc3MgQWRtaW5zOjpDb21wYW5pZXNDb250cm9sbGVyIDwgQWRtaW5zOjpBcHBsaWNhdGlvbkNvbnRyb2xsZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
