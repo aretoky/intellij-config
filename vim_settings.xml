@@ -6,6 +6,12 @@
       <file name="/a.dummy" timestamp="1464863818228">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/postals/_form.html.slim" timestamp="1464938487577">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="21" />
+        <mark key="^" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app.json" timestamp="1464924009365">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -21,8 +27,8 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" timestamp="1464874396697">
-        <mark key="'" line="33" column="12" />
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" timestamp="1464938808859">
+        <mark key="'" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/map_helper.js.coffee" timestamp="1464697891821">
         <mark key="'" line="209" column="31" />
@@ -73,8 +79,29 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1464692762521">
+        <mark key="'" line="42" column="7" />
+        <mark key="[" line="108" column="23" />
+        <mark key="]" line="109" column="7" />
+        <mark key="^" line="109" column="7" />
+        <mark key="." line="109" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/helpers/map_helper/map_helper.js.coffee" timestamp="1464690799347">
+        <mark key="'" line="214" column="93" />
+        <mark key="[" line="214" column="78" />
+        <mark key="]" line="214" column="92" />
+        <mark key="." line="214" column="92" />
+        <mark key="^" line="214" column="92" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1464691600657" />
       <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_search_form.rb" timestamp="1464856566493" />
+      <file name="$USER_HOME$/projects/active-engine/Gemfile" timestamp="1464938293355">
+        <mark key="'" line="89" column="5" />
+        <mark key="[" line="89" column="15" />
+        <mark key="]" line="89" column="44" />
+        <mark key="." line="89" column="44" />
+        <mark key="^" line="89" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/new_confirm.php" timestamp="1464260205393">
         <mark key="'" line="10" column="37" />
       </file>
@@ -116,9 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="34" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="472" column="34" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
-      <jump line="466" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="465" column="47" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="455" column="103" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="453" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
@@ -216,6 +240,9 @@
       <jump line="339" column="28" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/edit_confirm.php" />
       <jump line="340" column="68" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/edit_confirm.php" />
       <jump line="351" column="85" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/edit_confirm.php" />
+      <jump line="101" column="12" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
+      <jump line="32" column="4" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -255,7 +282,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>cnt_ex</text>
+        <text>formats</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly89IHJlcXVpcmUgbWFwX2hlbHBlci9tYXBfaGVscGVyCg==</text>
@@ -292,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cnt_ex</last-search>
+      <last-search>formats</last-search>
       <last-offset />
-      <last-pattern>cnt_ex</last-pattern>
+      <last-pattern>formats</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -302,7 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
         <entry>assets</entry>
         <entry>55</entry>
         <entry>75</entry>
@@ -322,6 +348,7 @@
         <entry>default</entry>
         <entry>save_ex</entry>
         <entry>cnt_ex</entry>
+        <entry>formats</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
