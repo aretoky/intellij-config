@@ -212,6 +212,12 @@
         <mark key="." line="26" column="27" />
         <mark key="^" line="26" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/app/views/admins/addresses/show_google_map.html.slim" timestamp="1465214134524">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" timestamp="1464938808859">
         <mark key="'" line="32" column="4" />
       </file>
@@ -432,6 +438,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/app/views/admins/addresses/show.html.slim" timestamp="1465212828113">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/mailers/join_user_mailer.rb" timestamp="1464280623126">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="2" column="15" />
@@ -625,7 +637,7 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/controllers/concerns/scaffoldable.rb" timestamp="1464662877681">
+      <file name="$USER_HOME$/projects/company-list/app/controllers/concerns/scaffoldable.rb" timestamp="1465214000729">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="93" column="4" />
@@ -752,7 +764,7 @@
         <mark key="^" line="89" column="6" />
         <mark key="." line="89" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1464693825733">
+      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1465214131538">
         <mark key="[" line="56" column="24" />
         <mark key="]" line="56" column="28" />
         <mark key="^" line="56" column="28" />
@@ -959,11 +971,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/index.js.coffee" timestamp="1465212646717">
-        <mark key="[" line="58" column="68" />
-        <mark key="]" line="58" column="83" />
-        <mark key="." line="58" column="83" />
-        <mark key="^" line="58" column="83" />
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/index.js.coffee" timestamp="1465215092545">
+        <mark key="'" line="39" column="40" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="18" />
+        <mark key="." line="65" column="18" />
+        <mark key="^" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_search_form.html.slim" timestamp="1463480219869">
         <mark key="[" line="8" column="9" />
@@ -1067,11 +1080,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/addresses_controller.rb" timestamp="1464694147561">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="22" column="9" />
+      <file name="$USER_HOME$/projects/company-list/app/controllers/admins/addresses_controller.rb" timestamp="1465214057598">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/projects/meta_crawler/app/jobs/regular_crawl_job.rb" timestamp="1461821126885">
         <mark key="[" line="9" column="64" />
@@ -1157,7 +1170,6 @@
       <file name="$USER_HOME$/projects/company-list/app/views/scaffoldable/_scaffold_show.json.jbuilder" timestamp="1465207392186" />
     </filemarks>
     <jumps>
-      <jump line="465" column="47" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="455" column="103" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="453" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
       <jump line="452" column="47" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_postal.php" />
@@ -1257,6 +1269,7 @@
       <jump line="101" column="12" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
       <jump line="32" column="4" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
+      <jump line="35" column="40" filename="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/index.js.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1296,48 +1309,48 @@
         <text>instance</text>
       </register>
       <register name="/" type="4">
-        <text>formats</text>
+        <text>getPosition</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHN3TGF0bG5nID0gbGF0bG5nQm91bmRzLmdldFNvdXRoV2VzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgQGFkZHJlc3MgPQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBqc29uLmNvbXBhbmllcyBpbnN0YW5jZS5jb21wYW5pZXMsIDppZAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>instance</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>do |company|
     json.companies company, :id, :name
   end</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>extract</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGpzb24uY29tcGFuaWVzIGRvIHxpfAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAjIGpzb24udXJsIHVybF9mb3IoYWN0aW9uOiA6c2hvdywgaWQ6IGluc3RhbmNlLmlkLCBmb3JtYXQ6IDpqc29uKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>formats</last-search>
+      <last-search>getPosition</last-search>
       <last-offset />
-      <last-pattern>formats</last-pattern>
+      <last-pattern>getPosition</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1345,8 +1358,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assets</entry>
-        <entry>55</entry>
         <entry>75</entry>
         <entry>53</entry>
         <entry>56</entry>
@@ -1365,6 +1376,8 @@
         <entry>save_ex</entry>
         <entry>cnt_ex</entry>
         <entry>formats</entry>
+        <entry>set_model_instance</entry>
+        <entry>getPosition</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
