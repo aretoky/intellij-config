@@ -30,6 +30,12 @@
       <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" timestamp="1464938808859">
         <mark key="'" line="32" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/app/views/admins/addresses/index.json.jbuilder" timestamp="1465205189751">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/map_helper.js.coffee" timestamp="1464697891821">
         <mark key="'" line="209" column="31" />
         <mark key="[" line="143" column="0" />
@@ -55,7 +61,7 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/helpers/google_map.js.coffee" timestamp="1465202871951">
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/helpers/google_map.js.coffee" timestamp="1465204519274">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="6" />
         <mark key="^" line="68" column="0" />
@@ -73,11 +79,6 @@
       </file>
       <file name="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/markerclusterer.js" timestamp="1464696139599">
         <mark key="'" line="199" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/concerns/temp_ymdable.rb" timestamp="1464858475438">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1464692762521">
         <mark key="'" line="42" column="7" />
@@ -120,11 +121,11 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/edit_confirm.php" timestamp="1464934839509">
         <mark key="'" line="351" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/index.js.coffee" timestamp="1465199279494">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/index.js.coffee" timestamp="1465204704766">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="55" column="31" />
+        <mark key="." line="55" column="31" />
+        <mark key="^" line="55" column="31" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/controllers/admins/addresses_controller.rb" timestamp="1464694147561">
         <mark key="[" line="19" column="31" />
@@ -279,7 +280,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>titleField</text>
       </register>
       <register name="/" type="4">
         <text>formats</text>
@@ -287,32 +288,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHN3TGF0bG5nID0gbGF0bG5nQm91bmRzLmdldFNvdXRoV2VzdAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAjIGpzb24udXJsIHVybF9mb3IoYWN0aW9uOiA6c2hvdywgaWQ6IGluc3RhbmNlLmlkLCBmb3JtYXQ6IDpqc29uKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>titleField</text>
       </register>
       <register name="3" type="4">
-        <text>dragend, zoom_changed</text>
+        <text>controller</text>
       </register>
-      <register name="4" type="4">
-        <text>json</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5lTGF0bG5nKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImFhYWEiKQo=</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>dragend, zoom_changed</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>json</text>
       </register>
-      <register name="9" type="4">
-        <text>window</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5lTGF0bG5nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
