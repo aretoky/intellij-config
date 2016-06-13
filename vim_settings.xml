@@ -307,6 +307,7 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1465820823079" />
       <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511102407_create_comments.rb" timestamp="1462962351870">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="5" column="22" />
@@ -450,11 +451,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/.env" timestamp="1465363379821">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="53" />
-        <mark key="^" line="4" column="53" />
-        <mark key="." line="4" column="53" />
+      <file name="$USER_HOME$/projects/active-engine/.env" timestamp="1465820975992">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/config/application.rb" timestamp="1465558684428">
         <mark key="[" line="16" column="30" />
@@ -467,6 +468,7 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/active-engine/app/models/concerns/confirmable.rb" timestamp="1465821364742" />
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_show.html.slim" timestamp="1463749965447">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="42" />
@@ -544,6 +546,12 @@
         <mark key="]" line="2" column="15" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/app/inputs/base_input.rb" timestamp="1465820625070">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/app/controllers/social_profiles_controller.rb" timestamp="1465801043981">
         <mark key="[" line="0" column="54" />
@@ -791,7 +799,12 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/active-engine/app/models/application_record.rb" timestamp="1465814300910" />
+      <file name="$USER_HOME$/projects/active-engine/app/models/application_record.rb" timestamp="1465821391973">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/users/_form.html.slim" timestamp="1463745630212">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="2" />
@@ -1110,6 +1123,12 @@
         <mark key="^" line="24" column="49" />
         <mark key="." line="24" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/active-engine/app/models/concerns/scaffoldable.rb" timestamp="1465821395844">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/new.html.slim" timestamp="1462980851891">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="18" />
@@ -1246,6 +1265,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/base_input.rb" timestamp="1465820622397" />
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_index.html.slim" timestamp="1463750049623">
         <mark key="[" line="31" column="30" />
         <mark key="]" line="31" column="38" />
@@ -1327,6 +1347,11 @@
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" timestamp="1465821428500">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/app/controllers/users/application_controller.rb" timestamp="1465561263126">
         <mark key="[" line="2" column="0" />
@@ -1565,7 +1590,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>engine</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>ava</text>
@@ -1573,32 +1598,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpwYXNzd29yZAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>engine</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>m</text>
-      </register>
-      <register name="5" type="4">
-        <text>:</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="4">
-        <text>:</text>
-      </register>
-      <register name="8" type="4">
+      <register name="2" type="4">
         <text>s</text>
       </register>
-      <register name="9" type="4">
+      <register name="3" type="4">
+        <text>s</text>
+      </register>
+      <register name="4" type="4">
         <text>a</text>
+      </register>
+      <register name="5" type="4">
+        <text>l</text>
+      </register>
+      <register name="6" type="4">
+        <text>c</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>engine</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
