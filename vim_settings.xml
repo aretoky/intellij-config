@@ -33,6 +33,9 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
+      <file name="/a.dummy" timestamp="1465801362187">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/spec/controllers/admins/practices_controller_spec.rb" timestamp="1465289366248">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="27" />
@@ -345,10 +348,6 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/active-idea/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1465559452070">
-        <mark key="'" line="0" column="13" />
-        <mark key="[" line="20" column="53" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/client/ymdrooms_controller.rb" timestamp="1464870473609">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -492,11 +491,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/active-idea/app/controllers/users_controller.rb" timestamp="1465470934581">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="27" column="4" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/active-idea/app/controllers/users_controller.rb" timestamp="1465802280466">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/views/admins/addresses/show.html.slim" timestamp="1465212828113">
         <mark key="[" line="1" column="38" />
@@ -504,7 +503,7 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/active-idea/app/controllers/social_profiles_controller.rb" timestamp="1465471184454">
+      <file name="$USER_HOME$/projects/active-idea/app/controllers/social_profiles_controller.rb" timestamp="1465801043981">
         <mark key="[" line="0" column="54" />
         <mark key="]" line="36" column="4" />
         <mark key="^" line="36" column="4" />
@@ -751,8 +750,8 @@
         <mark key="^" line="93" column="4" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" timestamp="1465559488623">
-        <mark key="'" line="252" column="6" />
+      <file name="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" timestamp="1465802780938">
+        <mark key="'" line="129" column="9" />
         <mark key="[" line="268" column="66" />
         <mark key="]" line="268" column="63" />
         <mark key="^" line="268" column="63" />
@@ -1079,7 +1078,7 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/active-idea/app/models/social_profile.rb" timestamp="1465555732816">
+      <file name="$USER_HOME$/projects/active-idea/app/models/social_profile.rb" timestamp="1465801315329">
         <mark key="[" line="24" column="18" />
         <mark key="]" line="24" column="49" />
         <mark key="^" line="24" column="49" />
@@ -1132,6 +1131,12 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/active-idea/app/views/users/finish_signup.html.slim" timestamp="1465802376239">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+        <mark key="." line="11" column="55" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425065731_create_addresses.rb" timestamp="1462526827476">
         <mark key="[" line="21" column="31" />
@@ -1385,6 +1390,7 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/active-idea/app/views/scaffoldable/_scaffold_form.html.slim" timestamp="1465802368415" />
       <file name="$USER_HOME$/projects/active-idea/db/migrate/20160608153820_create_reactions.rb" timestamp="1465402124443">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="17" />
@@ -1393,9 +1399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="30" filename="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/markerclusterer.js" />
-      <jump line="337" column="30" filename="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/markerclusterer.js" />
-      <jump line="347" column="37" filename="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/markerclusterer.js" />
       <jump line="349" column="67" filename="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/markerclusterer.js" />
       <jump line="395" column="34" filename="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/markerclusterer.js" />
       <jump line="398" column="54" filename="$USER_HOME$/projects/company-list/vendor/assets/javascripts/map_helper/markerclusterer.js" />
@@ -1485,7 +1488,6 @@
       <jump line="57" column="12" filename="$USER_HOME$/projects/active-idea/Gemfile" />
       <jump line="110" column="11" filename="$USER_HOME$/projects/active-idea/Gemfile" />
       <jump line="267" column="2" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
       <jump line="64" column="8" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
       <jump line="75" column="20" filename="$USER_HOME$/projects/active-idea/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/active-idea/Gemfile" />
@@ -1493,6 +1495,10 @@
       <jump line="1" column="7" filename="$USER_HOME$/projects/active-idea/app/controllers/users/omniauth_callbacks_controller.rb" />
       <jump line="0" column="13" filename="$USER_HOME$/projects/active-idea/app/controllers/users/omniauth_callbacks_controller.rb" />
       <jump line="252" column="6" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
+      <jump line="254" column="26" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
+      <jump line="2" column="23" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
+      <jump line="129" column="9" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1529,49 +1535,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text>scaffoldable</text>
       </register>
       <register name="/" type="4">
-        <text>multi</text>
+        <text>recon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PWJlZ2luCg==</text>
+        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpwYXNzd29yZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpjb3JyZWN0X3VzZXIhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>top</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPSByZW5kZXIgImZvcm0iLCBmOiBmCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkYXRhYmFzZTogYWN0aXZlLWlkZWEK</text>
+      <register name="3" type="4">
+        <text>scaffoldable</text>
       </register>
       <register name="4" type="4">
-        <text>engine_develpment</text>
+        <text>, display_only: display_only</text>
       </register>
       <register name="5" type="4">
-        <text>Users::</text>
+        <text>form_url</text>
       </register>
-      <register name="6" type="4">
-        <text>Users::</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpjb3JyZWN0X3VzZXIhCg==</text>
       </register>
       <register name="7" type="4">
-        <text>Users::</text>
+        <text>top</text>
       </register>
-      <register name="8" type="4">
-        <text>Users::</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkYXRhYmFzZTogYWN0aXZlLWlkZWEK</text>
       </register>
       <register name="9" type="4">
-        <text>Users::</text>
+        <text>engine_develpment</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>multi</last-search>
+      <last-search>recon</last-search>
       <last-offset />
-      <last-pattern>multi</last-pattern>
+      <last-pattern>recon</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1579,7 +1585,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
         <entry>nokogiri</entry>
         <entry>yy</entry>
         <entry>user_profile_role_in</entry>
@@ -1592,13 +1597,14 @@
         <entry>ano</entry>
         <entry>anno</entry>
         <entry>ann</entry>
-        <entry>devise</entry>
         <entry>slim</entry>
         <entry>omni</entry>
         <entry>om</entry>
         <entry>env</entry>
         <entry>OmniauthCallbacksController</entry>
         <entry>multi</entry>
+        <entry>devise</entry>
+        <entry>recon</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
