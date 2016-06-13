@@ -1059,6 +1059,12 @@
         <mark key="." line="8" column="76" />
         <mark key="^" line="8" column="76" />
       </file>
+      <file name="$USER_HOME$/projects/active-idea/circle.yml" timestamp="1465819871610">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/active-idea/db/migrate/20160609101417_devise_create_users.rb" timestamp="1465560487154">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="35" column="23" />
@@ -1559,7 +1565,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>engine</text>
       </register>
       <register name="/" type="4">
         <text>ava</text>
@@ -1567,32 +1573,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpwYXNzd29yZAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>engine</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>m</text>
       </register>
-      <register name="4" type="4">
-        <text>:</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>:</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LWlmIChzY2FmZm9sZGFibGVfdXJsX2ZvcihhY3Rpb246IDpkZXN0cm95LCBpZDogaW5zdGFuY2UuaWQpIHJlc2N1ZSBmYWxzZSkK</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
