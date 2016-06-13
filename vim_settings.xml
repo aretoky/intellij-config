@@ -720,6 +720,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/client/custom.css.scss" timestamp="1465803674491">
+        <mark key="'" line="28" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1464664357281">
         <mark key="[" line="20" column="12" />
         <mark key="]" line="20" column="23" />
@@ -892,6 +895,9 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1465838432965">
+        <mark key="'" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/app/models/reaction.rb" timestamp="1465459069443">
         <mark key="[" line="13" column="34" />
@@ -1276,6 +1282,9 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/stylesheets/koito_style/bootstrap-ca-non-responsive.css" timestamp="1465803550415">
+        <mark key="'" line="35" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/base_input.rb" timestamp="1465826175685" />
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_index.html.slim" timestamp="1463750049623">
         <mark key="[" line="31" column="30" />
@@ -1464,8 +1473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="12" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
-      <jump line="79" column="17" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/edit_confirm.php" />
       <jump line="167" column="106" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/edit_confirm.php" />
       <jump line="339" column="28" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postal/edit_confirm.php" />
@@ -1564,6 +1571,8 @@
       <jump line="11" column="24" filename="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" />
       <jump line="22" column="13" filename="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form.html.slim" />
       <jump line="29" column="3" filename="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form.html.slim" />
+      <jump line="9" column="11" filename="$USER_HOME$/projects/cplus/config/application.rb" />
+      <jump line="13" column="4" filename="$USER_HOME$/projects/cplus/config/application.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1603,7 +1612,7 @@
         <text>_field</text>
       </register>
       <register name="/" type="4">
-        <text>goal-panel-edit</text>
+        <text>Config::Integration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGVtcGxhdGUuY29uY2F0IGRpc3BsYXlfZWRpdF90YWIK</text>
@@ -1652,9 +1661,9 @@
       </register>
     </registers>
     <search>
-      <last-search>goal-panel-edit</last-search>
+      <last-search>Config::Integration</last-search>
       <last-offset />
-      <last-pattern>goal-panel-edit</last-pattern>
+      <last-pattern>Config::Integration</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1662,7 +1671,6 @@
     </search>
     <history>
       <history-search>
-        <entry>env</entry>
         <entry>OmniauthCallbacksController</entry>
         <entry>multi</entry>
         <entry>devise</entry>
@@ -1682,6 +1690,7 @@
         <entry>(</entry>
         <entry>ul</entry>
         <entry>goal-panel-edit</entry>
+        <entry>Config::Integration</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
