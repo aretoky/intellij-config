@@ -929,7 +929,8 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1466072673730">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1466089707732">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="233" column="2" />
         <mark key="]" line="233" column="4" />
         <mark key="." line="233" column="4" />
@@ -1452,8 +1453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
-      <jump line="32" column="4" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
       <jump line="35" column="40" filename="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/index.js.coffee" />
       <jump line="42" column="13" filename="$USER_HOME$/projects/company-list/Gemfile" />
       <jump line="101" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
@@ -1552,6 +1551,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" />
       <jump line="17" column="44" filename="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" />
       <jump line="7" column="32" filename="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" />
+      <jump line="99" column="95" filename="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1591,7 +1592,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>table</text>
+        <text>cd_ur</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGVtcGxhdGUuY29uY2F0IGRpc3BsYXlfZWRpdF90YWIK</text>
@@ -1628,9 +1629,9 @@
       </register>
     </registers>
     <search>
-      <last-search>table</last-search>
+      <last-search>cd_ur</last-search>
       <last-offset />
-      <last-pattern>table</last-pattern>
+      <last-pattern>cd_ur</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1638,7 +1639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>multi</entry>
         <entry>devise</entry>
         <entry>recon</entry>
         <entry>contan</entry>
@@ -1658,6 +1658,7 @@
         <entry>goal-panel-edit</entry>
         <entry>Config::Integration</entry>
         <entry>table</entry>
+        <entry>cd_ur</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
