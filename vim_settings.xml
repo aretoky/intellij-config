@@ -1599,7 +1599,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>cd_ur</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGVtcGxhdGUuY29uY2F0IG5vX2V4cHJlc3NfZXFfaW5wdXRfaXRlbQo=</text>
@@ -1636,9 +1636,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cd_ur</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>cd_ur</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1646,7 +1646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>devise</entry>
         <entry>recon</entry>
         <entry>contan</entry>
         <entry>cont</entry>
@@ -1666,6 +1665,7 @@
         <entry>Config::Integration</entry>
         <entry>table</entry>
         <entry>cd_ur</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
