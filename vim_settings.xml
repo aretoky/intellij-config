@@ -369,11 +369,11 @@
         <mark key="^" line="2" column="45" />
         <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_inamt_fields.html.slim" timestamp="1466426213375">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_inamt_fields.html.slim" timestamp="1466428202352">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/application/_scaffold_show.json.jbuilder" timestamp="1462980301237">
         <mark key="[" line="0" column="0" />
@@ -1560,6 +1560,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/edit.html.slim" timestamp="1466426928239">
+        <mark key="[" line="170" column="39" />
+        <mark key="]" line="170" column="73" />
+        <mark key="." line="170" column="73" />
+        <mark key="^" line="170" column="73" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/spec/features/markdown_spec.rb" timestamp="1463634829136">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="41" />
@@ -1728,41 +1734,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>= link_to &quot;PDF&quot;, admin_bill_hfix_path(f.object.no_bill, f.object.sq_hfix, format: :pdf)</text>
+        <text>.col-xs-2</text>
       </register>
       <register name="/" type="4">
         <text>sel_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA9IGxpbmtfdG9fcmVtb3ZlX2Fzc29jaWF0aW9uICLDlyIsIGYsIGNsYXNzOiAiYnRuIGJ0bi1zbWFsbCBidG4tZGFuZ2VyIgo=</text>
+      <register name="0" type="4">
+        <text>.col-xs-2</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB0ZAo=</text>
+      <register name="1" type="4">
+        <text>.col-xs-2</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>.col-xs-2</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>, class: &quot;col-xs-2&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>= link_to &quot;PDF&quot;, admin_bill_hfix_path(f.object.no_bill, f.object.sq_hfix, format: :pdf)</text>
+        <text>.pull-left.date_list_space_30</text>
       </register>
-      <register name="5" type="4">
-        <text>PDF</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>- if f.object.yn_confirm  == 1
-        = l f.object.ts_confirm, format: :long</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>確認日時</text>
+      <register name="6" type="2">
+        <text encoding="base64">PSBsaW5rX3RvICLkuIDopqfjgbgiLCBhZG1pbl9iaWxsc19wYXRoCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>.form-actions</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
