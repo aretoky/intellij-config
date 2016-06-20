@@ -798,12 +798,6 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1466135438980">
-        <mark key="[" line="513" column="20" />
-        <mark key="]" line="514" column="18" />
-        <mark key="^" line="514" column="18" />
-        <mark key="." line="514" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/app/models/application_record.rb" timestamp="1465825722457">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="14" />
@@ -942,7 +936,7 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1466135395422">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1466395517718">
         <mark key="'" line="255" column="114" />
         <mark key="[" line="239" column="0" />
         <mark key="]" line="239" column="16" />
@@ -1057,11 +1051,9 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1466132889134">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="28" column="22" />
-        <mark key="^" line="28" column="22" />
-        <mark key="." line="28" column="22" />
+      <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1466395306235">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/users/practices/index.html.slim" timestamp="1462966930656">
         <mark key="[" line="14" column="108" />
@@ -1177,10 +1169,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1466394022211">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="4" />
-        <mark key="." line="277" column="4" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1466395610343">
+        <mark key="[" line="263" column="79" />
+        <mark key="]" line="263" column="82" />
+        <mark key="^" line="263" column="82" />
+        <mark key="." line="263" column="82" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/.env" timestamp="1465810679205">
         <mark key="[" line="1" column="65" />
@@ -1337,6 +1330,12 @@
         <mark key="]" line="1" column="43" />
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/simple_form.ja.yml" timestamp="1466394721182">
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="29" />
+        <mark key="^" line="84" column="29" />
+        <mark key="." line="84" column="29" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/users/user_profiles_controller.rb" timestamp="1465825792008">
         <mark key="[" line="4" column="2" />
@@ -1621,40 +1620,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LmJ0bi1ib3guY29sLXhzLW9mZnNldC01Cg==</text>
+      <register name="0" type="4">
+        <text>shortcut_buttons</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC5mb3JtLWFjdGlvbnMK</text>
+      <register name="1" type="4">
+        <text>{</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvISBEZWZhdWx0IHBhbmVsIGNvbnRlbnRzCg==</text>
+      <register name="2" type="4">
+        <text>}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dGFibGUudGFibGUudGFibGUtYm9yZGVyZWQudGFibGUtbGlzdAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyCg==</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>,</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuZm9ybS1pbnB1dHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsOiAi5Yiw552A5pelIgo=</text>
       </register>
       <register name="7" type="4">
-        <text>, builder: SimpleForm::FormBuilder</text>
+        <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>search_form_for</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsOiAi6YO15L6/5pWwIgo=</text>
       </register>
       <register name="9" type="4">
-        <text>, input_wrapper_html: { class: &quot; &quot; }</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
