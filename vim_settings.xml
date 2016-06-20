@@ -1052,9 +1052,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_bitem_fields.html.slim" timestamp="1466422300041">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="28" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_bitem_fields.html.slim" timestamp="1466423895112">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/learnings/_form.html.slim" timestamp="1464155481789">
         <mark key="[" line="1" column="17" />
@@ -1068,11 +1070,11 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1466422641213">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="29" column="6" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1466424108065">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="8" />
+        <mark key="^" line="31" column="47" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/db/seeds/users.rb" timestamp="1463729600950">
         <mark key="[" line="10" column="43" />
@@ -1439,7 +1441,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_show_bitems_field.html.slim" timestamp="1466423088276">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_show_bitems_field.html.slim" timestamp="1466423642079">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="13" />
         <mark key="^" line="22" column="28" />
@@ -1721,40 +1723,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.date_list_space_30</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>sel_</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGl2LnB1bGwtbGVmdC5kYXRlX2xpc3Rfc3BhY2VfMzAKICBkaXYKICAgIGxhYmVsIOiri+axgklECiAgLSBiaXRlbXMuZWFjaCBkbyB8Yml0ZW18CiAgICBkaXYgPSBiaXRlbS5ub19iaXRlbQo=</text>
+        <text>(rowspan=&quot;#{f.object.bitems.size}&quot;)</text>
       </register>
-      <register name="1" type="4">
-        <text>.date_list_space_30</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLmhmaXhlcwo=</text>
       </register>
       <register name="2" type="4">
-        <text>no_bitem</text>
+        <text>m</text>
       </register>
       <register name="3" type="4">
-        <text>請求ID</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>=</text>
+        <text>b</text>
       </register>
-      <register name="7" type="4">
-        <text>dt_bitem</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPSByZW5kZXIgInNob3dfYml0ZW1zX2ZpZWxkIiwgYml0ZW1zOiBmLm9iamVjdC5iaXRlbXMK</text>
       </register>
-      <register name="8" type="4">
-        <text>作成日時</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC5iaXRlbXMK</text>
       </register>
-      <register name="9" type="4">
-        <text>no_bitem</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvdGQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
