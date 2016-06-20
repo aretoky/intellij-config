@@ -210,6 +210,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/_new_form.html.slim" timestamp="1466393288538">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="6" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form_fields.html.slim" timestamp="1462991089007">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="31" />
@@ -329,6 +335,9 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1466393680451">
+        <mark key="[" line="87" column="86" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511102407_create_comments.rb" timestamp="1462962351870">
         <mark key="[" line="4" column="18" />
@@ -1090,11 +1099,11 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/new.html.slim" timestamp="1466390372978">
-        <mark key="[" line="67" column="49" />
-        <mark key="]" line="67" column="57" />
-        <mark key="^" line="67" column="57" />
-        <mark key="." line="67" column="57" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/new.html.slim" timestamp="1466393138415">
+        <mark key="[" line="59" column="2" />
+        <mark key="]" line="59" column="28" />
+        <mark key="^" line="59" column="28" />
+        <mark key="." line="59" column="28" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/app/controllers/omniauth_callbacks_controller.rb" timestamp="1465560217433">
         <mark key="[" line="8" column="63" />
@@ -1167,6 +1176,11 @@
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1466394022211">
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="4" />
+        <mark key="." line="277" column="4" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/.env" timestamp="1465810679205">
         <mark key="[" line="1" column="65" />
@@ -1438,6 +1452,7 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" timestamp="1466393649083" />
       <file name="$USER_HOME$/projects/active-idea/app/models/node.rb" timestamp="1465459028804">
         <mark key="[" line="25" column="40" />
         <mark key="]" line="26" column="29" />
@@ -1606,7 +1621,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>horizontal_form_for</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -1615,31 +1630,31 @@
         <text encoding="base64">LmJ0bi1ib3guY29sLXhzLW9mZnNldC01Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuZm9ybS1hY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgIC5mb3JtLWFjdGlvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvISBUYWJsZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAvISBEZWZhdWx0IHBhbmVsIGNvbnRlbnRzCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dGFibGUudGFibGUudGFibGUtYm9yZGVyZWQudGFibGUtbGlzdAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRyCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICA=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PSBsaW5rX3RvICLkuIDopqfjgbgiLCB1cmxfZm9yKGFjdGlvbjogOmluZGV4KQo=</text>
+        <text encoding="base64">ICAuZm9ybS1pbnB1dHMK</text>
       </register>
       <register name="7" type="4">
-        <text>horizontal_form_for</text>
+        <text>, builder: SimpleForm::FormBuilder</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>search_form_for</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LmJ0bi1ib3guY29sLXhzLW9mZnNldC01Cg==</text>
+      <register name="9" type="4">
+        <text>, input_wrapper_html: { class: &quot; &quot; }</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
