@@ -430,7 +430,7 @@
         <mark key="^" line="13" column="92" />
         <mark key="." line="13" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_delete_bill.php" timestamp="1466518655089" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_delete_bill.php" timestamp="1466519510532" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1466512207505">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="8" column="120" />
@@ -497,6 +497,12 @@
         <mark key="]" line="19" column="29" />
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/bill/destroyer.rb" timestamp="1466520955489">
+        <mark key="[" line="73" column="5" />
+        <mark key="]" line="73" column="5" />
+        <mark key="^" line="77" column="13" />
+        <mark key="." line="73" column="5" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/app/views/common/_mobilenav.html.slim" timestamp="1465805831114">
         <mark key="[" line="5" column="36" />
@@ -760,11 +766,11 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1466518711564">
-        <mark key="[" line="78" column="41" />
-        <mark key="]" line="78" column="41" />
-        <mark key="^" line="78" column="61" />
-        <mark key="." line="78" column="41" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1466519977387">
+        <mark key="[" line="59" column="41" />
+        <mark key="]" line="59" column="55" />
+        <mark key="^" line="59" column="55" />
+        <mark key="." line="59" column="55" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/static_pages/dashboard.html.slim" timestamp="1463157401765">
         <mark key="[" line="7" column="38" />
@@ -1810,40 +1816,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text>depe</text>
       </register>
       <register name="0" type="4">
-        <text>btn btn-primary btn-left</text>
+        <text>, prepend: true</text>
       </register>
       <register name="1" type="4">
-        <text>y</text>
+        <text>~</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>~</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>~</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>~</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>~</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>!</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>!</text>
       </register>
       <register name="8" type="4">
-        <text>f</text>
+        <text>y</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
