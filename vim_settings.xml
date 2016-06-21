@@ -430,6 +430,7 @@
         <mark key="^" line="13" column="92" />
         <mark key="." line="13" column="92" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_delete_bill.php" timestamp="1466518655089" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1466512207505">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="8" column="120" />
@@ -759,7 +760,7 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1466514594093">
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1466518711564">
         <mark key="[" line="78" column="41" />
         <mark key="]" line="78" column="41" />
         <mark key="^" line="78" column="61" />
@@ -1478,8 +1479,8 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1466515181580">
-        <mark key="'" line="172" column="58" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1466518848963">
+        <mark key="'" line="217" column="19" />
         <mark key="[" line="207" column="36" />
         <mark key="]" line="207" column="57" />
         <mark key="." line="207" column="57" />
@@ -1673,7 +1674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="62" filename="$USER_HOME$/sandbox/oauth2-proxy/proxy.rb" />
       <jump line="17" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="72" column="27" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
       <jump line="89" column="161" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/sheet.php" />
@@ -1773,6 +1773,7 @@
       <jump line="171" column="58" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="59" column="6" filename="$USER_HOME$/projects/cplus/app/views/admin/uncreated_bitems/show.html.slim" />
       <jump line="52" column="2" filename="$USER_HOME$/projects/cplus/app/views/admin/uncreated_bitems/show.html.slim" />
+      <jump line="217" column="19" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1812,7 +1813,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidXR0b25cPg==</text>
+        <text>depe</text>
       </register>
       <register name="0" type="4">
         <text>btn btn-primary btn-left</text>
@@ -1849,18 +1850,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidXR0b25cPg==</last-search>
+      <last-search>depe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidXR0b25cPg==</last-pattern>
+      <last-pattern>depe</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>preview</entry>
-        <entry>renew</entry>
         <entry>review</entry>
         <entry>(</entry>
         <entry>ul</entry>
@@ -1879,6 +1878,8 @@
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxsaW5rX3RvXD4=</entry>
         <entry encoding="base64">XDxidXR0b25cPg==</entry>
+        <entry>dep</entry>
+        <entry>depe</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
