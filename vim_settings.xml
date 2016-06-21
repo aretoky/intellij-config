@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" timestamp="1466506577711">
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="40" column="15" />
+        <mark key="^" line="40" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_namelist_fields.html.slim" timestamp="1463482360266">
         <mark key="[" line="2" column="75" />
         <mark key="]" line="2" column="95" />
@@ -418,11 +424,15 @@
         <mark key="." line="24" column="31" />
         <mark key="^" line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1466504077588">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="6" />
-        <mark key="." line="19" column="6" />
-        <mark key="^" line="1" column="3" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/uncreated_bitems/_new_form.html.slim" timestamp="1466506864316">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="102" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1466506950885">
+        <mark key="[" line="8" column="111" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/db/migrate/20160610082151_create_social_profiles.rb" timestamp="1465546983689">
         <mark key="[" line="5" column="9" />
@@ -993,6 +1003,10 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/telexp.rb" timestamp="1466403330761">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/admins/practice_categories_controller.rb" timestamp="1465825823937">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="33" />
@@ -1150,6 +1164,10 @@
         <mark key="]" line="19" column="25" />
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1466395306235">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/users/practices/index.html.slim" timestamp="1462966930656">
         <mark key="[" line="14" column="108" />
@@ -1774,35 +1792,34 @@
         <text encoding="base64">XDxpbnB1dF9maWVsZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;data-association-insertion-node&quot;: &quot;tr#inamts&quot;,
-          &quot;data-association-insertion-method&quot;: &quot;after&quot;</text>
+        <text>refrects_attributes: { bitem_amtax_goods: :amtax_goods, bitem_amtax_bitem: :amtax_goods }</text>
       </register>
-      <register name="1" type="4">
-        <text>}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlX2lkX2VsZW1lbnQgPSAkKCIjX2F0dHJpYnV0ZV9pZCIpCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>{</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="5" type="4">
+        <text>{</text>
+      </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>:</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
