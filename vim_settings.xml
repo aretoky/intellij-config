@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" timestamp="1466506577711">
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="15" />
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" timestamp="1466512004421">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_namelist_fields.html.slim" timestamp="1463482360266">
         <mark key="[" line="2" column="75" />
@@ -424,15 +424,18 @@
         <mark key="." line="24" column="31" />
         <mark key="^" line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/uncreated_bitems/_new_form.html.slim" timestamp="1466506864316">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="102" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/uncreated_bitems/_new_form.html.slim" timestamp="1466509530420">
+        <mark key="[" line="13" column="73" />
+        <mark key="]" line="13" column="92" />
+        <mark key="^" line="13" column="92" />
+        <mark key="." line="13" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1466507731369">
-        <mark key="[" line="8" column="111" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-        <mark key="^" line="8" column="1" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1466512207505">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="120" />
+        <mark key="]" line="8" column="120" />
+        <mark key="." line="8" column="120" />
+        <mark key="^" line="8" column="115" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/db/migrate/20160610082151_create_social_profiles.rb" timestamp="1465546983689">
         <mark key="[" line="5" column="9" />
@@ -639,8 +642,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1466507810262">
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1466512392455">
         <mark key="'" line="3" column="39" />
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="35" column="71" />
+        <mark key="^" line="35" column="71" />
+        <mark key="." line="35" column="71" />
       </file>
       <file name="$USER_HOME$/projects/active-idea/app/controllers/social_profiles_controller.rb" timestamp="1465801043981">
         <mark key="[" line="0" column="54" />
@@ -1006,10 +1013,6 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/telexp.rb" timestamp="1466403330761">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="7" column="10" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/admins/practice_categories_controller.rb" timestamp="1465825823937">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="33" />
@@ -1167,13 +1170,6 @@
         <mark key="]" line="19" column="25" />
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1466402201538">
-        <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1466395306235">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/users/practices/index.html.slim" timestamp="1462966930656">
         <mark key="[" line="14" column="108" />
@@ -1656,8 +1652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="31" filename="$USER_HOME$/sandbox/oauth2-proxy/proxy.rb" />
-      <jump line="88" column="19" filename="$USER_HOME$/sandbox/oauth2-proxy/proxy.rb" />
       <jump line="101" column="16" filename="$USER_HOME$/sandbox/oauth2-proxy/proxy.rb" />
       <jump line="14" column="14" filename="$USER_HOME$/sandbox/oauth2-proxy/proxy.rb" />
       <jump line="15" column="28" filename="$USER_HOME$/sandbox/oauth2-proxy/proxy.rb" />
@@ -1756,6 +1750,8 @@
       <jump line="8" column="8" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/_smailsend_fields.html.slim" />
       <jump line="9" column="53" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/cplus_design_table.coffee" />
       <jump line="3" column="39" filename="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" />
+      <jump line="8" column="116" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1792,40 +1788,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.to_json</text>
       </register>
       <register name="/" type="4">
         <text>attribute_id</text>
       </register>
-      <register name="0" type="4">
-        <text>refrects_attributes: { bitem_amtax_goods: :amtax_goods, bitem_amtax_bitem: :amtax_goods }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmVmcmVjdHNfYXR0cmlidXRlX2FycmF5ID0gSlNPTi5wYXJzZSgkKCIjX3JlZnJlY3RzX2F0dHJpYnV0ZXMiKS52YWwoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXR0cmlidXRlX2lkX2VsZW1lbnQgPSAkKCIjX2F0dHJpYnV0ZV9pZCIpCg==</text>
+      <register name="1" type="4">
+        <text>.to_json</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>\</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="5" type="4">
-        <text>{</text>
+        <text>\</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text>\</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>\</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>\</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
