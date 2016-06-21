@@ -45,6 +45,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="19" />
       </file>
+      <file name="/a.dummy" timestamp="1466526690798">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/spec/controllers/admins/practices_controller_spec.rb" timestamp="1465289366248">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="27" />
@@ -128,6 +131,9 @@
         <mark key="]" line="4" column="33" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postal_custs_controllerable.rb" timestamp="1466396047966">
+        <mark key="[" line="44" column="73" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160427065805_create_company_addresses.rb" timestamp="1461747102250">
         <mark key="[" line="4" column="66" />
@@ -356,6 +362,9 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1466393680451">
+        <mark key="[" line="87" column="86" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/common/common.coffee" timestamp="1466493092482" />
       <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511102407_create_comments.rb" timestamp="1462962351870">
@@ -589,6 +598,7 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/room_mailer.rb" timestamp="1466526689312" />
       <file name="$USER_HOME$/projects/active-engine/db/migrate/20160511102048_create_learning_reports.rb" timestamp="1462962126908">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="33" />
@@ -613,6 +623,7 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/bill_file_creating_service.rb" timestamp="1466525393067" />
       <file name="$USER_HOME$/projects/company-list/lib/tasks/rake_helpers.rb" timestamp="1462515350688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="19" />
@@ -742,6 +753,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="3" column="47" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Ruby Console" timestamp="1465986733796">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/config/environments/staging.rb" timestamp="1462843000150">
         <mark key="[" line="86" column="58" />
@@ -1483,8 +1497,8 @@
         <mark key="." line="96" column="31" />
         <mark key="^" line="96" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" timestamp="1466524673553">
-        <mark key="'" line="426" column="66" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" timestamp="1466526779386">
+        <mark key="'" line="392" column="196" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/views/scaffoldable/_scaffold_index.html.slim" timestamp="1464081972144">
         <mark key="[" line="0" column="88" />
@@ -1698,14 +1712,15 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/bill_updating_service.rb" timestamp="1466526560879">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="13" filename="$USER_HOME$/projects/active-idea/Gemfile" />
-      <jump line="31" column="14" filename="$USER_HOME$/projects/active-idea/Gemfile" />
-      <jump line="86" column="40" filename="$USER_HOME$/projects/active-idea/Gemfile" />
-      <jump line="4" column="12" filename="$USER_HOME$/projects/active-engine/Gemfile" />
-      <jump line="30" column="13" filename="$USER_HOME$/projects/active-engine/Gemfile" />
-      <jump line="31" column="14" filename="$USER_HOME$/projects/active-engine/Gemfile" />
       <jump line="86" column="40" filename="$USER_HOME$/projects/active-engine/Gemfile" />
       <jump line="110" column="17" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
@@ -1800,6 +1815,12 @@
       <jump line="192" column="44" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
       <jump line="271" column="77" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
       <jump line="426" column="66" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/cplus/app/services/bill_updating_service.rb" />
+      <jump line="180" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="348" column="146" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="351" column="104" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="392" column="196" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1839,7 +1860,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>nm_bill</text>
+        <text>620</text>
       </register>
       <register name="0" type="4">
         <text>note</text>
@@ -1876,9 +1897,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nm_bill</last-search>
+      <last-search>620</last-search>
       <last-offset />
-      <last-pattern>nm_bill</last-pattern>
+      <last-pattern>620</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1886,8 +1907,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(</entry>
-        <entry>ul</entry>
         <entry>goal-panel-edit</entry>
         <entry>Config::Integration</entry>
         <entry>table</entry>
@@ -1906,6 +1925,8 @@
         <entry>dep</entry>
         <entry>depe</entry>
         <entry>nm_bill</entry>
+        <entry>send_</entry>
+        <entry>620</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
