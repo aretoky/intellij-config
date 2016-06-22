@@ -1071,11 +1071,11 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1466395517718">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1466565402963">
         <mark key="'" line="255" column="114" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="16" />
-        <mark key="." line="239" column="16" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="239" column="47" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/custom_record.rb" timestamp="1462526861341">
@@ -1874,7 +1874,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>inamt</text>
@@ -1882,32 +1882,32 @@
       <register name="0" type="4">
         <text>note</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>/</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>)</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>(</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdHNfY29uZmlybTogbmlsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgeW5fY29uZmlybTogMCwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>g</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>n</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
-      </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
