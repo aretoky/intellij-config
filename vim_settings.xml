@@ -15,9 +15,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1466684513834">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/admin/sessions_helper.rb" timestamp="1466686835618">
         <mark key="[" line="12" column="23" />
       </file>
@@ -26,9 +23,6 @@
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_show_bitems_filed.html.slim" timestamp="1466422520914">
         <mark key="[" line="16" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postal_custs_controllerable.rb" timestamp="1466396047966">
-        <mark key="[" line="44" column="73" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1466525083570">
         <mark key="[" line="330" column="57" />
@@ -61,9 +55,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1466393680451">
-        <mark key="[" line="87" column="86" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/common/common.coffee" timestamp="1466493092482" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_inamt_fields.html.slim" timestamp="1466495580131">
@@ -317,6 +308,13 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1466700592621">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="109" column="15" />
+        <mark key="]" line="109" column="26" />
+        <mark key="." line="109" column="26" />
+        <mark key="^" line="109" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/my_text_input.coffee" timestamp="1466693279872">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="22" />
@@ -356,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="42" filename="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" />
       <jump line="16" column="44" filename="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" />
       <jump line="22" column="24" filename="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" />
       <jump line="11" column="24" filename="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" />
@@ -456,6 +453,7 @@
       <jump line="181" column="6" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="182" column="22" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -492,49 +490,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(class=&quot;&quot;)</text>
+        <text>#1.2.1にしたらバグった</text>
       </register>
       <register name="/" type="4">
-        <text>amtax_inamt</text>
+        <text>config</text>
       </register>
       <register name="0" type="4">
         <text>amtax_bill - amtax_inamt</text>
       </register>
       <register name="1" type="4">
-        <text>(class=&quot;&quot;)</text>
+        <text>#1.2.1にしたらバグった</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Z2VtICJjb25maWciLCAiMS4yLjAiICMxLjIuMeOBq+OBl+OBn+OCieODkOOCsOOBo+OBnwo=</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text>(class=&quot;&quot;)</text>
       </register>
-      <register name="4" type="4">
-        <text>w</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>w</text>
       </register>
       <register name="7" type="4">
-        <text>8</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>8</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>8</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>amtax_inamt</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>amtax_inamt</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>inamt</last-substitute>
       <last-dir>1</last-dir>
@@ -542,7 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5rX3RvXD4=</entry>
         <entry encoding="base64">XDxidXR0b25cPg==</entry>
         <entry>dep</entry>
         <entry>depe</entry>
@@ -562,6 +559,7 @@
         <entry>to_ha</entry>
         <entry>confi</entry>
         <entry>amtax_inamt</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
