@@ -194,17 +194,17 @@
         <mark key="^" line="100" column="61" />
         <mark key="." line="100" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_bitem_fields.html.slim" timestamp="1466424667488">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="48" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_bitem_fields.html.slim" timestamp="1466698120148">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+        <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1466504445917">
-        <mark key="[" line="56" column="10" />
-        <mark key="]" line="57" column="53" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1466698330440">
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="48" column="10" />
+        <mark key="." line="48" column="10" />
+        <mark key="^" line="48" column="10" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/show.html.slim" timestamp="1466420962558">
         <mark key="[" line="167" column="65" />
@@ -341,11 +341,11 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_hfix_fields.html.slim" timestamp="1466425559599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="95" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_hfix_fields.html.slim" timestamp="1466698316404">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/bill_updating_service.rb" timestamp="1466563504973">
         <mark key="'" line="2" column="0" />
@@ -492,7 +492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>(class=&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>amtax_inamt</text>
@@ -501,31 +501,31 @@
         <text>amtax_bill - amtax_inamt</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text>(class=&quot;&quot;)</text>
       </register>
-      <register name="2" type="4">
-        <text>w</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>w</text>
       </register>
       <register name="5" type="4">
-        <text>8</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>8</text>
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>8</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text>8</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
