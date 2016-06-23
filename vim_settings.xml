@@ -1528,10 +1528,10 @@
         <mark key="." line="96" column="31" />
         <mark key="^" line="96" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" timestamp="1466668266241">
-        <mark key="'" line="24" column="3" />
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="24" column="13" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" timestamp="1466668913831">
+        <mark key="'" line="84" column="35" />
+        <mark key="[" line="94" column="35" />
+        <mark key="]" line="94" column="45" />
         <mark key="n" line="20" column="113" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/views/scaffoldable/_scaffold_index.html.slim" timestamp="1464081972144">
@@ -1772,12 +1772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="12" filename="$USER_HOME$/projects/active-idea/Gemfile" />
-      <jump line="110" column="11" filename="$USER_HOME$/projects/active-idea/Gemfile" />
-      <jump line="267" column="2" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
-      <jump line="64" column="8" filename="$USER_HOME$/projects/active-idea/config/initializers/devise.rb" />
-      <jump line="75" column="20" filename="$USER_HOME$/projects/active-idea/Gemfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/active-idea/Gemfile" />
       <jump line="78" column="8" filename="$USER_HOME$/projects/active-idea/Gemfile" />
       <jump line="1" column="7" filename="$USER_HOME$/projects/active-idea/app/controllers/users/omniauth_callbacks_controller.rb" />
       <jump line="0" column="13" filename="$USER_HOME$/projects/active-idea/app/controllers/users/omniauth_callbacks_controller.rb" />
@@ -1859,10 +1853,7 @@
       <jump line="392" column="196" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
       <jump line="34" column="27" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="20" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
-      <jump line="86" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
       <jump line="211" column="8" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
-      <jump line="24" column="3" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
       <jump line="165" column="13" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="123" column="21" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -1872,6 +1863,15 @@
       <jump line="153" column="14" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="218" column="18" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="18" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="47" column="37" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="53" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="91" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="94" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="86" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="294" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="24" column="13" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
+      <jump line="84" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_inamt.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1911,7 +1911,7 @@
         <text>current_person.no_person</text>
       </register>
       <register name="/" type="4">
-        <text>yn_fix</text>
+        <text>yn_auto_fix</text>
       </register>
       <register name="0" type="4">
         <text>yn_auto_fix</text>
@@ -1948,9 +1948,9 @@
       </register>
     </registers>
     <search>
-      <last-search>yn_fix</last-search>
+      <last-search>yn_auto_fix</last-search>
       <last-offset />
-      <last-pattern>yn_fix</last-pattern>
+      <last-pattern>yn_auto_fix</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>inamt</last-substitute>
       <last-dir>1</last-dir>
@@ -1958,7 +1958,6 @@
     </search>
     <history>
       <history-search>
-        <entry>telex</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
         <entry>sel_</entry>
         <entry encoding="base64">XDxpbnB1dF9maWVsZFw+</entry>
@@ -1976,8 +1975,9 @@
         <entry>popup</entry>
         <entry>auto_fix</entry>
         <entry>fix</entry>
-        <entry>yn_auto_fix</entry>
         <entry>yn_fix</entry>
+        <entry>yn_not_fix_no_goods_50302010</entry>
+        <entry>yn_auto_fix</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
