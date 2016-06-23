@@ -772,9 +772,6 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1465986733796">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/active-engine/config/environments/staging.rb" timestamp="1462843000150">
         <mark key="[" line="86" column="58" />
         <mark key="]" line="91" column="2" />
@@ -853,11 +850,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/forms/inamt_creating_form.rb" timestamp="1466662636646">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
+      <file name="$USER_HOME$/projects/cplus/app/forms/inamt_creating_form.rb" timestamp="1466663696918">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160509030337_add_address_info_from_addresses.rb" timestamp="1462766885638">
         <mark key="[" line="2" column="82" />
@@ -1558,7 +1555,7 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1466662620567">
+      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1466663615225">
         <mark key="'" line="34" column="27" />
         <mark key="[" line="32" column="31" />
         <mark key="]" line="32" column="30" />
@@ -1916,32 +1913,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICB2YWxpZGF0ZXMgOmR0X2JpbGwsIGR0OiB0cnVlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>bill</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>I</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOmR0X2luYW10LCA6c3RyaW5nCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOmR0X2JpbGwsIDpzdHJpbmcK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOm5tX2JpbGwsIDppbnRlZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PSBmLmlucHV0IDpjbW50LCBhczogOnRleHQsIGlucHV0X2h0bWw6IHtyb3dzOiAzfSwgaW5wdXRfd3JhcHBlcl9odG1sOiB7Y2xhc3M6ICJjb2wteHMtMTUgaW5wdXQtZ3JvdXAifQo=</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOm5vX2JpbGwsIDppbnRlZ2VyCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlucHV0X3dyYXBwZXJfaHRtbDoge2NsYXNzOiAiY29sLXhzLTMgaW5wdXQtZ3JvdXAifQo=</text>
+      <register name="6" type="4">
+        <text>bill</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzOiA6ZHQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PSBmLmlucHV0IDpkdF9wb3N0YWwsCg==</text>
+      <register name="8" type="4">
+        <text>I</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVfYmxhbms6IGZhbHNlCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
