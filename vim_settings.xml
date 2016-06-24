@@ -51,12 +51,6 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/admin/sessions_helper.rb" timestamp="1466686835618">
-        <mark key="[" line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/forms/bills_creating_by_bitems_form.rb" timestamp="1466667610236">
-        <mark key="[" line="29" column="21" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" timestamp="1466135177706">
         <mark key="[" line="47" column="47" />
         <mark key="]" line="47" column="46" />
@@ -122,9 +116,6 @@
         <mark key="]" line="6" column="64" />
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="64" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_show_bitems_filed.html.slim" timestamp="1466422520914">
-        <mark key="[" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/practices/_scaffold_index.html.slim" timestamp="1465288069798">
         <mark key="[" line="22" column="94" />
@@ -251,9 +242,6 @@
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/checkbox_text_input.rb" timestamp="1466503508111">
-        <mark key="[" line="30" column="37" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/company_telephone.rb" timestamp="1461741215645">
         <mark key="[" line="19" column="14" />
@@ -981,6 +969,11 @@
         <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/cust_select_modal_dialogs/_modal_result_table.html.slim" timestamp="1466403541187" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/ymdrooms_controller.rb" timestamp="1466702628991">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/config/locales/020_views/ja.yml" timestamp="1465826905692">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="5" column="17" />
@@ -1259,12 +1252,12 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1466524070870">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="44" />
+      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1466702895449">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="51" column="49" />
+        <mark key="^" line="51" column="49" />
+        <mark key="." line="51" column="49" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1466691083490">
         <mark key="[" line="169" column="4" />
@@ -1779,6 +1772,7 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="163" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/_temp_ymdroom.html.slim" timestamp="1466702575922" />
       <file name="$USER_HOME$/projects/active-engine/spec/features/markdown_spec.rb" timestamp="1463634829136">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="41" />
@@ -1818,9 +1812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="44" filename="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" />
-      <jump line="22" column="24" filename="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" />
-      <jump line="11" column="24" filename="$USER_HOME$/projects/active-engine/app/inputs/markdown_text_input.rb" />
       <jump line="22" column="13" filename="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form.html.slim" />
       <jump line="29" column="3" filename="$USER_HOME$/projects/active-engine/app/views/admins/practices/_form.html.slim" />
       <jump line="9" column="11" filename="$USER_HOME$/projects/cplus/config/application.rb" />
@@ -1918,6 +1909,9 @@
       <jump line="182" column="22" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="5" column="6" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
+      <jump line="55" column="15" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
+      <jump line="33" column="15" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1954,49 +1948,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>except</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>ymdroom</text>
       </register>
       <register name="0" type="4">
         <text>amtax_bill - amtax_inamt</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>except</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>[:show, :destroy]</text>
       </register>
       <register name="3" type="4">
-        <text>v</text>
+        <text>except: [:delete]</text>
       </register>
-      <register name="4" type="4">
-        <text>#1.2.1にしたらバグった</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2VtICJjb25maWciLCAiMS4yLjAiICMxLjIuMeOBq+OBl+OBn+OCieODkOOCsOOBo+OBnwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="6" type="4">
-        <text>(class=&quot;&quot;)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZWYgY3JlYXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>_</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="9" type="4">
-        <text>w</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBkZWYgbmV3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>ymdroom</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>ymdroom</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>inamt</last-substitute>
       <last-dir>1</last-dir>
@@ -2004,7 +1998,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidXR0b25cPg==</entry>
         <entry>dep</entry>
         <entry>depe</entry>
         <entry>nm_bill</entry>
@@ -2024,6 +2017,7 @@
         <entry>confi</entry>
         <entry>amtax_inamt</entry>
         <entry>config</entry>
+        <entry>ymdroom</entry>
       </history-search>
       <history-cmd>
         <entry>%s/activerecord/activemodel/g</entry>
