@@ -192,6 +192,12 @@
         <mark key="^" line="134" column="34" />
         <mark key="." line="136" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_email_fields.html.slim" timestamp="1466870663992">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="6" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="25" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160425082152_create_emails.rb" timestamp="1461740513719">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -598,6 +604,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_fields.html.slim.sample" timestamp="1466869903691">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/common/ymdrooms/temp_prdhh_button_group.coffee" timestamp="1466751292171">
         <mark key="'" line="110" column="25" />
@@ -1014,11 +1023,12 @@
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/ymdrooms_controller.rb" timestamp="1466752934719">
         <mark key="[" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" timestamp="1466869116385">
-        <mark key="'" line="155" column="20" />
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" timestamp="1466870866557">
+        <mark key="'" line="168" column="20" />
+        <mark key="[" line="160" column="53" />
+        <mark key="]" line="164" column="7" />
+        <mark key="^" line="164" column="7" />
+        <mark key="." line="164" column="7" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/config/locales/020_views/ja.yml" timestamp="1465826905692">
         <mark key="[" line="4" column="13" />
@@ -1122,6 +1132,12 @@
         <mark key="]" line="5" column="47" />
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_tel_fields.html.slim" timestamp="1466870337988">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160424133202_create_custom_records.rb" timestamp="1462765500078">
         <mark key="[" line="2" column="158" />
@@ -1266,9 +1282,9 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1466698330440">
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="48" column="10" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1466870260016">
+        <mark key="[" line="60" column="10" />
+        <mark key="]" line="61" column="53" />
         <mark key="." line="48" column="10" />
         <mark key="^" line="48" column="10" />
       </file>
@@ -1295,6 +1311,12 @@
         <mark key="]" line="167" column="71" />
         <mark key="." line="167" column="71" />
         <mark key="^" line="167" column="71" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_fields.html.slim" timestamp="1466870349839">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/admins/learnings/show.html.slim" timestamp="1463158369520">
         <mark key="[" line="7" column="20" />
@@ -2026,40 +2048,41 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.col-xs-4.input-group-sm</text>
+        <text>tels</text>
       </register>
       <register name="/" type="4">
         <text>ymdroom_saving_form_hours</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LnBhbmVsLnBhbmVsLWRlZmF1bHQK</text>
+      <register name="0" type="4">
+        <text>&quot;data-association-insertion-node&quot;: &quot;tr#cust_tels&quot;,
+              &quot;data-association-insertion-method&quot;: &quot;after&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>.col-xs-4.input-group-sm</text>
+        <text>tels</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>class: &quot;col-sm-3&quot;,</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>class: &quot;col-sm-4&quot;,</text>
+        <text>m</text>
       </register>
       <register name="6" type="4">
-        <text>p</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
-      <register name="9" type="4">
-        <text>r</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdGQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
