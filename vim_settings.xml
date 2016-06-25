@@ -1014,12 +1014,11 @@
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/ymdrooms_controller.rb" timestamp="1466752934719">
         <mark key="[" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" timestamp="1466866911776">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="24" column="26" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" timestamp="1466869116385">
+        <mark key="'" line="155" column="20" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/config/locales/020_views/ja.yml" timestamp="1465826905692">
         <mark key="[" line="4" column="13" />
@@ -1429,8 +1428,8 @@
         <mark key="^" line="129" column="28" />
         <mark key="." line="135" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/show.html.slim" timestamp="1466775962523">
-        <mark key="'" line="111" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/show.html.slim" timestamp="1466869071852">
+        <mark key="'" line="393" column="14" />
         <mark key="[" line="460" column="19" />
         <mark key="]" line="460" column="19" />
         <mark key="^" line="464" column="84" />
@@ -1891,8 +1890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="20" filename="$USER_HOME$/projects/cplus/app/views/admin/upds/new.html.slim" />
-      <jump line="16" column="20" filename="$USER_HOME$/projects/cplus/app/views/admin/upds/new.html.slim" />
       <jump line="27" column="20" filename="$USER_HOME$/projects/cplus/app/views/admin/upds/new.html.slim" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
       <jump line="174" column="15" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" />
@@ -1991,6 +1988,8 @@
       <jump line="48" column="4" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
       <jump line="403" column="25" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/show.html.slim" />
       <jump line="111" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/show.html.slim" />
+      <jump line="155" column="20" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
+      <jump line="393" column="14" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/show.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2027,7 +2026,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.col-xs-4.input-group-sm</text>
       </register>
       <register name="/" type="4">
         <text>ymdroom_saving_form_hours</text>
@@ -2036,31 +2035,31 @@
         <text encoding="base64">LnBhbmVsLnBhbmVsLWRlZmF1bHQK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.col-xs-4.input-group-sm</text>
       </register>
       <register name="2" type="4">
-        <text>class: &quot;col-sm-4&quot;,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>class: &quot;col-sm-3&quot;,</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>class: &quot;col-sm-4&quot;,</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>p</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
