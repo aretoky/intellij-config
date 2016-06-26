@@ -674,11 +674,12 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" timestamp="1466948096861">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="19" column="51" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" timestamp="1466950392278">
+        <mark key="'" line="10" column="49" />
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="42" />
+        <mark key="^" line="10" column="51" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/projects/company-list/lib/tasks/rake_helpers.rb" timestamp="1462515350688">
         <mark key="[" line="0" column="0" />
@@ -1024,10 +1025,10 @@
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/ymdrooms_controller.rb" timestamp="1466752934719">
         <mark key="[" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" timestamp="1466943228159">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" timestamp="1466948670817">
         <mark key="'" line="181" column="13" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="2" />
+        <mark key="[" line="133" column="14" />
+        <mark key="]" line="134" column="57" />
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="59" />
       </file>
@@ -1790,6 +1791,12 @@
         <mark key="." line="109" column="26" />
         <mark key="^" line="109" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_plan_fields.html.slim" timestamp="1466950451397">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="38" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/active-engine/db/seeds/learning_reports.rb" timestamp="1463563468850">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="25" />
@@ -1919,7 +1926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="73" column="11" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="80" column="25" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="101" column="26" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -2019,6 +2025,7 @@
       <jump line="137" column="37" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
       <jump line="635" column="17" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
       <jump line="181" column="13" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
+      <jump line="10" column="49" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2055,40 +2062,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>addr_mplan</text>
+        <text>.nowrap</text>
       </register>
       <register name="/" type="4">
         <text>namelist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aC5ub3dyYXAuY29sLW1kLTMg5YKZ6ICDCg==</text>
+      <register name="0" type="4">
+        <text>.nowrap</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>.nowrap</text>
       </register>
       <register name="2" type="4">
-        <text>addr_mplan</text>
+        <text>.nowrap</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAuY29sLXhzLTIxLmNvbC14cy1vZmZzZXQtMwo=</text>
+      <register name="3" type="4">
+        <text>.nowrap</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>table-list</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgID0gbGlua190b19hZGRfYXNzb2NpYXRpb24gJ+i/veWKoCcsIGYsIDpwbGFucywgZm9yY2Vfbm9uX2Fzc29jaWF0aW9uX2NyZWF0ZTogdHJ1ZSwgY2xhc3M6ICdidG4gYnRuLXNtYWxsIGJ0bi1pbmZvJwo=</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>col-xs-8.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>.col-xs-5</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHIK</text>
+      <register name="8" type="4">
+        <text>.col-xs-5</text>
       </register>
       <register name="9" type="4">
-        <text>備考</text>
+        <text>.col-xs-5</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
