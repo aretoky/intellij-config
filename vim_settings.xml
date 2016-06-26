@@ -674,11 +674,11 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" timestamp="1466943774175">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="9" column="43" />
-        <mark key="." line="21" column="8" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" timestamp="1466948096861">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="19" column="51" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/lib/tasks/rake_helpers.rb" timestamp="1462515350688">
         <mark key="[" line="0" column="0" />
@@ -2055,7 +2055,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>備考</text>
+        <text>addr_mplan</text>
       </register>
       <register name="/" type="4">
         <text>namelist</text>
@@ -2064,31 +2064,31 @@
         <text encoding="base64">ICAgICAgICB0aC5ub3dyYXAuY29sLW1kLTMg5YKZ6ICDCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuY29sLXhzLTIxLmNvbC14cy1vZmZzZXQtMwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>addr_mplan</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgID0gbGlua190b19hZGRfYXNzb2NpYXRpb24gJ+i/veWKoCcsIGYsIDpwbGFucywgZm9yY2Vfbm9uX2Fzc29jaWF0aW9uX2NyZWF0ZTogdHJ1ZSwgY2xhc3M6ICdidG4gYnRuLXNtYWxsIGJ0bi1pbmZvJwo=</text>
+        <text encoding="base64">ICAuY29sLXhzLTIxLmNvbC14cy1vZmZzZXQtMwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgID0gbGlua190b19hZGRfYXNzb2NpYXRpb24gJ+i/veWKoCcsIGYsIDpwbGFucywgZm9yY2Vfbm9uX2Fzc29jaWF0aW9uX2NyZWF0ZTogdHJ1ZSwgY2xhc3M6ICdidG4gYnRuLXNtYWxsIGJ0bi1pbmZvJwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgdHIK</text>
       </register>
-      <register name="7" type="4">
-        <text>備考</text>
-      </register>
-      <register name="8" type="4">
-        <text>消化日（契約期間の予約）</text>
-      </register>
       <register name="9" type="4">
-        <text>@</text>
+        <text>備考</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
