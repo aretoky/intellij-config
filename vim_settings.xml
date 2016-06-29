@@ -1293,10 +1293,10 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" timestamp="1466959673319">
-        <mark key="'" line="635" column="17" />
-        <mark key="[" line="641" column="0" />
-        <mark key="]" line="641" column="2" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" timestamp="1467182106739">
+        <mark key="'" line="586" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="45" />
         <mark key="." line="641" column="2" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/inputs/base_input.rb" timestamp="1465826241156">
@@ -1886,8 +1886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="56" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
-      <jump line="125" column="45" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
       <jump line="126" column="19" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
       <jump line="130" column="15" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
       <jump line="133" column="53" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_form.html.slim" />
@@ -1986,6 +1984,8 @@
       <jump line="187" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="2" column="139" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="116" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="506" column="29" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
+      <jump line="586" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2027,8 +2027,8 @@
       <register name="/" type="4">
         <text>submit</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZXZlcnkgMS5kYXksIDphdCA9PiAnMTk6NDknIGRvCiAgY29tbWFuZCAiL3Zhci93d3cvcG9zLWNhbGMvc2ZkYy1zeW5jLWltcG9ydC1zdG9yZXMuc2ggPj4gL2hvbWUvdGVjaC9zY3JpcHRfcG9zY2FsY19pbXBvcnRfc3RvcmVzLmxvZyAyPiYxIgplbmQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAuY29sLXhzLTIuZm9ybS1ncm91cC5mb3JtLWJveC1zaXplCiAgICAgICAgICBzZWxlY3QuZm9ybS1jb250cm9sIHBsYWNlaG9sZGVyPSIiIAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2V0IDpvdXRwdXQsICJsb2cvY3JvbnRhYi5sb2ciCg==</text>
