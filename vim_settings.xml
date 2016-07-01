@@ -15,7 +15,7 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1467098801253">
+      <file name="/a.dummy" timestamp="1467353470167">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/edit.html.slim" timestamp="1466749988272">
@@ -24,11 +24,11 @@
         <mark key="." line="16" column="63" />
         <mark key="^" line="16" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" timestamp="1466135177706">
-        <mark key="[" line="47" column="47" />
-        <mark key="]" line="47" column="46" />
-        <mark key="^" line="47" column="46" />
-        <mark key="." line="47" column="46" />
+      <file name="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" timestamp="1467354321285">
+        <mark key="[" line="77" column="46" />
+        <mark key="]" line="77" column="47" />
+        <mark key="^" line="81" column="41" />
+        <mark key="." line="77" column="47" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160505073202_add_name_uniq_index_from_companies.rb" timestamp="1462447287139">
         <mark key="[" line="3" column="45" />
@@ -201,11 +201,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1466752450599">
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="7" column="68" />
-        <mark key="^" line="7" column="68" />
-        <mark key="." line="7" column="68" />
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1467354340423">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="7" column="45" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/controllers/admins/static_pages_controller.rb" timestamp="1462966228605">
         <mark key="[" line="1" column="15" />
@@ -900,6 +900,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" timestamp="1467353243494">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="33" column="68" />
+      </file>
       <file name="$USER_HOME$/projects/active-idea/app/models/node.rb" timestamp="1465459028804">
         <mark key="[" line="25" column="40" />
         <mark key="]" line="26" column="29" />
@@ -1286,6 +1292,12 @@
         <mark key="]" line="18" column="19" />
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/no_cust_input.coffee" timestamp="1467353134868">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="9" column="78" />
+        <mark key="." line="9" column="78" />
+        <mark key="^" line="9" column="78" />
       </file>
       <file name="$USER_HOME$/projects/active-engine/app/views/users/learning_reports/_form_fields.html.slim" timestamp="1463154479841">
         <mark key="[" line="1" column="11" />
@@ -2022,7 +2034,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>class: &quot;form-group form-inline no_cust&quot;</text>
       </register>
       <register name="/" type="4">
         <text>submit</text>
@@ -2030,32 +2042,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuY29sLXhzLTIuZm9ybS1ncm91cC5mb3JtLWJveC1zaXplCiAgICAgICAgICBzZWxlY3QuZm9ybS1jb250cm9sIHBsYWNlaG9sZGVyPSIiIAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2V0IDpvdXRwdXQsICJsb2cvY3JvbnRhYi5sb2ciCg==</text>
+      <register name="1" type="4">
+        <text>class: &quot;form-group form-inline no_cust&quot;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRlbXBsYXRlLmNvbnRlbnRfdGFnKDpkaXYsIGNsYXNzOiAiZm9ybS1ncm91cCBmb3JtLWlubGluZSBub19jdXN0IikgZG8K</text>
       </register>
-      <register name="3" type="4">
-        <text>=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRlbXBsYXRlLmNvbnRlbnRfdGFnKDpkaXYsIGNsYXNzOiAiZm9ybS1ncm91cCBmb3JtLWlubGluZSBub19jdXN0IikgZG8K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>:</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRlbXBsYXRlLmNvbnRlbnRfdGFnKDpkaXYpIGRvCg==</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>, wrapper_options</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>q</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/addr_/address_/g</text>
