@@ -234,8 +234,8 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1467391156402">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1467392235281">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_concierge_mplan_fields.html.slim" />
       <jump line="9" column="54" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_concierge_mplan_fields.html.slim" />
       <jump line="0" column="11" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_web_mplan_fields.html.slim" />
@@ -351,6 +350,7 @@
       <jump line="14" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="104" column="21" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -390,7 +390,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>turbo</text>
+        <text>simple</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJCh0aGlzKS50ZXh0KCLmnInlirkiKQo=</text>
@@ -427,9 +427,9 @@
       </register>
     </registers>
     <search>
-      <last-search>turbo</last-search>
+      <last-search>simple</last-search>
       <last-offset />
-      <last-pattern>turbo</last-pattern>
+      <last-pattern>simple</last-pattern>
       <last-replace>address_</last-replace>
       <last-substitute>addr_</last-substitute>
       <last-dir>1</last-dir>
@@ -437,7 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>records_</entry>
         <entry>external</entry>
         <entry>sell</entry>
         <entry>sells</entry>
@@ -457,6 +456,7 @@
         <entry>URL</entry>
         <entry>turbolinks</entry>
         <entry>turbo</entry>
+        <entry>simple</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
