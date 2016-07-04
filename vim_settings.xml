@@ -18,6 +18,9 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" timestamp="1467623466513">
+        <mark key="'" line="43" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" timestamp="1467620857597">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="70" />
@@ -38,6 +41,15 @@
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/client/multiple_postals.coffee" timestamp="1467616645443" />
       <file name="$USER_HOME$/projects/cplus/app/inputs/checkbox_text_input.rb" timestamp="1467387285410">
         <mark key="[" line="30" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/sfdc_sync_pos_histories_controller.rb" timestamp="1467098817782">
+        <mark key="'" line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile" timestamp="1467032595054">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1467616894648">
+        <mark key="'" line="189" column="11" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/show.html.slim" timestamp="1467620881144">
         <mark key="[" line="3" column="46" />
@@ -64,6 +76,9 @@
         <mark key="^" line="3" column="88" />
         <mark key="." line="3" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/cust/detail.view.php" timestamp="1467384020661">
+        <mark key="'" line="276" column="16" />
+      </file>
       <file name="/a.regexp" timestamp="1467621344673">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,6 +87,9 @@
         <mark key="]" line="3" column="69" />
         <mark key="." line="3" column="63" />
         <mark key="^" line="3" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/routes.rb" timestamp="1467044634367">
+        <mark key="'" line="88" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/visit_input.rb" timestamp="1467616346992" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1467617531489">
@@ -83,14 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="24" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" />
-      <jump line="34" column="24" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" />
-      <jump line="37" column="94" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" />
-      <jump line="40" column="46" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" />
-      <jump line="41" column="33" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_mplan_fields.html.slim" />
-      <jump line="191" column="22" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
       <jump line="218" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/sf-poster.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile" />
@@ -183,6 +193,14 @@
       <jump line="164" column="15" filename="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" />
       <jump line="8" column="19" filename="$USER_HOME$/projects/cplus/app/views/admin/layouts/_navigation.html.slim" />
+      <jump line="7" column="85" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
+      <jump line="11" column="29" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
+      <jump line="13" column="9" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
+      <jump line="18" column="9" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
+      <jump line="23" column="9" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
+      <jump line="28" column="9" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
+      <jump line="33" column="9" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
+      <jump line="43" column="9" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -222,7 +240,7 @@
         <text>/assets/Watches.png</text>
       </register>
       <register name="/" type="4">
-        <text>Cale</text>
+        <text>table</text>
       </register>
       <register name="0" type="4">
         <text>Watches</text>
@@ -259,9 +277,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Cale</last-search>
+      <last-search>table</last-search>
       <last-offset />
-      <last-pattern>Cale</last-pattern>
+      <last-pattern>table</last-pattern>
       <last-replace>address_</last-replace>
       <last-substitute>addr_</last-substitute>
       <last-dir>1</last-dir>
@@ -269,7 +287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>syncSFDC</entry>
         <entry>store</entry>
         <entry>store_da</entry>
         <entry>shipping_lists</entry>
@@ -289,6 +306,7 @@
         <entry>cd_ut_eq</entry>
         <entry>calender</entry>
         <entry>Cale</entry>
+        <entry>table</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
