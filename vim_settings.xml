@@ -245,21 +245,21 @@
         <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms_old/index.html.slim" timestamp="1467620772753" />
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/places_analytics/index.html.slim" timestamp="1467713776437">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/places_analytics/index.html.slim" timestamp="1467718369288">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="44" column="35" />
-        <mark key="]" line="44" column="35" />
-        <mark key="." line="44" column="35" />
-        <mark key="^" line="44" column="40" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/temp_ymdroom.rb" timestamp="1467710899554">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/places_analytics_result.rb" timestamp="1467717641226">
-        <mark key="[" line="73" column="70" />
-        <mark key="]" line="74" column="7" />
-        <mark key="." line="74" column="7" />
-        <mark key="^" line="74" column="7" />
+      <file name="$USER_HOME$/projects/cplus/app/models/places_analytics_result.rb" timestamp="1467719356483">
+        <mark key="[" line="82" column="10" />
+        <mark key="]" line="82" column="10" />
+        <mark key="^" line="82" column="10" />
+        <mark key="." line="82" column="10" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_address_mplan_fields.html.slim" timestamp="1467620973457">
         <mark key="[" line="65" column="0" />
@@ -506,7 +506,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVtcF9wcmQuYm9va2luZ19hZG1pbj8gPT0gZmFsc2UgJiY=</text>
+        <text encoding="base64">eXl5eW1tIA==</text>
       </register>
       <register name="/" type="4">
         <text>attributes</text>
@@ -515,31 +515,31 @@
         <text encoding="base64">ICAgICAgc2VsZi5jbnRfYmtfMjAgKz0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y2FzZSB0ZW1wX3ByZGhoLmNkX2JrCiAgICB3aGVuIDEwCiAgICAgIHNlbGYuY250X2JrXzEwICs9IDEKICAgIHdoZW4gMjAKICAgICAgdGVtcF9wcmRoaC5ib29raW5nX2FkbWluPyA9PSBmYWxzZSAmJgogICAgICAgIHNlbGYuY250X2JrXzIwICs9IDEKICAgIHdoZW4gMzAKICAgICAgdGVtcF9wcmRoaC5ib29raW5nX2FkbWluPyA9PSBmYWxzZSAmJgogICAgICAgIHNlbGYuY250X2JrXzMwICs9IDEKICAgIGVuZA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcCB0ZW1wX3ByZGhoLm5vX2N1c3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCB0ZW1wX3ByZGhoLm5vX2N1c3QK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">eXl5eW1tIA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dGVtcF9wcmQuYm9va2luZ19hZG1pbj8gPT0gZmFsc2UgJiY=</text>
+        <text encoding="base64">eXl5eW1tIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>dt_ymd.to_date.strftime(&quot;%Y%m&quot;)</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dGhlbiA=</text>
+        <text>p yyyymm</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dGhlbiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dGhlbiA=</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>%s/Sales/Places/g</text>
