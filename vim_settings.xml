@@ -36,7 +36,7 @@
         <mark key="." line="43" column="32" />
         <mark key="^" line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/tohan.xls.erb" timestamp="1467878795286">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/tohan.xls.erb" timestamp="1467880014177">
         <mark key="'" line="297" column="8" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_email_fields.html.slim" timestamp="1467388770801">
@@ -156,12 +156,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1467878862917">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1467880427811">
         <mark key="'" line="35" column="5" />
-        <mark key="[" line="111" column="44" />
-        <mark key="]" line="111" column="44" />
-        <mark key="." line="111" column="44" />
-        <mark key="^" line="111" column="44" />
+        <mark key="[" line="90" column="169" />
+        <mark key="]" line="90" column="171" />
+        <mark key="^" line="90" column="171" />
+        <mark key="." line="90" column="171" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/admin/sales_analytics_spec.rb" timestamp="1467726584530">
         <mark key="[" line="11" column="17" />
@@ -270,10 +270,11 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/tohan.pdf.erb" timestamp="1467878977741">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/tohan.pdf.erb" timestamp="1467880298115">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="6" />
+        <mark key="." line="35" column="6" />
+        <mark key="^" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/books/edit.html.slim" timestamp="1467620921492">
         <mark key="[" line="3" column="46" />
@@ -475,7 +476,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>xls</text>
       </register>
       <register name="/" type="4">
         <text>@book</text>
@@ -483,32 +484,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDx0ZD48JT0gYm9va29yZGVyLnN0b3JlX25hbWVfa2FuamkgJT48L3RkPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8JSAK</text>
+      <register name="1" type="4">
+        <text>xls</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">JiYgQGJvb2s=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>r</text>
-      </register>
-      <register name="5" type="4">
-        <text>@</text>
-      </register>
-      <register name="6" type="4">
-        <text>@</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8JQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PC8=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>o</text>
+      </register>
+      <register name="6" type="4">
+        <text>d</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Sales/Places/g</text>
