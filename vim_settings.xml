@@ -51,8 +51,12 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1467858095062">
-        <mark key="'" line="482" column="130" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1467859792184">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="623" column="11" />
+        <mark key="]" line="623" column="11" />
+        <mark key="^" line="621" column="35" />
+        <mark key="." line="623" column="11" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_email_fields.html.slim" timestamp="1467388770801">
         <mark key="[" line="17" column="36" />
@@ -189,12 +193,12 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1467858230275">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1467859779298">
         <mark key="'" line="2" column="55" />
-        <mark key="[" line="75" column="55" />
-        <mark key="]" line="75" column="58" />
-        <mark key="^" line="75" column="58" />
-        <mark key="." line="75" column="58" />
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="88" column="17" />
+        <mark key="." line="88" column="17" />
+        <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/projects/DailySFposter/sf-poster.rb" timestamp="1467856832663">
         <mark key="[" line="228" column="0" />
@@ -315,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="37" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="388" column="28" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="367" column="31" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -415,6 +418,7 @@
       <jump line="480" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="481" column="9" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="482" column="130" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="15" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -451,7 +455,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>quantity_past</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>parent</text>
@@ -459,32 +463,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICB0LmludGVnZXIgICJxdWFudGl0eSIgI+aVsAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>_</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBkYWlseW9yZGVyLnF1YW50aXR5X29yZyA9IHF1YW50aXR5X3Bhc3QK</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>quantity_past</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>c</text>
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhby5zYWxlc19wZXJzb25faWQgPSA2IGlmIG9yZGVyLnNhbGVzX21hbiA9PSAi6I+F5Y6fIgo=</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="9" type="4">
-        <text>slipno</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/Sales/Places/g</text>
