@@ -36,6 +36,9 @@
         <mark key="^" line="75" column="23" />
         <mark key="." line="75" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Gemfile.lock" timestamp="1468206288718">
+        <mark key="'" line="591" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/places_analytics/index.csv.ruby" timestamp="1467720321344">
         <mark key="'" line="0" column="2" />
       </file>
@@ -468,13 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/company-list/app/models/company.rb" />
-      <jump line="17" column="2" filename="$USER_HOME$/projects/company-list/app/models/company.rb" />
-      <jump line="18" column="2" filename="$USER_HOME$/projects/company-list/app/models/company.rb" />
-      <jump line="19" column="2" filename="$USER_HOME$/projects/company-list/app/models/company.rb" />
-      <jump line="20" column="2" filename="$USER_HOME$/projects/company-list/app/models/company.rb" />
       <jump line="21" column="2" filename="$USER_HOME$/projects/company-list/app/models/company.rb" />
       <jump line="22" column="2" filename="$USER_HOME$/projects/company-list/app/models/company.rb" />
       <jump line="23" column="2" filename="$USER_HOME$/projects/company-list/app/models/company.rb" />
@@ -568,6 +564,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="67" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="66" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
+      <jump line="152" column="4" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
+      <jump line="153" column="6" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
+      <jump line="155" column="4" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
+      <jump line="156" column="6" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
+      <jump line="158" column="4" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
+      <jump line="591" column="6" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -607,7 +610,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>coffee</text>
       </register>
       <register name="0" type="4">
         <text>tr-calc-book-count</text>
@@ -644,9 +647,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>coffee</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>coffee</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -654,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry>冊数</entry>
         <entry>nil</entry>
         <entry>担当者</entry>
         <entry>print_name</entry>
@@ -674,6 +676,7 @@
         <entry>pdf</entry>
         <entry>sass</entry>
         <entry>spring</entry>
+        <entry>coffee</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
