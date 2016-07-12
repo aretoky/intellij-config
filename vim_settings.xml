@@ -285,9 +285,6 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile.lock" timestamp="1468206288718">
-        <mark key="'" line="591" column="6" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/places_analytics/index.csv.ruby" timestamp="1467720321344">
         <mark key="'" line="0" column="2" />
       </file>
@@ -408,12 +405,12 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1468294019029">
-        <mark key="'" line="128" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="79" column="21" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1468303811237">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="79" column="21" />
+        <mark key="]" line="80" column="17" />
+        <mark key="^" line="80" column="17" />
+        <mark key="." line="80" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_plan_fields.html.slim" timestamp="1466960457740">
         <mark key="[" line="36" column="0" />
@@ -579,7 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="64" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/nippan.xls.erb" />
       <jump line="200" column="7" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/nippan.xls.erb" />
       <jump line="68" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -674,11 +670,12 @@
       <jump line="119" column="20" filename="$USER_HOME$/projects/company-list/Gemfile.lock" />
       <jump line="344" column="2" filename="$USER_HOME$/projects/company-list/Gemfile.lock" />
       <jump line="12" column="58" filename="$USER_HOME$/projects/company-list/config/initializers/new_framework_defaults.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="22" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="69" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="94" column="19" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="128" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="79" column="17" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -718,7 +715,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>unicorn</text>
+        <text>pg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c291cmNlICdodHRwczovL3J1YnlnZW1zLm9yZycKCnJ1YnkgIjIuMy4xIgoKRU5WWydOT0tPR0lSSV9VU0VfU1lTVEVNX0xJQlJBUklFUyddID0gJ1lFUycKZ2VtICdub2tvZ2lyaScKCmdlbSAncmFpbHMnLCAiNC4yLjYiCmdlbSAnc2FzcycsICd+PiAzLjIuMTUnCmdlbSAnc2Fzcy1yYWlscycsICI+PSA1LjAuMCIKZ2VtICd1Z2xpZmllcicKZ2VtICdjb2ZmZWUtcmFpbHMnLCAnfj4gNC4wLjAnCgpnZW0gJ2pxdWVyeS1yYWlscycKZ2VtICd0dXJib2xpbmtzJywgJzIuNS4zJwpnZW0gJ2pidWlsZGVyJywgJ34+IDIuMCcKZ2VtICdzZG9jJywgJ34+IDAuNC4wJywgICAgICAgICAgZ3JvdXA6IDpkb2MKCgojIFVzZSBBY3RpdmVNb2RlbCBoYXNfc2VjdXJlX3Bhc3N3b3JkCiMgZ2VtICdiY3J5cHQnLCAnfj4gMy4xLjcnCgpnZW0gJ3VuaWNvcm4tcmFpbHMnCgpnZW0gInNwcm9ja2V0cyIKZ2VtICdwZycKZ2VtICJ0aGVydWJ5cmFjZXIiCiMgZ2VtICJybWFnaWNrIgpnZW0gImNhcnJpZXJ3YXZlIgpnZW0gJ2ZvZycKZ2VtICJhY3RpdmVfZGVjb3JhdG9yIgpnZW0gInNsaW0tcmFpbHMiCmdlbSAiYWN0aXZlX2hhc2giCmdlbSAic2ltcGxlX2Zvcm0iCmdlbSAia2FtaW5hcmkiCmdlbSAnZm9yZWlnbmVyJwpnZW0gImJvb3RzdHJhcC1zYXNzIiwgIjMuMy4wLjEiCmdlbSAnYXV0b3ByZWZpeGVyLXJhaWxzJwoKZ2VtICJrYW1pbmFyaS1ib290c3RyYXAiCmdlbSAiZm9udC1hd2Vzb21lLXJhaWxzIgoKIyBkZXYgdG9vbApncm91cCA6ZGV2ZWxvcG1lbnQgZG8KICBnZW0gImFubm90YXRlIiwgZ2l0OiAiZ2l0Oi8vZ2l0aHViLmNvbS9jdHJhbi9hbm5vdGF0ZV9tb2RlbHMuZ2l0IgogIGdlbSAiYmV0dGVyX2Vycm9ycyIKICBnZW0gImJpbmRpbmdfb2ZfY2FsbGVyIgogIGdlbSAidmlld19zb3VyY2VfbWFwIgogIGdlbSAicXVpZXRfYXNzZXRzIgogIGdlbSAiaHRtbDJzbGltIgogIGdlbSAicmFpbHNfbGF5b3V0IiwgZ2l0aHViOiAiUmFpbHNBcHBzL3JhaWxzX2xheW91dCIKICBnZW0gInByeSIKICAjIGdlbSAicHJ5LXJlbW90ZSIKICAjIGdlbSAicHJ5LW5hdiIKICBnZW0gInByeS1yYWlscyIKICAjIGdlbSAicHJ5LWJ5ZWJ1ZyIKICBnZW0gImF3ZXNvbWVfcHJpbnQiCiAgZ2VtICJidWxsZXQiCiAgZ2VtICJoaXJiIgogIGdlbSAiaGlyYi11bmljb2RlIgogIGdlbSAncmFpbHMtZm9vdG5vdGVzJwogIGdlbSAic2VlZF9kdW1wIgplbmQKCiMgdGVzdGluZwpncm91cCA6dGVzdCwgOmRldmVsb3BtZW50IGRvCiAgZ2VtICJzcHJpbmciCiAgZ2VtICJzcHJpbmctY29tbWFuZHMtcnNwZWMiCiAgZ2VtICJyc3BlYy1yYWlscyIKICBnZW0gInJzcGVjLWNvbGxlY3Rpb25fbWF0Y2hlcnMiCiAgZ2VtICJyc3BlYy1pdHMiCiAgZ2VtICJyc3BlYy1yZXRyeSIKICBnZW0gImNhcHliYXJhIgogIGdlbSAicG9sdGVyZ2Vpc3QiCiAgZ2VtICdwaGFudG9tanMnLCByZXF1aXJlOiAncGhhbnRvbWpzL3BvbHRlcmdlaXN0JwogIGdlbSAiZmFjdG9yeV9naXJsX3JhaWxzIgogIGdlbSAiZmFrZXdlYiIKICBnZW0gImRhdGFiYXNlX3Jld2luZGVyIgogIGdlbSAidGltZWNvcCIKICBnZW0gImxldHRlcl9vcGVuZXIiCg==</text>
@@ -755,9 +752,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unicorn</last-search>
+      <last-search>pg</last-search>
       <last-offset />
-      <last-pattern>unicorn</last-pattern>
+      <last-pattern>pg</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -765,7 +762,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bootst</entry>
         <entry>30</entry>
         <entry>pre</entry>
         <entry>compile</entry>
@@ -785,6 +781,7 @@
         <entry>coffee</entry>
         <entry>halt_callback_chains_on_return_false</entry>
         <entry>unicorn</entry>
+        <entry>pg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>

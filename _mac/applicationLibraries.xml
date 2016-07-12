@@ -7802,6 +7802,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="pg (v0.18.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pg-0.18.4/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pg-0.18.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pg-0.18.4/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pg-0.18.4/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pg-0.18.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pg-0.18.4/sample" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.2.2, rbenv: 2.2.0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
@@ -10473,6 +10486,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.5.0/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.5.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rb-readline (v0.5.3, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.3/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.3/bench" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.3/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-readline-0.5.3/bench" />
       </SOURCES>
     </library>
     <library name="rbenv: jruby-1.7.19 facet library">
