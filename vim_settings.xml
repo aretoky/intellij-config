@@ -399,14 +399,14 @@
         <mark key="." line="34" column="39" />
         <mark key="^" line="34" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/environments/production.rb" timestamp="1467899573981">
-        <mark key="'" line="28" column="47" />
+      <file name="$USER_HOME$/projects/pos-calc/config/environments/production.rb" timestamp="1468482535080">
+        <mark key="'" line="21" column="27" />
         <mark key="[" line="56" column="69" />
         <mark key="]" line="57" column="42" />
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/deploy.rb" timestamp="1468463256609" />
+      <file name="$USER_HOME$/projects/company-list/config/deploy.rb" timestamp="1468483113991" />
       <file name="$USER_HOME$/projects/cplus/app/models/addr.rb" timestamp="1468327228399">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="77" column="27" />
@@ -487,12 +487,12 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1468480639388">
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1468483456848">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="80" />
+        <mark key="." line="17" column="80" />
+        <mark key="^" line="17" column="83" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/my_text_input.coffee" timestamp="1467388062516">
         <mark key="[" line="3" column="22" />
@@ -632,9 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="6" filename="$USER_HOME$/projects/company-list/Gemfile.lock" />
-      <jump line="47" column="6" filename="$USER_HOME$/projects/company-list/Gemfile.lock" />
-      <jump line="52" column="6" filename="$USER_HOME$/projects/company-list/Gemfile.lock" />
       <jump line="53" column="6" filename="$USER_HOME$/projects/company-list/Gemfile.lock" />
       <jump line="69" column="6" filename="$USER_HOME$/projects/company-list/Gemfile.lock" />
       <jump line="105" column="15" filename="$USER_HOME$/projects/company-list/Gemfile.lock" />
@@ -732,6 +729,9 @@
       <jump line="20" column="22" filename="$USER_HOME$/projects/pos-calc/vendor/bundle/bundler/gems/bundler-b0c8701305d4/lib/capistrano/tasks/bundler.cap" />
       <jump line="25" column="27" filename="$USER_HOME$/projects/pos-calc/vendor/bundle/bundler/gems/bundler-b0c8701305d4/lib/capistrano/tasks/bundler.cap" />
       <jump line="4" column="34" filename="$USER_HOME$/projects/pos-calc/vendor/bundle/gems/capistrano3-unicorn-0.2.1/lib/capistrano3/tasks/unicorn.rake" />
+      <jump line="31" column="24" filename="$USER_HOME$/projects/pos-calc/config/environments/production.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/environments/production.rb" />
+      <jump line="21" column="27" filename="$USER_HOME$/projects/pos-calc/config/environments/production.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -768,10 +768,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;install_cap#19&quot;</text>
+        <text>lllllllpublic/assets</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>asset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgb3B0aW9ucyA8PCAiLS1hcHBseSAiCg==</text>
@@ -808,9 +808,9 @@
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>asset</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>asset</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -818,7 +818,6 @@
     </search>
     <history>
       <history-search>
-        <entry>active</entry>
         <entry>spatial</entry>
         <entry>uni</entry>
         <entry>puma</entry>
@@ -838,6 +837,7 @@
         <entry>bundle install</entry>
         <entry>rbenv</entry>
         <entry>env</entry>
+        <entry>asset</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
