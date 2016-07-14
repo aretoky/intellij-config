@@ -86,7 +86,7 @@
         <mark key="^" line="50" column="73" />
         <mark key="." line="50" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/deploy/production.rb" timestamp="1468386750893" />
+      <file name="$USER_HOME$/projects/company-list/config/deploy/production.rb" timestamp="1468460257144" />
       <file name="$USER_HOME$/projects/cplus/config/environments/test.rb" timestamp="1468231525602">
         <mark key="'" line="12" column="0" />
       </file>
@@ -121,10 +121,6 @@
         <mark key="^" line="38" column="31" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/db/migrate/20160420143148_devise_create_users.rb" timestamp="1468232445668">
-        <mark key="[" line="38" column="6" />
-        <mark key="]" line="38" column="58" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/edit.html.slim" timestamp="1468310341644">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="41" />
@@ -137,6 +133,12 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1468460645680">
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="62" />
+        <mark key="." line="5" column="61" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/nippan.xls.erb" timestamp="1467874140683">
         <mark key="'" line="5" column="45" />
@@ -191,10 +193,6 @@
         <mark key="]" line="108" column="30" />
         <mark key="." line="108" column="30" />
         <mark key="^" line="108" column="76" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_fields.html.slim" timestamp="1468398263738">
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="20" column="56" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160711104220_add_name_on_user.rb" timestamp="1468236109873">
         <mark key="[" line="2" column="49" />
@@ -268,10 +266,6 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/edit.html.slim" timestamp="1468308014442">
-        <mark key="[" line="144" column="8" />
-        <mark key="]" line="144" column="84" />
-      </file>
       <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/main_adapter.rb" timestamp="1468377509533">
         <mark key="[" line="85" column="50" />
         <mark key="]" line="85" column="50" />
@@ -340,11 +334,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/company-list/app/assets/javascripts/admins/companies/show.js.coffee" timestamp="1468329101824">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1468323852663">
         <mark key="'" line="274" column="2" />
@@ -525,10 +514,11 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1468460090914">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1468461503311">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/my_text_input.coffee" timestamp="1467388062516">
         <mark key="[" line="3" column="22" />
@@ -676,7 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="9" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="7" column="18" filename="$USER_HOME$/projects/cplus/Gemfile" />
@@ -776,6 +765,7 @@
       <jump line="42" column="11" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/tohan.pdf.erb" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="223" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="0" column="4" filename="$USER_HOME$/projects/pos-calc/config/deploy.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -812,30 +802,36 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>llbatch</text>
       </register>
       <register name="/" type="4">
-        <text>memo</text>
+        <text>bundle</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">6Z+/56S+566h55CG55Wq5Y+3OiA8JT0gQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QuaWQgJT4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBzZXQgOmxpbmtlZF9maWxlcywgJXd7LmVudn0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">c2V0IDpyYmVudl90eXBlLCA6dXNlcgpzZXQgOnJiZW52X3J1YnksIEZpbGUucmVhZCgiLnJ1YnktdmVyc2lvbiIpLnN0cmlwCnNldCA6cmJlbnZfcHJlZml4LCAiUkJFTlZfUk9PVD0je2ZldGNoKDpyYmVudl9wYXRoKX0gUkJFTlZfVkVSU0lPTj0je2ZldGNoKDpyYmVudl9ydWJ5KX0gI3tmZXRjaCg6cmJlbnZfcGF0aCl9L2Jpbi9yYmVudiBleGVjIgpzZXQgOnJiZW52X21hcF9iaW5zLCAld3tyYWtlIGdlbSBidW5kbGUgcnVieSByYWlsc30Kc2V0IDpyYmVudl9yb2xlcywgOmFsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzZXQgOmxpbmtlZF9maWxlcywgJXd7LmVudn0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkZXNjICd1cGxvYWQgaW1wb3J0YWJ0IGZpbGVzJwogIHRhc2sgOnVwbG9hZCBkbwogICAgb24gcm9sZXMoOmFwcCkgZG8gfGhvc3R8CiAgICAgIGV4ZWN1dGUgOm1rZGlyLCAnLXAnLCAiI3tzaGFyZWRfcGF0aH0vY29uZmlnIgogICAgICB1cGxvYWQhKCdjb25maWcvZGF0YWJhc2UueW1sJywgIi9ob21lLyN7ZmV0Y2goOnVzZXIpfS8je2ZldGNoKDphcHBsaWNhdGlvbil9L3NoYXJlZC9jb25maWcvZGF0YWJhc2UueW1sIikKICAgICAgdXBsb2FkISgnY29uZmlnL3NlY3JldHMueW1sJywgIi9ob21lLyN7ZmV0Y2goOnVzZXIpfS8je2ZldGNoKDphcHBsaWNhdGlvbil9L3NoYXJlZC9jb25maWcvc2VjcmV0cy55bWwiKQogICAgICB1cGxvYWQhKCdjb25maWcvY29uZmlnLnltbCcsICIvaG9tZS8je2ZldGNoKDp1c2VyKX0vI3tmZXRjaCg6YXBwbGljYXRpb24pfS9zaGFyZWQvY29uZmlnL2NvbmZpZy55bWwiKQogICAgZW5kCiAgZW5k</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICBkZXNjICd1cGxvYWQgaW1wb3J0YWJ0IGZpbGVzJwogIHRhc2sgOnVwbG9hZCBkbwogICAgb24gcm9sZXMoOmFwcCkgZG8gfGhvc3R8CiAgICAgIGV4ZWN1dGUgOm1rZGlyLCAnLXAnLCAiI3tzaGFyZWRfcGF0aH0vY29uZmlnIgogICAgICB1cGxvYWQhKCdjb25maWcvZGF0YWJhc2UueW1sJywgIi9ob21lLyN7ZmV0Y2goOnVzZXIpfS8je2ZldGNoKDphcHBsaWNhdGlvbil9L3NoYXJlZC9jb25maWcvZGF0YWJhc2UueW1sIikKICAgICAgdXBsb2FkISgnY29uZmlnL3NlY3JldHMueW1sJywgIi9ob21lLyN7ZmV0Y2goOnVzZXIpfS8je2ZldGNoKDphcHBsaWNhdGlvbil9L3NoYXJlZC9jb25maWcvc2VjcmV0cy55bWwiKQogICAgICB1cGxvYWQhKCdjb25maWcvY29uZmlnLnltbCcsICIvaG9tZS8je2ZldGNoKDp1c2VyKX0vI3tmZXRjaCg6YXBwbGljYXRpb24pfS9zaGFyZWQvY29uZmlnL2NvbmZpZy55bWwiKQogICAgZW5kCiAgZW5k</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>desc 'upload importabt files'
 task :upload do
   on roles(:app) do |host|
@@ -846,23 +842,17 @@ task :upload do
   end
 end</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZW5kCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Sales/Places/g</text>
       </register>
     </registers>
     <search>
-      <last-search>memo</last-search>
+      <last-search>bundle</last-search>
       <last-offset />
-      <last-pattern>memo</last-pattern>
+      <last-pattern>bundle</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -870,7 +860,6 @@ end</text>
     </search>
     <history>
       <history-search>
-        <entry>cust_pa</entry>
         <entry>cust_path</entry>
         <entry>ts_</entry>
         <entry>ts_update</entry>
@@ -890,6 +879,7 @@ end</text>
         <entry>reject_</entry>
         <entry>capi</entry>
         <entry>memo</entry>
+        <entry>bundle</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
