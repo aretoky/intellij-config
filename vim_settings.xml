@@ -286,8 +286,10 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_csv_records_controller.rb" timestamp="1468490186258">
-        <mark key="[" line="1" column="11" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_csv_records_controller.rb" timestamp="1468490276078">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/controllers/users/registrations_controller.rb" timestamp="1468240383746">
         <mark key="[" line="47" column="69" />
@@ -582,40 +584,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sumi</text>
+        <text>ship_type</text>
       </register>
       <register name="/" type="4">
         <text>collection</text>
       </register>
-      <register name="0" type="4">
-        <text>params[:csv_type]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNoaXBfdHlwZT0gcGFyYW1zWzpzaGlwX3R5cGVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzaWYgY3N2X3R5cGUgPT0gInN1bWkiCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzaWYgY3N2X3R5cGUgPT0gInN1bWkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgY3N2X3R5cGUgPT0gInNpbmthbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3N2X3R5cGUgPSBwYXJhbXNbOmNzdl90eXBlXQo=</text>
+        <text encoding="base64">ICAgICAgaWYgY3N2X3R5cGUgPT0gInNpbmthbiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHBhcmFtc1s6Y3N2X3R5cGVdCg==</text>
+        <text encoding="base64">ICAgICAgY3N2X3R5cGUgPSBwYXJhbXNbOmNzdl90eXBlXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHBhcmFtc1s6Y3N2X3R5cGVdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Sales/Places/g</text>
