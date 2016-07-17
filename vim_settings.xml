@@ -26,6 +26,7 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/config/database.yml.sample" timestamp="1468724514787" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_tel_mplan_fields.html.slim" timestamp="1468402800684">
         <mark key="[" line="30" column="21" />
         <mark key="]" line="30" column="38" />
@@ -47,6 +48,12 @@
         <mark key="]" line="7" column="56" />
         <mark key="^" line="7" column="42" />
         <mark key="." line="7" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/company-list/config/environments/development.rb" timestamp="1468724969644">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/deploy/production.rb" timestamp="1468460257144" />
       <file name="$USER_HOME$/projects/cplus/config/environments/test.rb" timestamp="1468231525602">
@@ -317,19 +324,14 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/routes.rb" timestamp="1468498172224">
-        <mark key="]" line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-      </file>
       <file name="$USER_HOME$/projects/DailySFposter/.gitignore" timestamp="1467856870832">
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1468331280021">
-        <mark key="[" line="81" column="12" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="23" />
-        <mark key="^" line="81" column="23" />
+      <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1468724497788">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="143" column="14" />
+        <mark key="." line="201" column="23" />
+        <mark key="^" line="201" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1468501124101">
         <mark key="'" line="31" column="26" />
@@ -536,34 +538,34 @@
         <text>nm_place</text>
       </register>
       <register name="0" type="4">
-        <text>.map { |t| t.email }.join(&quot;,&quot;)</text>
+        <text>config.file_watcher</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWcuYWN0aW9uX21haWxlci5kZWZhdWx0X3VybF9vcHRpb25zID0geyA6aG9zdCA9PiAibG9jYWxob3N0OjMwMDAiIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiDnorroqo3jg6Hjg7zjg6vpgIHkv6EK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNzdiA8PCBtb2RlbC5hdHRyaWJ1dGVzLnZhbHVlc19hdCgqY29sdW1ucykK</text>
+        <text encoding="base64">Pj4+Pj4+PiDnorroqo3jg6Hjg7zjg6vpgIHkv6EK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAY3VzdHMuZWFjaCBkbyB8bW9kZWx8Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiDnorroqo3jg6Hjg7zjg6vpgIHkv6EK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Sales/Places/g</text>
