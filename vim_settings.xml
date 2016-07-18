@@ -161,8 +161,8 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" timestamp="1468820778710">
-        <mark key="'" line="440" column="10" />
+      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" timestamp="1468851511367">
+        <mark key="'" line="339" column="10" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/unicorn/production.rb" timestamp="1468495608011">
         <mark key="[" line="6" column="8" />
@@ -198,10 +198,10 @@
       </file>
       <file name="$USER_HOME$/projects/company-list/app/controllers/users/companies_controller.rb" timestamp="1468849679191">
         <mark key="'" line="26" column="35" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="4" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="4" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/layouts/pdf.html" timestamp="1467876320627">
         <mark key="[" line="9" column="0" />
@@ -324,6 +324,12 @@
         <mark key="." line="201" column="23" />
         <mark key="^" line="201" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/mysql2_adapter.rb" timestamp="1468851527466">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="34" column="1" />
+        <mark key="^" line="34" column="1" />
+        <mark key="." line="34" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/app/controllers/concerns/scaffoldable.rb" timestamp="1468746360902">
         <mark key="'" line="8" column="4" />
       </file>
@@ -445,8 +451,8 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/main_adapter.rb" timestamp="1468839846008">
-        <mark key="'" line="133" column="22" />
+      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/main_adapter.rb" timestamp="1468851673662">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="113" column="45" />
         <mark key="]" line="113" column="45" />
         <mark key="." line="113" column="45" />
@@ -566,9 +572,9 @@
         <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1468495650928" />
-      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter.rb" timestamp="1468823912899">
-        <mark key="[" line="115" column="76" />
-        <mark key="]" line="116" column="82" />
+      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter.rb" timestamp="1468851936117">
+        <mark key="[" line="40" column="6" />
+        <mark key="]" line="40" column="56" />
         <mark key="^" line="116" column="82" />
         <mark key="." line="116" column="82" />
       </file>
@@ -675,18 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="0" column="30" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
-      <jump line="26" column="26" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
-      <jump line="25" column="17" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="60" column="20" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="309" column="10" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="107" column="8" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
-      <jump line="162" column="3" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
-      <jump line="8" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="23" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="93" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="98" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="167" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="168" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -736,7 +730,6 @@
       <jump line="26" column="35" filename="$USER_HOME$/projects/company-list/app/controllers/users/companies_controller.rb" />
       <jump line="8" column="4" filename="$USER_HOME$/projects/company-list/app/controllers/concerns/scaffoldable.rb" />
       <jump line="329" column="26" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
       <jump line="16" column="70" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
       <jump line="17" column="24" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
       <jump line="18" column="25" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
@@ -775,6 +768,19 @@
       <jump line="100" column="93" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" />
       <jump line="23" column="6" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="185" column="6" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/main_adapter.rb" />
+      <jump line="534" column="10" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="240" column="34" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="241" column="19" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="246" column="27" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="251" column="30" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="270" column="43" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="272" column="19" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="296" column="90" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="301" column="46" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="338" column="18" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
+      <jump line="339" column="10" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_adapter.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -857,10 +863,10 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>spatial</text>
+        <text>index</text>
       </register>
       <register name="0" type="4">
-        <text>name, default, sql_type_metadata = nil, null = true, table_name = nil, default_function = nil, collation = nil, comment: nil</text>
+        <text>https://github.com/rgeo/rgeo-activerecord/issues/23</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN1cGVyLmpvaW5zKDpjb21wYW55X3VzZXJfZ3JvdXBzKS53aGVyZSgnY29tcGFueV91c2VyX2dyb3Vwcy51c2VyX2dyb3VwX2lkID0gPycsIGN1cnJlbnRfdXNlci51c2VyX2dyb3VwX2lkKQo=</text>
@@ -894,9 +900,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spatial</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>spatial</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -904,7 +910,6 @@
     </search>
     <history>
       <history-search>
-        <entry>郵便数</entry>
         <entry>cnt_</entry>
         <entry>cnt_postal</entry>
         <entry>nm_namelist</entry>
@@ -924,6 +929,7 @@
         <entry>srid</entry>
         <entry>spantial</entry>
         <entry>spatial</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
