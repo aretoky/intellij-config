@@ -96,6 +96,9 @@
         <mark key="." line="116" column="57" />
         <mark key="^" line="116" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" timestamp="1468867679849">
+        <mark key="'" line="120" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/custs_controllerable.rb" timestamp="1468323578078">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -304,7 +307,7 @@
         <mark key="^" line="23" column="63" />
         <mark key="." line="23" column="63" />
       </file>
-      <file name="/a.regexp" timestamp="1468864338641">
+      <file name="/a.regexp" timestamp="1468867776949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/helpers/daily_order_shipping_lists_helper.rb" timestamp="1467896399686">
@@ -488,7 +491,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/main_adapter.rb" timestamp="1468860438477">
+      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/main_adapter.rb" timestamp="1468867918378">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="143" column="86" />
         <mark key="]" line="143" column="86" />
@@ -743,9 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="8" filename="$USER_HOME$/projects/company-list/app/controllers/users/companies_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/company-list/app/controllers/users/companies_controller.rb" />
-      <jump line="7" column="8" filename="$USER_HOME$/projects/company-list/app/controllers/users/companies_controller.rb" />
       <jump line="11" column="9" filename="$USER_HOME$/projects/company-list/app/controllers/users/companies_controller.rb" />
       <jump line="12" column="8" filename="$USER_HOME$/projects/company-list/app/controllers/users/companies_controller.rb" />
       <jump line="18" column="58" filename="$USER_HOME$/projects/company-list/app/controllers/users/companies_controller.rb" />
@@ -843,6 +843,9 @@
       <jump line="38" column="38" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/activerecord-4.2.0/lib/active_record/connection_adapters/abstract_mysql_adapter.rb" />
       <jump line="41" column="16" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/activerecord-4.2.0/lib/active_record/connection_adapters/abstract_mysql_adapter.rb" />
       <jump line="45" column="35" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/activerecord-4.2.0/lib/active_record/connection_adapters/abstract_mysql_adapter.rb" />
+      <jump line="119" column="18" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
+      <jump line="143" column="10" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
+      <jump line="120" column="36" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -925,7 +928,7 @@
         <text>, limit: { type: :point }</text>
       </register>
       <register name="/" type="4">
-        <text>column</text>
+        <text>column_spec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbmRleGVzCg==</text>
@@ -962,9 +965,9 @@
       </register>
     </registers>
     <search>
-      <last-search>column</last-search>
+      <last-search>column_spec</last-search>
       <last-offset />
-      <last-pattern>column</last-pattern>
+      <last-pattern>column_spec</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -972,7 +975,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initialize_ty</entry>
         <entry>OID</entry>
         <entry>initi</entry>
         <entry>rgeo_factory_settings</entry>
@@ -992,6 +994,7 @@
         <entry>limit</entry>
         <entry>column_s</entry>
         <entry>column</entry>
+        <entry>column_spec</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
