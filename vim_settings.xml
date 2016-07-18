@@ -270,12 +270,12 @@
         <mark key="^" line="9" column="58" />
         <mark key="." line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" timestamp="1468853188326">
-        <mark key="'" line="100" column="93" />
-        <mark key="[" line="49" column="30" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="49" column="30" />
-        <mark key="^" line="49" column="30" />
+      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" timestamp="1468855555915">
+        <mark key="'" line="49" column="13" />
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="34" />
+        <mark key="." line="49" column="34" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/projects/company-list/log/capistrano.log" timestamp="1468740592501">
         <mark key="'" line="749" column="7" />
@@ -668,12 +668,12 @@
         <mark key="^" line="85" column="59" />
         <mark key="." line="85" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/db/schema.rb" timestamp="1468854556223">
+      <file name="$USER_HOME$/projects/company-list/db/schema.rb" timestamp="1468855855005">
         <mark key="'" line="23" column="16" />
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="24" />
-        <mark key="^" line="23" column="24" />
-        <mark key="." line="23" column="24" />
+        <mark key="[" line="185" column="25" />
+        <mark key="]" line="185" column="24" />
+        <mark key="^" line="185" column="24" />
+        <mark key="." line="185" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/my_text_input.coffee" timestamp="1467388062516">
         <mark key="[" line="3" column="22" />
@@ -763,7 +763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="68" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
       <jump line="395" column="16" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
       <jump line="18" column="160" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
       <jump line="72" column="3" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
@@ -863,6 +862,7 @@
       <jump line="0" column="20" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="185" column="16" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="23" column="16" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
+      <jump line="49" column="13" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -942,10 +942,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>@limit</text>
       </register>
       <register name="/" type="4">
-        <text>location</text>
+        <text>limit</text>
       </register>
       <register name="0" type="4">
         <text>sql_type_metadata</text>
@@ -982,9 +982,9 @@
       </register>
     </registers>
     <search>
-      <last-search>location</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern>location</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -992,7 +992,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nm_namelist</entry>
         <entry>first_mp</entry>
         <entry>first_add</entry>
         <entry>add</entry>
@@ -1012,6 +1011,7 @@
         <entry>index</entry>
         <entry>add_co</entry>
         <entry>location</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
