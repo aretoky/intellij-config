@@ -240,7 +240,8 @@
         <mark key="^" line="9" column="58" />
         <mark key="." line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" timestamp="1468840192519">
+      <file name="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" timestamp="1468849898009">
+        <mark key="'" line="100" column="93" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -317,7 +318,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1468848911277">
+      <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1468850264141">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="143" column="14" />
         <mark key="." line="201" column="23" />
@@ -674,14 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="27" filename="$USER_HOME$/projects/BookOrder/common/common.php" />
-      <jump line="139" column="27" filename="$USER_HOME$/projects/BookOrder/common/common.php" />
-      <jump line="140" column="75" filename="$USER_HOME$/projects/BookOrder/common/common.php" />
-      <jump line="70" column="35" filename="$USER_HOME$/projects/BookOrder/common/common.php" />
-      <jump line="8" column="43" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="15" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="32" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="27" column="10" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_table.html.erb" />
       <jump line="23" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="0" column="30" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
       <jump line="26" column="26" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
@@ -774,6 +767,14 @@
       <jump line="774" column="38" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/abstract_mysql_adapter.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="229" column="16" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" />
+      <jump line="87" column="98" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" />
+      <jump line="93" column="63" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" />
+      <jump line="96" column="14" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" />
+      <jump line="98" column="25" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" />
+      <jump line="100" column="93" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/lib/active_record/connection_adapters/mysql2spatial_adapter/spatial_column.rb" />
+      <jump line="23" column="6" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
+      <jump line="185" column="6" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -856,7 +857,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>loca</text>
+        <text>spatial</text>
       </register>
       <register name="0" type="4">
         <text>name, default, sql_type_metadata = nil, null = true, table_name = nil, default_function = nil, collation = nil, comment: nil</text>
@@ -889,13 +890,13 @@
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Sales/Places/g</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>loca</last-search>
+      <last-search>spatial</last-search>
       <last-offset />
-      <last-pattern>loca</last-pattern>
+      <last-pattern>spatial</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -903,9 +904,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hplace</entry>
-        <entry>ステータス</entry>
-        <entry>tel</entry>
         <entry>郵便数</entry>
         <entry>cnt_</entry>
         <entry>cnt_postal</entry>
@@ -923,6 +921,9 @@
         <entry>rgeo_factory_settings</entry>
         <entry>new_column</entry>
         <entry>loca</entry>
+        <entry>srid</entry>
+        <entry>spantial</entry>
+        <entry>spatial</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
@@ -934,7 +935,6 @@
         <entry>%s/:expired_at/&quot;expired_at&quot;/g</entry>
         <entry>%s/&quot;client_session&quot;/:client_session/g</entry>
         <entry>%s/MakeBillMonthService/MakeBillYearService/</entry>
-        <entry>q</entry>
         <entry>%s/address/email/g</entry>
         <entry>%s/email/telephone/g</entry>
         <entry>%s/telephone/url/g</entry>
@@ -945,6 +945,7 @@
         <entry>%s/addr_/address_/g</entry>
         <entry>%s/sales/places/g</entry>
         <entry>%s/Sales/Places/g</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
