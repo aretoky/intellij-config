@@ -305,11 +305,11 @@
         <mark key="^" line="52" column="11" />
         <mark key="." line="52" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/static_pages/export_csv.html.erb" timestamp="1469069175311">
-        <mark key="[" line="3" column="41" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="3" column="41" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/static_pages/export_csv.html.erb" timestamp="1469073514187">
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="21" column="6" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/initializers/devise.rb" timestamp="1468225690969">
         <mark key="[" line="14" column="26" />
@@ -413,11 +413,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorder_csv_records/index.html.erb" timestamp="1469068480559">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorder_csv_records/index.html.erb" timestamp="1469073671099">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/unicorn.rb" timestamp="1468464752626">
         <mark key="[" line="3" column="21" />
@@ -489,11 +489,11 @@
         <mark key="." line="3" column="69" />
         <mark key="^" line="3" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1469069802085">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="38" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1469074162707">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="62" />
+        <mark key="^" line="21" column="62" />
+        <mark key="." line="21" column="62" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/between_dts_base_input.rb" timestamp="1468315519860">
         <mark key="[" line="164" column="8" />
@@ -977,40 +977,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.limit(100)</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>dup</text>
       </register>
-      <register name="0" type="4">
-        <text>format: :html</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wteHMtNiI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAjIGhhc19vbmUgOm9yZGVyX3R5cGUsIGNsYXNzX25hbWU6ICJPcmRlclR5cGUiCg==</text>
+      <register name="2" type="4">
+        <text>respond_to do |format|
+      format.html do
+        @p  = {
+          csv_type: params[:csv_type],
+          deliver_type_id: params[:deliver_type_id],
+          deliver_status_id: params[:deliver_status_id],
+          book_id: params[:book_id],
+        }
+        if params[:commit] == &quot;download&quot;
+          redirect_to params: @p, format: :csv
+        end
+      end
+      format.csv do
+        render format: :csv
+      end
+    end</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kLnRvc2ppcwo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1NWLmdlbmVyYXRlIGRvIHxjc3Z8Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgdG9yaXRzdWdpX25hbWUK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8JT0gc2VsZWN0X3RhZyAiZGVsaXZlcl90eXBlX2lkIiwgb3B0aW9uc19mcm9tX2NvbGxlY3Rpb25fZm9yX3NlbGVjdChEZWxpdmVyVHlwZS5hbGwsIDppZCwgOm5hbWUpICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8JT0gaGlkZGVuX2ZpZWxkX3RhZyAiZGVsaXZlcl90eXBlX2lkIiwgNiAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
