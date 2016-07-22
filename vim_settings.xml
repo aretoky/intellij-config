@@ -298,6 +298,12 @@
       <file name="$USER_HOME$/projects/company-list/log/capistrano.log" timestamp="1468740592501">
         <mark key="'" line="749" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/features/client/profile_spec.rb" timestamp="1469175038077">
+        <mark key="[" line="48" column="14" />
+        <mark key="]" line="82" column="15" />
+        <mark key="." line="82" column="15" />
+        <mark key="^" line="82" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/admin/places_analytics_spec.rb" timestamp="1467726457128">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -370,6 +376,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" timestamp="1469174316093">
+        <mark key="[" line="59" column="7" />
+        <mark key="]" line="59" column="7" />
+        <mark key="." line="59" column="7" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/vendor/bundle/gems/aws-sdk-core-2.4.0/lib/aws-sdk-core/endpoint_provider.rb" timestamp="1469097679077" />
       <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1468850264141">
@@ -1006,37 +1017,71 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>ド</text>
       </register>
       <register name="/" type="4">
         <text>production</text>
       </register>
       <register name="0" type="4">
-        <text>ap-northeast-1</text>
+        <text>context &quot;パスワード&quot; do
+      let(:change_pswd){ &quot;changepass&quot; }
+      before do
+        sign_in_as_cust(cust)
+        visit edit_client_profile_path
+        fill_in &quot;cust_change_pswd&quot;, with: change_pswd
+        fill_in &quot;cust_change_pswd_confirmation&quot;, with: change_pswd
+      end
+
+      describe &quot;確認画面&quot; do
+        before do
+          click_button &quot;確認する&quot;
+        end
+        it &quot;正しい確認画面URLで表示されること&quot; do
+          expect(URI.parse(current_url).path).to eq(client_profile_path)
+        end
+
+        describe &quot;正常に更新出来る&quot; do
+          before do
+            click_button &quot;更新する&quot;
+          end
+
+          it &quot;更新成功キャプションが表示されること&quot; do
+            have_content &quot;更新が成功しました。&quot;
+          end
+
+          it &quot;パスワードが変更されていること&quot; do
+            cust.reload
+            expect(cust.pswd).to eq(change_pswd)
+          end
+        end
+      end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaWxsX2luICJjdXN0X2NoYW5nZV9wc3dkX2NvbmZpcm1hdGlvbiIsIHdpdGg6IGNoYW5nZV9wc3dkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBob3N0OiBidW5reW9zaGFwb3NjYWxjMmQtc3RhZ2luZy5jc3V6a2hhZGJ1ZGkuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb206MzMwNgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>,
+      address_mplans_attributes: [
+        transfer_enable_emails_attributes: emails_permit
+      ]</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBob3N0OiBidW5reW9zaGFwb3NjYWxjMmQtc3RhZ2luZy5jc3V6a2hhZGJ1ZGkuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb206MzMwNgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0IDplbnZpcm9ubWVudCwgOnByb2R1Y3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
