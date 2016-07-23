@@ -26,12 +26,12 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1468323852663">
-        <mark key="'" line="274" column="2" />
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1469250654463">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorder_csv_records/index.csv.ruby" timestamp="1469067988156">
         <mark key="[" line="6" column="3" />
@@ -154,6 +154,9 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/email.rb" timestamp="1469250764548">
+        <mark key="'" line="52" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1469184711846">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="1" />
@@ -184,12 +187,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1469176799476">
-        <mark key="'" line="479" column="0" />
-        <mark key="[" line="155" column="12" />
-        <mark key="]" line="155" column="28" />
-        <mark key="." line="116" column="57" />
-        <mark key="^" line="116" column="57" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1469251094960">
+        <mark key="'" line="116" column="44" />
+        <mark key="[" line="494" column="32" />
+        <mark key="]" line="495" column="10" />
+        <mark key="." line="495" column="10" />
+        <mark key="^" line="495" column="10" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1469082667397">
         <mark key="[" line="18" column="0" />
@@ -281,7 +284,8 @@
         <mark key="." line="108" column="30" />
         <mark key="^" line="108" column="76" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/address_mplan.rb" timestamp="1469180083976">
+      <file name="$USER_HOME$/projects/cplus/app/models/address_mplan.rb" timestamp="1469250405189">
+        <mark key="'" line="37" column="30" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
@@ -443,9 +447,9 @@
         <mark key="^" line="254" column="32" />
         <mark key="." line="307" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" timestamp="1469176775515">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/profiles_controller.rb" timestamp="1469250390197">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="29" />
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1468850264141">
@@ -469,17 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="10" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/type/type_map.rb" />
-      <jump line="29" column="10" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/type/type_map.rb" />
-      <jump line="41" column="8" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/type/type_map.rb" />
-      <jump line="3" column="43" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/mysql/column.rb" />
-      <jump line="46" column="8" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/mysql/column.rb" />
-      <jump line="42" column="21" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/mysql/column.rb" />
-      <jump line="13" column="84" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/mysql/column.rb" />
-      <jump line="17" column="20" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/mysql/column.rb" />
-      <jump line="18" column="67" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/mysql/column.rb" />
-      <jump line="36" column="21" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/connection_adapters/mysql/column.rb" />
-      <jump line="86" column="40" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="27" column="16" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/company-list/db/schema.rb" />
@@ -569,6 +562,17 @@
       <jump line="9" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="79" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="29" column="33" filename="$USER_HOME$/projects/cplus/app/models/address_mplan.rb" />
+      <jump line="36" column="33" filename="$USER_HOME$/projects/cplus/app/models/address_mplan.rb" />
+      <jump line="37" column="30" filename="$USER_HOME$/projects/cplus/app/models/address_mplan.rb" />
+      <jump line="1" column="26" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
+      <jump line="52" column="10" filename="$USER_HOME$/projects/cplus/app/models/email.rb" />
+      <jump line="138" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="92" column="45" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="100" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="108" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="116" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -648,49 +652,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;なんだよ&quot;</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>spro</text>
+        <text>reject_mplan</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aGF2ZV9jb250ZW50IA==</text>
+        <text>transfer_enable_emails</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHAgYXR0cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwIGN1c3QuYWRkcmVzc19tcGxhbnMuZmlyc3QudHJhbnNmZXJfZW5hYmxlX2VtYWlscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIGN1c3QuYWRkcmVzc19tcGxhbnMuZmlyc3QudHJhbnNmZXJfZW5hYmxlX2VtYWlscwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgZGVzY3JpYmUgIue3qOmbhuOBp+OBjeOCiyIgZG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">CiAgZGVzY3JpYmUgIue3qOmbhuOBp+OBjeOCiyIgZG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>spro</last-search>
+      <last-search>reject_mplan</last-search>
       <last-offset />
-      <last-pattern>spro</last-pattern>
+      <last-pattern>reject_mplan</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -698,10 +702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>book</entry>
-        <entry>order_type</entry>
-        <entry>dup</entry>
-        <entry>page</entry>
         <entry>list</entry>
         <entry>seach</entry>
         <entry>sea</entry>
@@ -718,6 +718,10 @@
         <entry>transfer_enable_</entry>
         <entry>sp</entry>
         <entry>spro</entry>
+        <entry>transfer_enable_emails</entry>
+        <entry>cust_params</entry>
+        <entry>address_mplan</entry>
+        <entry>reject_mplan</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
