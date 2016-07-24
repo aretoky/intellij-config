@@ -28,9 +28,6 @@
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1469254536600">
         <mark key="'" line="1" column="26" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorder_csv_records/index.csv.ruby" timestamp="1469067988156">
         <mark key="[" line="6" column="3" />
@@ -191,8 +188,8 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1469254426315">
-        <mark key="'" line="70" column="17" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1469352829644">
+        <mark key="'" line="387" column="0" />
         <mark key="[" line="495" column="0" />
         <mark key="]" line="495" column="0" />
         <mark key="." line="495" column="0" />
@@ -220,7 +217,6 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
-        <mark key="^" line="40" column="19" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1468169728089">
         <mark key="[" line="119" column="0" />
@@ -309,12 +305,6 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/spec/features/client/profile_spec.rb" timestamp="1469249507461">
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
-        <mark key="^" line="41" column="43" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1468309306624">
         <mark key="[" line="128" column="7" />
@@ -476,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="89" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/activerecord-4.2.0/lib/active_record/connection_adapters/abstract_mysql_adapter.rb" />
       <jump line="33" column="21" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/activerecord-4.2.0/lib/active_record/connection_adapters/abstract_mysql_adapter.rb" />
       <jump line="36" column="80" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/activerecord-4.2.0/lib/active_record/connection_adapters/abstract_mysql_adapter.rb" />
       <jump line="37" column="71" filename="$USER_HOME$/projects/company-list/vendor/bundle/ruby/2.3.0/gems/activerecord-4.2.0/lib/active_record/connection_adapters/abstract_mysql_adapter.rb" />
@@ -576,6 +565,7 @@
       <jump line="367" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="370" column="51" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="70" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="387" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -658,7 +648,7 @@
         <text>(@cust_params)</text>
       </register>
       <register name="/" type="4">
-        <text>current</text>
+        <text>new</text>
       </register>
       <register name="0" type="4">
         <text>@current_person</text>
@@ -695,9 +685,9 @@
       </register>
     </registers>
     <search>
-      <last-search>current</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>current</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -705,7 +695,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seach</entry>
         <entry>sea</entry>
         <entry>search</entry>
         <entry>ser</entry>
@@ -725,6 +714,7 @@
         <entry>address_mplan</entry>
         <entry>reject_mplan</entry>
         <entry>current</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
