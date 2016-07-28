@@ -297,7 +297,7 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/views/users/companies/index.html.slim" timestamp="1469612048376" />
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_newform.html.erb" timestamp="1469680275938">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_newform.html.erb" timestamp="1469684523065">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="^" line="118" column="35" />
@@ -354,6 +354,9 @@
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1469684545033">
+        <mark key="'" line="245" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1468581318632">
         <mark key="[" line="3" column="110" />
@@ -436,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="29" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
       <jump line="93" column="13" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
       <jump line="106" column="21" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
       <jump line="142" column="20" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
@@ -536,6 +538,7 @@
       <jump line="5" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="258" column="15" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
       <jump line="6" column="9" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_form.html.erb" />
+      <jump line="245" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +621,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>ship</text>
+        <text>ship_date</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXhzLTQiPgogICAgICAgICAgICA8c3Ryb25nPuWPl+azqOaXpTwvc3Ryb25nPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtOCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgIDwlPSBmLmRhdGVfZmllbGQgOm9yZGVyX2RhdGUsIDpjbGFzcyA9Pidmb3JtLWNvbnRyb2wgaW5wdXQtc20nICU+PC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICA=</text>
@@ -655,9 +658,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ship</last-search>
+      <last-search>ship_date</last-search>
       <last-offset />
-      <last-pattern>ship</last-pattern>
+      <last-pattern>ship_date</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -682,9 +685,9 @@
         <entry>omniauth_callbacks</entry>
         <entry>delivery_list_registered</entry>
         <entry>is_show_deleted</entry>
-        <entry>ship_date</entry>
         <entry>t_syoten_cd</entry>
         <entry>ship</entry>
+        <entry>ship_date</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
