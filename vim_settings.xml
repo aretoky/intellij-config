@@ -74,9 +74,6 @@
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1469674618627">
         <mark key="'" line="5" column="25" />
-        <mark key="[" line="381" column="0" />
-        <mark key="]" line="381" column="0" />
-        <mark key="." line="381" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/db/fixtures/000_initialize.rb" timestamp="1469248789500">
         <mark key="[" line="1" column="0" />
@@ -101,7 +98,7 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1469668964869">
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1469678260146">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="44" />
@@ -148,6 +145,12 @@
         <mark key="^" line="108" column="76" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1469666556306" />
+      <file name="$USER_HOME$/projects/pos-calc/circle.yml" timestamp="1469678363649">
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1468309306624">
         <mark key="[" line="128" column="7" />
         <mark key="]" line="128" column="14" />
@@ -338,12 +341,6 @@
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1469675469214">
-        <mark key="[" line="274" column="28" />
-        <mark key="]" line="273" column="39" />
-        <mark key="." line="273" column="39" />
-        <mark key="^" line="273" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1468581318632">
         <mark key="[" line="3" column="110" />
         <mark key="]" line="3" column="110" />
@@ -419,13 +416,12 @@
         <mark key="^" line="201" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/toritsugi.rb" timestamp="1469670008166">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="39" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
       <jump line="236" column="54" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
       <jump line="5" column="29" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
       <jump line="93" column="13" filename="$USER_HOME$/projects/activerecord-mysql2spatial-adapter/vendor/bundle/gems/activerecord-5.0.0/lib/active_record/schema_dumper.rb" />
@@ -525,6 +521,7 @@
       <jump line="393" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="396" column="17" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="5" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="258" column="15" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -604,49 +601,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>ship_date</text>
+        <text>t_syoten_cd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQHN1bSA9IERhaWx5b3JkZXIubGlzdHVwKHBhcmFtcykuc3VtKDpxdWFudGl0eSkK</text>
+      <register name="0" type="4">
+        <text>production:
+    branch: production
+    commands:
+      - bundle exec cap production deploy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcCBkZWZhdWx0c1trXSA9PSB2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcCBrCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>.each do |k, v|
+      if defaults[k]
+      end
+    end</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ship_date</last-search>
+      <last-search>t_syoten_cd</last-search>
       <last-offset />
-      <last-pattern>ship_date</last-pattern>
+      <last-pattern>t_syoten_cd</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -654,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rst</entry>
         <entry>production</entry>
         <entry>transfer_enable</entry>
         <entry>transfer_enable_</entry>
@@ -674,6 +676,7 @@
         <entry>delivery_list_registered</entry>
         <entry>is_show_deleted</entry>
         <entry>ship_date</entry>
+        <entry>t_syoten_cd</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
