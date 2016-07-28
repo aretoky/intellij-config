@@ -269,7 +269,6 @@
         <mark key="^" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1469701141692">
-        <mark key="'" line="423" column="17" />
         <mark key="[" line="476" column="606" />
         <mark key="]" line="473" column="0" />
         <mark key="." line="473" column="0" />
@@ -399,11 +398,12 @@
         <mark key="^" line="85" column="59" />
         <mark key="." line="85" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1469687195770">
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1469703225238">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" timestamp="1469693465089">
         <mark key="'" line="27" column="28" />
@@ -414,10 +414,6 @@
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1469700168157">
         <mark key="'" line="282" column="7" />
-        <mark key="[" line="95" column="42" />
-        <mark key="]" line="96" column="57" />
-        <mark key="^" line="96" column="57" />
-        <mark key="." line="96" column="57" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1469695352860">
         <mark key="'" line="82" column="88" />
@@ -709,7 +705,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>０</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>@daily_order_shipping_lists</text>
