@@ -63,12 +63,11 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1470291814602">
-        <mark key="'" line="628" column="20" />
-        <mark key="[" line="633" column="20" />
-        <mark key="]" line="633" column="20" />
-        <mark key="^" line="633" column="20" />
-        <mark key="." line="633" column="20" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1470301114493">
+        <mark key="'" line="48" column="79" />
+        <mark key="[" line="652" column="0" />
+        <mark key="]" line="652" column="0" />
+        <mark key="." line="652" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1470045155704">
         <mark key="'" line="32" column="3" />
@@ -281,12 +280,12 @@
         <mark key="^" line="33" column="60" />
         <mark key="." line="33" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_splitform.html.erb" timestamp="1470291875219">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="45" />
-        <mark key="^" line="88" column="45" />
-        <mark key="." line="88" column="45" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_splitform.html.erb" timestamp="1470300147598">
+        <mark key="'" line="79" column="28" />
+        <mark key="[" line="79" column="135" />
+        <mark key="]" line="79" column="135" />
+        <mark key="^" line="79" column="134" />
+        <mark key="." line="79" column="135" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" timestamp="1470285312118">
         <mark key="'" line="0" column="0" />
@@ -389,12 +388,12 @@
         <mark key="^" line="30" column="31" />
         <mark key="." line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1470291759727">
-        <mark key="'" line="288" column="484" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="90" column="44" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1470300104235">
+        <mark key="'" line="88" column="41" />
+        <mark key="[" line="83" column="91" />
+        <mark key="]" line="84" column="46" />
+        <mark key="^" line="84" column="46" />
+        <mark key="." line="84" column="46" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1469695352860">
         <mark key="'" line="82" column="88" />
@@ -502,14 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="23" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
-      <jump line="500" column="2" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
-      <jump line="409" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
-      <jump line="496" column="27" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
-      <jump line="17" column="20" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" />
       <jump line="0" column="20" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" />
       <jump line="1" column="13" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" />
       <jump line="4" column="89" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" />
@@ -602,6 +593,14 @@
       <jump line="288" column="484" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
       <jump line="628" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_splitform.html.erb" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_splitform.html.erb" />
+      <jump line="79" column="28" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_splitform.html.erb" />
+      <jump line="12" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="637" column="30" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="649" column="49" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="84" column="23" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
+      <jump line="88" column="41" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
+      <jump line="48" column="79" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -681,37 +680,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCBAZGFpbHlvcmRlci5iaWtvKSA=</text>
+        <text>clone</text>
       </register>
       <register name="/" type="4">
-        <text>biko_split_new</text>
+        <text>quantity_split_new</text>
       </register>
-      <register name="0" type="4">
-        <text>deliver_type_id_split_new</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBkYWlseW9yZGVyLmJpa29fc3BsaXRfbmV3ID0gcGFyYW1zWzpkYWlseW9yZGVyXVs6Ymlrb19zcGxpdF9uZXddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBxdWFudGl0eV9uZXdfdG9fc3BsaXQgPSB2YWwK</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgcXVhbnRpdHlfbmV3X3RvX3NwbGl0PSh2YWwpCg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBxdWFudGl0eV9uZXdfdG9fc3BsaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgcXVhbnRpdHlfbmV3X3RvX3NwbGl0Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -721,9 +720,9 @@
       </register>
     </registers>
     <search>
-      <last-search>biko_split_new</last-search>
+      <last-search>quantity_split_new</last-search>
       <last-offset />
-      <last-pattern>biko_split_new</last-pattern>
+      <last-pattern>quantity_split_new</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -731,9 +730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sdoc</entry>
-        <entry>folder</entry>
-        <entry>user_g</entry>
         <entry>fetch</entry>
         <entry>label</entry>
         <entry>_label</entry>
@@ -749,8 +745,11 @@
         <entry>deliver_status_id_split_new</entry>
         <entry>deliver_type_id_split_new</entry>
         <entry>deliver_status_id</entry>
-        <entry>quantity_split_new</entry>
+        <entry>dailyorder_deliver_type_id</entry>
+        <entry>deliver_type_id</entry>
+        <entry>children</entry>
         <entry>biko_split_new</entry>
+        <entry>quantity_split_new</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
