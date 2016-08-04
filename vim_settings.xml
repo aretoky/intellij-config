@@ -245,8 +245,8 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1470278515638">
-        <mark key="'" line="3" column="66" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1470283118626">
+        <mark key="'" line="423" column="4" />
         <mark key="[" line="476" column="606" />
         <mark key="]" line="473" column="0" />
         <mark key="." line="473" column="0" />
@@ -575,9 +575,9 @@
       <jump line="35" column="9" filename="$USER_HOME$/projects/pos-calc/config/deploy.rb" />
       <jump line="95" column="4" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="423" column="8" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="2" column="184" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="3" column="66" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="423" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -660,7 +660,7 @@
         <text encoding="base64">LCA6b24gPT4gOmNvbGxlY3Rpb24=</text>
       </register>
       <register name="/" type="4">
-        <text>edit_</text>
+        <text>preview</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldCAnc2hvd19kYWlseW9yZGVyX3RhYmxlJywgOm9uID0+IDptZW1iZXIK</text>
@@ -697,9 +697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>edit_</last-search>
+      <last-search>preview</last-search>
       <last-offset />
-      <last-pattern>edit_</last-pattern>
+      <last-pattern>preview</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loading_time_order_types</entry>
         <entry>errors</entry>
         <entry>split</entry>
         <entry>list</entry>
@@ -727,6 +726,7 @@
         <entry>lists</entry>
         <entry>edit</entry>
         <entry>edit_</entry>
+        <entry>preview</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
