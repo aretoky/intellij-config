@@ -82,9 +82,6 @@
         <mark key="^" line="508" column="59" />
         <mark key="." line="508" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1470045155704">
-        <mark key="'" line="32" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/edit.html.slim" timestamp="1468310341644">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="41" />
@@ -235,6 +232,7 @@
         <mark key="^" line="106" column="64" />
         <mark key="." line="106" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_preview_form.html.erb" timestamp="1470278776859" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorder_csv_records/index.csv.ruby" timestamp="1469067988156">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="3" />
@@ -247,7 +245,8 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1469701141692">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1470278515638">
+        <mark key="'" line="3" column="66" />
         <mark key="[" line="476" column="606" />
         <mark key="]" line="473" column="0" />
         <mark key="." line="473" column="0" />
@@ -331,11 +330,6 @@
       <file name="/Ruby Console" timestamp="1470034106292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/locales/020_models/ja.yml" timestamp="1470042333665">
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1470013945701">
         <mark key="'" line="4" column="15" />
         <mark key="[" line="24" column="15" />
@@ -361,11 +355,11 @@
         <mark key="^" line="85" column="59" />
         <mark key="." line="85" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1469703225238">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1470277375908">
+        <mark key="'" line="35" column="9" />
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
         <mark key="^" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" timestamp="1469693465089">
@@ -374,9 +368,6 @@
         <mark key="]" line="30" column="31" />
         <mark key="^" line="30" column="31" />
         <mark key="." line="30" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1469700168157">
-        <mark key="'" line="282" column="7" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1469695352860">
         <mark key="'" line="82" column="88" />
@@ -421,7 +412,7 @@
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="52" />
       </file>
-      <file name="/a.regexp" timestamp="1470274650722">
+      <file name="/a.regexp" timestamp="1470278030645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/db/migrate/20160727065931_create_company_search_filters.rb" timestamp="1469610229534">
@@ -430,6 +421,7 @@
         <mark key="^" line="10" column="52" />
         <mark key="." line="10" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/edit_dailyorder_table.html.erb" timestamp="1470277769005" />
       <file name="$USER_HOME$/projects/company-list/app/controllers/application_controller.rb" timestamp="1469442782080">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -448,12 +440,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/routes.rb" timestamp="1469691444411">
+      <file name="$USER_HOME$/projects/pos-calc/config/routes.rb" timestamp="1470278470917">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="79" />
-        <mark key="]" line="61" column="79" />
-        <mark key="." line="61" column="79" />
-        <mark key="^" line="61" column="118" />
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
       </file>
       <file name="$USER_HOME$/projects/DailySFposter/.gitignore" timestamp="1467856870832">
         <mark key="[" line="45" column="0" />
@@ -487,9 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="28" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
-      <jump line="79" column="58" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
-      <jump line="132" column="142" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
       <jump line="26" column="28" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
       <jump line="78" column="56" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
       <jump line="391" column="17" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
@@ -502,7 +490,6 @@
       <jump line="10" column="13" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/show.html.erb" />
       <jump line="32" column="7" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/show.html.erb" />
       <jump line="30" column="58" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/show.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="408" column="17" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="478" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="481" column="16" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
@@ -554,12 +541,10 @@
       <jump line="60" column="28" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_preview_form.html.erb" />
       <jump line="412" column="18" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="2" column="184" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="4" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="18" column="22" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="310" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="3" column="23" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="373" column="41" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="395" column="16" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="374" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -579,7 +564,6 @@
       <jump line="19" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="23" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="27" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="423" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="4" column="15" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="43" column="3" filename="$USER_HOME$/projects/company-list/app/models/user.rb" />
       <jump line="13" column="6" filename="$USER_HOME$/projects/company-list/app/models/address.rb" />
@@ -587,6 +571,13 @@
       <jump line="6" column="9" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_search_dailyorders_list.html.erb" />
       <jump line="47" column="29" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_search_dailyorders_list.html.erb" />
       <jump line="54" column="23" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_search_dailyorders_list.html.erb" />
+      <jump line="6" column="19" filename="$USER_HOME$/projects/pos-calc/config/deploy.rb" />
+      <jump line="35" column="9" filename="$USER_HOME$/projects/pos-calc/config/deploy.rb" />
+      <jump line="95" column="4" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
+      <jump line="423" column="8" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="2" column="184" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="3" column="66" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -666,49 +657,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">LCA6b24gPT4gOmNvbGxlY3Rpb24=</text>
       </register>
       <register name="/" type="4">
-        <text>_label</text>
+        <text>edit_</text>
       </register>
-      <register name="0" type="4">
-        <text>dailyorder</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdldCAnc2hvd19kYWlseW9yZGVyX3RhYmxlJywgOm9uID0+IDptZW1iZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyLnNoaXBfZGF0ZS5zdHJmdGltZSgiJVkvJW0vJWQiKSAlPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBpZiAhZGFpbHlvcmRlci5zaGlwX2RhdGUubmlsPyAlPgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA8JSBlbmQgJT4K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyLnNoaXBfZGF0ZS5zdHJmdGltZSgiJVkvJW0vJWQiKSAlPgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1pbmZvIj7lh6bnkIbmuIg8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8JSBpZiAhZGFpbHlvcmRlci5zaGlwX2RhdGUubmlsPyAlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBlbHNlICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8JSBlbmQgJT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC13YXJuaW5nIj7mnKrlh6bnkIY8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1pbmZvIj7lh6bnkIbmuIg8L3NwYW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBpZiAhZGFpbHlvcmRlci5hMDFfZGF0YV9wcm9jZXNlZF9zdGF0dXMgJT4K</text>
+        <text encoding="base64">ICAgICAgICA8JSBlbHNlICU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXdhcm5pbmciPuacquWHpueQhjwvc3Bhbj48JSBlbHNlICU+PHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLWluZm8iPuWHpueQhua4iCZuYnNwOzwlPSBkb2Quc2hpcF9kYXRlLnN0cmZ0aW1lKCIlWS8lbS8lZCIpICU+PC9zcGFuPjwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC13YXJuaW5nIj7mnKrlh6bnkIY8L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>_label</last-search>
+      <last-search>edit_</last-search>
       <last-offset />
-      <last-pattern>_label</last-pattern>
+      <last-pattern>edit_</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -716,10 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new</entry>
-        <entry>order_date</entry>
-        <entry>number_input</entry>
-        <entry>edit_dailyorder_table</entry>
         <entry>loading_time_order_types</entry>
         <entry>errors</entry>
         <entry>split</entry>
@@ -736,6 +723,10 @@
         <entry>fetch</entry>
         <entry>label</entry>
         <entry>_label</entry>
+        <entry>publishing</entry>
+        <entry>lists</entry>
+        <entry>edit</entry>
+        <entry>edit_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
