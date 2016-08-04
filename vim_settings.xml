@@ -284,6 +284,13 @@
         <mark key="^" line="33" column="60" />
         <mark key="." line="33" column="60" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" timestamp="1470285312118">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="120" column="31" />
+        <mark key="]" line="120" column="37" />
+        <mark key="." line="120" column="37" />
+        <mark key="^" line="120" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/app/controllers/users/company_search_filters_controller.rb" timestamp="1470031504742">
         <mark key="[" line="10" column="68" />
         <mark key="]" line="10" column="79" />
@@ -336,6 +343,12 @@
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/split.html.erb" timestamp="1470284614357">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/_dailyorders_basic_info.html.erb" timestamp="1470275859493">
         <mark key="[" line="169" column="42" />
@@ -478,8 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="28" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
-      <jump line="78" column="56" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
       <jump line="391" column="17" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" />
       <jump line="20" column="27" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" />
@@ -578,6 +589,8 @@
       <jump line="2" column="184" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="3" column="66" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="423" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="149" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -657,49 +670,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA6b24gPT4gOmNvbGxlY3Rpb24=</text>
+        <text>campaign_code</text>
       </register>
       <register name="/" type="4">
-        <text>preview</text>
+        <text>kakuzai</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldCAnc2hvd19kYWlseW9yZGVyX3RhYmxlJywgOm9uID0+IDptZW1iZXIK</text>
+      <register name="0" type="4">
+        <text>sales_person_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICdibmtzLW51bWJlci1zYWxlcy1wZXJzb24taWQnLDptaW4gPT5TYWxlc1BlcnNvbi5taW5pbXVtKCJpZCIpICw6bWF4ID0+IFNhbGVzUGVyc29uLm1heGltdW0oImlkIikgJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6c2FsZXNfcGVyc29uX2lkICwgOmNsYXNzID0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyLnNoaXBfZGF0ZS5zdHJmdGltZSgiJVkvJW0vJWQiKSAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6Y2FtcGFpZ25fY29kZSAsIDpjbGFzcyA9PidibmtzLW51bWJlci1pbnB1dC1iaWtvJyw6c2l6ZT0+IjUiICU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBpZiAhZGFpbHlvcmRlci5zaGlwX2RhdGUubmlsPyAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6Y2FtcGFpZ25fbm90ZSAsIDpjbGFzcyA9PidibmtzLW51bWJlci1pbnB1dC1iaWtvJyw6c2l6ZT0+IjEzIiAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1pbmZvIj7lh6bnkIbmuIg8L3NwYW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBlbHNlICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC13YXJuaW5nIj7mnKrlh6bnkIY8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLnRleHRfZmllbGQgOmJpa28gLCA6Y2xhc3MgPT4nYm5rcy1udW1iZXItaW5wdXQtYmlrbycsOnNpemU9PiIxMyIgJT4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>preview</last-search>
+      <last-search>kakuzai</last-search>
       <last-offset />
-      <last-pattern>preview</last-pattern>
+      <last-pattern>kakuzai</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +720,6 @@
     </search>
     <history>
       <history-search>
-        <entry>errors</entry>
         <entry>split</entry>
         <entry>list</entry>
         <entry>table</entry>
@@ -727,6 +739,7 @@
         <entry>edit</entry>
         <entry>edit_</entry>
         <entry>preview</entry>
+        <entry>kakuzai</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
