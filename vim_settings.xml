@@ -75,8 +75,8 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1470310335168">
-        <mark key="'" line="150" column="39" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1470312461421">
+        <mark key="'" line="26" column="3" />
         <mark key="[" line="669" column="39" />
         <mark key="]" line="672" column="40" />
         <mark key="^" line="672" column="40" />
@@ -286,12 +286,12 @@
         <mark key="^" line="79" column="134" />
         <mark key="." line="79" column="135" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" timestamp="1470310241139">
-        <mark key="'" line="92" column="13" />
-        <mark key="[" line="130" column="46" />
-        <mark key="]" line="130" column="66" />
-        <mark key="." line="130" column="66" />
-        <mark key="^" line="130" column="66" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" timestamp="1470312641392">
+        <mark key="'" line="62" column="24" />
+        <mark key="[" line="97" column="10" />
+        <mark key="]" line="97" column="10" />
+        <mark key="." line="97" column="10" />
+        <mark key="^" line="97" column="10" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/controllers/users/company_search_filters_controller.rb" timestamp="1470031504742">
         <mark key="[" line="10" column="68" />
@@ -475,10 +475,6 @@
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_table.html.erb" timestamp="1470309698286" />
     </filemarks>
     <jumps>
-      <jump line="84" column="23" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
-      <jump line="88" column="41" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="123" column="13" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="219" column="33" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="237" column="42" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="262" column="40" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -575,6 +571,10 @@
       <jump line="93" column="28" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="96" column="26" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="92" column="13" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
+      <jump line="676" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="26" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="62" column="24" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -654,37 +654,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>quanti</text>
+        <text>book</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHAgQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QuZGFpbHlvcmRlcnMuZmlyc3QuaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6cXVhbnRpdHkgLCA6Y2xhc3MgPT4nYm5rcy1udW1iZXItaW5wdXQtcXVhbnRpdHknLCA6bWluID0+MCAsOm1heCA9PiA5OTk5OSAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcigiZGFpbHlvcmRlcnMuaWQgREVTQyIpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LnF1YW50aXR5X3NwbGl0X25ldwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6cXVhbnRpdHkgLCA6Y2xhc3MgPT4nYm5rcy1udW1iZXItaW5wdXQtcXVhbnRpdHknLCA6bWluID0+MCAsOm1heCA9PiA5OTk5OSAlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LmlkCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcigiZGFpbHlvcmRlcnMuaWQgREVTQyIpLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmVycm9ycwo=</text>
+        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LnF1YW50aXR5X3NwbGl0X25ldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LmlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmVycm9ycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -694,9 +694,9 @@
       </register>
     </registers>
     <search>
-      <last-search>quanti</last-search>
+      <last-search>book</last-search>
       <last-offset />
-      <last-pattern>quanti</last-pattern>
+      <last-pattern>book</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -704,8 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry>children</entry>
-        <entry>biko_split_new</entry>
         <entry>attributes</entry>
         <entry>update</entry>
         <entry>quantity</entry>
@@ -724,6 +722,8 @@
         <entry>@dailyorders</entry>
         <entry>.order(</entry>
         <entry>quanti</entry>
+        <entry>sales</entry>
+        <entry>book</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
