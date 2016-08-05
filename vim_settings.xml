@@ -63,6 +63,12 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postal_custs_controllerable.rb" timestamp="1470376207148">
+        <mark key="[" line="17" column="84" />
+        <mark key="]" line="17" column="84" />
+        <mark key="." line="17" column="84" />
+        <mark key="^" line="17" column="84" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/application/_dailyorder_shipdate_label.html.erb" timestamp="1470275275799">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="15" />
@@ -145,6 +151,12 @@
         <mark key="]" line="108" column="30" />
         <mark key="." line="108" column="30" />
         <mark key="^" line="108" column="76" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1470376159077">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="51" />
+        <mark key="^" line="38" column="1" />
+        <mark key="." line="38" column="1" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_search_dailyorders_list.html.erb" timestamp="1470275676354">
         <mark key="[" line="107" column="0" />
@@ -286,8 +298,8 @@
         <mark key="^" line="79" column="134" />
         <mark key="." line="79" column="135" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" timestamp="1470312641392">
-        <mark key="'" line="62" column="24" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" timestamp="1470375820375">
+        <mark key="'" line="22" column="14" />
         <mark key="[" line="97" column="10" />
         <mark key="]" line="97" column="10" />
         <mark key="." line="97" column="10" />
@@ -475,7 +487,6 @@
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_table.html.erb" timestamp="1470309698286" />
     </filemarks>
     <jumps>
-      <jump line="219" column="33" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="237" column="42" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="262" column="40" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="283" column="40" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -575,6 +586,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="26" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="62" column="24" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
+      <jump line="22" column="14" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -654,40 +666,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>&quot;items.csv&quot;</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHAgQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QuZGFpbHlvcmRlcnMuZmlyc3QuaWQK</text>
+      <register name="0" type="4">
+        <text>Time.now.strftime &quot;%Y%m%d%H%M%S&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6cXVhbnRpdHkgLCA6Y2xhc3MgPT4nYm5rcy1udW1iZXItaW5wdXQtcXVhbnRpdHknLCA6bWluID0+MCAsOm1heCA9PiA5OTk5OSAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcigiZGFpbHlvcmRlcnMuaWQgREVTQyIpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6cXVhbnRpdHkgLCA6Y2xhc3MgPT4nYm5rcy1udW1iZXItaW5wdXQtcXVhbnRpdHknLCA6bWluID0+MCAsOm1heCA9PiA5OTk5OSAlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LnF1YW50aXR5X3NwbGl0X25ldwo=</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcigiZGFpbHlvcmRlcnMuaWQgREVTQyIpLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LmlkCg==</text>
+        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LnF1YW50aXR5X3NwbGl0X25ldwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmVycm9ycwo=</text>
+        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LmlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmVycm9ycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
