@@ -88,9 +88,6 @@
         <mark key="^" line="672" column="40" />
         <mark key="." line="672" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1470045155704">
-        <mark key="'" line="32" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/editor_savable.rb" timestamp="1470288916882" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/edit.html.slim" timestamp="1468310341644">
         <mark key="[" line="7" column="37" />
@@ -254,9 +251,9 @@
         <mark key="]" line="42" column="74" />
         <mark key="." line="42" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorder_csv_records/index.csv.ruby" timestamp="1469067988156">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="3" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorder_csv_records/index.csv.ruby" timestamp="1470376929876">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="91" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="2" column="42" />
       </file>
@@ -316,9 +313,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1470287379653">
-        <mark key="'" line="262" column="13" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/address_mplans.rb" timestamp="1469178702437">
         <mark key="[" line="9" column="47" />
@@ -398,11 +392,11 @@
         <mark key="^" line="33" column="11" />
         <mark key="." line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1468581318632">
-        <mark key="[" line="3" column="110" />
-        <mark key="]" line="3" column="110" />
-        <mark key="^" line="3" column="135" />
-        <mark key="." line="3" column="110" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1470377030716">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging.rb" timestamp="1469096331603">
         <mark key="[" line="8" column="0" />
@@ -666,40 +660,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;items.csv&quot;</text>
+        <text>sv</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
       </register>
       <register name="0" type="4">
-        <text>Time.now.strftime &quot;%Y%m%d%H%M%S&quot;</text>
+        <text encoding="base64">ICBjc3YgPDwgY29sdW1ucy5tYXB7fGN8IERhaWx5b3JkZXJDc3ZSZWNvcmQuaHVtYW5fYXR0cmlidXRlX25hbWUgYyB9ICMgaGVhZGVyCiAgQGRhaWx5b3JkZXJfY3N2X3JlY29yZHMudG9faC52YWx1ZXMuZWFjaHt8dXwgY3N2IDw8IGNvbHVtbnMubWFwIHsgfGN8IHUuc2VuZChjKSB9IH0gIyBib2R5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNzdiA8PCBtb2RlbC5hdHRyaWJ1dGVzLnZhbHVlc19hdCgqQ3VzdC5jb2x1bW5fbmFtZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAY3VzdHMuZWFjaCBkbyB8bW9kZWx8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6cXVhbnRpdHkgLCA6Y2xhc3MgPT4nYm5rcy1udW1iZXItaW5wdXQtcXVhbnRpdHknLCA6bWluID0+MCAsOm1heCA9PiA5OTk5OSAlPgo=</text>
+        <text encoding="base64">ICBjc3YgPDwgQ3VzdC5jb2x1bW5fbmFtZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcigiZGFpbHlvcmRlcnMuaWQgREVTQyIpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LnF1YW50aXR5X3NwbGl0X25ldwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmRhaWx5b3JkZXJzLmZpcnN0LmlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmVycm9ycwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6cXVhbnRpdHkgLCA6Y2xhc3MgPT4nYm5rcy1udW1iZXItaW5wdXQtcXVhbnRpdHknLCA6bWluID0+MCAsOm1heCA9PiA5OTk5OSAlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcigiZGFpbHlvcmRlcnMuaWQgREVTQyIpLgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
