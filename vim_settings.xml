@@ -44,10 +44,10 @@
         <mark key="^" line="116" column="15" />
         <mark key="." line="116" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1470988662208">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1470991967108">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/helpers/application_helper.rb" timestamp="1469088509717">
         <mark key="[" line="0" column="24" />
@@ -79,8 +79,12 @@
       <file name="/a.regexp" timestamp="1470989449654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1470989405185">
+      <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1470992628708">
         <mark key="'" line="0" column="18" />
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="62" column="4" />
+        <mark key="^" line="62" column="4" />
+        <mark key="." line="62" column="4" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/services/splitting_daily_order_service.rb" timestamp="1470289649456">
         <mark key="[" line="12" column="0" />
@@ -97,7 +101,6 @@
         <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1470987605565">
-        <mark key="'" line="76" column="0" />
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
@@ -284,7 +287,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">ZW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text>fetch_updated_at</text>
@@ -296,28 +299,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpubV9jb21wYW55X2NvbnQK</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZShmZXRjaF91cGRhdGVkX2F0OiApLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpubV9pbnRlcmltX2NvbnQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpub19pbnRlcmltX2VxCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpjZF9jYV9lcSwgY29sbGVjdGlvbjogQ09ERVsiY29kZWRlX2NhIl0uaW52ZXJ0Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpubV9jb21wYW55X2NvbnQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpubV9pbnRlcmltX2NvbnQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpub19pbnRlcmltX2VxCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLz0gZi5pbnB1dCA6bm1fY29tcGFueV9jb250Cg==</text>
+        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpjZF9jYV9lcSwgY29sbGVjdGlvbjogQ09ERVsiY29kZWRlX2NhIl0uaW52ZXJ0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLz0gZi5pbnB1dCA6bm1fY3VzdF9jb250Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLz0gZi5pbnB1dCA6bm9fY3VzdF9lcSwgbGFiZWw6ICLpoaflrqLnlarlj7ciCg==</text>
+        <text encoding="base64">ICAgICAgLz0gZi5pbnB1dCA6bm1fY29tcGFueV9jb250Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
