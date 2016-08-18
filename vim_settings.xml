@@ -56,7 +56,12 @@
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/premium_lite.php" timestamp="1471537749301" />
+      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/premium_lite.php" timestamp="1471538478855">
+        <mark key="'" line="298" column="40" />
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1470991967108">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -155,9 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="629" column="41" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="634" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="639" column="51" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="657" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="659" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -255,6 +257,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/deploy.rb" />
+      <jump line="297" column="24" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/premium_lite.php" />
+      <jump line="298" column="24" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/premium_lite.php" />
+      <jump line="302" column="40" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/premium_lite.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,10 +342,10 @@
         <text>52.68.168.2</text>
       </register>
       <register name="/" type="4">
-        <text>linked</text>
+        <text>$lastpayment_date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z2VtICdhd3Mtc2RrJwo=</text>
+      <register name="0" type="4">
+        <text>$lastpayment_date</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -349,9 +354,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJJGxhc3RwYXltZW50X2RhdGUgPSBzdHJ0b3RpbWUoc3RydG90aW1lKCR1c2VyZGF0YVtwcmVtaXVtX2xhc3RwYXltZW50X2RhdGVdKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJJG5vd2RhdGUgPSBzdHJ0b3RpbWUoZGF0ZSgiWS1tLWQgMDA6MDA6MDAiLCR0bXBkYXRlKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text># role-based syntax
 # ==================
 
@@ -403,29 +420,17 @@
 #     # password: 'please use keys'
 #   }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBzZXJ2ZXIgJ2RiLmV4YW1wbGUuY29tJywgdXNlcjogJ2RlcGxveScsIHJvbGVzOiAld3tkYn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBzZXJ2ZXIgJ2V4YW1wbGUuY29tJywgdXNlcjogJ2RlcGxveScsIHJvbGVzOiAld3thcHAgd2VifSwgb3RoZXJfcHJvcGVydHk6IDpvdGhlcl92YWx1ZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBzZXJ2ZXIgJ2V4YW1wbGUuY29tJywgdXNlcjogJ2RlcGxveScsIHJvbGVzOiAld3thcHAgZGIgd2VifSwgbXlfcHJvcGVydHk6IDpteV92YWx1ZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBZb3UgY2FuIGRlZmluZSBhbGwgcm9sZXMgb24gYSBzaW5nbGUgc2VydmVyLCBvciBzcGxpdCB0aGVtOgo=</text>
+        <text encoding="base64">IyBzZXJ2ZXIgJ2RiLmV4YW1wbGUuY29tJywgdXNlcjogJ2RlcGxveScsIHJvbGVzOiAld3tkYn0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>linked</last-search>
+      <last-search>$lastpayment_date</last-search>
       <last-offset />
-      <last-pattern>linked</last-pattern>
+      <last-pattern>$lastpayment_date</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -433,8 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def split</entry>
-        <entry>mem</entry>
         <entry>edit_dailyorders_number</entry>
         <entry>input</entry>
         <entry>number_input</entry>
@@ -453,6 +456,8 @@
         <entry>yn_book_limit</entry>
         <entry>aws</entry>
         <entry>linked</entry>
+        <entry>$nowdate</entry>
+        <entry>$lastpayment_date</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
