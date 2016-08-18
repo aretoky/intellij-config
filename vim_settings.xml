@@ -76,6 +76,13 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1471497754254">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="88" />
+        <mark key="]" line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1470816866617">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -92,7 +99,7 @@
         <mark key="." line="3" column="172" />
         <mark key="^" line="3" column="172" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1471493282531" />
+      <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1471497020371" />
       <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1470818056079">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -147,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="62" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="98" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="629" column="41" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="634" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -247,6 +253,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/edit.html.slim" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/deploy.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -329,7 +336,7 @@
         <text>52.68.168.2</text>
       </register>
       <register name="/" type="4">
-        <text>aws</text>
+        <text>linked</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z2VtICdhd3Mtc2RrJwo=</text>
@@ -415,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>aws</last-search>
+      <last-search>linked</last-search>
       <last-offset />
-      <last-pattern>aws</last-pattern>
+      <last-pattern>linked</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quantity_split_new</entry>
         <entry>def split</entry>
         <entry>mem</entry>
         <entry>edit_dailyorders_number</entry>
@@ -445,6 +451,7 @@
         <entry>fetch_updated_at</entry>
         <entry>yn_book_limit</entry>
         <entry>aws</entry>
+        <entry>linked</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
