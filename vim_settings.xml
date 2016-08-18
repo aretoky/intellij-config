@@ -61,6 +61,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/environments/staging.rb" timestamp="1471488911799">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/helpers/application_helper.rb" timestamp="1469088509717">
         <mark key="[" line="0" column="24" />
       </file>
@@ -74,6 +80,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/deploy/production.rb" timestamp="1471488709494">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/boolean_enable_button_input.rb" timestamp="1470820618492">
         <mark key="[" line="3" column="142" />
@@ -96,6 +107,11 @@
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/environments/production.rb" timestamp="1471488167501">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/services/splitting_daily_order_service.rb" timestamp="1470289649456">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -110,6 +126,7 @@
       <file name="$USER_HOME$/projects/DailySFposter/.gitignore" timestamp="1467856870832">
         <mark key="[" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1471488367885" />
       <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1470987605565">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="20" />
@@ -121,6 +138,11 @@
         <mark key="]" line="2" column="10" />
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/deploy/staging.rb" timestamp="1471488723867">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -303,7 +325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bunkyoshaposcalc2d</text>
+        <text>52.68.168.2</text>
       </register>
       <register name="/" type="4">
         <text>aws</text>
@@ -312,31 +334,80 @@
         <text encoding="base64">Z2VtICdhd3Mtc2RrJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gaWYgZi5vYmplY3QuY3VycmVudF9wZXJzb24ucHJvZmlsZS55bl9ib29rX2xpbWl0ID09IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gaWYgZi5vYmplY3QuY3VycmVudF9wZXJzb24ucHJvZmlsZS55bl9ib29rX2xpbWl0ID09IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZShmZXRjaF91cGRhdGVkX2F0OiApLgo=</text>
+      <register name="4" type="4">
+        <text># role-based syntax
+# ==================
+
+# Defines a role with one or multiple servers. The primary server in each
+# group is considered to be the first unless any  hosts have the primary
+# property set. Specify the username and a domain or IP for the server.
+# Don't use `:all`, it's a meta role.
+
+# role :app, %w{deploy@example.com}, my_property: :my_value
+# role :web, %w{user1@primary.com user2@additional.com}, other_property: :other_value
+# role :db,  %w{deploy@example.com}
+
+
+
+# Configuration
+# =============
+# You can set any configuration variable like in config/deploy.rb
+# These variables are then only loaded and set in this stage.
+# For available Capistrano configuration variables see the documentation page.
+# http://capistranorb.com/documentation/getting-started/configuration/
+# Feel free to add new variables to customise your setup.
+
+
+
+# Custom SSH Options
+# ==================
+# You may pass any option but keep in mind that net/ssh understands a
+# limited set of options, consult the Net::SSH documentation.
+# http://net-ssh.github.io/net-ssh/classes/Net/SSH.html#method-c-start
+#
+# Global options
+# --------------
+#  set :ssh_options, {
+#    keys: %w(/home/rlisowski/.ssh/id_rsa),
+#    forward_agent: false,
+#    auth_methods: %w(password)
+#  }
+#
+# The server-based syntax can be used to override options:
+# ------------------------------------
+# server 'example.com',
+#   user: 'user_name',
+#   roles: %w{web app},
+#   ssh_options: {
+#     user: 'user_name', # overrides user setting above
+#     keys: %w(/home/user_name/.ssh/id_rsa),
+#     forward_agent: false,
+#     auth_methods: %w(publickey password)
+#     # password: 'please use keys'
+#   }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzZXJ2ZXIgJ2RiLmV4YW1wbGUuY29tJywgdXNlcjogJ2RlcGxveScsIHJvbGVzOiAld3tkYn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpubV9jb21wYW55X2NvbnQK</text>
+        <text encoding="base64">IyBzZXJ2ZXIgJ2V4YW1wbGUuY29tJywgdXNlcjogJ2RlcGxveScsIHJvbGVzOiAld3thcHAgd2VifSwgb3RoZXJfcHJvcGVydHk6IDpvdGhlcl92YWx1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpubV9pbnRlcmltX2NvbnQK</text>
+        <text encoding="base64">IyBzZXJ2ZXIgJ2V4YW1wbGUuY29tJywgdXNlcjogJ2RlcGxveScsIHJvbGVzOiAld3thcHAgZGIgd2VifSwgbXlfcHJvcGVydHk6IDpteV92YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpub19pbnRlcmltX2VxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpjZF9jYV9lcSwgY29sbGVjdGlvbjogQ09ERVsiY29kZWRlX2NhIl0uaW52ZXJ0Cg==</text>
+        <text encoding="base64">IyBZb3UgY2FuIGRlZmluZSBhbGwgcm9sZXMgb24gYSBzaW5nbGUgc2VydmVyLCBvciBzcGxpdCB0aGVtOgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
