@@ -56,8 +56,8 @@
         <mark key="." line="3" column="172" />
         <mark key="^" line="3" column="172" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/.env" timestamp="1471592684262">
-        <mark key="[" line="8" column="55" />
+      <file name="$USER_HOME$/projects/cplus/.env" timestamp="1471594760877">
+        <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="23" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
@@ -87,6 +87,12 @@
         <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/show.html.slim" timestamp="1471587670140" />
+      <file name="$USER_HOME$/projects/cplus/app.json" timestamp="1471595516295">
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="21" column="152" />
+        <mark key="." line="21" column="152" />
+        <mark key="^" line="21" column="152" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/copy_db_from_production_to_staging.rake" timestamp="1471582983286">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -112,12 +118,6 @@
         <mark key="]" line="7" column="13" />
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/premium_lite.php" timestamp="1471538478855">
-        <mark key="'" line="298" column="40" />
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="297" column="0" />
-        <mark key="." line="297" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/services/parsing_custom_data_service.rb" timestamp="1470991967108">
         <mark key="[" line="43" column="0" />
@@ -161,12 +161,6 @@
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/edit.html.slim" timestamp="1471587624610" />
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1471497020371" />
-      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1471575610168">
-        <mark key="'" line="6" column="10" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/a.regexp" timestamp="1471580793506">
         <mark key="[" line="0" column="0" />
       </file>
@@ -380,31 +374,33 @@
         <text>wrapper_</text>
       </register>
       <register name="0" type="4">
-        <text>ENV[&quot;AWS_S3_REGION&quot;]</text>
+        <text>ginza-plus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykucGFyZW50KCkpCg==</text>
+      <register name="3" type="4">
+        <text>{
+      &quot;description&quot;: &quot;A secret key for verifying the integrity of signed cookies.&quot;,
+      &quot;generator&quot;: &quot;secret&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5idG4tYm94LmNvbC14cy1vZmZzZXQtNQo=</text>
+        <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykucGFyZW50KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5idG4tYm94LmNvbC14cy1vZmZzZXQtNQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgU2V0dGluZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
