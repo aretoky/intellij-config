@@ -37,6 +37,12 @@
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/no_cust_input.coffee" timestamp="1471590769785">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1471582780430" />
       <file name="$USER_HOME$/projects/cplus/config/deploy/production.rb" timestamp="1471575641790">
         <mark key="[" line="2" column="35" />
@@ -109,6 +115,13 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1471590084892">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1470820761202">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="1" column="52" />
@@ -168,11 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="662" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="663" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="665" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="476" column="609" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="302" column="11" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="45" column="12" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
       <jump line="3" column="5" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
       <jump line="207" column="19" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
@@ -268,6 +276,11 @@
       <jump line="7" column="7" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
       <jump line="6" column="10" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="0" column="6" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
+      <jump line="5" column="12" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
+      <jump line="7" column="4" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
+      <jump line="8" column="4" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
+      <jump line="9" column="31" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -347,19 +360,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
-        <text>telexp</text>
+        <text>wrapper_</text>
       </register>
-      <register name="0" type="4">
-        <text>no_telexp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdyYXBwZXJfb3B0aW9uc1s6Y2xhc3NdIHx8PSAiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5idG4tYm94LmNvbC14cy1vZmZzZXQtNQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykucGFyZW50KCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5idG4tYm94LmNvbC14cy1vZmZzZXQtNQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,28 +381,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgU2V0dGluZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgU2V0dGluZ3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENvbmZpZzo6SW50ZWdyYXRpb246OlJhaWxzOjpSYWlsdGllLnByZWxvYWQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIENvbmZpZzo6SW50ZWdyYXRpb246OlJhaWxzOjpSYWlsdGllLnByZWxvYWQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>telexp</last-search>
+      <last-search>wrapper_</last-search>
       <last-offset />
-      <last-pattern>telexp</last-pattern>
+      <last-pattern>wrapper_</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>errorprohibited</entry>
         <entry>def update</entry>
         <entry>shipping_list</entry>
         <entry>order</entry>
@@ -417,6 +429,7 @@
         <entry>branch</entry>
         <entry>no_telexp</entry>
         <entry>telexp</entry>
+        <entry>wrapper_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
