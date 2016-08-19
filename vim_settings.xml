@@ -38,12 +38,6 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/edit.html.slim" timestamp="1471483018260">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="10" />
-        <mark key="." line="48" column="10" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/circle.yml" timestamp="1471575312270" />
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1471485056401">
         <mark key="'" line="129" column="0" />
@@ -68,6 +62,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/s3to_s3.rb" timestamp="1471580748510">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="61" column="4" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/environments/staging.rb" timestamp="1471488911799">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="1" />
@@ -89,6 +89,10 @@
         <mark key="]" line="31" column="28" />
         <mark key="^" line="31" column="28" />
         <mark key="." line="31" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/carrierwave.rb" timestamp="1471581694103">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="50" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1470816866617">
         <mark key="[" line="8" column="0" />
@@ -114,7 +118,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1471482923112">
+      <file name="/a.regexp" timestamp="1471580793506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/models/address.rb" timestamp="1470992628708">
@@ -144,17 +148,28 @@
         <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1471493227636" />
+      <file name="$USER_HOME$/projects/cplus/config/settings/staging.yml" timestamp="1471581601916">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_s3_from_production_to_staging_service.rb" timestamp="1471581821067">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="51" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1470987605565">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/copy_db_from_production_to_staging.rake" timestamp="1471483979116">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/copy_db_from_production_to_staging.rake" timestamp="1471581859900">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/deploy/staging.rb" timestamp="1471575106860">
         <mark key="[" line="5" column="0" />
@@ -342,25 +357,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>52.68.168.2</text>
+        <text>test-dest-bucket</text>
       </register>
       <register name="/" type="4">
         <text>branch</text>
       </register>
       <register name="0" type="4">
-        <text>$lastpayment_date</text>
+        <text>Batch::CopyingS3FromProductionToStagingService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMg44Kz44OU44O8Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAidGFuYWthQGdpbnphLXBsdXMubmV0Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJJGxhc3RwYXltZW50X2RhdGUgPSBzdHJ0b3RpbWUoc3RydG90aW1lKCR1c2VyZGF0YVtwcmVtaXVtX2xhc3RwYXltZW50X2RhdGVdKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLSAia3NrMDA3MDA3QGdtYWlsLmNvbSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJJG5vd2RhdGUgPSBzdHJ0b3RpbWUoZGF0ZSgiWS1tLWQgMDA6MDA6MDAiLCR0bXBkYXRlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiaW5mb0BnaW56YS1wbHVzLm5ldCIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,63 +383,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">VlBDX1NFQ1VSSVRZX0dST1VQX0lEID0gInNnLTI3OWI0MDQyIgogIE9SR19EQl9JTlNUQU5DRV9JREVOVElGSUVSID0gImNwbHVzLXByb2R1Y3Rpb24iCiAgUlNUX0RCX0lOU1RBTkNFX0lERU5USUZJRVIgPSAiY3BsdXMtc3RhZ2luZyIKCiAgZGVmIHNlbGYucnVuCiAgICBBd3MuY29uZmlnWzpjcmVkZW50aWFsc10gPSBBd3M6OkNyZWRlbnRpYWxzLm5ldygKICAgICAgIkFLSUFJR0tSSlJPN1FPUTNITVpBIiwKICAgICAgImpleVdhdTk0THdEYUNCcFZDck5lUmJRbU1BWHNtSlgvbitvdTYrL2IiCiAgICApCiAgICByZHMgPSBBd3M6OlJEUzo6Q2xpZW50Lm5ldyhyZWdpb246ICJhcC1ub3J0aGVhc3QtMSIpCgogICAgYXZhaWxhYmlsaXR5X3pvbmUgPSAiYXAtbm9ydGhlYXN0LTFjIgogICAgc25hcHNob3RzID0gcmRzLmRlc2NyaWJlX2RiX3NuYXBzaG90cygKICAgICAgZGJfaW5zdGFuY2VfaWRlbnRpZmllcjogT1JHX0RCX0lOU1RBTkNFX0lERU5USUZJRVIKICAgICkKICAgIGNvbXBhcmVfdGltZSA9IERhdGUueWVzdGVyZGF5LnN0cmZ0aW1lICIlWS0lbS0lZCIKICAgIGRiX3NuYXBzaG90X2lkZW50aWZpZXIgPSAiIgogICAgc25hcHNob3RzLmRiX3NuYXBzaG90cy5lYWNoIGRvIHxzfAogICAgICBpZiBzLnNuYXBzaG90X2NyZWF0ZV90aW1lID49IERhdGUueWVzdGVyZGF5CiAgICAgICAgZGJfc25hcHNob3RfaWRlbnRpZmllciA9IHMuZGJfc25hcHNob3RfaWRlbnRpZmllcgogICAgICAgIGJyZWFrCiAgICAgIGVuZAogICAgZW5kCiAgICBpZiBkYl9zbmFwc2hvdF9pZGVudGlmaWVyLnByZXNlbnQ/CiAgICAgIGJlZ2luCiAgICAgICAgZGVsZXRlX3Jlc3VsdCA9IHJkcy5kZWxldGVfZGJfaW5zdGFuY2UoCiAgICAgICAgICBkYl9pbnN0YW5jZV9pZGVudGlmaWVyOiBSU1RfREJfSU5TVEFOQ0VfSURFTlRJRklFUiwKICAgICAgICAgIHNraXBfZmluYWxfc25hcHNob3Q6IGZhbHNlLAogICAgICAgICAgZmluYWxfZGJfc25hcHNob3RfaWRlbnRpZmllcjogImRlbGV0ZS1kYi1pbnN0YW5jZS0je0RhdGUudG9kYXkuc3RyZnRpbWUgIiVZLSVtLSVkIn0iCiAgICAgICAgKQogICAgICAgIGlmIGRlbGV0ZV9yZXN1bHQKICAgICAgICAgIGJlZ2luCiAgICAgICAgICAgIHNsZWVwIDMwCiAgICAgICAgICAgIHJlc3VsdCA9IHJkcy5kZXNjcmliZV9kYl9pbnN0YW5jZXMoCiAgICAgICAgICAgICAgZGJfaW5zdGFuY2VfaWRlbnRpZmllcjogUlNUX0RCX0lOU1RBTkNFX0lERU5USUZJRVIKICAgICAgICAgICAgKQogICAgICAgICAgcmVzY3VlCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICBlbmQgd2hpbGUgdHJ1ZQogICAgICAgIGVuZAogICAgICByZXNjdWUgPT4gZQogICAgICAgIHAgZQogICAgICBlbmQKCiAgICAgIHJlc3RvcmVfcmVzdWx0ID0gcmRzLnJlc3RvcmVfZGJfaW5zdGFuY2VfZnJvbV9kYl9zbmFwc2hvdCgKICAgICAgICBkYl9pbnN0YW5jZV9pZGVudGlmaWVyOiBSU1RfREJfSU5TVEFOQ0VfSURFTlRJRklFUiwKICAgICAgICBkYl9zbmFwc2hvdF9pZGVudGlmaWVyOiBkYl9zbmFwc2hvdF9pZGVudGlmaWVyLAogICAgICAgIGRiX2luc3RhbmNlX2NsYXNzOiAiZGIudDEubWljcm8iLAogICAgICAgIGF2YWlsYWJpbGl0eV96b25lOiBhdmFpbGFiaWxpdHlfem9uZQogICAgICApCiAgICAgIGJlZ2luCiAgICAgICAgc2xlZXAgMzAKICAgICAgICByZXN1bHQgPSByZHMuZGVzY3JpYmVfZGJfaW5zdGFuY2VzKAogICAgICAgICAgZGJfaW5zdGFuY2VfaWRlbnRpZmllcjogUlNUX0RCX0lOU1RBTkNFX0lERU5USUZJRVIKICAgICAgICApCiAgICAgICAgaWYgcmVzdWx0LmRiX2luc3RhbmNlcy5maXJzdC5kYl9pbnN0YW5jZV9zdGF0dXMgPT0gImF2YWlsYWJsZSIKICAgICAgICAgIGJyZWFrCiAgICAgICAgZW5kCiAgICAgIHJlc2N1ZQogICAgICAgIG5leHQKICAgICAgZW5kIHdoaWxlIHRydWUKICAgIGVuZAogICAgcmRzLm1vZGlmeV9kYl9pbnN0YW5jZSgKICAgICAgZGJfaW5zdGFuY2VfaWRlbnRpZmllcjogUlNUX0RCX0lOU1RBTkNFX0lERU5USUZJRVIsCiAgICAgIHZwY19zZWN1cml0eV9ncm91cF9pZHM6IFsgVlBDX1NFQ1VSSVRZX0dST1VQX0lEIF0KICAgICkKICBlbmQ=</text>
       </register>
-      <register name="8" type="4">
-        <text># role-based syntax
-# ==================
-
-# Defines a role with one or multiple servers. The primary server in each
-# group is considered to be the first unless any  hosts have the primary
-# property set. Specify the username and a domain or IP for the server.
-# Don't use `:all`, it's a meta role.
-
-# role :app, %w{deploy@example.com}, my_property: :my_value
-# role :web, %w{user1@primary.com user2@additional.com}, other_property: :other_value
-# role :db,  %w{deploy@example.com}
-
-
-
-# Configuration
-# =============
-# You can set any configuration variable like in config/deploy.rb
-# These variables are then only loaded and set in this stage.
-# For available Capistrano configuration variables see the documentation page.
-# http://capistranorb.com/documentation/getting-started/configuration/
-# Feel free to add new variables to customise your setup.
-
-
-
-# Custom SSH Options
-# ==================
-# You may pass any option but keep in mind that net/ssh understands a
-# limited set of options, consult the Net::SSH documentation.
-# http://net-ssh.github.io/net-ssh/classes/Net/SSH.html#method-c-start
-#
-# Global options
-# --------------
-#  set :ssh_options, {
-#    keys: %w(/home/rlisowski/.ssh/id_rsa),
-#    forward_agent: false,
-#    auth_methods: %w(password)
-#  }
-#
-# The server-based syntax can be used to override options:
-# ------------------------------------
-# server 'example.com',
-#   user: 'user_name',
-#   roles: %w{web app},
-#   ssh_options: {
-#     user: 'user_name', # overrides user setting above
-#     keys: %w(/home/user_name/.ssh/id_rsa),
-#     forward_agent: false,
-#     auth_methods: %w(publickey password)
-#     # password: 'please use keys'
-#   }</text>
+      <register name="8" type="2">
+        <text encoding="base64">cmVxdWlyZSAnYXdzLXNkaycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBzZXJ2ZXIgJ2RiLmV4YW1wbGUuY29tJywgdXNlcjogJ2RlcGxveScsIHJvbGVzOiAld3tkYn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
