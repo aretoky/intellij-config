@@ -44,12 +44,12 @@
         <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1471493227636" />
-      <file name="$USER_HOME$/projects/raditools/class/force_liker.rb" timestamp="1471678308759">
-        <mark key="'" line="21" column="14" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="63" column="31" />
+      <file name="$USER_HOME$/projects/raditools/class/force_liker.rb" timestamp="1471682009667">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="24" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/staging.yml" timestamp="1471591744533">
         <mark key="[" line="11" column="28" />
@@ -312,13 +312,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>54.235.132.133</text>
+        <text>proxy-54-235-132-133.proximo.io</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZpc2l0ICJodHRwczovL3d3dy5mYWNlYm9vay5jb20vbG9naW4vIgo=</text>
+      <register name="0" type="4">
+        <text>proxy-auth</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4aXQK</text>
