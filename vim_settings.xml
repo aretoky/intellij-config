@@ -57,19 +57,19 @@
         <mark key="." line="4" column="38" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/show.html.slim" timestamp="1471587670140" />
-      <file name="$USER_HOME$/projects/cplus/app.json" timestamp="1471596845820">
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="21" column="152" />
-        <mark key="." line="21" column="152" />
-        <mark key="^" line="21" column="152" />
+      <file name="$USER_HOME$/projects/cplus/app.json" timestamp="1471666243039">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/copy_db_from_production_to_staging.rake" timestamp="1471663947174">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1471597191048">
-        <mark key="'" line="28" column="28" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1471665838894">
+        <mark key="'" line="33" column="11" />
         <mark key="[" line="4" column="32" />
         <mark key="]" line="7" column="13" />
         <mark key="^" line="7" column="13" />
@@ -81,6 +81,10 @@
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/environments/staging.rb" timestamp="1471665550228">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="30" column="41" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/new.html.slim" timestamp="1471588479794">
         <mark key="[" line="91" column="0" />
@@ -122,8 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="2" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="80" column="26" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="526" column="55" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="529" column="55" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="647" column="35" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -219,9 +221,11 @@
       <jump line="8" column="4" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
       <jump line="9" column="31" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
       <jump line="60" column="10" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
-      <jump line="28" column="28" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
       <jump line="4" column="7" filename="$USER_HOME$/projects/cplus/lib/tasks/heroku.rake" />
+      <jump line="0" column="16" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
+      <jump line="28" column="28" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
+      <jump line="31" column="41" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
+      <jump line="33" column="11" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,10 +308,10 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib290c3RyYXBcPg==</text>
+        <text>delete</text>
       </register>
       <register name="0" type="4">
-        <text>ginza-plus</text>
+        <text>config.action_mailer.default_url_options</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -343,9 +347,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib290c3RyYXBcPg==</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib290c3RyYXBcPg==</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -371,8 +375,8 @@
         <entry>no_telexp</entry>
         <entry>telexp</entry>
         <entry>wrapper_</entry>
-        <entry>delete</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
