@@ -44,10 +44,12 @@
         <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1471493227636" />
-      <file name="$USER_HOME$/projects/raditools/class/force_liker.rb" timestamp="1471673903024">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/raditools/class/force_liker.rb" timestamp="1471677511710">
+        <mark key="'" line="21" column="14" />
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+        <mark key="^" line="64" column="31" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/staging.yml" timestamp="1471591744533">
         <mark key="[" line="11" column="28" />
@@ -131,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="526" column="55" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="529" column="55" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="647" column="35" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="33" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -231,6 +232,7 @@
       <jump line="28" column="28" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
       <jump line="31" column="41" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
       <jump line="33" column="11" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
+      <jump line="20" column="14" filename="$USER_HOME$/projects/raditools/class/force_liker.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -310,42 +312,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>54.235.132.133</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
-      <register name="0" type="4">
-        <text>proximo.io</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZpc2l0ICJodHRwczovL3d3dy5mYWNlYm9vay5jb20vbG9naW4vIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZpc2l0ICJodHRwczovL2dvb2dsZS5jb20vIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZpc2l0ICJodHRwczovL2dvb2dsZS5jb20vIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
       &quot;description&quot;: &quot;A secret key for verifying the integrity of signed cookies.&quot;,
       &quot;generator&quot;: &quot;secret&quot;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykucGFyZW50KCkpCg==</text>
+        <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5idG4tYm94LmNvbC14cy1vZmZzZXQtNQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykucGFyZW50KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
