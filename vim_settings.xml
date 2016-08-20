@@ -44,6 +44,12 @@
         <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1471493227636" />
+      <file name="$USER_HOME$/projects/raditools/class/force_liker.rb" timestamp="1471672712149">
+        <mark key="[" line="60" column="23" />
+        <mark key="]" line="61" column="21" />
+        <mark key="^" line="61" column="21" />
+        <mark key="." line="61" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/staging.yml" timestamp="1471591744533">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="33" />
@@ -305,13 +311,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="4">
-        <text>config.action_mailer.default_url_options</text>
+        <text>proximo.io</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
