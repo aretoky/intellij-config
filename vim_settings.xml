@@ -44,12 +44,12 @@
         <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1471493227636" />
-      <file name="$USER_HOME$/projects/raditools/class/force_liker.rb" timestamp="1471682009667">
+      <file name="$USER_HOME$/projects/raditools/class/force_liker.rb" timestamp="1471712877654">
         <mark key="'" line="23" column="14" />
-        <mark key="[" line="71" column="15" />
-        <mark key="]" line="71" column="24" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="3" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="10" column="82" />
+        <mark key="." line="10" column="82" />
+        <mark key="^" line="10" column="82" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/staging.yml" timestamp="1471591744533">
         <mark key="[" line="11" column="28" />
@@ -321,13 +321,13 @@
         <text>proxy-auth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZpc2l0ICJodHRwczovL2dvb2dsZS5jb20vIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -336,18 +336,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGV4aXQK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      &quot;description&quot;: &quot;A secret key for verifying the integrity of signed cookies.&quot;,
-      &quot;generator&quot;: &quot;secret&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
+        <text encoding="base64">ICAgIHZpc2l0ICJodHRwczovL2dvb2dsZS5jb20vIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFXU19TM19CVUNLRVQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
