@@ -9,11 +9,11 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/edit.html.slim" timestamp="1471588465892">
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="19" />
-        <mark key="^" line="52" column="19" />
-        <mark key="." line="52" column="19" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/edit.html.slim" timestamp="1471834348734">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/heroku.rake" timestamp="1471663973224">
         <mark key="'" line="4" column="7" />
@@ -93,7 +93,7 @@
         <mark key="[" line="30" column="2" />
         <mark key="]" line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/new.html.slim" timestamp="1471588479794">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/new.html.slim" timestamp="1471834337141">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="6" />
         <mark key="." line="91" column="6" />
@@ -103,11 +103,11 @@
         <mark key="]" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/_form.html.slim" timestamp="1471587975259">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="3" column="69" />
-        <mark key="^" line="5" column="74" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/_form.html.slim" timestamp="1471834252997">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/production.yml" timestamp="1471591794951">
         <mark key="[" line="14" column="4" />
@@ -315,7 +315,7 @@
         <text>headers</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>cust</text>
       </register>
       <register name="0" type="4">
         <text>velodrome.usefixie.com:80</text>
@@ -352,9 +352,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>cust</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>cust</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -362,7 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>order</entry>
         <entry>order(</entry>
         <entry>show_daily</entry>
         <entry>@dailyorders</entry>
@@ -382,6 +381,7 @@
         <entry>wrapper_</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
         <entry>delete</entry>
+        <entry>cust</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
