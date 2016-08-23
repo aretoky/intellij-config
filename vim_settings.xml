@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/projects/pos-calc/app/helpers/application_helper.rb" timestamp="1469088509717">
         <mark key="[" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" timestamp="1471973780136">
-        <mark key="'" line="73" column="15" />
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="39" />
-        <mark key="." line="38" column="39" />
-        <mark key="^" line="83" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" timestamp="1471974296647">
+        <mark key="'" line="78" column="20" />
+        <mark key="[" line="86" column="44" />
+        <mark key="]" line="86" column="68" />
+        <mark key="." line="86" column="68" />
+        <mark key="^" line="86" column="68" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/placeymds/_index.html.slim" timestamp="1471950809752" />
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/composite_primary_keys_patch.rb" timestamp="1471941983604">
@@ -385,9 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="37" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="345" column="26" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="362" column="28" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="150" column="39" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="338" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -480,11 +477,14 @@
       <jump line="75" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="0" column="19" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="45" column="11" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
-      <jump line="73" column="15" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="40" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" />
       <jump line="81" column="14" filename="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" />
+      <jump line="73" column="49" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
+      <jump line="82" column="31" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
+      <jump line="86" column="56" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
+      <jump line="78" column="20" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -567,7 +567,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>wait: 15</text>
+        <text>cal-daysbox</text>
       </register>
       <register name="0" type="4">
         <text>&quot;#{day_id} .cal-daysbox&quot;</text>
@@ -604,9 +604,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wait: 15</last-search>
+      <last-search>cal-daysbox</last-search>
       <last-offset />
-      <last-pattern>wait: 15</last-pattern>
+      <last-pattern>cal-daysbox</last-pattern>
       <last-replace>wait: 25</last-replace>
       <last-substitute>wait: 15</last-substitute>
       <last-dir>1</last-dir>
@@ -614,7 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_telexp</entry>
         <entry>telexp</entry>
         <entry>wrapper_</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
@@ -634,6 +633,7 @@
         <entry>モーダルフォーム中のチェックボックスにチェックが入っていること</entry>
         <entry>ーダルフォーム中のチェックボックスにチェックが入っていること</entry>
         <entry>wait: 15</entry>
+        <entry>cal-daysbox</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
