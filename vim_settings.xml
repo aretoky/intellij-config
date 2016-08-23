@@ -59,11 +59,6 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/room_mailtpl.rb" timestamp="1471940042208">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/composite_primary_keys_patch.rb" timestamp="1471941983604">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="14" column="3" />
@@ -91,8 +86,10 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" timestamp="1471943903683">
-        <mark key="[" line="16" column="7" />
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" timestamp="1471946430015">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/show.html.slim" timestamp="1471935815684">
         <mark key="[" line="12" column="2" />
@@ -125,12 +122,6 @@
         <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/config.php" timestamp="1471938901487" />
-      <file name="$USER_HOME$/projects/cplus/config/settings.yml" timestamp="1471940093878">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/staging.yml" timestamp="1471591744533">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="33" />
@@ -150,6 +141,11 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="22" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/copy_db_from_production_to_staging.rake" timestamp="1471663947174">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1470823594685">
         <mark key="[" line="62" column="37" />
         <mark key="]" line="62" column="37" />
@@ -167,9 +163,6 @@
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_fields.html.slim" timestamp="1471936621787" />
       <file name="$USER_HOME$/projects/cplus/app/models/mailtpl.rb" timestamp="1471940032343">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="20" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1471940943876">
@@ -195,12 +188,22 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/new.html.slim" timestamp="1471834337141">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="6" />
+        <mark key="." line="91" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/new.html.slim" timestamp="1471932787133" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/_form.html.slim" timestamp="1471932618783">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/application_controller.rb" timestamp="1471596560539">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1470816866617">
         <mark key="[" line="8" column="0" />
@@ -219,10 +222,11 @@
         <mark key="^" line="14" column="38" />
         <mark key="." line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/admin_application/_day_calender.html.slim" timestamp="1471943358046">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/admin_application/_day_calender.html.slim" timestamp="1471946073947">
+        <mark key="[" line="0" column="84" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/edit.html.slim" timestamp="1471587624610" />
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1471497020371" />
@@ -253,6 +257,16 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/environments/production.rb" timestamp="1471488167501">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" timestamp="1471946463357">
+        <mark key="'" line="59" column="17" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/DailySFposter/.gitignore" timestamp="1467856870832">
         <mark key="[" line="45" column="0" />
       </file>
@@ -264,11 +278,10 @@
         <mark key="[" line="35" column="2" />
         <mark key="]" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/admin_application/_address_fields.html.slim" timestamp="1471940486769">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="28" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="28" column="28" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/admin_application/_address_fields.html.slim" timestamp="1471944761165">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1470987605565">
         <mark key="[" line="3" column="19" />
@@ -281,13 +294,13 @@
         <mark key="'" line="128" column="14" />
         <mark key="[" line="170" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/deploy/staging.rb" timestamp="1471575106860">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="417" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="418" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="424" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="444" column="146" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="451" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="453" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="461" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -383,6 +396,11 @@
       <jump line="128" column="14" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
       <jump line="17" column="15" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
+      <jump line="0" column="6" filename="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" />
+      <jump line="35" column="50" filename="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" />
+      <jump line="46" column="15" filename="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" />
+      <jump line="51" column="8" filename="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" />
+      <jump line="59" column="17" filename="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -462,49 +480,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IGlkPSJkI3t0ZW1wX3ltZC55bWR9Ig==</text>
       </register>
       <register name="/" type="4">
-        <text>placeymds</text>
+        <text>click</text>
       </register>
       <register name="0" type="4">
-        <text>@object_ymd.id</text>
+        <text>first(&quot;tr.cust_transfer_addrs .add_fields&quot;).click</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA9IGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcCBhCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgQG9iamVjdF95bWQuaWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgQG9iamVjdF95bWQK</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgQG9iamVjdF95bWQuaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgaWQK</text>
+        <text encoding="base64">ICAgIGl0ICIyMDE25bm0N+aciDfml6XjgpLjgq/jg6rjg4Pjgq8iIGRvCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcCBpZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgcGFyYW1zWzppZF0K</text>
+      <register name="8" type="4">
+        <text>/= link_to (ymd.placeymd != nil ? edit_admin_placeymd_path(ymd.placeymd) : new_admin_placeymd_path(no_place: place.no_place, dt_ymd: ymd.dt_ymd)), remote: true do
+    div class=([ymd.rest? ? &quot;cal-daysbox-rest &quot; : nil].compact.join(&quot; &quot;))
+      = ymd.day</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvPSBsaW5rX3RvICh5bWQucGxhY2V5bWQgIT0gbmlsID8gZWRpdF9hZG1pbl9wbGFjZXltZF9wYXRoKHltZC5wbGFjZXltZCkgOiBuZXdfYWRtaW5fcGxhY2V5bWRfcGF0aChub19wbGFjZTogcGxhY2Uubm9fcGxhY2UsIGR0X3ltZDogeW1kLmR0X3ltZCkpLCByZW1vdGU6IHRydWUgZG8K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>placeymds</last-search>
+      <last-search>click</last-search>
       <last-offset />
-      <last-pattern>placeymds</last-pattern>
+      <last-pattern>click</last-pattern>
       <last-replace>Places</last-replace>
       <last-substitute>Sales</last-substitute>
       <last-dir>1</last-dir>
@@ -512,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.order(</entry>
         <entry>quanti</entry>
         <entry>sales</entry>
         <entry>book</entry>
@@ -532,6 +551,7 @@
         <entry>no_room</entry>
         <entry>room</entry>
         <entry>placeymds</entry>
+        <entry>click</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ymdroom_save_form/ymdroom_saving_form/g</entry>
