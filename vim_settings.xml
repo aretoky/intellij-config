@@ -86,10 +86,10 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" timestamp="1471946430015">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" timestamp="1471946595665">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/show.html.slim" timestamp="1471935815684">
         <mark key="[" line="12" column="2" />
@@ -489,33 +489,33 @@
         <text>first(&quot;tr.cust_transfer_addrs .add_fields&quot;).click</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmlyc3QoIiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0ICIyMDE25bm0N+aciDfml6XjgpLjgq/jg6rjg4Pjgq8iIGRvCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGl0ICIyMDE25bm0N+aciDfml6XjgpLjgq/jg6rjg4Pjgq8iIGRvCgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/= link_to (ymd.placeymd != nil ? edit_admin_placeymd_path(ymd.placeymd) : new_admin_placeymd_path(no_place: place.no_place, dt_ymd: ymd.dt_ymd)), remote: true do
     div class=([ymd.rest? ? &quot;cal-daysbox-rest &quot; : nil].compact.join(&quot; &quot;))
       = ymd.day</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvPSBsaW5rX3RvICh5bWQucGxhY2V5bWQgIT0gbmlsID8gZWRpdF9hZG1pbl9wbGFjZXltZF9wYXRoKHltZC5wbGFjZXltZCkgOiBuZXdfYWRtaW5fcGxhY2V5bWRfcGF0aChub19wbGFjZTogcGxhY2Uubm9fcGxhY2UsIGR0X3ltZDogeW1kLmR0X3ltZCkpLCByZW1vdGU6IHRydWUgZG8K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
