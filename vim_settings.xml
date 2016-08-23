@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/projects/pos-calc/app/helpers/application_helper.rb" timestamp="1469088509717">
         <mark key="[" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" timestamp="1471974296647">
-        <mark key="'" line="78" column="20" />
-        <mark key="[" line="86" column="44" />
-        <mark key="]" line="86" column="68" />
-        <mark key="." line="86" column="68" />
-        <mark key="^" line="86" column="68" />
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" timestamp="1471976926973">
+        <mark key="'" line="51" column="10" />
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="19" />
+        <mark key="." line="51" column="19" />
+        <mark key="^" line="67" column="20" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/placeymds/_index.html.slim" timestamp="1471950809752" />
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/composite_primary_keys_patch.rb" timestamp="1471941983604">
@@ -205,12 +205,12 @@
         <mark key="." line="0" column="123" />
         <mark key="^" line="0" column="123" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" timestamp="1471972324557">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="50" column="53" />
-        <mark key="." line="50" column="53" />
-        <mark key="^" line="50" column="53" />
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" timestamp="1471976892265">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/show.html.slim" timestamp="1471935815684">
         <mark key="[" line="12" column="2" />
@@ -250,12 +250,12 @@
         <mark key="." line="4" column="38" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/show.html.slim" timestamp="1471587670140" />
-      <file name="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" timestamp="1471973293197">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="50" column="53" />
-        <mark key="]" line="77" column="51" />
-        <mark key="." line="77" column="51" />
-        <mark key="^" line="77" column="51" />
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" timestamp="1471977047725">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app.json" timestamp="1471666243039">
         <mark key="[" line="22" column="4" />
@@ -385,11 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="150" column="39" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="338" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="341" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="2" column="208" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="3" column="43" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="1" column="7" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="35" column="44" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -475,16 +470,21 @@
       <jump line="0" column="2" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="61" column="8" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
-      <jump line="0" column="19" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="45" column="11" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="40" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" />
       <jump line="81" column="14" filename="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" />
       <jump line="73" column="49" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="82" column="31" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="86" column="56" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
       <jump line="78" column="20" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
+      <jump line="92" column="6" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
+      <jump line="67" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
+      <jump line="51" column="10" filename="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" />
+      <jump line="62" column="12" filename="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" />
+      <jump line="0" column="20" filename="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" />
+      <jump line="0" column="12" filename="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -564,49 +564,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>, wait: 15</text>
       </register>
       <register name="/" type="4">
-        <text>cal-daysbox</text>
+        <text>休日になっているか確認する</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;#{day_id} .cal-daysbox&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAgMC41Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAgMQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbGVlcCAxCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluZChjaGVja2JveF9sYWJlbCwgd2FpdDogMTUpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbGVlcCA1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAgMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzbGVlcCAwLjUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzbGVlcCAxCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNsZWVwIDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzbGVlcCA1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNsZWVwIDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzbGVlcCAwLjUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNsZWVwIDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/wait: 15/wait: 25/g</text>
       </register>
     </registers>
     <search>
-      <last-search>cal-daysbox</last-search>
+      <last-search>休日になっているか確認する</last-search>
       <last-offset />
-      <last-pattern>cal-daysbox</last-pattern>
+      <last-pattern>休日になっているか確認する</last-pattern>
       <last-replace>wait: 25</last-replace>
       <last-substitute>wait: 15</last-substitute>
       <last-dir>1</last-dir>
@@ -614,7 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>telexp</entry>
         <entry>wrapper_</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
         <entry>delete</entry>
@@ -628,12 +627,13 @@
         <entry>place</entry>
         <entry>休日</entry>
         <entry encoding="base64">ICAgICAgICAgIOODouODvOODgOODq+ODleOCqeODvOODoOS4reOBruODgeOCp+ODg+OCr+ODnOODg+OCr+OCueOBq+ODgeOCp+ODg+OCr+OBjOWFpeOBo+OBpuOBhOOCi+OBk+OBqCAoRkFJTEVEIC0gMSkg</entry>
-        <entry>休日になっているか確認する</entry>
         <entry>ーダルフォーム中のチェックボックスにチェックが入っ</entry>
         <entry>モーダルフォーム中のチェックボックスにチェックが入っていること</entry>
         <entry>ーダルフォーム中のチェックボックスにチェックが入っていること</entry>
         <entry>wait: 15</entry>
         <entry>cal-daysbox</entry>
+        <entry>sleep</entry>
+        <entry>休日になっているか確認する</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
