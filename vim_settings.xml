@@ -260,6 +260,12 @@
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1472086298712">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/new.html.slim" timestamp="1471834337141">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="6" />
@@ -335,7 +341,7 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="/a.regexp" timestamp="1472042992944">
+      <file name="/a.regexp" timestamp="1472086009717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/mailtplable.rb" timestamp="1471940132623">
@@ -351,6 +357,9 @@
       </file>
       <file name="$USER_HOME$/projects/DailySFposter/.gitignore" timestamp="1467856870832">
         <mark key="[" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/lib/capistrano/tasks/delayed_job.rake" timestamp="1472086023101">
+        <mark key="'" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/admin_application/_address_fields.html.slim" timestamp="1471944761165">
         <mark key="[" line="30" column="0" />
@@ -370,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="43" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="1" column="7" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="35" column="44" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="37" column="13" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -470,6 +478,7 @@
       <jump line="62" column="12" filename="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" />
       <jump line="0" column="20" filename="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" />
       <jump line="0" column="12" filename="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" />
+      <jump line="8" column="4" filename="$USER_HOME$/projects/pos-calc/lib/capistrano/tasks/delayed_job.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -549,10 +558,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, wait: 15</text>
+        <text>worker</text>
       </register>
       <register name="/" type="4">
-        <text>休日になっているか確認する</text>
+        <text>delayed_job_server_role</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2xlZXAgMC41Cg==</text>
@@ -589,9 +598,9 @@
       </register>
     </registers>
     <search>
-      <last-search>休日になっているか確認する</last-search>
+      <last-search>delayed_job_server_role</last-search>
       <last-offset />
-      <last-pattern>休日になっているか確認する</last-pattern>
+      <last-pattern>delayed_job_server_role</last-pattern>
       <last-replace>wait: 25</last-replace>
       <last-substitute>wait: 15</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +608,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrapper_</entry>
         <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
         <entry>delete</entry>
         <entry>cust</entry>
@@ -619,6 +627,7 @@
         <entry>cal-daysbox</entry>
         <entry>sleep</entry>
         <entry>休日になっているか確認する</entry>
+        <entry>delayed_job_server_role</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
