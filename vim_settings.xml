@@ -116,6 +116,13 @@
         <mark key="." line="3" column="172" />
         <mark key="^" line="3" column="172" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1472096265527">
+        <mark key="'" line="256" column="0" />
+        <mark key="[" line="620" column="36" />
+        <mark key="]" line="623" column="38" />
+        <mark key="." line="623" column="38" />
+        <mark key="^" line="623" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1472097012585">
         <mark key="[" line="126" column="8" />
         <mark key="]" line="132" column="8" />
@@ -284,6 +291,13 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1472610828909">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="22" />
+        <mark key="^" line="76" column="22" />
+        <mark key="." line="76" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/production.yml" timestamp="1471591794951">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="38" />
@@ -319,6 +333,13 @@
         <mark key="]" line="1" column="65" />
         <mark key="^" line="1" column="65" />
         <mark key="." line="1" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/tohan.pdf.erb" timestamp="1472094367280">
+        <mark key="'" line="6" column="50" />
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="70" />
+        <mark key="." line="30" column="70" />
+        <mark key="^" line="30" column="70" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/interims_controller.rb" timestamp="1472541485845" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/export.html.erb" timestamp="1472092828824">
@@ -378,10 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="355" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="396" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="397" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="451" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="93" column="28" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="96" column="26" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -478,6 +495,10 @@
       <jump line="14" column="2" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="34" column="2" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="105" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/book.rb" />
+      <jump line="52" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
+      <jump line="59" column="78" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
+      <jump line="38" column="20" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -560,7 +581,7 @@
         <text>mailtpl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IGxvYWRpbmdfdGltZV9vcmRlcl90eXBl</text>
+        <text>store_list_mass_input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coY2hyb21lLnJ1bnRpbWUuZ2V0TWFuaWZlc3QoKS5uYW1lKTsK</text>
@@ -597,9 +618,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IGxvYWRpbmdfdGltZV9vcmRlcl90eXBl</last-search>
+      <last-search>store_list_mass_input</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IGxvYWRpbmdfdGltZV9vcmRlcl90eXBl</last-pattern>
+      <last-pattern>store_list_mass_input</last-pattern>
       <last-replace>wait: 25</last-replace>
       <last-substitute>wait: 15</last-substitute>
       <last-dir>1</last-dir>
@@ -607,9 +628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>モーダルフォーム中のチェックボックスにチェックが入っていること</entry>
-        <entry>ーダルフォーム中のチェックボックスにチェックが入っていること</entry>
-        <entry>wait: 15</entry>
         <entry>cal-daysbox</entry>
         <entry>sleep</entry>
         <entry>休日になっているか確認する</entry>
@@ -627,6 +645,9 @@
         <entry>show</entry>
         <entry>def show</entry>
         <entry encoding="base64">IGxvYWRpbmdfdGltZV9vcmRlcl90eXBl</entry>
+        <entry>daily_order_mass_inputs</entry>
+        <entry>storelist</entry>
+        <entry>store_list_mass_input</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
