@@ -271,12 +271,12 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1472836813136">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="53" column="45" />
-        <mark key="]" line="53" column="52" />
-        <mark key="^" line="53" column="52" />
-        <mark key="." line="53" column="52" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1472838669113">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="40" />
+        <mark key="^" line="121" column="35" />
+        <mark key="." line="121" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/mailtpl.rb" timestamp="1472542624586">
         <mark key="[" line="29" column="16" />
@@ -321,12 +321,10 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1472837498436">
-        <mark key="'" line="41" column="53" />
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="43" column="5" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1472839183056">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/production.yml" timestamp="1471591794951">
         <mark key="[" line="14" column="4" />
@@ -416,12 +414,10 @@
       <file name="$USER_HOME$/projects/DailySFposter/.gitignore" timestamp="1467856870832">
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" timestamp="1472835754480">
-        <mark key="'" line="125" column="90" />
-        <mark key="[" line="127" column="18" />
-        <mark key="]" line="127" column="23" />
-        <mark key="." line="127" column="23" />
-        <mark key="^" line="127" column="23" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" timestamp="1472839610969">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/lib/capistrano/tasks/delayed_job.rake" timestamp="1472086023101">
         <mark key="'" line="8" column="4" />
@@ -620,40 +616,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dailyorder.store_name_kanji.present?</text>
       </register>
       <register name="/" type="4">
         <text>bansen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIDpuZXcgYW5kIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGlmIGYub2JqZWN0LmNvbmZpcm1pbmcgIT0gImVkaXRfcHJldmlldyIgJT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCU9IGRhaWx5b3JkZXIuYmFuc2VuICU+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGlmIGRhaWx5b3JkZXIuc3RvcmVfbmFtZV9rYW5qaS5ibGFuaz8gJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2lmICFpc192YWxpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGlmIGRhaWx5b3JkZXIuc3RvcmVfbmFtZV9rYW5qaS5wcmVzZW50PyAlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIDpwcmV2aWV3IGFuZCByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/wait: 15/wait: 25/g</text>
