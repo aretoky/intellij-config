@@ -271,12 +271,12 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1472740860182">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="80" column="119" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1472809371275">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="154" column="85" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/mailtpl.rb" timestamp="1472542624586">
         <mark key="[" line="29" column="16" />
@@ -321,12 +321,11 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1472738958229">
-        <mark key="'" line="40" column="53" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="64" column="1" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1472809756504">
+        <mark key="'" line="41" column="53" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/production.yml" timestamp="1471591794951">
         <mark key="[" line="14" column="4" />
@@ -416,11 +415,12 @@
       <file name="$USER_HOME$/projects/DailySFposter/.gitignore" timestamp="1467856870832">
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" timestamp="1472739125936">
-        <mark key="[" line="119" column="90" />
-        <mark key="]" line="119" column="95" />
-        <mark key="^" line="119" column="95" />
-        <mark key="." line="119" column="95" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" timestamp="1472808779442">
+        <mark key="'" line="47" column="21" />
+        <mark key="[" line="106" column="130" />
+        <mark key="]" line="106" column="133" />
+        <mark key="^" line="106" column="133" />
+        <mark key="." line="106" column="133" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/lib/capistrano/tasks/delayed_job.rake" timestamp="1472086023101">
         <mark key="'" line="8" column="4" />
@@ -440,8 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="191" column="41" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="392" column="54" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="456" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -540,6 +538,8 @@
       <jump line="132" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="8" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="17" column="58" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" />
+      <jump line="47" column="21" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -619,49 +619,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>store_name_kanji</text>
+        <text encoding="base64">JiYgQGRhaWx5X29yZGVyX21hc3NfaW5wdXQuY29uZmlybWluZyA9PSAicHJldmlldyI=</text>
       </register>
       <register name="/" type="4">
-        <text>bansen</text>
+        <text>tori</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlPSBmLnRleHRfZmllbGQgOnN0b3JlX25hbWVfa2FuamksIG5hbWU6ICJkYWlseV9vcmRlcl9tYXNzX2lucHV0W3N0b3JlbGlzdF9hdHRyaWJ1dGVzXVtdW3N0b3JlX25hbWVfa2FuamldIiwgdmFsdWU6IHN0b3JlbGlzdF9hdHRyaWJ1dGVbOnN0b3JlX25hbWVfa2FuamldICAlPgo=</text>
+      <register name="0" type="4">
+        <text>sa[:toritsugi_code] == f.object.toritsugi_type_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZWxzaWYgdG9yaXRzdWdpX3R5cGVfaWQgIT0gdG9yaXRzdWdpLnRvcml0c3VnaV90eXBlX2lkCg==</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyIDpwcmV2aWV3IGFuZCByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgIGVsc2lmIGlzX3ZhbGlkICYmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGEK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGEK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name=":" type="4">
         <text>s/wait: 15/wait: 25/g</text>
       </register>
     </registers>
     <search>
-      <last-search>bansen</last-search>
+      <last-search>tori</last-search>
       <last-offset />
-      <last-pattern>bansen</last-pattern>
+      <last-pattern>tori</last-pattern>
       <last-replace>wait: 25</last-replace>
       <last-substitute>wait: 15</last-substitute>
       <last-dir>1</last-dir>
@@ -669,8 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>daily_order_mass_inputs</entry>
-        <entry>storelist</entry>
         <entry>store_list_mass_input</entry>
         <entry>has_</entry>
         <entry>dt_bill</entry>
@@ -689,6 +687,8 @@
         <entry>storelist_attributes</entry>
         <entry>default</entry>
         <entry>bansen</entry>
+        <entry>confirming</entry>
+        <entry>tori</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
