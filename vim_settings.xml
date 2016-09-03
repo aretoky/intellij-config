@@ -36,6 +36,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/author-debut/Gemfile" timestamp="1472866734641">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/rooms/_room_mailtpl_fields.html.slim" timestamp="1471938934753">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="24" />
@@ -105,6 +111,7 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1472866484398" />
       <file name="$USER_HOME$/projects/cplus/config/deploy/production.rb" timestamp="1471575641790">
         <mark key="[" line="2" column="35" />
       </file>
@@ -141,6 +148,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/author-debut/app/controllers/application_controller.rb" timestamp="1472866846137">
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="53" />
+        <mark key="^" line="1" column="54" />
+        <mark key="." line="1" column="53" />
       </file>
       <file name="$USER_HOME$/projects/cplus/.env" timestamp="1471594760877">
         <mark key="[" line="9" column="14" />
@@ -412,6 +425,7 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/app/controllers/application_controller.rb" timestamp="1472866826156" />
       <file name="$USER_HOME$/projects/DailySFposter/.gitignore" timestamp="1467856870832">
         <mark key="[" line="45" column="0" />
       </file>
@@ -423,7 +437,7 @@
       <file name="$USER_HOME$/projects/pos-calc/lib/capistrano/tasks/delayed_job.rake" timestamp="1472086023101">
         <mark key="'" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1470987605565">
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1472866679190">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
@@ -617,7 +631,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dailyorder.store_name_kanji.present?</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>bansen</text>
@@ -626,31 +640,31 @@
         <text encoding="base64">ICAgICAgICAgIDwlIGlmIGYub2JqZWN0LmNvbmZpcm1pbmcgIT0gImVkaXRfcHJldmlldyIgJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdzYXNzLXJhaWxzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IGRhaWx5b3JkZXIuYmFuc2VuICU+Cg==</text>
+        <text encoding="base64">Z2VtICdzcWxpdGUzJwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIGlmIGRhaWx5b3JkZXIuc3RvcmVfbmFtZV9rYW5qaS5ibGFuaz8gJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCU9IGRhaWx5b3JkZXIuYmFuc2VuICU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIGlmIGRhaWx5b3JkZXIuc3RvcmVfbmFtZV9rYW5qaS5wcmVzZW50PyAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGlmIGRhaWx5b3JkZXIuc3RvcmVfbmFtZV9rYW5qaS5ibGFuaz8gJT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGlmIGRhaWx5b3JkZXIuc3RvcmVfbmFtZV9rYW5qaS5wcmVzZW50PyAlPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/wait: 15/wait: 25/g</text>
