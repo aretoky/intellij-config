@@ -81,6 +81,13 @@
       </file>
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1473041702610" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/pages/about.volt" timestamp="1473042504378" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1473070139532">
+        <mark key="'" line="321" column="8" />
+        <mark key="[" line="132" column="13" />
+        <mark key="]" line="132" column="23" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="622" column="38" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1472097012585">
         <mark key="[" line="126" column="8" />
         <mark key="]" line="132" column="8" />
@@ -172,6 +179,12 @@
         <mark key="." line="1" column="52" />
       </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/posts/parts/imageSetter.volt" timestamp="1473068915120" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1473071757805">
+        <mark key="'" line="42" column="87" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/works/index.volt" timestamp="1473051661169" />
       <file name="$USER_HOME$/projects/cplus/config/settings/production.yml" timestamp="1471591794951">
         <mark key="[" line="14" column="4" />
@@ -200,6 +213,7 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/app/assets/stylesheets/foundation_and_overrides.scss" timestamp="1473070487709" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/layouts/posts.volt" timestamp="1473055829541" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/rooms/show.html.slim" timestamp="1471935842973">
         <mark key="[" line="12" column="44" />
@@ -467,12 +481,12 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1472838669113">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="95" column="16" />
-        <mark key="]" line="95" column="40" />
-        <mark key="^" line="121" column="35" />
-        <mark key="." line="121" column="35" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1473071977709">
+        <mark key="'" line="22" column="51" />
+        <mark key="[" line="44" column="76" />
+        <mark key="]" line="44" column="76" />
+        <mark key="^" line="44" column="76" />
+        <mark key="." line="44" column="76" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/assets/stylesheets/crmg.min.css" timestamp="1473055756014">
         <mark key="'" line="8" column="113" />
@@ -505,6 +519,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" timestamp="1473070827754">
+        <mark key="'" line="29" column="11" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/emps/show.html.slim" timestamp="1472546382177">
         <mark key="[" line="6" column="43" />
@@ -592,10 +613,11 @@
         <mark key="." line="0" column="49" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/controllers/concerns/scaffoldable.rb" timestamp="1473051298422" />
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" timestamp="1472839610969">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" timestamp="1473074025289">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1472867835771" />
       <file name="$USER_HOME$/projects/pos-calc/lib/capistrano/tasks/delayed_job.rake" timestamp="1472086023101">
@@ -609,25 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="38" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="55" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="111" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="114" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="137" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="138" column="36" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="183" column="63" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="319" column="35" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="445" column="153" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="116" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="117" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="166" column="78" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="91" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="338" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="9" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="7" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="92" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="131" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="111" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
       <jump line="132" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -709,6 +712,25 @@
       <jump line="0" column="19" filename="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/posts/work.volt" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/author-debut/app/views/works/_form.html.erb" />
       <jump line="73" column="67" filename="$USER_HOME$/projects/author-debut/app/views/works/_form.html.erb" />
+      <jump line="321" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="29" column="11" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" />
+      <jump line="30" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
+      <jump line="79" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
+      <jump line="42" column="87" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
+      <jump line="153" column="58" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="55" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="56" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="57" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="63" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="64" column="38" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="95" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="96" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="116" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="121" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="122" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="22" column="51" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -788,49 +810,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>storelist_attributes</text>
       </register>
       <register name="0" type="4">
-        <text>form-control flat-form</text>
+        <text encoding="base64">PCUgZi5vYmplY3Quc3RvcmVsaXN0X2F0dHJpYnV0ZXMgfHw9IEFycmF5Lm5ldyAlPgogICAgICAgICAgPCUgc3RvcmVsaXN0X2F0dHJpYnV0ZSA9IGYub2JqZWN0LnNlYXJjaF9zdG9yZWxpc3RfYXR0cmlidXRlcyhmLm9iamVjdC50b3JpdHN1Z2lfdHlwZV9pZCwgZGFpbHlvcmRlci50X3N5b3Rlbl9jZCkgICU+CiAgICAgICAgICA8JSB1bmxlc3Mgc3RvcmVsaXN0X2F0dHJpYnV0ZSAlPgogICAgICAgICAgICA8JSBmLm9iamVjdC5zdG9yZWxpc3RfYXR0cmlidXRlcy5wdXNoKHRvcml0c3VnaV9jb2RlOiBmLm9iamVjdC50b3JpdHN1Z2lfdHlwZV9pZCwgdF9zeW90ZW5fY2Q6IGRhaWx5b3JkZXIudF9zeW90ZW5fY2QsIHN0b3JlX25hbWVfa2Fuamk6ICIiICkgJT4KICAgICAgICAgICAgPCUgc3RvcmVsaXN0X2F0dHJpYnV0ZSA9IGYub2JqZWN0LnNlYXJjaF9zdG9yZWxpc3RfYXR0cmlidXRlcyhmLm9iamVjdC50b3JpdHN1Z2lfdHlwZV9pZCwgZGFpbHlvcmRlci50X3N5b3Rlbl9jZCkgJT4KICAgICAgICAgIDwlIGVuZCAlPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBwYXJ0aWFsKCJwb3N0cy9wYXJ0cy9pbWFnZVNldHRlciIpIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBzdWJtaXRfYnV0dG9uKCLkv53lrZjjgZnjgosiLCJjbGFzcyI6ImJ0biBidG4tc3VjY2VzcyIpIH19Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PCUgc3RvcmVsaXN0X2F0dHJpYnV0ZXMuZWFjaCBkbyB8c3RvcmVsaXN0X2F0dHJpYnV0ZXwgJT4KCiAgPCUgZW5kICU+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPCUgYSAlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8JSBhICU+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PCUgYSAlPgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PCUgZi5vYmplY3Quc3RvcmVsaXN0X2F0dHJpYnV0ZXMgfHw9IEFycmF5Lm5ldyAlPgogICAgICAgICAgPCUgc3RvcmVsaXN0X2F0dHJpYnV0ZSA9IGYub2JqZWN0LnNlYXJjaF9zdG9yZWxpc3RfYXR0cmlidXRlcyhmLm9iamVjdC50b3JpdHN1Z2lfdHlwZV9pZCwgZGFpbHlvcmRlci50X3N5b3Rlbl9jZCkgICU+CiAgICAgICAgICA8JSB1bmxlc3Mgc3RvcmVsaXN0X2F0dHJpYnV0ZSAlPgogICAgICAgICAgICA8JSBmLm9iamVjdC5zdG9yZWxpc3RfYXR0cmlidXRlcy5wdXNoKHRvcml0c3VnaV9jb2RlOiBmLm9iamVjdC50b3JpdHN1Z2lfdHlwZV9pZCwgdF9zeW90ZW5fY2Q6IGRhaWx5b3JkZXIudF9zeW90ZW5fY2QsIHN0b3JlX25hbWVfa2Fuamk6ICIiICkgJT4KICAgICAgICAgIDwlIGVuZCAlPg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBjb250ZW50KCkgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/wait: 15/wait: 25/g</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>storelist_attributes</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>storelist_attributes</last-pattern>
       <last-replace>wait: 25</last-replace>
       <last-substitute>wait: 15</last-substitute>
       <last-dir>1</last-dir>
@@ -838,7 +860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_i</entry>
         <entry>441</entry>
         <entry>scope</entry>
         <entry>header_canonical</entry>
@@ -858,6 +879,7 @@
         <entry>new</entry>
         <entry>work</entry>
         <entry>form</entry>
+        <entry>storelist_attributes</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
