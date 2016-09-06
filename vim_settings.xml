@@ -171,6 +171,12 @@
         <mark key="^" line="110" column="31" />
         <mark key="." line="62" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/daily_order_mass_inputs.js.coffee" timestamp="1473149412411">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="77" />
+        <mark key="^" line="12" column="77" />
+        <mark key="." line="12" column="77" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" timestamp="1472135483427">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="14" column="45" />
@@ -868,8 +874,8 @@
       <register name="/" type="4">
         <text>cd_py</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpub19ib29rX2VxCg==</text>
+      <register name="0" type="4">
+        <text>$(&quot;#dailyorders-&quot; + $(this).data(&quot;row&quot;))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBub19ib29rX2VxOiDkuojntITnlarlj7cK</text>
