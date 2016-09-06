@@ -22,11 +22,10 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/concerns/belongs_to_cust.rb" timestamp="1473155326770">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
+      <file name="$USER_HOME$/projects/cplus/app/models/concerns/belongs_to_cust.rb" timestamp="1473160331139">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/Gemfile" timestamp="1473057006122">
         <mark key="'" line="0" column="0" />
@@ -104,6 +103,11 @@
         <mark key="." line="37" column="36" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1473041702610" />
+      <file name="$USER_HOME$/projects/author-debut/.gitignore" timestamp="1472867872220">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/pages/about.volt" timestamp="1473042504378" />
       <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1473070139532">
         <mark key="'" line="321" column="8" />
@@ -196,9 +200,6 @@
         <mark key="^" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1473041077372" />
-      <file name="$USER_HOME$/sandbox/crunchmagazine/models/Works.php" timestamp="1473083766494">
-        <mark key="'" line="217" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1470820761202">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="1" column="52" />
@@ -398,6 +399,12 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/ransack_patch.rb" timestamp="1473160801270">
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/roomymds/_save.js.erb" timestamp="1471959611002">
         <mark key="[" line="0" column="106" />
         <mark key="]" line="0" column="123" />
@@ -446,6 +453,7 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/vendor/bundle/gems/ransack-1.6.5/lib/ransack/constants.rb" timestamp="1473160545516" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_search_form.erb" timestamp="1472096563126">
         <mark key="[" line="129" column="8" />
         <mark key="]" line="135" column="8" />
@@ -654,6 +662,11 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/author-debut/app/views/works/new.html.erb" timestamp="1473078272611">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/controllers/application_controller.rb" timestamp="1472866826156" />
       <file name="$USER_HOME$/projects/author-debut/config/initializers/ar_innodb_row_format.rb" timestamp="1473044635819">
@@ -873,31 +886,31 @@
         <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgYm9vbGVhbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpvaW5zKDpjdXN0KS5tZXJnZShDdXN0LndpdGhvdXRfY3BsdXNfYWNjb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzY29wZSA6d2l0aG91dF9jcGx1c19hY2NvdW50LCAtPiAoYm9vbGVhbiA9IHRydWUpewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpvaW5zKDpjdXN0KS5tZXJnZShDdXN0LndpdGhvdXRfY3BsdXNfYWNjb3VudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgYm9vbGVhbgo=</text>
+        <text encoding="base64">ICBzY29wZSA6d2l0aG91dF9jcGx1c19hY2NvdW50LCAtPiAoYm9vbGVhbiA9IHRydWUpewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoZXJlLm5vdChub19jdXN0OiApCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgYm9vbGVhbgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+        <text encoding="base64">ICAgIHdoZXJlLm5vdChub19jdXN0OiApCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvL2c=</text>
