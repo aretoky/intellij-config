@@ -49,18 +49,18 @@
         <mark key="]" line="217" column="56" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/secrets.yml" timestamp="1473053329314" />
-      <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/daily_order_mass_inputs.js.coffee" timestamp="1473076851001">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="43" />
-        <mark key="^" line="7" column="111" />
-        <mark key="." line="12" column="43" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1473041077372" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/models/Works.php" timestamp="1473083766494">
         <mark key="'" line="217" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/config/initializers/simple_form_bootstrap.rb" timestamp="1473077668048" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/posts/parts/imageSetter.volt" timestamp="1473077491219" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1473071757805">
+        <mark key="'" line="42" column="87" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/works/index.volt" timestamp="1473051661169" />
       <file name="$USER_HOME$/projects/company-list/app/assets/stylesheets/foundation_and_overrides.scss" timestamp="1473070487709" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/layouts/posts.volt" timestamp="1473055829541" />
@@ -182,6 +182,12 @@
         <mark key="." line="8" column="46" />
       </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/controllers/PostsController.php" timestamp="1473049163098" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1473131060971">
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="113" column="13" />
+        <mark key="]" line="113" column="13" />
+        <mark key="." line="113" column="13" />
+      </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/forms/ContentForm.php" timestamp="1473085657679" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/forms/WorkForm.php" timestamp="1473082458966">
         <mark key="[" line="89" column="12" />
@@ -253,12 +259,6 @@
         <mark key="[" line="3" column="8" />
         <mark key="]" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_preview_form.html.erb" timestamp="1473076990469">
-        <mark key="[" line="27" column="61" />
-        <mark key="]" line="27" column="64" />
-        <mark key="." line="27" column="64" />
-        <mark key="^" line="27" column="64" />
-      </file>
       <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1472867835771" />
       <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1472866679190">
         <mark key="[" line="3" column="19" />
@@ -268,8 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="13" filename="$USER_HOME$/projects/author-debut/app/views/pages/about.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/author-debut/app/views/pages/about.html.erb" />
       <jump line="105" column="25" filename="$USER_HOME$/projects/author-debut/app/views/pages/about.html.erb" />
       <jump line="13" column="25" filename="$USER_HOME$/projects/author-debut/config/initializers/devise.rb" />
       <jump line="109" column="13" filename="$USER_HOME$/projects/author-debut/app/views/layouts/application.html.erb" />
@@ -368,6 +366,8 @@
       <jump line="45" column="0" filename="$USER_HOME$/projects/author-debut/app/models/work.rb" />
       <jump line="57" column="23" filename="$USER_HOME$/projects/author-debut/app/views/works/_form.html.erb" />
       <jump line="217" column="0" filename="$USER_HOME$/sandbox/crunchmagazine/models/Works.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="55" column="16" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,10 +447,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>work_id</text>
+        <text>, github: &quot;bugsnag/bugsnag-ruby&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>riy</text>
+        <text>bug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y29udGVudHMsIDp3b3JrX2lkCg==</text>
@@ -487,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search>riy</last-search>
+      <last-search>bug</last-search>
       <last-offset />
-      <last-pattern>riy</last-pattern>
+      <last-pattern>bug</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -497,7 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry>genre</entry>
         <entry>getImageUrl</entry>
         <entry>Str</entry>
         <entry>webfont</entry>
@@ -517,6 +516,7 @@
         <entry>:</entry>
         <entry>&quot;</entry>
         <entry>riy</entry>
+        <entry>bug</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MakeBillMonthService/MakeBillYearService/</entry>
