@@ -354,7 +354,7 @@
         <mark key="." line="81" column="30" />
         <mark key="^" line="81" column="30" />
       </file>
-      <file name="/a.regexp" timestamp="1473175402169">
+      <file name="/a.regexp" timestamp="1473215392535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -405,6 +405,11 @@
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" timestamp="1473167648733">
         <mark key="'" line="107" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/interims/_form.html.slim" timestamp="1473216211803">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
       </file>
       <file name="$USER_HOME$/projects/cplus/circle.yml" timestamp="1472476448003">
         <mark key="[" line="19" column="0" />
@@ -557,6 +562,7 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1473215464349" />
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/env/info_edit_confirm.php" timestamp="1473174284542">
         <mark key="'" line="150" column="67" />
       </file>
@@ -596,6 +602,12 @@
       <file name="$USER_HOME$/projects/cplus/app/models/smail.rb" timestamp="1473175185644" />
       <file name="$USER_HOME$/projects/cplus/app/services/mail_template_service.rb" timestamp="1473175146701">
         <mark key="'" line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_hplace_fields.html.slim" timestamp="1473216710054">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/controllers/PagesController.php" timestamp="1473047825374" />
       <file name="$USER_HOME$/projects/author-debut/config/environments/development.rb" timestamp="1472868026285">
@@ -979,7 +991,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Info was successfully created.</text>
+        <text>.table-list-head</text>
       </register>
       <register name="/" type="4">
         <text>no_smail</text>
@@ -988,31 +1000,31 @@
         <text encoding="base64">ICAgICAgc2VsZi5iaXRlbS5kZWxldGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1bmxvYWRhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbjogQ09ERVsicGxhY2UiXS5pbmplY3Qoe30pIHsgfGFycmF5LCByb3d8IGFycmF5W3Jvd1sxXVsibm1fcGxhY2UiXV0gPSByb3dbMF07IGFycmF5IH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlIHVubGVzcyBoaHMucHJlc2VudD8K</text>
+        <text encoding="base64">ICB1bmxvYWRhYmxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlIHVubGVzcyBoaHMucHJlc2VudD8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvL2c=</text>
