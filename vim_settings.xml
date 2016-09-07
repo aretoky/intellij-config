@@ -202,10 +202,11 @@
       <file name="$USER_HOME$/projects/cplus/config/deploy/production.rb" timestamp="1471575641790">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/stores/_search_dailyorders_list.html.erb" timestamp="1473235227154">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/stores/_search_dailyorders_list.html.erb" timestamp="1473235938935">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="52" />
       </file>
       <file name="$USER_HOME$/projects/vp_extension/app/scripts.babel/background.js" timestamp="1472574434910">
         <mark key="[" line="9" column="0" />
@@ -347,7 +348,7 @@
         <mark key="." line="81" column="30" />
         <mark key="^" line="81" column="30" />
       </file>
-      <file name="/a.regexp" timestamp="1473235318274">
+      <file name="/a.regexp" timestamp="1473235955312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -363,11 +364,6 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/author-debut/app/views/works/new.html.erb" timestamp="1473078272611">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/edit.html.erb" timestamp="1473234260348">
         <mark key="[" line="4" column="2" />
@@ -459,16 +455,17 @@
         <mark key="." line="37" column="36" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1473041702610" />
-      <file name="$USER_HOME$/projects/author-debut/.gitignore" timestamp="1472867872220">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1472097012585">
         <mark key="[" line="126" column="8" />
         <mark key="]" line="132" column="8" />
         <mark key="^" line="132" column="8" />
         <mark key="." line="132" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1473236423250">
+        <mark key="[" line="182" column="58" />
+        <mark key="]" line="165" column="10" />
+        <mark key="^" line="166" column="27" />
+        <mark key="." line="165" column="10" />
       </file>
       <file name="$USER_HOME$/projects/company-list/.gitignore" timestamp="1472867856772" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/books/show.html.slim" timestamp="1473169733871">
@@ -780,11 +777,11 @@
         <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/projects/company-list/app/controllers/application_controller.rb" timestamp="1472866826156" />
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_info.html.erb" timestamp="1473235107229">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_info.html.erb" timestamp="1473235924528">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
-        <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="53" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/config/initializers/ar_innodb_row_format.rb" timestamp="1473044635819">
         <mark key="[" line="0" column="0" />
@@ -980,7 +977,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2Jhc2ljX2luZm8nLCAgZGFpbHlvcmRlcjog</text>
+        <text encoding="base64">LSAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>note</text>
@@ -989,16 +986,16 @@
         <text>@dailyorders</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PCUgZW5kICU+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">PCU9IHJlbmRlciAnZGFpbHlvcmRlcnNfYmFzaWNfaW5mbycsICBkYWlseW9yZGVyOiBkYWlseW9yZGVyICU+Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">PCU9IHJlbmRlciBAZGFpbHlvcmRlciAlPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PCU9IHJlbmRlciBAZGFpbHlvcmRlciAlPgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">PCUgQGRhaWx5b3JkZXJzLmVhY2ggZG8gfGRhaWx5b3JkZXJ8ICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">PCUgZW5kICU+Cg==</text>
