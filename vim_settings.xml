@@ -120,6 +120,7 @@
         <mark key="." line="133" column="32" />
         <mark key="^" line="133" column="32" />
       </file>
+      <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/posts/parts/workPost.volt" timestamp="1473314469661" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/export.html.erb" timestamp="1472092828824">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="2" />
@@ -410,11 +411,11 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/author-debut/app/views/works/_work.html.erb" timestamp="1473308179430">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="$USER_HOME$/projects/author-debut/app/views/works/_work.html.erb" timestamp="1473314629460">
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+        <mark key="." line="66" column="20" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/tohan.pdf.erb" timestamp="1472094367280">
         <mark key="'" line="6" column="50" />
@@ -962,7 +963,7 @@
         <mark key="." line="0" column="49" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/controllers/concerns/scaffoldable.rb" timestamp="1473307052118" />
-      <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/posts/index.volt" timestamp="1473308580404">
+      <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/posts/index.volt" timestamp="1473314448524">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="5" column="11" />
       </file>
@@ -1166,40 +1167,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>work_path(@work)</text>
       </register>
-      <register name="0" type="4">
-        <text>この作品を削除すると二度と元に戻せません。</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8JT0gd29yay51c2VycyB8fCAiLSIgJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3sgcGFydGlhbCgicGFydGlhbHMvZGVsZXRlTW9kYWwiLFsibGluayI6InBvc3RzL2RlbGV0ZS93b3JrLyJ+aXRlbS5pZCwgInRleHQiOiLjgZPjga7kvZzlk4HjgpLliYrpmaTjgZnjgovjgajkuozluqbjgajlhYPjgavmiLvjgZvjgb7jgZvjgpPjgIIiXSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICB7eyBpdGVtLmdldExpa2VzKCl8ZGVmYXVsdCgiLSIpIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgeyUgZW5kZm9yICV9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgeyUgZm9yIHBhZ2UgaW4gY29udGVudHNMaXN0ICV9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB7eyBpdGVtLnVzZXJzfGRlZmF1bHQoIi0iKSB9fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB7eyBpdGVtLnZpZXdzfGRlZmF1bHQoIi0iKSB9fQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0ie3sgdXJsKCJwb3N0cy9jb250ZW50LyJ+aXRlbS5pZH4iLyJ+cGFnZS5pZCkgfX0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgcGFnZS50aXRsZSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCU9IGxpbmtfdG8gJ0JhY2snLCB3b3Jrc19wYXRoICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGV4dC1kYW5nZXIiPlvlhazplovkuK1dPC9zcGFuPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCU9IGxpbmtfdG8gJ1Nob3cnLCBAd29yayAlPiB8Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbHNlaWYgaXRlbS5wdWJsaXNoX3N0YXR1cyA9PSAxICV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgxPkVkaXRpbmcgV29yazwvaDE+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idGV4dC1kYW5nZXIiPlvkuIvmm7jjgY1dPC9zcGFuPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvL2c=</text>
