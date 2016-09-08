@@ -96,16 +96,12 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_basic_info.html.erb" timestamp="1473317625798" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_basic_info.html.erb" timestamp="1473337154861" />
       <file name="$USER_HOME$/projects/author-debut/app/views/works/edit.html.erb" timestamp="1473307145818">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1473163119074">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/cust_select_modal_dialogs_controllerable.rb" timestamp="1473168763458" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/posts/parts/imageSetter.volt" timestamp="1473077491219" />
@@ -369,14 +365,6 @@
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/_dailyorders_basic_info.html.erb" timestamp="1473233802251" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/forms/ContentForm.php" timestamp="1473085657679" />
-      <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/forms/WorkForm.php" timestamp="1473082458966">
-        <mark key="[" line="89" column="12" />
-        <mark key="]" line="103" column="44" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" timestamp="1473163937134">
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="67" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1472090281337">
         <mark key="[" line="36" column="28" />
         <mark key="]" line="37" column="11" />
@@ -448,7 +436,7 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1473320227906">
+      <file name="/a.regexp" timestamp="1473337777007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -496,6 +484,12 @@
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_list_merges/_index_dailyorder_shipping_list.html.erb" timestamp="1473337709880">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="117" column="12" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/belongs_to_cust.rb" timestamp="1473161937540">
         <mark key="[" line="8" column="19" />
@@ -547,6 +541,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_list_merges/preview.html.erb" timestamp="1473337915142">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/s3to_s3.rb" timestamp="1471580748510">
         <mark key="[" line="43" column="0" />
@@ -632,14 +632,6 @@
         <mark key="]" line="54" column="51" />
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/client/static_pages_helper.rb" timestamp="1473162448238">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/controllers/AuthController.php" timestamp="1473048132998">
-        <mark key="[" line="217" column="31" />
-        <mark key="]" line="217" column="56" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/book/edit.view.php" timestamp="1473166214550">
         <mark key="'" line="0" column="0" />
@@ -1000,10 +992,6 @@
         <mark key="." line="0" column="49" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/controllers/concerns/scaffoldable.rb" timestamp="1473307052118" />
-      <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/posts/index.volt" timestamp="1473314448524">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="5" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/author-debut/app/models/application_record.rb" timestamp="1473306811136">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="9" column="4" />
@@ -1204,49 +1192,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>omni</text>
+        <text>preview</text>
       </register>
-      <register name="0" type="4">
-        <text>request.env[&quot;omniauth.auth&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8JSBpZiBwcmV2aWV3LnByZXNlbnQ/ICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHp6ego=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGEgPSByZXF1ZXN0LmVudlsib21uaWF1dGguYXV0aCJdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHp6ego=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGEgPSByZXF1ZXN0LmVudlsib21uaWF1dGguYXV0aCJdCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS5zaGlwX2RhdGUgPSBuaWwK</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS5zaGlwX2RhdGUgPSBuaWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgZGF0YS5zaGlwX2RhdGUgPSBuaWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YS5zaGlwX2RhdGUgPSBuaWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdC5mbG9hdAo=</text>
+        <text encoding="base64">ICAgICAgZGF0YS5zaGlwX2RhdGUgPSBuaWwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>omni</last-search>
+      <last-search>preview</last-search>
       <last-offset />
-      <last-pattern>omni</last-pattern>
+      <last-pattern>preview</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1254,7 +1242,6 @@
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry encoding="base64">aXRlbS5pbWFnZV91cmwg</entry>
         <entry>item.image_url</entry>
         <entry>carri</entry>
@@ -1274,6 +1261,7 @@
         <entry>update_deliver_type</entry>
         <entry>unregister_from_list</entry>
         <entry>omni</entry>
+        <entry>preview</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MakeBillMonthService/MakeBillYearService/</entry>
