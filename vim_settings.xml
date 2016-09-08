@@ -418,8 +418,8 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1473318971508">
-        <mark key="'" line="22" column="24" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1473343348545">
+        <mark key="'" line="336" column="15" />
         <mark key="[" line="132" column="11" />
         <mark key="]" line="133" column="17" />
         <mark key="." line="133" column="17" />
@@ -590,10 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="24" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="60" column="35" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="22" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="59" column="35" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="27" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_extra_creator.rb" />
       <jump line="22" column="6" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_extra_creator.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_extra_by_bitems_creator.rb" />
@@ -690,6 +686,10 @@
       <jump line="110" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_daily_order_shipping_list.html.erb" />
       <jump line="114" column="10" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_daily_order_shipping_list.html.erb" />
       <jump line="99" column="12" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_daily_order_shipping_list.html.erb" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="313" column="15" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="315" column="16" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="336" column="15" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -772,7 +772,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>preview</text>
+        <text>split</text>
       </register>
       <register name="0" type="4">
         <text>, preview: true</text>
@@ -809,9 +809,9 @@
       </register>
     </registers>
     <search>
-      <last-search>preview</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern>preview</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-replace>daily_order_shipping_list</last-replace>
       <last-substitute>@daily_order_shipping_list</last-substitute>
       <last-dir>1</last-dir>
@@ -819,7 +819,6 @@
     </search>
     <history>
       <history-search>
-        <entry>item.image_url</entry>
         <entry>carri</entry>
         <entry>image_url</entry>
         <entry>work_path(@work)</entry>
@@ -839,6 +838,7 @@
         <entry>omni</entry>
         <entry>@daily_order_shipping_list</entry>
         <entry>preview</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
