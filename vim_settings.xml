@@ -16,11 +16,11 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/rooms/_room_mailtpl_fields.html.slim" timestamp="1473243201257">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="0" column="44" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/rooms/_room_mailtpl_fields.html.slim" timestamp="1473411069529">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1473226418550">
         <mark key="[" line="40" column="14" />
@@ -44,6 +44,7 @@
         <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/config/initializers/simple_form_bootstrap.rb" timestamp="1473077841660" />
+      <file name="$USER_HOME$/projects/cplus/db/fixtures/070_room_mailfield.rb" timestamp="1473410813092" />
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/views/pages/about.volt" timestamp="1473042504378" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/tohan.html.erb" timestamp="1473339545357" />
       <file name="$USER_HOME$/projects/cplus/app/models/prdhh.rb" timestamp="1473243923424" />
@@ -147,6 +148,12 @@
         <mark key="^" line="11" column="76" />
         <mark key="." line="11" column="76" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/mailtpls/_form.html.slim" timestamp="1473411043250">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/no_cust_input.coffee" timestamp="1473163099432">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
@@ -237,7 +244,7 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1473340092532">
+      <file name="/a.regexp" timestamp="1473410815491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -338,11 +345,11 @@
         <mark key="^" line="22" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/controllers/ApiController.php" timestamp="1473321055509" />
-      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/rooms_controller.rb" timestamp="1473245052944">
-        <mark key="[" line="54" column="51" />
-        <mark key="]" line="54" column="51" />
-        <mark key="." line="54" column="51" />
-        <mark key="^" line="54" column="51" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/rooms_controller.rb" timestamp="1473411281638">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/sample_images/index.js.erb" timestamp="1473304219419">
         <mark key="[" line="0" column="64" />
@@ -494,7 +501,7 @@
         <mark key="." line="29" column="70" />
       </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/config/config.php" timestamp="1473303772119" />
-      <file name="$USER_HOME$/projects/cplus/spec/factories/address_mplans.rb" timestamp="1473409502398" />
+      <file name="$USER_HOME$/projects/cplus/spec/factories/address_mplans.rb" timestamp="1473409571653" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/show_dailyorder_table.html.erb" timestamp="1473339518548" />
       <file name="$USER_HOME$/projects/company-list/app/models/application_record.rb" timestamp="1473306781709" />
       <file name="$USER_HOME$/projects/author-debut/app/controllers/works_controller.rb" timestamp="1473307073700">
@@ -786,7 +793,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
