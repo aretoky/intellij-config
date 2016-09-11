@@ -629,6 +629,13 @@
         <mark key="." line="37" column="36" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1473041702610" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1473601340907">
+        <mark key="'" line="387" column="11" />
+        <mark key="[" line="620" column="0" />
+        <mark key="]" line="620" column="0" />
+        <mark key="n" line="313" column="7" />
+        <mark key="." line="620" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1473340617744">
         <mark key="[" line="126" column="8" />
         <mark key="]" line="132" column="8" />
@@ -999,12 +1006,12 @@
         <mark key="." line="87" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/places_controller.rb" timestamp="1473143353439" />
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1473431970637">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1473601079305">
         <mark key="'" line="65" column="38" />
         <mark key="[" line="22" column="26" />
-        <mark key="]" line="157" column="99" />
-        <mark key="^" line="157" column="99" />
-        <mark key="." line="157" column="99" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/show.html.erb" timestamp="1473339502549">
         <mark key="[" line="3" column="11" />
@@ -1108,7 +1115,6 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/env/room_new.php" timestamp="1473490701430" />
     </filemarks>
     <jumps>
-      <jump line="12" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="17" column="14" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="123" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="128" column="14" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
@@ -1208,6 +1214,7 @@
       <jump line="47" column="9" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="14" column="16" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="130" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="387" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1290,46 +1297,46 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>aws</text>
+        <text>order_date_b</text>
       </register>
       <register name="0" type="4">
         <text>aws-sdk</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgcGxhbnMK</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHAgcGxhbnMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVybF9mb3IoYWN0aW9uOiA6ZWRpdCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9wPgo=</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHVybF9mb3IoYWN0aW9uOiA6ZWRpdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHA+Cg==</text>
+        <text encoding="base64">PC9wPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHA+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@daily_order_shipping_list/daily_order_shipping_list/g</text>
       </register>
     </registers>
     <search>
-      <last-search>aws</last-search>
+      <last-search>order_date_b</last-search>
       <last-offset />
-      <last-pattern>aws</last-pattern>
+      <last-pattern>order_date_b</last-pattern>
       <last-replace>daily_order_shipping_list</last-replace>
       <last-substitute>@daily_order_shipping_list</last-substitute>
       <last-dir>1</last-dir>
@@ -1337,7 +1344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>likes</entry>
         <entry>view</entry>
         <entry>delete</entry>
         <entry>ship_date = nil</entry>
@@ -1357,6 +1363,7 @@
         <entry>existing_plan</entry>
         <entry>filed</entry>
         <entry>aws</entry>
+        <entry>order_date_b</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
