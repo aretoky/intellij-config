@@ -336,6 +336,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_preview_form.html.erb" timestamp="1473672557707">
+        <mark key="'" line="79" column="37" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/emps/show.html.slim" timestamp="1473609901115">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="45" />
@@ -873,7 +880,7 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1473671848232">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1473672537100">
         <mark key="[" line="59" column="15" />
         <mark key="]" line="59" column="15" />
         <mark key="." line="59" column="15" />
@@ -956,10 +963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="41" filename="$USER_HOME$/projects/author-debut/app/views/works/_form.html.erb" />
-      <jump line="104" column="14" filename="$USER_HOME$/projects/author-debut/app/views/works/_form.html.erb" />
-      <jump line="34" column="12" filename="$USER_HOME$/sandbox/crunchmagazine/models/Works.php" />
-      <jump line="36" column="12" filename="$USER_HOME$/sandbox/crunchmagazine/models/Works.php" />
       <jump line="79" column="16" filename="$USER_HOME$/sandbox/crunchmagazine/models/Works.php" />
       <jump line="19" column="13" filename="$USER_HOME$/sandbox/crunchmagazine/models/Hearts.php" />
       <jump line="38" column="40" filename="$USER_HOME$/sandbox/crunchmagazine/models/Hearts.php" />
@@ -1056,6 +1059,10 @@
       <jump line="83" column="38" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="92" column="54" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="40" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_preview_form.html.erb" />
+      <jump line="110" column="45" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_preview_form.html.erb" />
+      <jump line="78" column="48" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_preview_form.html.erb" />
+      <jump line="79" column="37" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_preview_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1138,7 +1145,7 @@
         <text encoding="base64">IGNsYXNzPSJmaWVsZF93aXRoX2Vycm9ycyI=</text>
       </register>
       <register name="/" type="4">
-        <text>number</text>
+        <text>no</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PCUgaWYgZGFpbHlvcmRlcnNfZm9ybS5vYmplY3QuZXJyb3JzWzp0b3JpdHN1Z2lfdHlwZV0ucHJlc2VudD8gJT4KICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkX3dpdGhfZXJyb3JzIj4KICAgICAgICA8JSBlbmQgJT4=</text>
@@ -1175,9 +1182,9 @@
       </register>
     </registers>
     <search>
-      <last-search>number</last-search>
+      <last-search>no</last-search>
       <last-offset />
-      <last-pattern>number</last-pattern>
+      <last-pattern>no</last-pattern>
       <last-replace>daily_order_shipping_list</last-replace>
       <last-substitute>@daily_order_shipping_list</last-substitute>
       <last-dir>1</last-dir>
@@ -1185,7 +1192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>omni</entry>
         <entry>@daily_order_shipping_list</entry>
         <entry>preview</entry>
         <entry>split</entry>
@@ -1205,6 +1211,7 @@
         <entry>on</entry>
         <entry>on: :create</entry>
         <entry>number</entry>
+        <entry>no</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
