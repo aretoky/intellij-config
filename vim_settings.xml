@@ -873,6 +873,12 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1473671848232">
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="59" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/_form.html.slim" timestamp="1471834252997">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="12" column="3" />
@@ -1129,40 +1135,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IGNsYXNzPSJmaWVsZF93aXRoX2Vycm9ycyI=</text>
       </register>
       <register name="/" type="4">
         <text>number</text>
       </register>
       <register name="0" type="4">
-        <text>取次コード</text>
+        <text encoding="base64">PCUgaWYgZGFpbHlvcmRlcnNfZm9ybS5vYmplY3QuZXJyb3JzWzp0b3JpdHN1Z2lfdHlwZV0ucHJlc2VudD8gJT4KICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkX3dpdGhfZXJyb3JzIj4KICAgICAgICA8JSBlbmQgJT4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWxvbmdzX3RvIDpkYWlseW9yZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkX3dpdGhfZXJyb3JzIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOm9yZGVyX2RhdGUsIHByZXNlbmNlOiB0cnVlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRvcml0c3VnaV90eXBlX2lkLAogICAgICAgICAgICBpbmNsdXNpb246IHsgaW46IFRvcml0c3VnaVR5cGUud2hlcmUoInRvcml0c3VnaV90eXBlcy5vcmRlciA+IDAiKS5wbHVjayg6aWQpIH0sIG9uOiA6Y3JlYXRlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRvcml0c3VnaV90eXBlX2lkLCBwcmVzZW5jZTogdHJ1ZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGFpbHlvcmRlcjoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmllbGRfd2l0aF9lcnJvcnMiPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBiZWxvbmdzX3RvIDpkYWlseW9yZGVyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBhCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOm9yZGVyX2RhdGUsIHByZXNlbmNlOiB0cnVlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHF1YW50aXR5Cg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRvcml0c3VnaV90eXBlX2lkLAogICAgICAgICAgICBpbmNsdXNpb246IHsgaW46IFRvcml0c3VnaVR5cGUud2hlcmUoInRvcml0c3VnaV90eXBlcy5vcmRlciA+IDAiKS5wbHVjayg6aWQpIH0sIG9uOiA6Y3JlYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRvcml0c3VnaV90eXBlX2lkLCBwcmVzZW5jZTogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@daily_order_shipping_list/daily_order_shipping_list/g</text>
