@@ -41,9 +41,6 @@
         <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/test/controllers/books_controller_test.rb" timestamp="1473686675632" />
-      <file name="/Dummy.txt" timestamp="1473665991694">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/_work.html.erb" timestamp="1473651325248">
         <mark key="[" line="37" column="15" />
         <mark key="]" line="37" column="6" />
@@ -53,9 +50,6 @@
       <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/places_controller_spec.rb" timestamp="1473688240277">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="27" />
-      </file>
-      <file name="/a.regexp" timestamp="1473685617218">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/bitstar/spec/support/wercker.rb" timestamp="1473687490131" />
       <file name="$USER_HOME$/projects/pos-calc/spec/rails_helper.rb" timestamp="1473687638831">
@@ -67,7 +61,18 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1473688367572" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/places/edit.html.slim" timestamp="1473731821458">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="59" />
+        <mark key="." line="19" column="59" />
+        <mark key="^" line="19" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1473732127484" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/mailtpls/edit.html.slim" timestamp="1473732008736">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="26" />
+      </file>
       <file name="$USER_HOME$/sandbox/crunchmagazine/apps/client/controllers/ApiController.php" timestamp="1473642110769" />
       <file name="$USER_HOME$/projects/pos-calc/test/fixtures/ammounts.yml" timestamp="1473687180244" />
       <file name="$USER_HOME$/projects/pos-calc/spec/spec_helper.rb" timestamp="1473689148097" />
@@ -90,11 +95,6 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/layouts/application.html.erb" timestamp="1473685708196">
-        <mark key="]" line="87" column="9" />
-        <mark key="." line="87" column="9" />
-        <mark key="^" line="87" column="9" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/factories/users.rb" timestamp="1473691908029">
         <mark key="[" line="24" column="0" />
@@ -125,6 +125,12 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/places_controller.rb" timestamp="1473732192394">
+        <mark key="[" line="66" column="7" />
+        <mark key="]" line="66" column="18" />
+        <mark key="^" line="66" column="18" />
+        <mark key="." line="66" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1473686979497">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="19" />
@@ -133,9 +139,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1473643298689">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/db/migrate/20160905140648_create_contents.rb" timestamp="1473649075074">
         <mark key="[" line="15" column="51" />
@@ -326,7 +329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
