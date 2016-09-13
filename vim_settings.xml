@@ -98,6 +98,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/detail.php" timestamp="1473755542045">
+        <mark key="[" line="81" column="46" />
+        <mark key="]" line="81" column="47" />
+        <mark key="^" line="34" column="54" />
+        <mark key="." line="81" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/guide.html.erb" timestamp="1473683435131">
         <mark key="[" line="118" column="43" />
         <mark key="]" line="119" column="8" />
@@ -494,6 +500,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/mid.php" timestamp="1473755913773">
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="62" column="47" />
+        <mark key="^" line="44" column="48" />
+        <mark key="." line="62" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/author-debut/db/migrate/20160905030622_add_columns_from_user.rb" timestamp="1473045020072">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="35" />
@@ -670,6 +682,13 @@
         <mark key="]" line="1" column="52" />
         <mark key="^" line="1" column="52" />
         <mark key="." line="1" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" timestamp="1473755626689">
+        <mark key="'" line="31" column="27" />
+        <mark key="[" line="35" column="62" />
+        <mark key="]" line="35" column="97" />
+        <mark key="^" line="35" column="97" />
+        <mark key="." line="35" column="97" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/places/new.html.slim" timestamp="1473610703011">
         <mark key="[" line="19" column="27" />
@@ -908,6 +927,12 @@
         <mark key="." line="24" column="49" />
         <mark key="^" line="24" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/mid.view.php" timestamp="1473755871715">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="64" column="34" />
+        <mark key="^" line="64" column="34" />
+        <mark key="." line="64" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/places_controller.rb" timestamp="1473732192394">
         <mark key="[" line="66" column="7" />
         <mark key="]" line="66" column="18" />
@@ -1032,10 +1057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
-      <jump line="225" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
       <jump line="13" column="23" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="69" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="8" column="43" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1132,6 +1153,10 @@
       <jump line="245" column="36" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
       <jump line="246" column="47" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
       <jump line="272" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" />
+      <jump line="32" column="93" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" />
+      <jump line="31" column="27" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1214,10 +1239,10 @@
         <text encoding="base64">YS55bV9jb21wYW55LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>nm_company</text>
+        <text>nm_com</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJF90cGwtPnZhbHVlWydyb3dzJ11bJGldWydubV9jdXN0J10gPSAkcm93WydubV9jdXN0J107Cg==</text>
+        <text encoding="base64">ICAgICAgICAkX3RwbC0+c2V0UmVxdWVzdCgnbm1fY29tcGFueScsICRyb3dbJ25tX2NvbXBhbnknXSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYQo=</text>
@@ -1251,9 +1276,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nm_company</last-search>
+      <last-search>nm_com</last-search>
       <last-offset />
-      <last-pattern>nm_company</last-pattern>
+      <last-pattern>nm_com</last-pattern>
       <last-replace>daily_order_shipping_list</last-replace>
       <last-substitute>@daily_order_shipping_list</last-substitute>
       <last-dir>1</last-dir>
@@ -1261,7 +1286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>order_ty</entry>
         <entry>on</entry>
         <entry>on: :create</entry>
         <entry>number</entry>
@@ -1281,6 +1305,7 @@
         <entry>nm_cust</entry>
         <entry>ym_cust</entry>
         <entry>nm_company</entry>
+        <entry>nm_com</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
