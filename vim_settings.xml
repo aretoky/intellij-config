@@ -446,12 +446,12 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1473865973843">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1473869278952">
         <mark key="'" line="14" column="12" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="23" />
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/temp_ymdable.rb" timestamp="1471959031351">
         <mark key="[" line="81" column="26" />
@@ -471,7 +471,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1473867482561">
+      <file name="/a.regexp" timestamp="1473869171863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/users/mailer/confirmation_instructions.html.erb" timestamp="1473049018032">
@@ -595,12 +595,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1473867384793">
-        <mark key="'" line="198" column="6" />
-        <mark key="[" line="702" column="83" />
-        <mark key="]" line="702" column="96" />
-        <mark key="." line="702" column="96" />
-        <mark key="^" line="702" column="96" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1473868811994">
+        <mark key="'" line="691" column="6" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="4" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1473340617744">
         <mark key="[" line="126" column="8" />
@@ -1011,6 +1011,12 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1473869322493">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/_form.html.slim" timestamp="1471834252997">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="12" column="3" />
@@ -1065,12 +1071,13 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1473684042589">
+      <file name="$USER_HOME$/projects/pos-calc/config/routes.rb" timestamp="1473869178989" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1473869330735">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="209" column="60" />
-        <mark key="]" line="209" column="62" />
-        <mark key="." line="209" column="62" />
-        <mark key="^" line="209" column="62" />
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/models/application_record.rb" timestamp="1473306811136">
         <mark key="[" line="2" column="0" />
@@ -1084,16 +1091,15 @@
         <mark key="." line="88" column="2" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1473674636111">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1473869229898">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="25" column="1" />
+        <mark key="[" line="64" column="35" />
+        <mark key="]" line="64" column="58" />
+        <mark key="^" line="64" column="58" />
+        <mark key="." line="64" column="58" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="15" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="162" column="18" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="172" column="15" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="191" column="18" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
@@ -1193,6 +1199,7 @@
       <jump line="215" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="243" column="16" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="198" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="691" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1272,40 +1279,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>cust:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRfc3lvdGVuX2NkLCBwcmVzZW5jZTogdHJ1ZQo=</text>
+      <register name="0" type="4">
+        <text>toritsugi_type_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWY6IHByb2MgeyBpc19zdHJpY3RfdmFsaWRfdF9zeW90ZW5fY2QgfQo=</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5jbHVzaW9uOiB7IGluOiBUb3JpdHN1Z2kud2hlcmUodG9yaXRzdWdpX3R5cGVfaWQ6ICkgfSwK</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRfc3lvdGVuX2NkLAo=</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvcml0c3VnaSA9IFRvcml0c3VnaS53aGVyZSgidG9yaXRzdWdpX3R5cGVfaWQgPSA/IEFORCB0b3JpdHN1Z2lfY29kZSA9ID8gQU5EIGlzdmFsaWQgPSB0cnVlIiwgc2VsZi50b3JpdHN1Z2lfdHlwZV9pZCwgc2VsZi50X3N5b3Rlbl9jZCkudGFrZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb246IDpjcmVhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWY6IHByb2MgeyBpc19zdHJpY3RfdmFsaWRfdF9zeW90ZW5fY2QgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICBpZjogcHJvYyB7IGlzX25vX3ZhbGlkX3Rfc3lvdGVuX2NkID09IGZhbHNlICYmIG5ld19yZWNvcmQ/IH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5jbHVzaW9uOiB7IGluOiBUb3JpdHN1Z2kud2hlcmUodG9yaXRzdWdpX3R5cGVfaWQ6ICkgfSwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y3VzdDoKICAgICAgICBub19jdXN0OiDpoaflrqLnlarlj7cKICAgICAgICBub19pbnRlcmltOiDku67poaflrqLnlarlj7cKICAgICAgICBpbmZvX2ludGVyaW06IOS7rumhp+WuouaDheWgsQogICAgICAgIGR0X25leHQ6IOasoeWbnuaxuua4iOaXpSjmnIjmrKEpCiAgICAgICAgY2RfY2U6IOeoruWIpQogICAgICAgIGNkX2NiOiDjgrnjg4bjg7zjgr/jgrkKICAgICAgICBjZF9jajog44K544OG44O844K/44K5KOips+e0sCkKICAgICAgICBubV9jdXN0OiDpoaflrqLlkI0KICAgICAgICB5bV9jdXN0OiDjgqvjg4oo6aGn5a6i5ZCNKQogICAgICAgIG5tX2NvbXBhbnk6IOS8muekvuWQjQogICAgICAgIHltX2NvbXBhbnk6IOOCq+ODiijkvJrnpL7lkI0pCiAgICAgICAgeW5fdXNlX2JveDog6YeR5bqr5Yip55SoCiAgICAgICAgeW5fYm9va19saW1pdDog5Lya6K2w5a6k5LqI57SE5Yi26ZmQCiAgICAgICAgeW5fc3RvcDog6Ieq5YuV6KuL5rGC44K544OI44OD44OXCiAgICAgICAgZHRfcmVnaXN0OiDnmbvpjLLml6UKICAgICAgICBkdF93aXRoZHJhdzog6YCA5Lya5pelCiAgICAgICAgZmF4X2NvbW1vbjog5YWx6YCaRkFY55Wq5Y+3CiAgICAgICAgY2hhcmdlX25hbWU6IOaLheW9k+iAheWQjQogICAgICAgIGNoYXJnZV90ZWw6IOaLheW9k+iAhembu+ipseeVquWPtwogICAgICAgIGNoYXJnZV9lbWFpbDog5ouF5b2T6ICFZS1tYWlsCiAgICAgICAgbm90ZV9zaGVldDog6aGn5a6i44K344O844OI5YKZ6ICDCiAgICAgICAgbm90ZTog5YKZ6ICDCiAgICAgICAgeW5fdXNlOiDmjqXntprlj6/og70KICAgICAgICBkdF9zdGFydDog5o6l57aa5Y+v6IO96ZaL5aeL5pelCiAgICAgICAgZHRfZW5kOiDmjqXntprlj6/og73ntYLkuobml6UKICAgICAgICB1cGRhdGVfbm9fcGVyc29uOiDmnIDntYLkv67mraPogIXnlarlj7cKICAgICAgICB0c191cGRhdGU6IOacgOe1guS/ruato+aXpeaZggogICAgICAgIHluX2dvb2RzOTkzMDIwMTY6IOOCquODl+OCt+ODp+ODsyjoqK3nq4spCiAgICAgICAgbm90ZV9nb29kczk5MzAyMDE2OiDjgqrjg5fjgrfjg6fjg7Mo6Kit56uLKQogICAgICAgIHluX2dvb2RzOTkzMDIwMTc6IOOCquODl+OCt+ODp+ODsyjnp7vou6IpCiAgICAgICAgbm90ZV9nb29kczk5MzAyMDE3OiDjgqrjg5fjgrfjg6fjg7Mo56e76LuiKQogICAgICAgIGFjY291bnQ6ICfjgqLjgqvjgqbjg7Pjg4jlkI0nCiAgICAgICAgcHN3ZDogJ+ODkeOCueODr+ODvOODiScKICAgICAgICBjaGFuZ2VfcHN3ZDogJ+ODkeOCueODr+ODvOODiScKICAgICAgICBjaGFuZ2VfcHN3ZF9jb25maXJtYXRpb246ICfnorroqo3nlKjjg5Hjgrnjg6/jg7zjg4knCiAgICAgICAgY3VzdF9hZGRyczog6aGn5a6i5L2P5omACiAgICAgICAgY3VzdF90ZWxzOiDpoaflrqLpm7voqbHnlarlj7cKICAgICAgICBjdXN0X2VuYWJsZV90ZWxzOiDpoaflrqLpm7voqbHnlarlj7cKICAgICAgICBjdXN0X2VtYWlsczog6aGn5a6i44Oh44O844Or44Ki44OJ44Os44K5CiAgICAgICAgY3VzdF9lbmFibGVfZW1haWxzOiDpoaflrqLjg6Hjg7zjg6vjgqLjg4njg6zjgrkKICAgICAgICBmYXhfZW1haWxzOiBGQVjou6LpgIHjg6Hjg7zjg6vjgqLjg4njg6zjgrkKICAgICAgICBmYXhfZW5hYmxlX2VtYWlsczogRkFY6Lui6YCB44Oh44O844Or44Ki44OJ44Os44K5CiAgICAgICAgbmFtZWxpc3RzOiDjgqrjg5XjgqPjgrnlkI3nsL8KICAgICAgICBkZXBvczog44OH44Od44K444OD44OI5Y+j5bqnCiAgICAgICAgaHBheXM6IOaxuua4iOWxpeattAogICAgICAgIGFkZHJlc3NfbXBsYW5zOiDkvY/miYDjg5fjg6njg7MKICAgICAgICB0ZWxfbXBsYW5zOiDpm7voqbHjg5fjg6njg7MKICAgICAgICBjb25jaWVyZ2VfbXBsYW5zOiDnp5jmm7jjg5fjg6njg7MKICAgICAgICB3ZWJfbXBsYW5zOiBXZWLjg5fjg6njg7MKICAgICAgICByZW1lbWJlcl9tZTog44Ot44Kw44Kk44Oz54q25oWL44KS5L+d5a2Y44GZ44KLCiAgICAgICAgY3VzdF9lbmFibGVfYWRkcnM6IOmhp+WuouS9j+aJgAogICAgICAgIG5tX3BsYWNlOiDmi6DngrkKICAgICAgICBjZF9jYl9uYW1lOiDjgrnjg4bjg7zjgr/jgrkKICAgICAgICBubV9jdXN0X2VuYWJsZV90ZWxzOiDpoaflrqLmnInlirnpm7voqbEKICAgICAgICBubV9jdXN0X2VuYWJsZV9lbWFpbHM6IOmhp+WuouacieWKueODoeODvOODqwogICAgICAgIG5tX2ZheF9lbmFibGVfZW1haWxzOiBGQVjou6LpgIHlhYjmnInlirnjg6Hjg7zjg6vjgqLjg4njg6zjgrkKICAgICAgICBjbnRfcG9zdGFsOiDpg7Xkvr/mlbAKICAgICAgICBjbnRfZXhwcmVzczog6YCf6YGU5pWwCiAgICAgICAgbm1fdHJhbnNmZXJfZW5hYmxlX2FkZHJzOiDou6LpgIHlhYjkvY/miYAKICAgICAgICBubV9uYW1lbGlzdHM6IOOCquODleOCo+OCueS8muWToeWQjeewvwogICAgICAgIG5tX2VuYWJsZV90b190cmFuc2Zlcl90ZWxzOiDpm7voqbHou6LpgIHjg5fjg6njg7Pjga7ou6LpgIHlhYMKCiAgICAgIGN1c3QvYWRkcmVzc19tcGxhbnM6CiAgICAgICAgdHJhbnNmZXJfYWRkcnM6IOS9j+aJgOODl+ODqeODs+OBrui7oumAgeWFiOS9j+aJgAogICAgICAgIHRyYW5zZmVyX2VuYWJsZV9lbWFpbHM6IOS9j+aJgOODl+ODqeODs+OBrui7oumAgeWFiOODoeODvOODq+OCouODieODrOOCuQogICAgICBjdXN0L2FkZHJlc3NfbXBsYW5zL3RyYW5zZmVyX2VuYWJsZV9lbWFpbHM6CiAgICAgICAgZW1haWw6IOS9j+aJgOODl+ODqeODs+OBrui7oumAgeWFiOODoeODvOODq+OCouODieODrOOCuQogICAgICBhZGRyZXNzX21wbGFuczoKICAgICAgICB0cmFuc2Zlcl9hZGRyczog5L2P5omA44OX44Op44Oz44Gu6Lui6YCB5YWI5L2P5omACiAgICAgICAgdHJhbnNmZXJfZW5hYmxlX2VtYWlsczog5L2P5omA44OX44Op44Oz44Gu6YO15L6/54mp44GK55+l44KJ44Gb44Oh44O844Or44Ki44OJ44Os44K5CiAgICAgIGN1c3QvdGVsX21wbGFuczoKICAgICAgICBmcm9tX3RyYW5zZmVyX3RlbHM6IOi7oumAgeWFg+mbu+ipsQogICAgICAgIHRvX3RyYW5zZmVyX3RlbHM6IOi7oumAgeWFiOmbu+ipsQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRfc3lvdGVuX2NkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@daily_order_shipping_list/daily_order_shipping_list/g</text>
