@@ -52,9 +52,12 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/guide.html.erb" timestamp="1473900237137">
-        <mark key="[" line="118" column="43" />
-        <mark key="]" line="119" column="8" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1473932301992" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_list_merges_controller.rb" timestamp="1473932409974">
+        <mark key="[" line="111" column="66" />
+        <mark key="]" line="111" column="66" />
+        <mark key="." line="111" column="66" />
+        <mark key="^" line="111" column="65" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1473930217111">
         <mark key="[" line="324" column="0" />
@@ -152,11 +155,11 @@
       <file name="/JavaScript Console" timestamp="1473643298689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1473931427030">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1473932080324">
         <mark key="'" line="6" column="9" />
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="32" />
-        <mark key="." line="50" column="32" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="50" column="6" />
         <mark key="^" line="50" column="42" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1473869322493">
@@ -180,12 +183,11 @@
         <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1473908872118" />
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1473869229898">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1473932312000">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="64" column="58" />
-        <mark key="^" line="64" column="58" />
-        <mark key="." line="64" column="58" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -368,7 +370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, :children</text>
+        <text encoding="base64">ID0gPyIs</text>
       </register>
       <register name="/" type="4">
         <text>parent</text>
@@ -377,31 +379,31 @@
         <text encoding="base64">c2V0VGltZW91dCAtPgogICAgICAkKCI6c3VibWl0Iiwgc2VsZikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSkKICAgICwgMTAwMDA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkX2luZGV4IDpkYWlseW9yZGVycywgOmlzX2RlbGV0ZWQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkX2luZGV4IDpkYWlseW9yZGVycywgOmlzX2RlbGV0ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6aXNfc3RyaWN0X3ZhbGlkX3Rfc3lvdGVuX2NkLCBmYWxzZQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6aXNfc3RyaWN0X3ZhbGlkX3Rfc3lvdGVuX2NkLCBmYWxzZQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJvbmc+KuWPluasoeabuOW6l+OCs+ODvOODieOCkuWkieabtOOBmeOCi+OBqOOAgeabuOW6l+WQjeODu+eVque3muOBjOODh+ODvOOCv+ODmeODvOOCueOBruOCguOBruOBq+WkieabtOOBleOCjOOCi+OBk+OBqOOBjOOBguOCiuOBvuOBmTwvc3Ryb25nPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAZGFpbHlvcmRlci5zdG9yZV9uYW1lX2thbmppID0gc3RvcmUubmFtZQo=</text>
+        <text encoding="base64">ICAgIDxzdHJvbmc+KuWPluasoeabuOW6l+OCs+ODvOODieOCkuWkieabtOOBmeOCi+OBqOOAgeabuOW6l+WQjeODu+eVque3muOBjOODh+ODvOOCv+ODmeODvOOCueOBruOCguOBruOBq+WkieabtOOBleOCjOOCi+OBk+OBqOOBjOOBguOCiuOBvuOBmTwvc3Ryb25nPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAZGFpbHlvcmRlci5iYW5zZW4gPSB0b3JpdHN1Z2kudG9yaXRzdWdpX2JhbnNlbgo=</text>
+        <text encoding="base64">ICAgICAgICBAZGFpbHlvcmRlci5zdG9yZV9uYW1lX2thbmppID0gc3RvcmUubmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@daily_order_shipping_list/daily_order_shipping_list/g</text>
