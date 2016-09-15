@@ -70,7 +70,7 @@
         <mark key="." line="43" column="25" />
         <mark key="^" line="43" column="25" />
       </file>
-      <file name="/a.regexp" timestamp="1473901118148">
+      <file name="/a.regexp" timestamp="1473908881714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/application.js" timestamp="1473902027602">
@@ -141,6 +141,7 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1473908872118" />
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1473869229898">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="64" column="35" />
@@ -332,7 +333,7 @@
         <text>staging</text>
       </register>
       <register name="/" type="4">
-        <text>is_strict_valid_t_syoten_cd</text>
+        <text>sync_sf</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2V0VGltZW91dCAtPgogICAgICAkKCI6c3VibWl0Iiwgc2VsZikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSkKICAgICwgMTAwMDA=</text>
@@ -369,9 +370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_strict_valid_t_syoten_cd</last-search>
+      <last-search>sync_sf</last-search>
       <last-offset />
-      <last-pattern>is_strict_valid_t_syoten_cd</last-pattern>
+      <last-pattern>sync_sf</last-pattern>
       <last-replace>daily_order_shipping_list</last-replace>
       <last-substitute>@daily_order_shipping_list</last-substitute>
       <last-dir>1</last-dir>
@@ -379,7 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nm_company</entry>
         <entry>nm_com</entry>
         <entry>tel</entry>
         <entry>tel_0_1</entry>
@@ -399,6 +399,7 @@
         <entry>turb</entry>
         <entry>def search</entry>
         <entry>is_strict_valid_t_syoten_cd</entry>
+        <entry>sync_sf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
