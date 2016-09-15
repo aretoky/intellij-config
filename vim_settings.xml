@@ -94,9 +94,12 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1473925122085">
-        <mark key="'" line="454" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1473931292184">
+        <mark key="'" line="72" column="68" />
         <mark key="^" line="53" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1473930836029">
+        <mark key="'" line="58" column="33" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1473928879716" />
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" timestamp="1473824255583">
@@ -149,12 +152,12 @@
       <file name="/JavaScript Console" timestamp="1473643298689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1473905213915">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1473931427030">
         <mark key="'" line="6" column="9" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-        <mark key="^" line="109" column="7" />
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="32" />
+        <mark key="." line="50" column="32" />
+        <mark key="^" line="50" column="42" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1473869322493">
         <mark key="[" line="12" column="38" />
@@ -186,12 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" />
-      <jump line="32" column="93" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" />
-      <jump line="31" column="27" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/postalcust/detail.view.php" />
-      <jump line="10" column="14" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="23" column="10" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="93" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="98" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="167" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -286,6 +283,12 @@
       <jump line="33" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="76" column="23" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="454" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="6" column="20" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="57" column="27" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="58" column="33" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="8" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="32" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="72" column="68" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -365,10 +368,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>, :children</text>
       </register>
       <register name="/" type="4">
-        <text>order_date_b</text>
+        <text>parent</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2V0VGltZW91dCAtPgogICAgICAkKCI6c3VibWl0Iiwgc2VsZikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSkKICAgICwgMTAwMDA=</text>
@@ -405,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order_date_b</last-search>
+      <last-search>parent</last-search>
       <last-offset />
-      <last-pattern>order_date_b</last-pattern>
+      <last-pattern>parent</last-pattern>
       <last-replace>daily_order_shipping_list</last-replace>
       <last-substitute>@daily_order_shipping_list</last-substitute>
       <last-dir>1</last-dir>
@@ -415,8 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tel_0_1</entry>
-        <entry>tel_</entry>
         <entry>nm_comp</entry>
         <entry>cnt_postal</entry>
         <entry>namelist</entry>
@@ -435,6 +436,8 @@
         <entry>sync_sf</entry>
         <entry>list</entry>
         <entry>order_date_b</entry>
+        <entry>toritsugi</entry>
+        <entry>parent</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
