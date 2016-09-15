@@ -979,8 +979,8 @@
       <file name="/JavaScript Console" timestamp="1473643298689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1473900232110">
-        <mark key="'" line="282" column="242" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1473905213915">
+        <mark key="'" line="6" column="9" />
         <mark key="[" line="224" column="0" />
         <mark key="]" line="224" column="0" />
         <mark key="." line="224" column="0" />
@@ -1081,7 +1081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
       <jump line="18" column="49" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
       <jump line="24" column="18" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
       <jump line="25" column="18" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" />
@@ -1181,6 +1180,7 @@
       <jump line="139" column="11" filename="$USER_HOME$/projects/pos-calc/Gemfile.lock" />
       <jump line="141" column="6" filename="$USER_HOME$/projects/pos-calc/Gemfile.lock" />
       <jump line="262" column="4" filename="$USER_HOME$/projects/pos-calc/Gemfile.lock" />
+      <jump line="6" column="9" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1263,7 +1263,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>turb</text>
+        <text>def search</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2V0VGltZW91dCAtPgogICAgICAkKCI6c3VibWl0Iiwgc2VsZikucHJvcCgiZGlzYWJsZWQiLCBmYWxzZSkKICAgICwgMTAwMDA=</text>
@@ -1300,9 +1300,9 @@
       </register>
     </registers>
     <search>
-      <last-search>turb</last-search>
+      <last-search>def search</last-search>
       <last-offset />
-      <last-pattern>turb</last-pattern>
+      <last-pattern>def search</last-pattern>
       <last-replace>daily_order_shipping_list</last-replace>
       <last-substitute>@daily_order_shipping_list</last-substitute>
       <last-dir>1</last-dir>
@@ -1310,7 +1310,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nm_cust</entry>
         <entry>ym_cust</entry>
         <entry>nm_company</entry>
         <entry>nm_com</entry>
@@ -1330,6 +1329,7 @@
         <entry>turbolinks</entry>
         <entry>tur</entry>
         <entry>turb</entry>
+        <entry>def search</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
