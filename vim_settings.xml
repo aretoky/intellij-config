@@ -1069,13 +1069,19 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/stores/_show_book_sales.html.erb" timestamp="1474180733933" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/stores/_show_book_sales.html.erb" timestamp="1474185054675">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/config/routes.rb" timestamp="1473869178989" />
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1474183785035">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1474184604568">
         <mark key="'" line="202" column="8" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="4" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1473869330735">
         <mark key="'" line="0" column="0" />
@@ -1284,40 +1290,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pos</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgcGFyYW1zWzphbGxfaGlzdG9yeV0K</text>
+      <register name="0" type="4">
+        <text>book_res.first.first</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkX2luZGV4ICJwb3MiLCBbOmJvb2tfaWQsIDpzdG9yZV9pZCwgOnJlcG9ydF9kYXRlLCA6aXNfZGVsZXRlZCwgOmlkXSwgbmFtZTogImluZGV4X3Bvc19zdG9yZV9sb2FkX2RlbGV0ZWQiLCB1c2luZzogOmJ0cmVlCg==</text>
+        <text encoding="base64">ICAgIDwlIGEgJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkX2luZGV4ICJwb3MiLCBbImlzX2RlbGV0ZWQiXSwgbmFtZTogImluZGV4X3Bvc3Nfb25faXNfZGVsZXRlZCIsIHVzaW5nOiA6YnRyZWUK</text>
+        <text encoding="base64">YWRkX2luZGV4ICJwb3MiLCBbOmJvb2tfaWQsIDpzdG9yZV9pZCwgOnJlcG9ydF9kYXRlLCA6aXNfZGVsZXRlZCwgOmlkXSwgbmFtZTogImluZGV4X3Bvc19zdG9yZV9sb2FkX2RlbGV0ZWQiLCB1c2luZzogOmJ0cmVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBvcy4K</text>
+        <text encoding="base64">YWRkX2luZGV4ICJwb3MiLCBbImlzX2RlbGV0ZWQiXSwgbmFtZTogImluZGV4X3Bvc3Nfb25faXNfZGVsZXRlZCIsIHVzaW5nOiA6YnRyZWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzY29wZSAK</text>
+        <text encoding="base64">ICAgIFBvcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlcyg6c3RvcmUsIDpib29rKS4K</text>
+        <text encoding="base64">ICBzY29wZSAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbmNsdWRlcyg6c3RvcmUsIDpib29rKS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlcyg6c3RvcmUsIDpib29rKS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cjEgPSBuaWwKICAgICAgaWYgcGFyYW1zWzphbGxfaGlzdG9yeV0KICAgICAgICByMSA9IFBvcy5yZW9yZGVyKHJlcG9ydF9kYXRlOiA6ZGVzYywgaWQ6IDpkZXNjKS4KICAgICAgICAgIGluY2x1ZGVzKDpzdG9yZSwgOmJvb2spLgogICAgICAgICAgd2hlcmUoYm9va19pZDogYm9vay5pZCwgc3RvcmVfaWQ6IHBhcmFtc1s6aWRdLCBpc19kZWxldGVkOiBmYWxzZSkuCiAgICAgICAgICB3aGVyZSgicmVwb3J0X2RhdGUgPj0gPyIsIGJvb2suc2FsZXNfZGF0ZS5tb250aHNfYWdvKDEpKQogICAgICBlbHNlCiAgICAgICAgcjEgPSBQb3MucmVvcmRlcihyZXBvcnRfZGF0ZTogOmRlc2MsIGlkOiA6ZGVzYykuCiAgICAgICAgICBpbmNsdWRlcyg6c3RvcmUsIDpib29rKS4KICAgICAgICAgICAgd2hlcmUoYm9va19pZDogYm9vay5pZCwgc3RvcmVfaWQ6IHBhcmFtc1s6aWRdLCBpc19kZWxldGVkOiBmYWxzZSkuCiAgICAgICAgICAgIHdoZXJlKCJyZXBvcnRfZGF0ZSA+PSA/IiwgYm9vay5zYWxlc19kYXRlLm1vbnRoc19hZ28oMSkpLgogICAgICAgICAgICB0YWtlKDMpCiAgICAgIGVuZA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@daily_order_shipping_list/daily_order_shipping_list/g</text>
