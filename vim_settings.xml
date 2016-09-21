@@ -39,9 +39,6 @@
         <mark key="^" line="33" column="43" />
         <mark key="." line="33" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" timestamp="1474091869616">
-        <mark key="'" line="3" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/.env" timestamp="1471594760877">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="23" />
@@ -116,6 +113,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/fuel-template/composer.json" timestamp="1474443641559">
+        <mark key="[" line="76" column="35" />
+        <mark key="]" line="77" column="27" />
+        <mark key="^" line="77" column="27" />
+        <mark key="." line="77" column="27" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/detail.php" timestamp="1473755542045">
         <mark key="[" line="81" column="46" />
@@ -342,11 +345,11 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/sandbox/fuel-template/provision-script/fuelphp.sh" timestamp="1470731380385">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="16" column="10" />
+      <file name="$USER_HOME$/sandbox/fuel-template/provision-script/fuelphp.sh" timestamp="1474443415110">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="27" column="77" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/support/ajax.rb" timestamp="1471956218564">
         <mark key="[" line="2" column="29" />
@@ -463,8 +466,11 @@
       <file name="/a.regexp" timestamp="1474431728827">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/fuel-template/.gitignore" timestamp="1474441796936">
+      <file name="$USER_HOME$/sandbox/fuel-template/.gitignore" timestamp="1474443196956">
         <mark key="[" line="23" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/users/mailer/confirmation_instructions.html.erb" timestamp="1473049018032">
         <mark key="[" line="10" column="0" />
@@ -489,9 +495,6 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1473847497432">
-        <mark key="'" line="243" column="16" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/ymdrooms_controller.rb" timestamp="1471932022585">
         <mark key="[" line="54" column="38" />
@@ -666,9 +669,6 @@
         <mark key="]" line="167" column="18" />
         <mark key="^" line="167" column="18" />
         <mark key="." line="167" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" timestamp="1474178852647">
-        <mark key="'" line="47" column="6" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" timestamp="1473933722592">
         <mark key="[" line="104" column="45" />
@@ -1299,40 +1299,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>install</text>
       </register>
       <register name="/" type="4">
         <text>address</text>
       </register>
-      <register name="0" type="4">
-        <text>.order_release_date</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2QgL3ZpcnR1YWwvdmFncmFudC9wdWJsaWNfaHRtbC93d3cuenp6enp6enouanA7IHBocCBjb21wb3Nlci5waGFyIHNlbGYtdXBkYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50X3VzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoY3VycmVudF91c2VyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50X3VzZXIpCg==</text>
+        <text encoding="base64">ZWNobyAiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYoY3VycmVudF91c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50X3VzZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
