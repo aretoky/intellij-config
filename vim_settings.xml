@@ -57,8 +57,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1474431726472">
-        <mark key="'" line="452" column="4" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1474559917458">
+        <mark key="'" line="116" column="44" />
         <mark key="[" line="485" column="0" />
         <mark key="]" line="485" column="0" />
         <mark key="." line="485" column="0" />
@@ -91,6 +91,12 @@
         <mark key="[" line="39" column="51" />
         <mark key="]" line="39" column="51" />
         <mark key="." line="39" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/factories/tel_mplans.rb" timestamp="1474559570472">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/bill_decorator.rb" timestamp="1472633988311">
         <mark key="[" line="22" column="22" />
@@ -671,7 +677,7 @@
         <mark key="^" line="167" column="18" />
         <mark key="." line="167" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1474554280307" />
+      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1474559513178" />
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" timestamp="1473933722592">
         <mark key="[" line="104" column="45" />
         <mark key="]" line="104" column="50" />
@@ -1111,12 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="44" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
-      <jump line="122" column="31" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
-      <jump line="123" column="84" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
-      <jump line="248" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
-      <jump line="250" column="31" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
-      <jump line="285" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
       <jump line="397" column="62" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
       <jump line="73" column="3" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
       <jump line="156" column="7" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/index_csv.php" />
@@ -1211,6 +1211,12 @@
       <jump line="0" column="15" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
       <jump line="28" column="9" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
       <jump line="97" column="44" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
+      <jump line="138" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="82" column="24" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="144" column="9" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="100" column="47" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="108" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="116" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1290,49 +1296,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, if: :address_plan?</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>address</text>
+        <text>reject_m</text>
       </register>
       <register name="0" type="4">
         <text>(custom_query[:controller])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbXBsYW4udHJhbnNmZXJfYWRkcnMgPDwgYnVpbGQoOnRyYW5zZmVyX2FkZHIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNkX3BhID09IDEwCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgYWRkcmVzc19wbGFuPwo=</text>
+        <text encoding="base64">ICAgIGNkX3BhID09IDEwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgYWRkcmVzc19wbGFuPwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRyYW5zZmVyX2FkZHJzLCBsZW5ndGg6IHsgbWluaW11bTogMSB9LCBpZjogOmFkZHJlc3NfcGxhbj8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXJfbmFtZQo=</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnRyYW5zZmVyX2FkZHJzLCBsZW5ndGg6IHsgbWluaW11bTogMSB9LCBpZjogOmFkZHJlc3NfcGxhbj8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXJfbmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>address</last-search>
+      <last-search>reject_m</last-search>
       <last-offset />
-      <last-pattern>address</last-pattern>
+      <last-pattern>reject_m</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1340,9 +1346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>turb</entry>
-        <entry>def search</entry>
-        <entry>is_strict_valid_t_syoten_cd</entry>
         <entry>sync_sf</entry>
         <entry>list</entry>
         <entry>order_date_b</entry>
@@ -1360,6 +1363,9 @@
         <entry>submit</entry>
         <entry>tel_mpla</entry>
         <entry>address</entry>
+        <entry>Mplan</entry>
+        <entry>tel_m</entry>
+        <entry>reject_m</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
