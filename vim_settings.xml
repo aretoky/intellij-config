@@ -837,7 +837,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474617561004">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474622984139">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="78" />
         <mark key="]" line="19" column="78" />
@@ -1152,7 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="33" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="76" column="23" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="454" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1250,8 +1249,9 @@
       <jump line="378" column="45" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="438" column="79" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="339" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="21" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
+      <jump line="445" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1334,7 +1334,7 @@
         <text>:is_deleted,</text>
       </register>
       <register name="/" type="4">
-        <text>def des</text>
+        <text>delete_all_orders</text>
       </register>
       <register name="0" type="4">
         <text>@daily_order_shipping_list</text>
@@ -1375,9 +1375,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def des</last-search>
+      <last-search>delete_all_orders</last-search>
       <last-offset />
-      <last-pattern>def des</last-pattern>
+      <last-pattern>delete_all_orders</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1390,7 +1390,6 @@
         <entry>delete_all_shipping_dates</entry>
         <entry>submit_processing</entry>
         <entry>destroy</entry>
-        <entry>delete_all_orders</entry>
         <entry>addlist_work</entry>
         <entry>update</entry>
         <entry>def update</entry>
@@ -1405,6 +1404,7 @@
         <entry>relea</entry>
         <entry>is_deleted</entry>
         <entry>def des</entry>
+        <entry>delete_all_orders</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
