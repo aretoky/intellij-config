@@ -154,12 +154,12 @@
         <mark key="." line="133" column="32" />
         <mark key="^" line="133" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" timestamp="1474616769606">
-        <mark key="'" line="120" column="12" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="24" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" timestamp="1474617984738">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="24" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/export.html.erb" timestamp="1473339407928">
         <mark key="[" line="14" column="0" />
@@ -838,8 +838,8 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474616893163">
-        <mark key="'" line="438" column="79" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474617561004">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="438" column="78" />
         <mark key="]" line="438" column="78" />
         <mark key="." line="438" column="78" />
@@ -1154,8 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="113" column="9" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="33" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="76" column="23" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1252,8 +1250,10 @@
       <jump line="66" column="72" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
       <jump line="120" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
       <jump line="378" column="45" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="438" column="79" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="339" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="21" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1336,7 +1336,7 @@
         <text>:is_deleted,</text>
       </register>
       <register name="/" type="4">
-        <text>is_deleted</text>
+        <text>def des</text>
       </register>
       <register name="0" type="4">
         <text>@daily_order_shipping_list</text>
@@ -1377,9 +1377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_deleted</last-search>
+      <last-search>def des</last-search>
       <last-offset />
-      <last-pattern>is_deleted</last-pattern>
+      <last-pattern>def des</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1387,7 +1387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bill</entry>
         <entry>yn_protect</entry>
         <entry>submit_update_deliver_type</entry>
         <entry>delete_all_shipping_dates</entry>
@@ -1407,6 +1406,7 @@
         <entry>fill</entry>
         <entry>relea</entry>
         <entry>is_deleted</entry>
+        <entry>def des</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
