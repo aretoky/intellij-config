@@ -82,6 +82,7 @@
         <mark key="." line="112" column="5" />
         <mark key="^" line="112" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/copy_db_from_production_to_staging.rake" timestamp="1474698955344" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/emps/index.html.slim" timestamp="1473610134988">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="22" column="29" />
@@ -117,6 +118,12 @@
         <mark key="]" line="29" column="18" />
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1474700041772">
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="22" />
+        <mark key="^" line="52" column="22" />
+        <mark key="." line="52" column="22" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/edit.html.erb" timestamp="1473307145818">
         <mark key="[" line="2" column="0" />
@@ -478,7 +485,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1474616853445">
+      <file name="/a.regexp" timestamp="1474699909495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/fuel-template/.gitignore" timestamp="1474443196956">
@@ -1349,35 +1356,35 @@
         <text>@daily_order_shipping_list</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0LmJvb2xlYW4gImlzX2RlbGV0ZWQiLCAgZGVmYXVsdDogZmFsc2UK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0LmJvb2xlYW4gImlzX2RlbGV0ZWQiLCAgZGVmYXVsdDogZmFsc2UK</text>
+      </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgc3VtID0gQGRhaWx5b3JkZXJzLnN1bSg6cXVhbnRpdHkpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>@dailyorders.update_all({
                                 daily_order_shipping_list_id: nil,
                                 upd_empno: current_user.email,
                                 updated_at: Time.zone.now
                               })</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
