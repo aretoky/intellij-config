@@ -119,11 +119,11 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1474726571311">
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="33" />
-        <mark key="^" line="45" column="33" />
-        <mark key="." line="45" column="33" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1474728722136">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/edit.html.erb" timestamp="1473307145818">
         <mark key="[" line="2" column="0" />
@@ -1358,34 +1358,31 @@
         <text>db_snapshot_identifier.gsub(/^rds:/, &quot;&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCBkYl9zbmFwc2hvdF9pZGVudGlmaWVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCAiY29weSBqcCB1cyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRiX3NuYXBzaG90X2lkZW50aWZpZXIgPSAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJfaW5zdGFuY2VfaWRlbnRpZmllcjogUlNUX0RCX0lOU1RBTkNFX0lERU5USUZJRVIK</text>
+        <text encoding="base64">ICAgICAgICAgIGRiX3NuYXBzaG90X2lkZW50aWZpZXIgPSAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IHJkc191cy5kZXNjcmliZV9kYl9zbmFwc2hvdHMoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJfaW5zdGFuY2VfaWRlbnRpZmllcjogUlNUX0RCX0lOU1RBTkNFX0lERU5USUZJRVIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IHJkc191cy5kZXNjcmliZV9kYl9zbmFwc2hvdHMoCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>copy_result = rds_us.copy_db_snapshot(
-          source_db_snapshot_identifier: &quot;arn:aws:rds:ap-northeast-1:781562416082:snapshot:#{db_snapshot_identifier}&quot;,
-          target_db_snapshot_identifier: db_snapshot_identifier
-        )</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
