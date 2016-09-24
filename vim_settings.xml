@@ -119,11 +119,11 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1474707672970">
-        <mark key="[" line="65" column="7" />
-        <mark key="]" line="66" column="3" />
-        <mark key="." line="66" column="3" />
-        <mark key="^" line="66" column="3" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1474726571311">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="33" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/edit.html.erb" timestamp="1473307145818">
         <mark key="[" line="2" column="0" />
@@ -719,8 +719,10 @@
         <mark key="^" line="167" column="18" />
         <mark key="." line="167" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" timestamp="1474178852647">
+      <file name="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" timestamp="1474726218987">
         <mark key="'" line="47" column="6" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="53" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1474559513178" />
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" timestamp="1473933722592">
@@ -1168,9 +1170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="20" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
-      <jump line="57" column="27" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
-      <jump line="58" column="33" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="8" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="32" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="72" column="68" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1268,6 +1267,9 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/config/environments/development.rb" />
       <jump line="18" column="43" filename="$USER_HOME$/projects/cplus/config/environments/development.rb" />
       <jump line="19" column="39" filename="$USER_HOME$/projects/cplus/config/environments/development.rb" />
+      <jump line="31" column="41" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
+      <jump line="12" column="6" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
+      <jump line="27" column="27" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1347,62 +1349,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>small</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>rds.</text>
       </register>
       <register name="0" type="4">
-        <text>@daily_order_shipping_list</text>
+        <text>db_snapshot_identifier.gsub(/^rds:/, &quot;&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrdXBfcmV0ZW50aW9uX3BlcmlvZDogMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRiX3NuYXBzaG90X2lkZW50aWZpZXIgPSAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmFja3VwX3JldGVudGlvbl9wZXJpb2Q6IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJfaW5zdGFuY2VfaWRlbnRpZmllcjogUlNUX0RCX0lOU1RBTkNFX0lERU5USUZJRVIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0LmJvb2xlYW4gImlzX2RlbGV0ZWQiLCAgZGVmYXVsdDogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IHJkc191cy5kZXNjcmliZV9kYl9zbmFwc2hvdHMoCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3VtID0gQGRhaWx5b3JkZXJzLnN1bSg6cXVhbnRpdHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>@dailyorders.update_all({
-                                daily_order_shipping_list_id: nil,
-                                upd_empno: current_user.email,
-                                updated_at: Time.zone.now
-                              })</text>
+        <text>copy_result = rds_us.copy_db_snapshot(
+          source_db_snapshot_identifier: &quot;arn:aws:rds:ap-northeast-1:781562416082:snapshot:#{db_snapshot_identifier}&quot;,
+          target_db_snapshot_identifier: db_snapshot_identifier
+        )</text>
       </register>
       <register name=":" type="4">
-        <text>%s/'/&quot;/g</text>
+        <text>%s/rds./rds_jp./g</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>rds.</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>rds.</last-pattern>
+      <last-replace>rds_jp.</last-replace>
+      <last-substitute>rds.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>submit_update_deliver_type</entry>
-        <entry>delete_all_shipping_dates</entry>
         <entry>submit_processing</entry>
         <entry>destroy</entry>
         <entry>addlist_work</entry>
@@ -1421,9 +1420,10 @@
         <entry>def des</entry>
         <entry>delete_all_orders</entry>
         <entry>log</entry>
+        <entry>delete-</entry>
+        <entry>rds.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/telephone/url/g</entry>
         <entry>%s/'/&quot;g</entry>
         <entry>%/'/&quot;/g</entry>
         <entry>%/s/'/&quot;/g</entry>
@@ -1443,6 +1443,7 @@
         <entry>s/@daily_order_shipping_list/daily_order_shipping_list/</entry>
         <entry>%s/@daily_order_shipping_list/daily_order_shipping_list/g</entry>
         <entry>%s/'/&quot;/g</entry>
+        <entry>%s/rds./rds_jp./g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
