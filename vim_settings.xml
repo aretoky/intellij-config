@@ -741,6 +741,12 @@
         <mark key="^" line="181" column="89" />
         <mark key="." line="182" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/environments/staging.rb" timestamp="1474688457951">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1470820761202">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="1" column="52" />
@@ -903,6 +909,9 @@
         <mark key="]" line="3" column="172" />
         <mark key="." line="3" column="172" />
         <mark key="^" line="3" column="172" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/environments/development.rb" timestamp="1474688309566">
+        <mark key="'" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/users/registrations/new.html.erb" timestamp="1473298120972">
         <mark key="[" line="79" column="48" />
@@ -1152,9 +1161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="76" column="23" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="454" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="6" column="20" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="57" column="27" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="58" column="33" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
@@ -1252,6 +1258,9 @@
       <jump line="21" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
       <jump line="445" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/config/environments/development.rb" />
+      <jump line="18" column="43" filename="$USER_HOME$/projects/cplus/config/environments/development.rb" />
+      <jump line="19" column="39" filename="$USER_HOME$/projects/cplus/config/environments/development.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1331,10 +1340,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:is_deleted,</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>delete_all_orders</text>
+        <text>log</text>
       </register>
       <register name="0" type="4">
         <text>@daily_order_shipping_list</text>
@@ -1375,9 +1384,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete_all_orders</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>delete_all_orders</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1385,7 +1394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>yn_protect</entry>
         <entry>submit_update_deliver_type</entry>
         <entry>delete_all_shipping_dates</entry>
         <entry>submit_processing</entry>
@@ -1405,6 +1413,7 @@
         <entry>is_deleted</entry>
         <entry>def des</entry>
         <entry>delete_all_orders</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/telephone/url/g</entry>
