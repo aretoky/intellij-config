@@ -33,11 +33,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1474872109838">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="26" column="1" />
-        <mark key="^" line="26" column="1" />
-        <mark key="." line="26" column="1" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1474880259196">
+        <mark key="[" line="382" column="26" />
+        <mark key="]" line="382" column="62" />
+        <mark key="^" line="382" column="62" />
+        <mark key="." line="382" column="62" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" timestamp="1474091869616">
         <mark key="'" line="3" column="11" />
@@ -1377,19 +1377,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>restore_db_instance_from_db_snapshot</text>
       </register>
-      <register name="0" type="4">
-        <text>log_intage.report_from</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByZW9yZGVyKCJzdG9yZV9pZCwgcmVwb3J0X2RhdGUgZGVzYywgaWQgZGVzYyIpLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbmFsX2RiX3NuYXBzaG90X2lkZW50aWZpZXI6ICJkZWxldGUtZGItaW5zdGFuY2UtI3tEYXRlLnRvZGF5LnN0cmZ0aW1lICIlWS0lbS0lZCJ9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZW9yZGVyKCJzdG9yZV9pZCwgcmVwb3J0X2RhdGUgZGVzYywgaWQgZGVzYyIpLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUG9zLmltcG9ydCh3b3JrZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1398,19 +1398,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbmFsX2RiX3NuYXBzaG90X2lkZW50aWZpZXI6ICJkZWxldGUtZGItaW5zdGFuY2UtI3tEYXRlLnRvZGF5LnN0cmZ0aW1lICIlWS0lbS0lZCJ9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QucGVyc29uX3VwZGF0ZWQgPSBjdXJyZW50X3VzZXIuZW1haWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUG9zLmltcG9ydCh3b3JrZGF0YSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJlZ2luCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyBsb2dfaW50YWdlLnJlbW92ZV9jc3YhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nX2ludGFnZS5zYXZlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
