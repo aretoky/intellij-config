@@ -113,7 +113,7 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1474729556065">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1474873667943">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -738,10 +738,12 @@
         <mark key="^" line="167" column="18" />
         <mark key="." line="167" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" timestamp="1474850817015">
-        <mark key="'" line="47" column="6" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="53" />
+      <file name="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" timestamp="1474873671386">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="55" />
+        <mark key="]" line="68" column="31" />
+        <mark key="." line="68" column="31" />
+        <mark key="^" line="68" column="31" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1474559513178" />
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" timestamp="1473933722592">
@@ -1196,8 +1198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
-      <jump line="138" column="35" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="150" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="286" column="35" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="203" column="73" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -1296,6 +1296,8 @@
       <jump line="87" column="45" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="88" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="17" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="28" column="46" filename="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1375,19 +1377,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>restore_db_instance_from_db_snapshot</text>
       </register>
       <register name="0" type="4">
         <text>log_intage.report_from</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUG9zLmltcG9ydCh3b3JrZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbmFsX2RiX3NuYXBzaG90X2lkZW50aWZpZXI6ICJkZWxldGUtZGItaW5zdGFuY2UtI3tEYXRlLnRvZGF5LnN0cmZ0aW1lICIlWS0lbS0lZCJ9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUG9zLmltcG9ydCh3b3JrZGF0YSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1396,28 +1398,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QucGVyc29uX3VwZGF0ZWQgPSBjdXJyZW50X3VzZXIuZW1haWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZ2luCg==</text>
+        <text encoding="base64">ICAgICAgQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QucGVyc29uX3VwZGF0ZWQgPSBjdXJyZW50X3VzZXIuZW1haWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBsb2dfaW50YWdlLnJlbW92ZV9jc3YhCg==</text>
+        <text encoding="base64">ICAgIGJlZ2luCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nX2ludGFnZS5zYXZlCg==</text>
+        <text encoding="base64">ICAgICAgIyBsb2dfaW50YWdlLnJlbW92ZV9jc3YhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2FsZXNfZGF0ZSA9IGJvb2suc2FsZXNfZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgbG9nX2ludGFnZS5zYXZlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>restore_db_instance_from_db_snapshot</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>restore_db_instance_from_db_snapshot</last-pattern>
       <last-replace>rds_jp.</last-replace>
       <last-substitute>rds.</last-substitute>
       <last-dir>1</last-dir>
@@ -1425,7 +1427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rds.</entry>
         <entry>dailyorder</entry>
         <entry>dailyorder_id</entry>
         <entry>delete</entry>
@@ -1445,6 +1446,7 @@
         <entry>jj</entry>
         <entry>store</entry>
         <entry>create</entry>
+        <entry>restore_db_instance_from_db_snapshot</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;g</entry>
