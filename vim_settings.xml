@@ -166,6 +166,13 @@
         <mark key="." line="133" column="32" />
         <mark key="^" line="133" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" timestamp="1474852014582">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="72" column="87" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/export.html.erb" timestamp="1473339407928">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="2" />
@@ -905,7 +912,7 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1474613813696">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1474851656718">
         <mark key="'" line="89" column="72" />
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
@@ -1169,7 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="32" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="72" column="68" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="3" column="11" filename="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" />
@@ -1269,6 +1275,7 @@
       <jump line="31" column="41" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
       <jump line="27" column="27" filename="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" />
+      <jump line="32" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1348,7 +1355,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>, class_name: &quot;ListType&quot;</text>
       </register>
       <register name="/" type="4">
         <text>rds.</text>
@@ -1357,31 +1364,31 @@
         <text>db_snapshot_identifier.gsub(/^rds:/, &quot;&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYXNfb25lIDpsaXN0X3R5cGUsIDpjbGFzc19uYW1lID0+ICdMaXN0VHlwZScsIDpmb3JlaWduX2tleSA9PiAnbGlzdF90eXBlX2lkJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcCBkYl9zbmFwc2hvdF9pZGVudGlmaWVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCAiY29weSBqcCB1cyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCBkYl9zbmFwc2hvdF9pZGVudGlmaWVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCAiY29weSBqcCB1cyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRiX3NuYXBzaG90X2lkZW50aWZpZXIgPSAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJfaW5zdGFuY2VfaWRlbnRpZmllcjogUlNUX0RCX0lOU1RBTkNFX0lERU5USUZJRVIK</text>
+        <text encoding="base64">ICAgICAgICAgIGRiX3NuYXBzaG90X2lkZW50aWZpZXIgPSAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IHJkc191cy5kZXNjcmliZV9kYl9zbmFwc2hvdHMoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
