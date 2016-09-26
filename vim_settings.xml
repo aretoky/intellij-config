@@ -33,11 +33,11 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1474183574342">
-        <mark key="[" line="32" column="68" />
-        <mark key="]" line="33" column="43" />
-        <mark key="^" line="33" column="43" />
-        <mark key="." line="33" column="43" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1474872109838">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+        <mark key="." line="26" column="1" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" timestamp="1474091869616">
         <mark key="'" line="3" column="11" />
@@ -194,12 +194,12 @@
         <mark key="." line="111" column="66" />
         <mark key="^" line="111" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1474870767985">
-        <mark key="'" line="88" column="25" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="90" column="44" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1474872666742">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="94" column="80" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/_form.html.erb" timestamp="1473650170706">
         <mark key="[" line="89" column="60" />
@@ -1196,7 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="4" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="91" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="138" column="35" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="150" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -1296,6 +1295,7 @@
       <jump line="84" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="87" column="45" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="88" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="17" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1375,49 +1375,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>temp_cycle_num</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>create</text>
       </register>
       <register name="0" type="4">
         <text>log_intage.report_from</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2FsZXNfZGF0ZSA9IGJvb2suc2FsZXNfZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUG9zLmltcG9ydCh3b3JrZGF0YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGVtcF9jeWNsZV9udW0gPSAyMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdG90YWxfZGF0YV9udW0gPSByb3dfbnVtICogKG1vbnRoX2VuZCAtIG1vbnRoX2JlZ2luICsgMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdG90YWxfZGF0YV9udW0gPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmlsZV9uYW1lX29yaWdpbmFsID0gbG9nX2ludGFnZS5maWxlbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QucGVyc29uX3VwZGF0ZWQgPSBjdXJyZW50X3VzZXIuZW1haWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUgPSBTdG9yZS5jcmVhdGUoc3RvcmVkYXRhKSBpZiAhc3RvcmUK</text>
+        <text encoding="base64">ICAgIGJlZ2luCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIyBsb2dfaW50YWdlLnJlbW92ZV9jc3YhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgbG9nX2ludGFnZS5zYXZlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zZGF0YVs6cmVwb3J0X2Zyb21dID0gbG9nX2ludGFnZS5yZXBvcnRfZnJvbQo=</text>
+        <text encoding="base64">ICAgICAgc2FsZXNfZGF0ZSA9IGJvb2suc2FsZXNfZGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>rds_jp.</last-replace>
       <last-substitute>rds.</last-substitute>
       <last-dir>1</last-dir>
@@ -1425,7 +1425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete-</entry>
         <entry>rds.</entry>
         <entry>dailyorder</entry>
         <entry>dailyorder_id</entry>
@@ -1445,6 +1444,7 @@
         <entry>job</entry>
         <entry>jj</entry>
         <entry>store</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;g</entry>
