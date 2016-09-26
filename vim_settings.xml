@@ -64,12 +64,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1474866537472">
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="^" line="235" column="50" />
-        <mark key="." line="269" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/vp_extension/app/scripts/chromereload.js" timestamp="1472571033573">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="12" column="2" />
@@ -199,6 +193,12 @@
         <mark key="]" line="111" column="66" />
         <mark key="." line="111" column="66" />
         <mark key="^" line="111" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1474868855518">
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="34" />
+        <mark key="." line="57" column="34" />
+        <mark key="^" line="57" column="34" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/_form.html.erb" timestamp="1473650170706">
         <mark key="[" line="89" column="60" />
@@ -425,6 +425,11 @@
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/log_intage.rb" timestamp="1474868395201">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/_form.html.slim" timestamp="1471932618783">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -501,7 +506,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1474854174239">
+      <file name="/a.regexp" timestamp="1474868640928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/fuel-template/.gitignore" timestamp="1474443196956">
@@ -572,9 +577,6 @@
         <mark key="]" line="12" column="9" />
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" timestamp="1474596051348">
-        <mark key="'" line="91" column="30" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/application.js" timestamp="1473902027602">
         <mark key="[" line="18" column="2" />
@@ -716,9 +718,6 @@
         <mark key="]" line="0" column="81" />
         <mark key="." line="0" column="81" />
         <mark key="^" line="0" column="81" />
-      </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/book/edit.view.php" timestamp="1474595870281">
-        <mark key="'" line="30" column="92" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/models/sample_image.rb" timestamp="1473304752696">
         <mark key="[" line="14" column="15" />
@@ -871,11 +870,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474867111634">
-        <mark key="[" line="385" column="0" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474867111634" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_hplace_fields.html.slim" timestamp="1473491698277">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -951,9 +946,6 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/ymdroom/ajax_reserve_book.php" timestamp="1474595621842">
-        <mark key="'" line="533" column="19" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/ransack_patch.rb" timestamp="1473161546148">
         <mark key="[" line="10" column="10" />
@@ -1382,7 +1374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>daily_order_shipping_lists</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>def show</text>
@@ -1391,31 +1383,31 @@
         <text>daily_order_shipping_lists.messages.cannot_edit</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBsb2NhbGUgRGFpbHlPcmRlclNoaXBwaW5nTGlzdHNDb250cm9sbGVyICMyMTEK</text>
+        <text encoding="base64">ICBoYXNfb25lIDpib29rLCBjbGFzc19uYW1lOiAiQm9vayIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBoYXNfb25lIDpib29rLCBjbGFzc19uYW1lOiAiQm9vayIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbnVtID0gQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QucmVsZWFzZV9kYWlseW9yZGVycwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBsb2NhbGUgRGFpbHlPcmRlclNoaXBwaW5nTGlzdHNDb250cm9sbGVyICMyMTEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBsb2NhbGUgRGFpbHlPcmRlclNoaXBwaW5nTGlzdHNDb250cm9sbGVyICMyMTEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAi44Oq44K544OIIExpc3QtSUQ6ICIgKyBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0X2lkLnRvX3MgKyAi44KS5YmK6Zmk44GX44G+44GX44GfIgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbnVtID0gQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QucmVsZWFzZV9kYWlseW9yZGVycwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBsb2NhbGUgRGFpbHlPcmRlclNoaXBwaW5nTGlzdHNDb250cm9sbGVyICMyMTEK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAi44Oq44K544OIIExpc3QtSUQ6ICIgKyBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0X2lkLnRvX3MgKyAi44KS5YmK6Zmk44GX44G+44GX44GfIgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
