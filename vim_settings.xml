@@ -70,12 +70,12 @@
         <mark key="]" line="485" column="0" />
         <mark key="." line="485" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1474857762573">
+      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1474858592048">
         <mark key="'" line="106" column="4" />
-        <mark key="[" line="236" column="58" />
-        <mark key="]" line="236" column="58" />
-        <mark key="^" line="236" column="43" />
-        <mark key="." line="236" column="58" />
+        <mark key="[" line="236" column="44" />
+        <mark key="]" line="236" column="60" />
+        <mark key="^" line="236" column="60" />
+        <mark key="." line="236" column="60" />
       </file>
       <file name="$USER_HOME$/projects/vp_extension/app/scripts/chromereload.js" timestamp="1472571033573">
         <mark key="[" line="12" column="1" />
@@ -881,12 +881,12 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474857901406">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474858605411">
         <mark key="'" line="292" column="6" />
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="^" line="378" column="82" />
-        <mark key="." line="378" column="0" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="155" column="98" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_hplace_fields.html.slim" timestamp="1473491698277">
         <mark key="[" line="3" column="0" />
@@ -1400,40 +1400,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>。</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;リスト List-ID: &quot; + @daily_order_shipping_list.id.to_s + &quot;は処理済みです。削除できません。&quot;</text>
+        <text>submit_update_deliver_type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZSA9ICLjg6rjgrnjg4ggTGlzdC1JRDogIiArIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmlkLnRvX3MgKyAi44Gv5Yem55CG5riI44G/44Gn44GZ44CC5YmK6Zmk44Gn44GN44G+44Gb44KT44CCIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UgPSAn5Ye66I235bGe5oCn44KS5LiA5ous5aSJ5pu044Gn44GN44G+44Gb44KT44Gn44GX44GfJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UgPSAn5Ye66I235bGe5oCn44KS5LiA5ous5aSJ5pu044GX44G+44GX44GfIDogJyArIGRlbGl2ZXJ0eXBlLm5hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZSA9ICLjg6rjgrnjg4ggTGlzdC1JRDogIiArIEBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0LmlkLnRvX3MgKyAi44Gv5Yem55CG5riI44G/44Gn44GZ44CC5YmK6Zmk44Gn44GN44G+44Gb44KT44CCIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAi44Oq44K544OIIExpc3QtSUQ6ICIgKyBAZGFpbHlfb3JkZXJfc2hpcHBpbmdfbGlzdC5pZC50b19zICsgIuOCkuWJiumZpOOBl+OBvuOBl+OBnyIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAi5YWo44OH44O844K/55m76Yyy6Kej6ZmkIDogIiArIG51bS50b19zICsgIiDku7YvICIgKyBzdW0udG9fcyArICIg5YaK44Gu44OH44O844K/44KS55m76Yyy6Kej6Zmk44GX44G+44GX44GfIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAi44Oq44K544OIIExpc3QtSUQ6ICIgKyBAZGFpbHlfb3JkZXJfc2hpcHBpbmdfbGlzdC5pZC50b19zICsgIuOCkuWJiumZpOOBl+OBvuOBl+OBnyIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3VtID0gQGRhaWx5b3JkZXJzLnN1bSg6cXVhbnRpdHkpCg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAi5YWo44OH44O844K/55m76Yyy6Kej6ZmkIDogIiArIG51bS50b19zICsgIiDku7YvICIgKyBzdW0udG9fcyArICIg5YaK44Gu44OH44O844K/44KS55m76Yyy6Kej6Zmk44GX44G+44GX44GfIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoYXNfb25lIDpsaXN0X3R5cGUsIDpjbGFzc19uYW1lID0+ICdMaXN0VHlwZScsIDpmb3JlaWduX2tleSA9PiAnbGlzdF90eXBlX2lkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
