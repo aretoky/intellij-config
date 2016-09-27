@@ -350,12 +350,6 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1474616917623">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="351" column="0" />
-        <mark key="." line="351" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cplus_addressable.rb" timestamp="1471940516276">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
@@ -410,6 +404,9 @@
         <mark key="]" line="78" column="5" />
         <mark key="^" line="78" column="5" />
         <mark key="." line="78" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1474959913447">
+        <mark key="'" line="59" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/custs_controller_spec.rb" timestamp="1474562420333" />
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/src/tpl/postalcust/mid.view.php" timestamp="1473824421603">
@@ -634,6 +631,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="^" line="61" column="4" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1474959259658">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="13" />
+        <mark key="." line="53" column="13" />
+        <mark key="^" line="53" column="13" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" timestamp="1472543659702">
         <mark key="[" line="51" column="19" />
@@ -865,12 +868,6 @@
         <mark key="]" line="13" column="22" />
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" timestamp="1473900525333">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/placeymd.rb" timestamp="1471959880078">
         <mark key="[" line="29" column="0" />
@@ -1202,8 +1199,8 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1474592918073">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1474959294210">
+        <mark key="'" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/controllers/sample_images_controller.rb" timestamp="1473305221371">
         <mark key="[" line="88" column="0" />
@@ -1211,19 +1208,8 @@
         <mark key="." line="88" column="2" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1473932312000">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="12" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="342" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="48" column="12" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="60" column="10" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="95" column="10" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="350" column="29" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="345" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -1319,6 +1305,11 @@
       <jump line="69" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="427" column="163" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" />
+      <jump line="152" column="10" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
+      <jump line="13" column="6" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
+      <jump line="0" column="3" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
+      <jump line="59" column="9" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1398,10 +1389,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>report_date</text>
+        <text>destroy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICByZW9yZGVyKCJzdG9yZV9pZCwgcmVwb3J0X2RhdGUgZGVzYywgaWQgZGVzYyIpLgo=</text>
@@ -1438,9 +1429,9 @@
       </register>
     </registers>
     <search>
-      <last-search>report_date</last-search>
+      <last-search>destroy</last-search>
       <last-offset />
-      <last-pattern>report_date</last-pattern>
+      <last-pattern>destroy</last-pattern>
       <last-replace>rds_jp.</last-replace>
       <last-substitute>rds.</last-substitute>
       <last-dir>1</last-dir>
@@ -1448,8 +1439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>message</entry>
-        <entry>delete_all_shipping_dates</entry>
         <entry>show</entry>
         <entry>submit_update_deliver_type</entry>
         <entry>cannot_submit_update_deliver_type</entry>
@@ -1468,6 +1457,8 @@
         <entry>sale</entry>
         <entry>pos</entry>
         <entry>report_date</entry>
+        <entry>bitem</entry>
+        <entry>destroy</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;g</entry>
