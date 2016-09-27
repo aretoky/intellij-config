@@ -90,11 +90,11 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/schedule.rb" timestamp="1474968035399">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/projects/cplus/config/schedule.rb" timestamp="1474970664327">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1474557591690">
         <mark key="[" line="108" column="14" />
@@ -860,11 +860,11 @@
         <mark key="." line="98" column="24" />
         <mark key="^" line="98" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1474969491479">
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="22" column="89" />
-        <mark key="^" line="22" column="89" />
-        <mark key="." line="22" column="89" />
+      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1474970511841">
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="53" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/layouts/works.html.erb" timestamp="1473077864261">
         <mark key="[" line="8" column="19" />
@@ -1445,13 +1445,15 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>add_event_on_google_calender</text>
       </register>
       <register name="/" type="4">
         <text>enable</text>
       </register>
       <register name="0" type="4">
-        <text>:environment</text>
+        <text>every &quot;*/2 * * * *&quot;, roles: [:batch] do
+    rake &quot;add_event_on_google_calender:run&quot;
+  end</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
