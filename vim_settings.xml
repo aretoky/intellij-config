@@ -27,7 +27,7 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1474707726666">
+      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1475057729988">
         <mark key="[" line="40" column="68" />
         <mark key="]" line="41" column="61" />
         <mark key="." line="41" column="61" />
@@ -189,11 +189,11 @@
         <mark key="^" line="77" column="7" />
         <mark key="." line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1475056424262">
-        <mark key="[" line="36" column="77" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="28" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1475057204506">
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="35" column="95" />
+        <mark key="^" line="35" column="95" />
+        <mark key="." line="35" column="95" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/detail.php" timestamp="1473755542045">
         <mark key="[" line="81" column="46" />
@@ -316,11 +316,11 @@
         <mark key="^" line="22" column="41" />
         <mark key="." line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/admin/custs_helper.rb" timestamp="1475056255864">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="13" column="32" />
+      <file name="$USER_HOME$/projects/cplus/app/helpers/admin/custs_helper.rb" timestamp="1475057861194">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/config/application.rb" timestamp="1472974476284">
         <mark key="[" line="29" column="25" />
@@ -861,6 +861,12 @@
         <mark key="]" line="14" column="15" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1475057362696">
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="9" />
+        <mark key="^" line="57" column="5" />
+        <mark key="." line="56" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_validator.rb" timestamp="1474596880245">
         <mark key="[" line="101" column="10" />
@@ -1582,40 +1588,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>リ</text>
       </register>
       <register name="/" type="4">
         <text>cust_enable_emails</text>
       </register>
       <register name="0" type="4">
-        <text>CODE[&quot;codede_cb&quot;].invert</text>
+        <text>where(cd_cb: cbcj.to_i / 100)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>where(cd_cb: cbcj.to_i / 100).
+      where(cd_cj: cbcj.to_i % 100)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>{
+      &quot;大カテゴリ&quot;: CODE[&quot;codede_cb&quot;].invert,
+      &quot;詳細カテゴリ&quot;: CODE[&quot;codede_cbcj&quot;].invert
+    }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>{
+      &quot;大カテゴリ&quot;: CODE[&quot;codede_cb&quot;].invert,
+      &quot;詳細カテゴリ&quot;: CODE[&quot;codede_cbcj&quot;].invert
+    }</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YmlsbG1haWwgPSBiaWxsLnllYXJfcGxhbl9iZWZvcmVfM19kYXlfYmlsbG1haWwKICAgICAgICBpZiBiaWxsbWFpbCAmJiBiaWxsbWFpbC5jYW5fc2VuZD8gJiYgYmlsbG1haWwuZHRfcXVldWUgPT0gZHRfYmF0Y2gKICAgICAgICAgIHJlc3VsdCA9IEFkbWluOjpCYXRjaEJpbGxNYWlsZXIueWVhcl9iZWZvcmVfM19lbWFpbChiaWxsKS5kZWxpdmVyX25vdwogICAgICAgICAgaWYgcmVzdWx0CiAgICAgICAgICAgIG5vX3NtYWlsc2VuZCA9IFNtYWlsLmN1cnJlbnRfc2VxX3NtYWlsCiAgICAgICAgICAgIGJpbGxtYWlsLnVwZGF0ZShub19zbWFpbHNlbmQ6IG5vX3NtYWlsc2VuZCkKICAgICAgICAgICAgYmlsbC51cGRhdGUoY250X2NkX2h1MTAzOiBiaWxsLmNudF9jZF9odTEwMyArIDEpCiAgICAgICAgICBlbmQKICAgICAgICBlbmQ=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
