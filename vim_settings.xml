@@ -42,8 +42,8 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1475064168779">
         <mark key="'" line="135" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1475109801654">
-        <mark key="'" line="122" column="3" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1475110097948">
+        <mark key="'" line="326" column="0" />
         <mark key="[" line="397" column="82" />
         <mark key="]" line="397" column="82" />
         <mark key="^" line="397" column="82" />
@@ -86,6 +86,11 @@
         <mark key="]" line="12" column="2" />
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/schedule.rb" timestamp="1475051308443">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1474557591690">
         <mark key="[" line="108" column="14" />
@@ -149,6 +154,11 @@
         <mark key="]" line="29" column="18" />
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1474957409405">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/edit.html.erb" timestamp="1473307145818">
         <mark key="[" line="2" column="0" />
@@ -542,9 +552,6 @@
         <mark key="^" line="21" column="9" />
         <mark key="." line="21" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473665991694">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/_work.html.erb" timestamp="1473651325248">
         <mark key="[" line="37" column="15" />
         <mark key="]" line="37" column="6" />
@@ -581,8 +588,10 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1475055726497">
+      <file name="/a.regexp" timestamp="1475110064338">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/sandbox/fuel-template/.gitignore" timestamp="1474443196956">
         <mark key="[" line="23" column="0" />
@@ -607,6 +616,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1475054491577">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1472866679190">
         <mark key="[" line="3" column="19" />
@@ -1252,9 +1266,6 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/JavaScript Console" timestamp="1473643298689">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/cust/attribute_searcher_decorator.rb" timestamp="1475055939813">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1357,7 +1368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="28" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
       <jump line="236" column="8" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
       <jump line="255" column="52" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
       <jump line="237" column="14" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
@@ -1457,6 +1467,7 @@
       <jump line="126" column="27" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="135" column="46" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="0" column="13" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="326" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1536,7 +1547,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>order_by_poscalc_id_desc</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
