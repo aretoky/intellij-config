@@ -1411,8 +1411,8 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/routes.rb" timestamp="1475156431180">
-        <mark key="'" line="123" column="13" />
+      <file name="$USER_HOME$/projects/pos-calc/config/routes.rb" timestamp="1475156622980">
+        <mark key="'" line="102" column="13" />
         <mark key="[" line="122" column="39" />
         <mark key="]" line="123" column="1" />
         <mark key="." line="123" column="1" />
@@ -1452,9 +1452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
-      <jump line="89" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
-      <jump line="90" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="92" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="84" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="87" column="45" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
@@ -1550,8 +1547,11 @@
       <jump line="33" column="11" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="18" column="11" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_collections_controller.rb" />
       <jump line="111" column="13" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="123" column="13" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
+      <jump line="110" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
+      <jump line="106" column="13" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
+      <jump line="102" column="13" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1634,7 +1634,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>list_type</text>
+        <text>loading_date</text>
       </register>
       <register name="0" type="4">
         <text>bookdata[:poscalc_id]</text>
@@ -1671,9 +1671,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list_type</last-search>
+      <last-search>loading_date</last-search>
       <last-offset />
-      <last-pattern>list_type</last-pattern>
+      <last-pattern>loading_date</last-pattern>
       <last-replace>book</last-replace>
       <last-substitute>sdd</last-substitute>
       <last-dir>1</last-dir>
@@ -1681,7 +1681,6 @@
     </search>
     <history>
       <history-search>
-        <entry>produ</entry>
         <entry>whe</entry>
         <entry>md5</entry>
         <entry>nm_room</entry>
@@ -1701,6 +1700,7 @@
         <entry>merge</entry>
         <entry>dailyorders_collections</entry>
         <entry>list_type</entry>
+        <entry>loading_date</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
