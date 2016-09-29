@@ -588,7 +588,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1475115556154">
+      <file name="/a.regexp" timestamp="1475140473382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1073,8 +1073,8 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1474851656718">
-        <mark key="'" line="89" column="72" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1475139950797">
+        <mark key="'" line="55" column="52" />
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
         <mark key="^" line="37" column="8" />
@@ -1368,11 +1368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="8" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
-      <jump line="255" column="52" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
-      <jump line="237" column="14" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
-      <jump line="168" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="181" column="66" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="185" column="73" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="186" column="22" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="4" column="14" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -1468,6 +1463,11 @@
       <jump line="135" column="46" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" />
       <jump line="0" column="13" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="326" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
+      <jump line="2" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/book.rb" />
+      <jump line="5" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/book.rb" />
+      <jump line="6" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/book.rb" />
+      <jump line="61" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/book.rb" />
+      <jump line="55" column="52" filename="$USER_HOME$/projects/pos-calc/app/models/book.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1550,7 +1550,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>isbn</text>
       </register>
       <register name="0" type="4">
         <text>https://github.com/railsconfig/config/issues/126</text>
@@ -1587,9 +1587,9 @@
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>isbn</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>isbn</last-pattern>
       <last-replace>rds_jp.</last-replace>
       <last-substitute>rds.</last-substitute>
       <last-dir>1</last-dir>
@@ -1597,7 +1597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sale</entry>
         <entry>pos</entry>
         <entry>report_date</entry>
         <entry>bitem</entry>
@@ -1617,6 +1616,7 @@
         <entry>cust_enable_emails</entry>
         <entry>no_cust</entry>
         <entry>config</entry>
+        <entry>isbn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;g</entry>
