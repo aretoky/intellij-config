@@ -42,7 +42,7 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1475064168779">
         <mark key="'" line="135" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1475110097948">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1475115544819">
         <mark key="'" line="326" column="0" />
         <mark key="[" line="397" column="82" />
         <mark key="]" line="397" column="82" />
@@ -516,11 +516,11 @@
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/log_intage.rb" timestamp="1474898288550">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/log_intage.rb" timestamp="1475115823020">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/_form.html.slim" timestamp="1471932618783">
         <mark key="[" line="1" column="0" />
@@ -588,10 +588,10 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1475110064338">
+      <file name="/a.regexp" timestamp="1475115556154">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/fuel-template/.gitignore" timestamp="1474443196956">
         <mark key="[" line="23" column="0" />
@@ -1547,7 +1547,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>order_by_poscalc_id_desc</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -1556,31 +1556,31 @@
         <text>https://github.com/railsconfig/config/issues/126</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcCBTZXR0aW5ncy5lY3BvcnRhbF9ub19jdXN0X2N1c3RvbWVyX3BsdXMK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNwb3J0YWxfbm9fY3VzdF9jdXN0b21lcl9wbHVzOiAyCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZWNwb3J0YWxfbm9fY3VzdF9jdXN0b21lcl9wbHVzOiAyZAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZWNwb3J0YWxfbm9fY3VzdF9jdXN0b21lcl9wbHVzOiAyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcCBTZXR0aW5ncy5lY3BvcnRhbF9ub19jdXN0X2N1c3RvbWVyX3BsdXMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vcmFpbHNjb25maWcvY29uZmlnL2lzc3Vlcy8xMjYK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAxLjIuMeOBq+OBl+OBn+OCieODkOOCsOOBo+OBn+OBruOBpzEuMi4w44Gr5rG644KB5omT44GhCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBiZWxvbmdzX3RvIDpib29rLCBjbGFzc19uYW1lOiAiQm9vayIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBoYXNfb25lIDpib29rLCBjbGFzc19uYW1lOiAiQm9vayIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcCBTZXR0aW5ncy5lY3BvcnRhbF9ub19jdXN0X2N1c3RvbWVyX3BsdXMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZWNwb3J0YWxfbm9fY3VzdF9jdXN0b21lcl9wbHVzOiAyCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Q29uZmlnOjpJbnRlZ3JhdGlvbjo6UmFpbHM6OlJhaWx0aWUucHJlbG9hZAo=</text>
+        <text encoding="base64">ZWNwb3J0YWxfbm9fY3VzdF9jdXN0b21lcl9wbHVzOiAyZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/rds./rds_jp./g</text>
