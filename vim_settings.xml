@@ -82,6 +82,12 @@
         <mark key="." line="86" column="14" />
         <mark key="^" line="86" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1475052722721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="485" column="0" />
+        <mark key="]" line="485" column="0" />
+        <mark key="." line="485" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_postal_service.rb" timestamp="1475046982310" />
       <file name="$USER_HOME$/projects/vp_extension/app/scripts/chromereload.js" timestamp="1472571033573">
         <mark key="[" line="12" column="1" />
@@ -1198,6 +1204,12 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" timestamp="1475464813794">
+        <mark key="'" line="36" column="76" />
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="52" column="14" />
+        <mark key="." line="52" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/ransack_patch.rb" timestamp="1473161546148">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="6" column="17" />
@@ -1507,9 +1519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="46" filename="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/services/copying_db_from_production_to_staging_service.rb" />
-      <jump line="444" column="543" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="9" column="46" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
       <jump line="448" column="10" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
@@ -1607,6 +1616,9 @@
       <jump line="34" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="81" column="15" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
+      <jump line="33" column="9" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" />
+      <jump line="36" column="76" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1686,10 +1698,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>My Application</text>
+        <text encoding="base64">IzwlPSBsb2FkaW5nZGF0ZV9mLm9iamVjdC5ib29rLmlkICU+IA==</text>
       </register>
       <register name="/" type="4">
-        <text>google</text>
+        <text>book</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Ym5rc190b3RhbF9zYWxlc19ncm91cCA9PiBuaWw=</text>
@@ -1726,9 +1738,9 @@
       </register>
     </registers>
     <search>
-      <last-search>google</last-search>
+      <last-search>book</last-search>
       <last-offset />
-      <last-pattern>google</last-pattern>
+      <last-pattern>book</last-pattern>
       <last-replace>book</last-replace>
       <last-substitute>sdd</last-substitute>
       <last-dir>1</last-dir>
@@ -1741,7 +1753,6 @@
         <entry>job</entry>
         <entry>dailyorder</entry>
         <entry>sdd</entry>
-        <entry>book</entry>
         <entry>channel</entry>
         <entry>mass_input</entry>
         <entry>merge</entry>
@@ -1756,6 +1767,7 @@
         <entry>new</entry>
         <entry>ga</entry>
         <entry>google</entry>
+        <entry>book</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
