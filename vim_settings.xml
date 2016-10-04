@@ -88,11 +88,11 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/schedule.rb" timestamp="1475571530314">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/projects/cplus/config/schedule.rb" timestamp="1475575998128">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1474557591690">
         <mark key="[" line="108" column="14" />
@@ -231,12 +231,6 @@
         <mark key="]" line="111" column="66" />
         <mark key="." line="111" column="66" />
         <mark key="^" line="111" column="65" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1475488305061">
-        <mark key="'" line="83" column="23" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/works/_form.html.erb" timestamp="1473650170706">
         <mark key="[" line="89" column="60" />
@@ -385,12 +379,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_collections_controller.rb" timestamp="1475155974596">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
       </file>
       <file name="$USER_HOME$/projects/vp_extension/app/scripts.babel/background.js" timestamp="1472574434910">
         <mark key="[" line="9" column="0" />
@@ -636,6 +624,12 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1475575919286">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="53" />
+        <mark key="^" line="3" column="53" />
+        <mark key="." line="3" column="53" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/environments/production.rb" timestamp="1475570257080" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/edit.html.erb" timestamp="1473234260348">
@@ -1061,12 +1055,6 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" timestamp="1473900525333">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/placeymd.rb" timestamp="1471959880078">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1305,7 +1293,7 @@
         <mark key="^" line="64" column="34" />
         <mark key="." line="64" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_month.rake" timestamp="1475047285056">
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_month.rake" timestamp="1475574779546">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
@@ -1450,12 +1438,6 @@
         <mark key="]" line="88" column="2" />
         <mark key="." line="88" column="2" />
         <mark key="^" line="19" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1473932312000">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -3372,7 +3354,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>month</text>
+        <text>:run</text>
       </register>
       <register name="/" type="4">
         <text>phone</text>
@@ -3381,31 +3363,31 @@
         <text encoding="base64">ICAgIHJha2UgIm1ha2VfYmlsbF9tb250aDpydW4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJha2UgInBvc3RhbF9kZXN0cm95OnJ1biIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJha2UgInNlbmRtYWlsX3llYXI6cnVuIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJha2UgIm1ha2VfYmlsbF95ZWFyOnJ1biIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U2VuZEdyaWQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQoIi5ub19jdXN0X2lucHV0IGJ1dHRvbi5jdXN0b21lcl9wbHVzOmZpcnN0IikpCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSkK</text>
+        <text encoding="base64">ICAgIHJha2UgIm1ha2VfYmlsbF9wb3N0YWw6cnVuIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpc0NvbmZpcm1pbmcpCg==</text>
+        <text encoding="base64">ICBldmVyeSAiNTAgMiAxICogKiIsIHJvbGVzOiBbOmJhdGNoXSBkbwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">eW5fbWFpbF9zZW5kCgkJCQk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2VtICJtYWlsLWlzby0yMDIyLWpwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
