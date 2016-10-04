@@ -118,8 +118,8 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/_form.html.slim" timestamp="1475547857923">
-        <mark key="[" line="35" column="23" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/_form.html.slim" timestamp="1475550138678">
+        <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="36" />
         <mark key="^" line="35" column="36" />
         <mark key="." line="35" column="36" />
@@ -1364,11 +1364,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/ymdrooms.coffee" timestamp="1475548767394">
-        <mark key="[" line="42" column="16" />
-        <mark key="]" line="42" column="81" />
-        <mark key="." line="42" column="16" />
-        <mark key="^" line="42" column="15" />
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/ymdrooms.coffee" timestamp="1475550243171">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/unicorn/staging.rb" timestamp="1473608149127">
         <mark key="[" line="5" column="10" />
@@ -1489,7 +1489,7 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1475214562902">
+      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1475550832700">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="71" column="1" />
         <mark key="]" line="71" column="1" />
@@ -3423,40 +3423,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.no_cust</text>
+        <text>checkbox</text>
       </register>
       <register name="/" type="4">
         <text>phone</text>
       </register>
       <register name="0" type="4">
-        <text>$(&quot;.search_no_cust_input .form-group button.customer_plus:first&quot;)</text>
+        <text>$(&quot;.no_cust_input .form-group button.customer_plus:first&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQoIi5ub19jdXN0X2lucHV0IGJ1dHRvbi5jdXN0b21lcl9wbHVzOmZpcnN0IikpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhpc0NvbmZpcm1pbmcpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">eW5fbWFpbF9zZW5kCgkJCQk=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Z2VtICJtYWlsLWlzby0yMDIyLWpwIgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Z2VtICJtYWlsIiwgIjIuNi4zIiAjIGZvciBtYWlsLWlzby0yMDIyLWpwCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb250ZW50Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb250ZW50LmVuY29kZSEoRW5jb2Rpbmc6OlVURl84LCBpbnZhbGlkOiA6cmVwbGFjZSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb250ZW50LmZvcmNlX2VuY29kaW5nKEVuY29kaW5nOjpDUDUwMjIwKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb250ZW50LmZvcmNlX2VuY29kaW5nKEVuY29kaW5nOjpDUDUwMjIwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
