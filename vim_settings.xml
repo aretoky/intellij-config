@@ -200,8 +200,8 @@
         <mark key="'" line="59" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/custs_controller_spec.rb" timestamp="1474562420333" />
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1475653500282">
-        <mark key="'" line="311" column="25" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1475663097205">
+        <mark key="'" line="378" column="22" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1474964667148">
         <mark key="'" line="0" column="0" />
@@ -225,7 +225,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="/a.regexp" timestamp="1475661526316">
+      <file name="/a.regexp" timestamp="1475663013281">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -523,8 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
-      <jump line="5" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="21" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="32" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="38" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
@@ -573,7 +571,6 @@
       <jump line="309" column="14" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="312" column="32" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="317" column="55" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
-      <jump line="318" column="21" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="321" column="16" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="325" column="33" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="331" column="33" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
@@ -595,7 +592,6 @@
       <jump line="122" column="122" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="134" column="142" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="297" column="89" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="105" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="117" column="112" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="120" column="144" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
@@ -623,6 +619,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="0" column="26" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" />
       <jump line="98" column="10" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" />
+      <jump line="318" column="173" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="406" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="378" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2439,7 +2439,7 @@
         <text encoding="base64">Yml0ZW1zLnRvX2Euc3VtKCY6YW10YXhfYml0ZW0p</text>
       </register>
       <register name="/" type="4">
-        <text>amtax_bitem</text>
+        <text>add_next_days</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Yml0ZW1zLnRvX2Euc3VtKCY6YW10YXhfYml0ZW0p</text>
@@ -2476,9 +2476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>amtax_bitem</last-search>
+      <last-search>add_next_days</last-search>
       <last-offset />
-      <last-pattern>amtax_bitem</last-pattern>
+      <last-pattern>add_next_days</last-pattern>
       <last-replace>book</last-replace>
       <last-substitute>sdd</last-substitute>
       <last-dir>1</last-dir>
@@ -2486,7 +2486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bitem</entry>
         <entry>note</entry>
         <entry>no_batch</entry>
         <entry>20101</entry>
@@ -2506,6 +2505,7 @@
         <entry>hpays</entry>
         <entry>決済ID</entry>
         <entry>amtax_bitem</entry>
+        <entry>add_next_days</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
