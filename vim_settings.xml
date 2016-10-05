@@ -208,9 +208,9 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1475652978908">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="34" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1475655632803">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="34" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
@@ -306,7 +306,11 @@
         <mark key="." line="68" column="31" />
         <mark key="^" line="68" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1474559513178" />
+      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1475655997505">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/spec_helper.rb" timestamp="1475469441101" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/new.html.slim" timestamp="1474557326439">
         <mark key="[" line="20" column="25" />
@@ -361,6 +365,12 @@
         <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_add_events_on_google_calender.php" timestamp="1475632959539" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/postal_destroy_service.rb" timestamp="1475655817158">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1474899023986">
         <mark key="'" line="427" column="163" />
         <mark key="[" line="427" column="149" />
@@ -2381,40 +2391,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>plan_type_to_created_bitem</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>good</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgWyhkdF9wcm9jLnRvX2RhdGUgKyAzNjUpLnRvX3MoOmR0KSwgZHRfZW5kXS5taW4K</text>
+      <register name="0" type="4">
+        <text>postal.cmnt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgYXV0b19kZWxldGUK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZW4gMTAyMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgWyhkdF9wcm9jLnRvX2RhdGUgKyAzNjUpLnRvX3MoOmR0KSwgZHRfZW5kXS5taW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoZW4gMTAxMDEK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgWyhkdF9zdGFydC50b19kYXRlICsgMzY0KS50b19zKDpkdCksIGR0X2VuZF0ubWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZW4gMTAxMDAK</text>
+        <text encoding="base64">ICAgIHdoZW4gMTAyMDAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
