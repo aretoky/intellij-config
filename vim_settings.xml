@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" timestamp="1475650477367">
+      <file name="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" timestamp="1475654079542">
+        <mark key="'" line="40" column="6" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
@@ -35,16 +36,17 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/batch_bill_mailer.rb" timestamp="1475206261791">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1474962075087">
         <mark key="[" line="85" column="26" />
         <mark key="]" line="86" column="14" />
         <mark key="." line="86" column="14" />
         <mark key="^" line="86" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1475052722721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="485" column="0" />
+        <mark key="]" line="485" column="0" />
+        <mark key="." line="485" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_postal_service.rb" timestamp="1475651685200" />
       <file name="$USER_HOME$/projects/cplus/config/schedule.rb" timestamp="1475575998128">
@@ -65,11 +67,6 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/postalcust/detail.php" timestamp="1473824345152">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1475648545436">
         <mark key="[" line="171" column="29" />
         <mark key="]" line="171" column="30" />
@@ -80,11 +77,6 @@
         <mark key="]" line="35" column="36" />
         <mark key="^" line="35" column="36" />
         <mark key="." line="35" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/show.html.slim" timestamp="1473821290578">
-        <mark key="[" line="78" column="17" />
-        <mark key="]" line="78" column="18" />
-        <mark key="." line="78" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/address_mplan.rb" timestamp="1474561797902">
         <mark key="[" line="38" column="0" />
@@ -127,11 +119,6 @@
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" timestamp="1474561947938">
-        <mark key="[" line="41" column="2" />
-        <mark key="]" line="46" column="53" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/admin/tel_mplans_spec.rb" timestamp="1474562539525">
         <mark key="[" line="10" column="11" />
@@ -202,8 +189,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/custs_controller_spec.rb" timestamp="1474562420333" />
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1475650689709">
-        <mark key="'" line="179" column="42" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1475653500282">
+        <mark key="'" line="311" column="25" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1474964667148">
         <mark key="'" line="0" column="0" />
@@ -221,19 +208,14 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="/a.regexp" timestamp="1475650157647">
+      <file name="/a.regexp" timestamp="1475653191568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/chdef.rb" timestamp="1475152440440">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1475630101118">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="10" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1475652978908">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="34" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
@@ -306,11 +288,6 @@
         <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1474964619418" />
-      <file name="$USER_HOME$/projects/cplus/config/settings/staging.yml" timestamp="1475067372614">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_collection.rb" timestamp="1475155816892" />
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/book/edit.view.php" timestamp="1474595870281">
         <mark key="'" line="30" column="92" />
@@ -342,11 +319,6 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/author-debut/app/views/contents/edit.html.erb" timestamp="1473649872208">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/_basic_store.html.erb" timestamp="1475510930706">
         <mark key="'" line="34" column="39" />
         <mark key="[" line="35" column="10" />
@@ -367,15 +339,10 @@
         <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings.local.yml" timestamp="1475586534103" />
-      <file name="$USER_HOME$/projects/cplus/config/settings/development.yml" timestamp="1475067378327">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475651629037">
-        <mark key="'" line="22" column="22" />
-        <mark key="[" line="82" column="121" />
-        <mark key="]" line="82" column="121" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475653275125">
+        <mark key="'" line="93" column="29" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="32" />
         <mark key="^" line="82" column="120" />
         <mark key="." line="82" column="121" />
       </file>
@@ -391,11 +358,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/application.rb" timestamp="1473687056043">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1475545728388">
         <mark key="[" line="17" column="27" />
@@ -427,11 +389,6 @@
         <mark key="^" line="96" column="16" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/author-debut/app/views/contents/new.html.erb" timestamp="1473643399805">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/store_daily_order.rb" timestamp="1475241633059">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="23" />
@@ -447,10 +404,11 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/ymdroom/ajax_reserve_book.php" timestamp="1474595621842">
         <mark key="'" line="533" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/index.html.erb" timestamp="1475248770346">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" timestamp="1475464813794">
+        <mark key="'" line="36" column="76" />
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="52" column="14" />
+        <mark key="." line="52" column="14" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/add_event_on_google_calender_service.rb" timestamp="1475629400160">
         <mark key="[" line="26" column="0" />
@@ -491,18 +449,8 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/sfdc_sync_histories_controller.rb" timestamp="1473934100288">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-      </file>
       <file name="/JavaScript Console" timestamp="1473643298689">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/decorators/cust/attribute_searcher_decorator.rb" timestamp="1475055939813">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1475458873809">
         <mark key="[" line="29" column="24" />
@@ -531,20 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="4" column="79" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="24" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="34" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="81" column="15" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
-      <jump line="33" column="9" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" />
-      <jump line="36" column="76" filename="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/_form.html.erb" />
-      <jump line="106" column="13" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="102" column="9" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="103" column="9" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="107" column="9" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="69" column="14" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="37" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
@@ -600,7 +534,6 @@
       <jump line="79" column="32" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="330" column="14" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="309" column="14" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
-      <jump line="311" column="52" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="312" column="32" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="317" column="55" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="318" column="21" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
@@ -631,6 +564,21 @@
       <jump line="120" column="144" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="304" column="88" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="179" column="42" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="38" column="2" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
+      <jump line="42" column="30" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="81" column="14" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="87" column="13" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="91" column="29" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="93" column="29" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="107" column="0" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
+      <jump line="109" column="23" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
+      <jump line="40" column="6" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
+      <jump line="46" column="8" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="307" column="65" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="349" column="63" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="310" column="75" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="311" column="25" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2447,10 +2395,10 @@
         <text>batch make bill year</text>
       </register>
       <register name="/" type="4">
-        <text>dt_fr</text>
+        <text>good</text>
       </register>
       <register name="0" type="4">
-        <text>#{plan.dt_fr.to_date.strftime(&quot;%Y年%m月%d日&quot;)}</text>
+        <text>Batch::MakeBillMonthService.run</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -2497,9 +2445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dt_fr</last-search>
+      <last-search>good</last-search>
       <last-offset />
-      <last-pattern>dt_fr</last-pattern>
+      <last-pattern>good</last-pattern>
       <last-replace>book</last-replace>
       <last-substitute>sdd</last-substitute>
       <last-dir>1</last-dir>
@@ -2507,10 +2455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>book</entry>
-        <entry>bnks-store-search-phone</entry>
-        <entry>nks-store-header-info</entry>
-        <entry>syoten</entry>
         <entry>kyo</entry>
         <entry>phone</entry>
         <entry>to_time</entry>
@@ -2527,6 +2471,10 @@
         <entry>日間</entry>
         <entry>days</entry>
         <entry>dt_fr</entry>
+        <entry>goods</entry>
+        <entry>plan_type_to_created_bitem</entry>
+        <entry>no_goods</entry>
+        <entry>good</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
