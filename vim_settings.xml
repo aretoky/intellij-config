@@ -130,11 +130,11 @@
         <mark key="'" line="9" column="46" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/admin/book_mailer.rb" timestamp="1475584972013" />
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1475651661441">
-        <mark key="[" line="151" column="34" />
-        <mark key="]" line="151" column="60" />
-        <mark key="." line="151" column="34" />
-        <mark key="^" line="86" column="88" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1475659329524">
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="37" column="43" />
+        <mark key="." line="37" column="43" />
+        <mark key="^" line="37" column="43" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_list_merges_controller.rb" timestamp="1475155677289">
         <mark key="[" line="111" column="66" />
@@ -197,13 +197,19 @@
       <file name="/Dummy.txt" timestamp="1473665991694">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/elog/batchbill.rb" timestamp="1475659112774">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="58" column="7" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="58" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/index.html.erb" timestamp="1475468289694">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="/a.regexp" timestamp="1475654444704">
+      <file name="/a.regexp" timestamp="1475659079503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -338,12 +344,12 @@
         <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings.local.yml" timestamp="1475586534103" />
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475653275125">
-        <mark key="'" line="93" column="29" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="82" column="120" />
-        <mark key="." line="82" column="121" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475659335495">
+        <mark key="'" line="94" column="29" />
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="31" column="36" />
+        <mark key="^" line="31" column="36" />
+        <mark key="." line="31" column="36" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1475047237807">
         <mark key="[" line="3" column="4" />
@@ -2397,34 +2403,34 @@
         <text>good</text>
       </register>
       <register name="0" type="4">
-        <text>postal.cmnt</text>
+        <text>ts_batch_start</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAibTEyMDQwNTMrY3BsdXNAZ21haWwuY29tIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAia3NrMDA3MDA3QGdtYWlsLmNvbSIK</text>
+        <text encoding="base64">ICAgICAgLSAibTEyMDQwNTMrY3BsdXNAZ21haWwuY29tIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAia3NrMDA3MDA3QGdtYWlsLmNvbSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgYXV0b19kZWxldGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgYXV0b19kZWxldGUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
