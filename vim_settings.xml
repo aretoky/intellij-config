@@ -203,9 +203,9 @@
         <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/production.yml" timestamp="1475586675641">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_search_ransack_form.erb" timestamp="1472095387222">
         <mark key="[" line="133" column="32" />
@@ -614,7 +614,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1475588161902">
+      <file name="/a.regexp" timestamp="1475630417526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -637,11 +637,11 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1475575919286">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="3" column="53" />
-        <mark key="^" line="3" column="53" />
-        <mark key="." line="3" column="53" />
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1475630101118">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/environments/production.rb" timestamp="1475588396686" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/edit.html.erb" timestamp="1473234260348">
@@ -1014,6 +1014,9 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475630326445">
+        <mark key="'" line="22" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1475047237807">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="10" />
@@ -1032,6 +1035,7 @@
         <mark key="^" line="13" column="66" />
         <mark key="." line="13" column="66" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem/to_create_from_plan/save_wrapper.rb" timestamp="1475630421303" />
       <file name="$USER_HOME$/projects/cplus/app/models/hplace.rb" timestamp="1473751281357">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -1220,12 +1224,10 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/add_event_on_google_calender_service.rb" timestamp="1474967597155">
-        <mark key="'" line="26" column="14" />
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/add_event_on_google_calender_service.rb" timestamp="1475629400160">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_year_service_spec.rb" timestamp="1473486039104">
         <mark key="[" line="100" column="7" />
@@ -1443,12 +1445,12 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1475550832700">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="1" />
-        <mark key="]" line="71" column="1" />
-        <mark key="^" line="71" column="1" />
-        <mark key="." line="71" column="1" />
+      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1475629512404">
+        <mark key="'" line="43" column="2" />
+        <mark key="[" line="177" column="56" />
+        <mark key="]" line="178" column="16" />
+        <mark key="^" line="178" column="16" />
+        <mark key="." line="178" column="16" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/controllers/sample_images_controller.rb" timestamp="1473305221371">
         <mark key="[" line="88" column="0" />
@@ -1458,8 +1460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="46" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
-      <jump line="165" column="52" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="168" column="71" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="169" column="63" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
@@ -1558,6 +1558,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/stores/_basic_store.html.erb" />
       <jump line="34" column="39" filename="$USER_HOME$/projects/pos-calc/app/views/stores/_basic_store.html.erb" />
       <jump line="486" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
+      <jump line="43" column="2" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
+      <jump line="22" column="22" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3371,24 +3373,27 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>fr + hours</text>
       </register>
       <register name="/" type="4">
-        <text>phone</text>
+        <text>days_to_created_bitem</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U2VuZEdyaWQ6CiAgdXNlcl9uYW1lOiA8JT0gRU5WWyJTRU5ER1JJRF9VU0VSX05BTUUiXSAlPgogIHBhc3N3b3JkOiA8JT0gRU5WWyJTRU5ER1JJRF9QQVNTV09SRCJdICU+Cg==</text>
+        <text>Time.mktime(d.year, d.month, d.day, hh_fr + hours, 00, 00)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImVuZCI6IHsgICJkYXRlVGltZSI6IChib29rLmZyb21fdGltZS5pc284NjAxICB9LAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>config.action_mailer.delivery_method = :smtp
   config.action_mailer.smtp_settings = {
     user_name: Settings.SendGrid.user_name,
@@ -3400,29 +3405,26 @@
     enable_starttls_auto: true
   }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3M6ICJsb2NhbGhvc3QiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZHJlc3M6ICJsb2NhbGhvc3QiCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>phone</last-search>
+      <last-search>days_to_created_bitem</last-search>
       <last-offset />
-      <last-pattern>phone</last-pattern>
+      <last-pattern>days_to_created_bitem</last-pattern>
       <last-replace>book</last-replace>
       <last-substitute>sdd</last-substitute>
       <last-dir>1</last-dir>
@@ -3430,8 +3432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toritsugi</entry>
-        <entry>shotenmaster_operation_status_isvalid</entry>
         <entry>===</entry>
         <entry>======</entry>
         <entry>newre</entry>
@@ -3450,6 +3450,8 @@
         <entry>syoten</entry>
         <entry>kyo</entry>
         <entry>phone</entry>
+        <entry>to_time</entry>
+        <entry>days_to_created_bitem</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
