@@ -172,8 +172,8 @@
         <mark key="'" line="59" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/custs_controller_spec.rb" timestamp="1474562420333" />
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1475645622792">
-        <mark key="'" line="376" column="22" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1475645722807">
+        <mark key="'" line="312" column="52" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1474964667148">
         <mark key="'" line="0" column="0" />
@@ -321,10 +321,12 @@
         <mark key="." line="22" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/settings.local.yml" timestamp="1475586534103" />
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475639823184">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475646757873">
         <mark key="'" line="22" column="22" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="33" />
+        <mark key="[" line="81" column="122" />
+        <mark key="]" line="81" column="121" />
+        <mark key="^" line="81" column="121" />
+        <mark key="." line="81" column="121" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1475047237807">
         <mark key="[" line="3" column="4" />
@@ -550,8 +552,8 @@
       <jump line="211" column="52" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="212" column="56" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="213" column="100" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
-      <jump line="312" column="46" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="376" column="22" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
+      <jump line="312" column="52" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2368,7 +2370,7 @@
         <text>fr + hours</text>
       </register>
       <register name="/" type="4">
-        <text>note</text>
+        <text>no_batch</text>
       </register>
       <register name="0" type="4">
         <text>Plan.make_bill_monthly</text>
@@ -2414,9 +2416,9 @@
       </register>
     </registers>
     <search>
-      <last-search>note</last-search>
+      <last-search>no_batch</last-search>
       <last-offset />
-      <last-pattern>note</last-pattern>
+      <last-pattern>no_batch</last-pattern>
       <last-replace>book</last-replace>
       <last-substitute>sdd</last-substitute>
       <last-dir>1</last-dir>
@@ -2424,7 +2426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newre</entry>
         <entry>new</entry>
         <entry>ga</entry>
         <entry>google</entry>
@@ -2444,6 +2445,7 @@
         <entry>days_to_created_bitem</entry>
         <entry>bitem</entry>
         <entry>note</entry>
+        <entry>no_batch</entry>
       </history-search>
       <history-cmd>
         <entry>%/'/&quot;/g</entry>
