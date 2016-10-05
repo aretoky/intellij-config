@@ -1014,8 +1014,10 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475630326445">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475639823184">
         <mark key="'" line="22" column="22" />
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1475047237807">
         <mark key="[" line="3" column="4" />
@@ -3380,7 +3382,7 @@
         <text>days_to_created_bitem</text>
       </register>
       <register name="0" type="4">
-        <text>Time.mktime(d.year, d.month, d.day, hh_fr + hours, 00, 00)</text>
+        <text>Plan.make_bill_monthly</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgImVuZCI6IHsgICJkYXRlVGltZSI6IChib29rLmZyb21fdGltZS5pc284NjAxICB9LAo=</text>
