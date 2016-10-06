@@ -49,12 +49,12 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1475064168779">
         <mark key="'" line="135" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1475509609139">
-        <mark key="'" line="326" column="0" />
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="14" />
-        <mark key="^" line="51" column="14" />
-        <mark key="." line="51" column="14" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1475767252653">
+        <mark key="'" line="329" column="0" />
+        <mark key="[" line="128" column="43" />
+        <mark key="]" line="129" column="15" />
+        <mark key="^" line="129" column="15" />
+        <mark key="." line="129" column="15" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" timestamp="1474091869616">
         <mark key="'" line="3" column="11" />
@@ -146,12 +146,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475736176019">
-        <mark key="'" line="171" column="8" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="706" column="38" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475767585021">
+        <mark key="'" line="276" column="10" />
+        <mark key="[" line="326" column="4" />
+        <mark key="]" line="326" column="4" />
+        <mark key="." line="326" column="4" />
+        <mark key="^" line="672" column="47" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/bill_decorator.rb" timestamp="1472633988311">
         <mark key="[" line="22" column="22" />
@@ -660,7 +660,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1475673713659">
+      <file name="/a.regexp" timestamp="1475767429650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -1557,7 +1557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="43" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="177" column="41" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="178" column="39" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="204" column="44" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
@@ -1657,6 +1656,7 @@
       <jump line="171" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="392" column="15" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="242" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3470,7 +3470,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dailyorder_number_input_id</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>dailyorder</text>
@@ -3479,31 +3479,31 @@
         <text encoding="base64">YWRkX2luZGV4IDpkYWlseW9yZGVycywgOmRhaWx5b3JkZXJfbnVtYmVyX2lucHV0X2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkX2luZGV4IDpkYWlseW9yZGVycywgWzp0b3JpdHN1Z2lfaWQsIDp0X3N5b3Rlbl9jZF0sIHVuaXF1ZTogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBob3N0OiBjcGx1cy1zdGFnaW5nLmN2ZXRndm5xOHZpOS51cy1lYXN0LTEucmRzLmFtYXpvbmF3cy5jb20K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgaG9zdDogY3BsdXMtc3RhZ2luZy5jb2hvdWpsZGJ6ZnIuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20K</text>
+        <text encoding="base64">YWRkX2luZGV4IDpkYWlseW9yZGVycywgWzp0b3JpdHN1Z2lfaWQsIDp0X3N5b3Rlbl9jZF0sIHVuaXF1ZTogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAibTEyMDQwNTMrY3BsdXNAZ21haWwuY29tIgo=</text>
+        <text encoding="base64">ICBob3N0OiBjcGx1cy1zdGFnaW5nLmN2ZXRndm5xOHZpOS51cy1lYXN0LTEucmRzLmFtYXpvbmF3cy5jb20K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAia3NrMDA3MDA3QGdtYWlsLmNvbSIK</text>
+        <text encoding="base64">IyAgaG9zdDogY3BsdXMtc3RhZ2luZy5jb2hvdWpsZGJ6ZnIuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkKCIuYm9vdHN0cmFwLW11bHRpc2VsZWN0Iikuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgLSAibTEyMDQwNTMrY3BsdXNAZ21haWwuY29tIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG11bHRpcGxlOiAibXVsdGlwbGUiLAo=</text>
+        <text encoding="base64">ICAgICAgLSAia3NrMDA3MDA3QGdtYWlsLmNvbSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDplbmFibGVfY2RfaG9fZXEK</text>
+        <text encoding="base64">ICAkKCIuYm9vdHN0cmFwLW11bHRpc2VsZWN0Iikuc2hvdygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG11bHRpcGxlOiAibXVsdGlwbGUiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
