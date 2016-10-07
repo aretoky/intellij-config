@@ -762,11 +762,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1475852030849">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="4" />
-        <mark key="^" line="36" column="38" />
-        <mark key="." line="55" column="4" />
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1475853012067">
+        <mark key="'" line="38" column="66" />
+        <mark key="[" line="34" column="66" />
+        <mark key="]" line="34" column="66" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="34" column="66" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/deliver_type.rb" timestamp="1475156393962">
         <mark key="[" line="16" column="23" />
@@ -1614,11 +1615,6 @@
       <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1475842725486" />
     </filemarks>
     <jumps>
-      <jump line="132" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
-      <jump line="2" column="12" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" />
-      <jump line="31" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" />
       <jump line="9" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" />
       <jump line="11" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" />
       <jump line="12" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" />
@@ -1714,6 +1710,11 @@
       <jump line="15" column="38" filename="$USER_HOME$/projects/pos-calc/config/secrets.yml" />
       <jump line="30" column="20" filename="$USER_HOME$/projects/pos-calc/config/secrets.yml" />
       <jump line="82" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/book.rb" />
+      <jump line="30" column="13" filename="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" />
+      <jump line="27" column="10" filename="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" />
+      <jump line="33" column="47" filename="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" />
+      <jump line="34" column="13" filename="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" />
+      <jump line="38" column="66" filename="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3494,13 +3495,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>upsert</text>
+        <text>store_name__c</text>
       </register>
       <register name="0" type="4">
-        <text>toritsugi_joho__c</text>
+        <text>sf_toritsugi.toritugi_van_store_name__c,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHAgImVuZCIK</text>
@@ -3753,9 +3754,9 @@
       </register>
     </registers>
     <search>
-      <last-search>upsert</last-search>
+      <last-search>store_name__c</last-search>
       <last-offset />
-      <last-pattern>upsert</last-pattern>
+      <last-pattern>store_name__c</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3763,7 +3764,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bills</entry>
         <entry>store_daily_orders</entry>
         <entry>memo</entry>
         <entry>t_syoten_cd</entry>
@@ -3783,6 +3783,7 @@
         <entry>sfdcClientID</entry>
         <entry>6989923639274521908</entry>
         <entry>upsert</entry>
+        <entry>store_name__c</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
