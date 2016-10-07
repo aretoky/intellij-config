@@ -691,7 +691,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1475838351961">
+      <file name="/a.regexp" timestamp="1475838820240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -901,12 +901,12 @@
         <mark key="^" line="50" column="52" />
         <mark key="." line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1475837426649">
-        <mark key="'" line="100" column="13" />
-        <mark key="[" line="126" column="22" />
-        <mark key="]" line="126" column="23" />
-        <mark key="^" line="126" column="23" />
-        <mark key="." line="126" column="23" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1475839079254">
+        <mark key="'" line="101" column="13" />
+        <mark key="[" line="129" column="36" />
+        <mark key="]" line="129" column="36" />
+        <mark key="^" line="129" column="36" />
+        <mark key="." line="129" column="36" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1474294318459">
         <mark key="[" line="126" column="8" />
@@ -1222,12 +1222,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1475837351796">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1475839047903">
         <mark key="'" line="133" column="6" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="^" line="251" column="41" />
-        <mark key="." line="253" column="0" />
+        <mark key="[" line="251" column="39" />
+        <mark key="]" line="252" column="22" />
+        <mark key="^" line="252" column="22" />
+        <mark key="." line="252" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_hplace_fields.html.slim" timestamp="1473491698277">
         <mark key="[" line="3" column="0" />
@@ -1578,6 +1578,9 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1475839023431">
+        <mark key="'" line="219" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/author-debut/app/models/application_record.rb" timestamp="1473306811136">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="9" column="4" />
@@ -1600,10 +1603,6 @@
       <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1475834457302" />
     </filemarks>
     <jumps>
-      <jump line="445" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="176" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="179" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="187" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="442" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
@@ -1700,6 +1699,10 @@
       <jump line="178" column="30" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="133" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="0" column="22" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
+      <jump line="2" column="50" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
+      <jump line="218" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
+      <jump line="219" column="22" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3483,46 +3486,46 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text>update_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGFpbHlvcmRlci50b3JpdHN1Z2kucDJfdHJhbnNmZXJyZWRfdG9fdG9yaXRzdWdpLnRvcml0c3VnaV9jb2RlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHNlbGYuc2F2ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVhY2ggZG8gfHRvcml0c3VnaXwKICAgICAgdG9yaXRzdWdpLnNhdmUK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdG9yaXRzdWdpLmlzdmFsaWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIGVhY2ggZG8gfHRvcml0c3VnaXwKICAgICAgdG9yaXRzdWdpLnNhdmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdG9yaXRzdWdpLmlzdmFsaWQgPSBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGFpbHlvcmRlci50b3JpdHN1Z2kucDJfdHJhbnNmZXJyZWRfdG9fdG9yaXRzdWdpLnRvcml0c3VnaV9iYW5zZW4K</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhaWx5b3JkZXIuYmFuc2VuID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGFpbHlvcmRlci50b3JpdHN1Z2kucDJfdHJhbnNmZXJyZWRfdG9fdG9yaXRzdWdpLnRvcml0c3VnaV9iYW5zZW4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>submit</last-search>
+      <last-search>update_</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern>update_</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3530,8 +3533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sr</entry>
-        <entry>sr.</entry>
         <entry>store</entry>
         <entry>daily_update_all_ranking</entry>
         <entry>ranking</entry>
@@ -3550,6 +3551,8 @@
         <entry>sfdc</entry>
         <entry>sfdc_id</entry>
         <entry>submit</entry>
+        <entry>update</entry>
+        <entry>update_</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
