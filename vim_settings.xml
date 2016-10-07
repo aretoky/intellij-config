@@ -164,12 +164,12 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475823044491">
-        <mark key="'" line="643" column="2" />
-        <mark key="[" line="627" column="0" />
-        <mark key="]" line="627" column="0" />
-        <mark key="." line="627" column="0" />
-        <mark key="^" line="642" column="47" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475830499850">
+        <mark key="'" line="501" column="30" />
+        <mark key="[" line="684" column="0" />
+        <mark key="]" line="684" column="0" />
+        <mark key="." line="684" column="0" />
+        <mark key="^" line="683" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/bill_decorator.rb" timestamp="1472633988311">
         <mark key="[" line="22" column="22" />
@@ -1587,7 +1587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="144" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="304" column="88" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="179" column="42" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="38" column="2" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
@@ -1687,6 +1686,7 @@
       <jump line="54" column="47" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="92" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="100" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="501" column="30" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3467,53 +3467,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">dHN0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>t_syoten_cd</text>
+        <text>toritsugi_van_name</text>
       </register>
       <register name="0" type="4">
         <text>toritsugi_type_id, toritsugi_code</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHN0b3JlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRvcml0c3VnaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUb3JpdHN1Z2kuCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5maW5kX2J5X3Rvcml0c3VnaV9jb2RlKHRvcml0c3VnaV90eXBlX2lkLCB0b3JpdHN1Z2lfY29kZSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>includes(:toritsugi_type).
-      where(isvalid: true).
-      where(toritsugi_type_id: toritsugi_type_id).
-      where(toritsugi_code: toritsugi_code).
-      references(:toritsugi_types).take</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBUb3JpdHN1Z2kuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgc2VsZi5maW5kX2J5X3Rvcml0c3VnaV9jb2RlKHRvcml0c3VnaV90eXBlX2lkLCB0b3JpdHN1Z2lfY29kZSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>t_syoten_cd</last-search>
+      <last-search>toritsugi_van_name</last-search>
       <last-offset />
-      <last-pattern>t_syoten_cd</last-pattern>
+      <last-pattern>toritsugi_van_name</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3521,7 +3517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>決済ID</entry>
         <entry>amtax_bitem</entry>
         <entry>add_next_days</entry>
         <entry>regist__addressee</entry>
@@ -3541,6 +3536,7 @@
         <entry>store_daily_orders</entry>
         <entry>memo</entry>
         <entry>t_syoten_cd</entry>
+        <entry>toritsugi_van_name</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
