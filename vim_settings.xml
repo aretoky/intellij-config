@@ -164,12 +164,12 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475830499850">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475832084870">
         <mark key="'" line="501" column="30" />
-        <mark key="[" line="684" column="0" />
-        <mark key="]" line="684" column="0" />
-        <mark key="." line="684" column="0" />
-        <mark key="^" line="683" column="9" />
+        <mark key="[" line="713" column="0" />
+        <mark key="]" line="713" column="0" />
+        <mark key="." line="713" column="0" />
+        <mark key="^" line="715" column="59" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/bill_decorator.rb" timestamp="1472633988311">
         <mark key="[" line="22" column="22" />
@@ -475,11 +475,12 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1475822716956">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="253" column="30" />
-        <mark key="]" line="253" column="47" />
-        <mark key="." line="318" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1475832076292">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="189" column="26" />
+        <mark key="]" line="189" column="43" />
+        <mark key="." line="189" column="26" />
+        <mark key="^" line="188" column="39" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cplus_addressable.rb" timestamp="1471940516276">
         <mark key="[" line="4" column="9" />
@@ -1587,8 +1588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="88" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
-      <jump line="179" column="42" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="38" column="2" filename="$USER_HOME$/projects/cplus/app/models/plan/bitem_creator.rb" />
       <jump line="42" column="30" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
@@ -1642,7 +1641,6 @@
       <jump line="215" column="13" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="171" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="392" column="15" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="242" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="743" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="744" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
@@ -1687,6 +1685,9 @@
       <jump line="92" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="100" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="501" column="30" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
+      <jump line="383" column="20" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="5" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3467,49 +3468,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHN0IA==</text>
+        <text>p2_close_date</text>
       </register>
       <register name="/" type="4">
-        <text>toritsugi_van_name</text>
+        <text>toritsugis</text>
       </register>
-      <register name="0" type="4">
-        <text>toritsugi_type_id, toritsugi_code</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdG9yaXRzdWdpLnAyX2Nsb3NlX2RhdGUgPSBzZGQucDJfY2xvc2VfZGF0ZV9fYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0b3JlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvcml0c3VnaQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0LmRhdGV0aW1lICJwMl9vcGVuX2RhdGUiCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0b3JlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRvcml0c3VnaQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUb3JpdHN1Z2kuCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5maW5kX2J5X3Rvcml0c3VnaV9jb2RlKHRvcml0c3VnaV90eXBlX2lkLCB0b3JpdHN1Z2lfY29kZSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>toritsugi_van_name</last-search>
+      <last-search>toritsugis</last-search>
       <last-offset />
-      <last-pattern>toritsugi_van_name</last-pattern>
+      <last-pattern>toritsugis</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3517,8 +3518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>amtax_bitem</entry>
-        <entry>add_next_days</entry>
         <entry>regist__addressee</entry>
         <entry>ymdroom</entry>
         <entry>cont</entry>
@@ -3537,6 +3536,8 @@
         <entry>memo</entry>
         <entry>t_syoten_cd</entry>
         <entry>toritsugi_van_name</entry>
+        <entry>toritsugi</entry>
+        <entry>toritsugis</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
