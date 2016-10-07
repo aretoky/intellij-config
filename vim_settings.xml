@@ -532,11 +532,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_month_service_spec.rb" timestamp="1475778175552">
-        <mark key="[" line="63" column="15" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
-        <mark key="^" line="57" column="33" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_month_service_spec.rb" timestamp="1475804104146">
+        <mark key="[" line="63" column="66" />
+        <mark key="]" line="63" column="65" />
+        <mark key="." line="63" column="65" />
+        <mark key="^" line="63" column="65" />
       </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/devise/sessions/new.html.erb" timestamp="1473045125779">
         <mark key="[" line="15" column="0" />
@@ -1097,12 +1097,12 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475710583315">
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1475778619300">
         <mark key="'" line="35" column="18" />
-        <mark key="[" line="71" column="16" />
-        <mark key="]" line="71" column="31" />
-        <mark key="^" line="71" column="31" />
-        <mark key="." line="71" column="31" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="119" column="14" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1475047237807">
         <mark key="[" line="3" column="4" />
@@ -1327,11 +1327,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_year_service_spec.rb" timestamp="1473486039104">
-        <mark key="[" line="100" column="7" />
-        <mark key="]" line="101" column="3" />
-        <mark key="^" line="101" column="3" />
-        <mark key="." line="101" column="3" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_year_service_spec.rb" timestamp="1475804188050">
+        <mark key="[" line="93" column="30" />
+        <mark key="]" line="93" column="30" />
+        <mark key="^" line="93" column="69" />
+        <mark key="." line="93" column="30" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/addr.rb" timestamp="1471936785804">
         <mark key="[" line="104" column="54" />
@@ -1428,12 +1428,12 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1475709124523">
+      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1475778690629">
         <mark key="'" line="74" column="6" />
-        <mark key="[" line="109" column="14" />
-        <mark key="]" line="109" column="29" />
-        <mark key="^" line="109" column="29" />
-        <mark key="." line="109" column="29" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="108" column="29" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1475678248805">
         <mark key="'" line="0" column="13" />
@@ -3438,7 +3438,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>斎</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>bills</text>
@@ -3447,31 +3447,31 @@
         <text encoding="base64">YWRkX2luZGV4IDpkYWlseW9yZGVycywgOmRhaWx5b3JkZXJfbnVtYmVyX2lucHV0X2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoYmlsbC5ub19iYXRjaCkubm90X3RvIGJlX25pbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgaXQgIm5vX2JhdGNo44GM5YWl44Gj44Gm44GE44KL44GT44GoIiBkbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYS5idG4uYnRuLWRlZmF1bHQuYnRuLWxlZnQoaHJlZj0iI3tAYmFja191cmx9Iikg5LiA6Kan44Gr5oi744KLCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAia3NrMDA3MDA3QGdtYWlsLmNvbSIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAibTEyMDQwNTMrY3BsdXNAZ21haWwuY29tIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBCYXRjaDo6TWFrZUJpbGxZZWFyU2VydmljZS5ydW4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNmZGNfc3luY19oaXN0b3J5LnRvdWNoCg==</text>
+        <text encoding="base64">ICAgICAgbGV0KDpiaWxsKSB7IGN1c3QuYmlsbHMubGFzdCB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
