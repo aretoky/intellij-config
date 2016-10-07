@@ -126,6 +126,9 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/secrets.yml" timestamp="1475848969830">
+        <mark key="'" line="30" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1475648545436">
         <mark key="[" line="171" column="29" />
         <mark key="]" line="171" column="30" />
@@ -167,8 +170,8 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475840296451">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475844483474">
+        <mark key="'" line="81" column="56" />
         <mark key="[" line="138" column="29" />
         <mark key="]" line="140" column="29" />
         <mark key="." line="140" column="29" />
@@ -694,7 +697,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1475838820240">
+      <file name="/a.regexp" timestamp="1475849269872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -746,10 +749,6 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/newrelic.yml" timestamp="1475805148606">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="54" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/toritsugi.rb" timestamp="1475837814388">
         <mark key="'" line="49" column="8" />
         <mark key="[" line="64" column="6" />
@@ -762,6 +761,12 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1475850815558">
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="51" column="12" />
+        <mark key="^" line="51" column="12" />
+        <mark key="." line="51" column="12" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/deliver_type.rb" timestamp="1475156393962">
         <mark key="[" line="16" column="23" />
@@ -1289,8 +1294,8 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="42" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1475214847402">
-        <mark key="'" line="63" column="22" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1475850535086">
+        <mark key="'" line="82" column="12" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="^" line="96" column="16" />
@@ -1606,13 +1611,9 @@
         <mark key="." line="88" column="2" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1475834457302" />
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1475842725486" />
     </filemarks>
     <jumps>
-      <jump line="179" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="187" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="442" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="151" column="8" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="132" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
       <jump line="2" column="12" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" />
@@ -1709,6 +1710,10 @@
       <jump line="2" column="50" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
       <jump line="218" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
       <jump line="219" column="22" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
+      <jump line="81" column="56" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
+      <jump line="15" column="38" filename="$USER_HOME$/projects/pos-calc/config/secrets.yml" />
+      <jump line="30" column="20" filename="$USER_HOME$/projects/pos-calc/config/secrets.yml" />
+      <jump line="82" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/book.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3489,49 +3494,268 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>update_</text>
+        <text>upsert</text>
       </register>
       <register name="0" type="4">
-        <text>p2_transferred_to_sfdc_id</text>
+        <text>toritsugi_joho__c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc2F2ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBwIHNmX3Rvcml0c3VnaXMuZmlyc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVhY2ggZG8gfHRvcml0c3VnaXwKICAgICAgdG9yaXRzdWdpLnNhdmUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdG9yaXRzdWdpLmlzdmFsaWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAjIFRvcml0c3VnaS53aGVyZSh0b3JpdHN1KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgd2hlcmUodG9yaXRzdWdpX2JhbnNlbjogcm93WzhdKS5maXJzdAo=</text>
+      </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgd2hlcmUodG9yaXRzdWdpX2NvZGU6IHJvd1s3XSkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAjIHRvcml0c3VnaSA9IFRvcml0c3VnaS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGFpbHlvcmRlci50b3JpdHN1Z2kucDJfdHJhbnNmZXJyZWRfdG9fdG9yaXRzdWdpLnRvcml0c3VnaV9iYW5zZW4K</text>
+        <text encoding="base64">ICAgICAgICBwIHNmX3Rvcml0c3VnaS5maXJzdC5zdG9yZV9fcgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>update_</last-search>
+      <last-search>upsert</last-search>
       <last-offset />
-      <last-pattern>update_</last-pattern>
+      <last-pattern>upsert</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3539,9 +3763,6 @@
     </search>
     <history>
       <history-search>
-        <entry>store</entry>
-        <entry>daily_update_all_ranking</entry>
-        <entry>ranking</entry>
         <entry>bills</entry>
         <entry>store_daily_orders</entry>
         <entry>memo</entry>
@@ -3559,6 +3780,9 @@
         <entry>submit</entry>
         <entry>update</entry>
         <entry>update_</entry>
+        <entry>sfdcClientID</entry>
+        <entry>6989923639274521908</entry>
+        <entry>upsert</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
