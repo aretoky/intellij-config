@@ -93,12 +93,11 @@
       <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1475778165280">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1475823928462">
+      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1475827169870">
         <mark key="'" line="237" column="7" />
-        <mark key="[" line="217" column="13" />
-        <mark key="]" line="217" column="15" />
-        <mark key="." line="217" column="15" />
-        <mark key="^" line="217" column="15" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vp_extension/app/scripts/chromereload.js" timestamp="1472571033573">
         <mark key="[" line="12" column="1" />
@@ -158,6 +157,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/submit_button_disabler.js.coffee" timestamp="1475827678510">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1475823044491">
         <mark key="'" line="643" column="2" />
@@ -879,12 +884,12 @@
         <mark key="^" line="50" column="52" />
         <mark key="." line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1475824612676">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1475826706028">
         <mark key="'" line="54" column="47" />
-        <mark key="[" line="91" column="26" />
-        <mark key="]" line="91" column="11" />
-        <mark key="." line="91" column="11" />
-        <mark key="^" line="91" column="11" />
+        <mark key="[" line="91" column="48" />
+        <mark key="]" line="92" column="12" />
+        <mark key="." line="92" column="12" />
+        <mark key="^" line="92" column="12" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1474294318459">
         <mark key="[" line="126" column="8" />
@@ -3450,27 +3455,30 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>t_syoten_cd</text>
       </register>
-      <register name="0" type="4">
-        <text>販促コード</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8PDogKmRhaWx5b3JkZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>store_name_kanji: 店舗名
         book: 書籍
         order_type: 受注経路
@@ -3482,17 +3490,14 @@
         toritsugi_type: 取次コード
         toritsugi_type_id: 取次コード</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RvcmUudG91Y2gK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgc3RvcmUudG91Y2gK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
