@@ -16,8 +16,8 @@
         <mark key="^" line="46" column="9" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/Gemfile" timestamp="1475835067100">
-        <mark key="'" line="58" column="9" />
+      <file name="$USER_HOME$/projects/pos-calc/Gemfile" timestamp="1476182681457">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_book.php" timestamp="1475064168779">
         <mark key="'" line="135" column="46" />
@@ -165,12 +165,12 @@
         <mark key="^" line="63" column="39" />
         <mark key="." line="63" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1476176234647">
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1476182593355">
         <mark key="'" line="31" column="133" />
-        <mark key="[" line="58" column="80" />
-        <mark key="]" line="59" column="31" />
-        <mark key="." line="59" column="31" />
-        <mark key="^" line="59" column="31" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1475671528658">
         <mark key="'" line="151" column="8" />
@@ -290,11 +290,11 @@
         <mark key="^" line="132" column="35" />
         <mark key="." line="132" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/edit_event_on_google_calender_service.rb" timestamp="1476180385983">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="26" />
-        <mark key="^" line="33" column="26" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/edit_event_on_google_calender_service.rb" timestamp="1476182241303">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="60" column="6" />
+        <mark key="." line="60" column="6" />
+        <mark key="^" line="60" column="6" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1476174477930">
         <mark key="'" line="283" column="302" />
@@ -378,8 +378,6 @@
       <jump line="233" column="9" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="16" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="113" column="2" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
-      <jump line="56" column="5" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="58" column="9" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="147" column="42" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="514" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
@@ -427,6 +425,8 @@
       <jump line="283" column="302" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
       <jump line="31" column="133" filename="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" />
       <jump line="123" column="35" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
+      <jump line="56" column="5" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2210,7 +2210,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>p2_transferred_to__c</text>
+        <text>sale</text>
       </register>
       <register name="0" type="4">
         <text>api_method: google_service.events.insert</text>
@@ -2219,19 +2219,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlX2V2ZW50KGJvb2spCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIFRPRE8g5L2Z6KOV44GC44KL44Go44GN44Gr5YuV5L2c56K66KqNK+ODhuOCueODiAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY3JlYXRlX2V2ZW50KGJvb2spCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAjIFRPRE8g5L2Z6KOV44GC44KL44Go44GN44Gr5YuV5L2c56K66KqNK+ODhuOCueODiAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY3JlYXRlX2V2ZW50KGJvb2spCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2459,16 +2459,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>p2_transferred_to__c</last-search>
+      <last-search>sale</last-search>
       <last-offset />
-      <last-pattern>p2_transferred_to__c</last-pattern>
+      <last-pattern>sale</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -2476,7 +2476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toritsugi</entry>
         <entry>toritsugis</entry>
         <entry>Toritsugi</entry>
         <entry>sf</entry>
@@ -2496,6 +2495,7 @@
         <entry>ship</entry>
         <entry>p2_close_date__c</entry>
         <entry>p2_transferred_to__c</entry>
+        <entry>sale</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
