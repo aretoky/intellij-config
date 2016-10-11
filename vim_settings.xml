@@ -212,6 +212,12 @@
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/circle.yml" timestamp="1476172834234">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="28" column="81" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_year.php" timestamp="1475051890539">
         <mark key="'" line="409" column="0" />
       </file>
@@ -2193,31 +2199,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>[ -z &quot;${WITHOUT_MASTER_REPOSITORY}&quot; ]</text>
       </register>
       <register name="/" type="4">
         <text>store_name__c</text>
       </register>
       <register name="0" type="4">
-        <text>sf_toritsugi.toritugi_van_store_name__c,</text>
+        <text>[ &quot;${CIRCLE_REPOSITORY_URL}&quot; = &quot;https://github.com/bunkyosha/pos-calc&quot; ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGUgZXhlYyBjYXAgc3RhZ2luZyBkZXBsb3kK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAgImVuZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2lyY2xlY2ktYnVuZGxlLXVwZGF0ZS1wcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VtIGluc3RhbGwgY2lyY2xlY2ktYnVuZGxlLXVwZGF0ZS1wcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwIHNmX3Rvcml0c3VnaXMuZmlyc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VtIHVwZGF0ZSBidW5kbGVyIC0tbm8tZG9jdW1lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2lyY2xlY2ktYnVuZGxlLXVwZGF0ZS1wcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VtIGluc3RhbGwgY2lyY2xlY2ktYnVuZGxlLXVwZGF0ZS1wcgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2439,13 +2445,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRvcml0c3VnaS53aGVyZSh0b3JpdHN1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VtIHVwZGF0ZSBidW5kbGVyIC0tbm8tZG9jdW1lbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgd2hlcmUodG9yaXRzdWdpX2JhbnNlbjogcm93WzhdKS5maXJzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gYnVuZGxlIGV4ZWMgY2FwIHByb2R1Y3Rpb24gZGVwbG95Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgd2hlcmUodG9yaXRzdWdpX2NvZGU6IHJvd1s3XSkuCg==</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGUgZXhlYyBjYXAgcHJvZHVjdGlvbiBkZXBsb3kK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
