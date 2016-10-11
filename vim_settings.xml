@@ -168,12 +168,12 @@
         <mark key="^" line="63" column="39" />
         <mark key="." line="63" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1476174696016">
-        <mark key="'" line="38" column="66" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="30" column="15" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1476176234647">
+        <mark key="'" line="31" column="133" />
+        <mark key="[" line="58" column="80" />
+        <mark key="]" line="59" column="31" />
+        <mark key="." line="59" column="31" />
+        <mark key="^" line="59" column="31" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1475671528658">
         <mark key="'" line="151" column="8" />
@@ -264,10 +264,11 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/ymdroom/ajax_reserve_book.php" timestamp="1474595621842">
         <mark key="'" line="533" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/add_event_on_google_calender_service.rb" timestamp="1476153145805">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/add_event_on_google_calender_service.rb" timestamp="1476176372433">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_year_service_spec.rb" timestamp="1475804188050">
         <mark key="[" line="93" column="30" />
@@ -293,6 +294,12 @@
         <mark key="]" line="132" column="35" />
         <mark key="^" line="132" column="35" />
         <mark key="." line="132" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/edit_event_on_google_calender_service.rb" timestamp="1476176592604">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1476174477930">
         <mark key="'" line="283" column="302" />
@@ -325,7 +332,6 @@
       <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1475842725486" />
     </filemarks>
     <jumps>
-      <jump line="215" column="13" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" />
       <jump line="171" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="392" column="15" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="242" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
@@ -425,6 +431,7 @@
       <jump line="133" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="282" column="22" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
       <jump line="283" column="302" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
+      <jump line="31" column="133" filename="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2205,31 +2212,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>insert</text>
       </register>
       <register name="/" type="4">
-        <text>ship</text>
+        <text>p2_transferred_to__c</text>
       </register>
       <register name="0" type="4">
-        <text>[ &quot;${CIRCLE_REPOSITORY_URL}&quot; = &quot;https://github.com/bunkyosha/pos-calc&quot; ]</text>
+        <text>api_method: google_service.events.insert</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiZWZvcmVfc2F2ZSA6c2V0X3NldF9leHBpcmVfdG9yaXRzdWdpCg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlX2V2ZW50KGJvb2spCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGUgZXhlYyBjYXAgc3RhZ2luZyBkZXBsb3kK</text>
+        <text encoding="base64">ICAjIFRPRE8g5L2Z6KOV44GC44KL44Go44GN44Gr5YuV5L2c56K66KqNK+ODhuOCueODiAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2lyY2xlY2ktYnVuZGxlLXVwZGF0ZS1wcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VtIGluc3RhbGwgY2lyY2xlY2ktYnVuZGxlLXVwZGF0ZS1wcgo=</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlX2V2ZW50KGJvb2spCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VtIHVwZGF0ZSBidW5kbGVyIC0tbm8tZG9jdW1lbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -2451,22 +2458,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2lyY2xlY2ktYnVuZGxlLXVwZGF0ZS1wcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VtIGluc3RhbGwgY2lyY2xlY2ktYnVuZGxlLXVwZGF0ZS1wcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VtIHVwZGF0ZSBidW5kbGVyIC0tbm8tZG9jdW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>ship</last-search>
+      <last-search>p2_transferred_to__c</last-search>
       <last-offset />
-      <last-pattern>ship</last-pattern>
+      <last-pattern>p2_transferred_to__c</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -2474,8 +2481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>t_syoten_cd</entry>
-        <entry>toritsugi_van_name</entry>
         <entry>toritsugi</entry>
         <entry>toritsugis</entry>
         <entry>Toritsugi</entry>
@@ -2494,6 +2499,8 @@
         <entry>proccess</entry>
         <entry>submit</entry>
         <entry>ship</entry>
+        <entry>p2_close_date__c</entry>
+        <entry>p2_transferred_to__c</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
