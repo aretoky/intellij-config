@@ -671,11 +671,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476238520957">
-        <mark key="[" line="82" column="12" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476240472097">
+        <mark key="[" line="82" column="50" />
+        <mark key="]" line="82" column="53" />
+        <mark key="." line="82" column="53" />
+        <mark key="^" line="82" column="53" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/edit.html.slim" timestamp="1473610205847">
         <mark key="[" line="13" column="25" />
@@ -753,10 +753,10 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1476236216510">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1476240488154">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/toritsugi.rb" timestamp="1475837814388">
         <mark key="'" line="49" column="8" />
@@ -3545,7 +3545,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>subject</text>
       </register>
       <register name="/" type="4">
         <text>billmail</text>
@@ -3554,40 +3554,25 @@
         <text>ActionMailer::Base.deliveries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcCAiYWFhYSIK</text>
+        <text encoding="base64">ICAgICAgICBwICJhYWEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCAiYWFhYSIK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>year_deadline: billmail.dt_deadline.to_date.year,
       month_deadline: billmail.dt_deadline.to_date.month,
       day_deadline: billmail.dt_deadline.to_date.day,
       dow_deadline: I18n.t(&quot;date.abbr_day_names&quot;)[billmail.dt_deadline.to_date.wday]</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>no_smail: Smail.next_seq_smail,
-      ts_regist: Time.now,
-      no_bill: bill.no_bill,
-      nm_bill: bill.nm_bill,
-      no_cust: bill.no_cust,
-      nm_cust: bill.cust.nm_cust,
-      nm_company: bill.cust.nm_company,
-      dt_start: I18n.l(bill.dt_start.to_date, format: :long),
-      dt_end: I18n.l(bill.dt_end.to_date, format: :long),
-      amtax_bill: bill.amtax_bill,
-      list_plan: bill.cust.current_regular_plan_descriptions.join(&quot;\n&quot;),
-      hpay_last: bill.cust.cd_ho_name || &quot;&quot;,
-      year_deadline: billmail.dt_deadline.to_date.year,
-      month_deadline: billmail.dt_deadline.to_date.month,
-      day_deadline: billmail.dt_deadline.to_date.day,
-      dow_deadline: I18n.t(&quot;date.abbr_day_names&quot;)[billmail.dt_deadline.to_date.wday]</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3808,14 +3793,29 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>no_smail: Smail.next_seq_smail,
+      ts_regist: Time.now,
+      no_bill: bill.no_bill,
+      nm_bill: bill.nm_bill,
+      no_cust: bill.no_cust,
+      nm_cust: bill.cust.nm_cust,
+      nm_company: bill.cust.nm_company,
+      dt_start: I18n.l(bill.dt_start.to_date, format: :long),
+      dt_end: I18n.l(bill.dt_end.to_date, format: :long),
+      amtax_bill: bill.amtax_bill,
+      list_plan: bill.cust.current_regular_plan_descriptions.join(&quot;\n&quot;),
+      hpay_last: bill.cust.cd_ho_name || &quot;&quot;,
+      year_deadline: billmail.dt_deadline.to_date.year,
+      month_deadline: billmail.dt_deadline.to_date.month,
+      day_deadline: billmail.dt_deadline.to_date.day,
+      dow_deadline: I18n.t(&quot;date.abbr_day_names&quot;)[billmail.dt_deadline.to_date.wday]</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBwIEJpbGxtYWlsLmFsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgZHRfYmF0Y2gK</text>
+        <text encoding="base64">ICAgIHBwIEJpbGxtYWlsLmFsbAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
