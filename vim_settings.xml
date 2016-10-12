@@ -88,9 +88,6 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/cust_select_modal_dialogs/_modal.html.slim" timestamp="1476271954406">
-        <mark key="'" line="22" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/author-debut/app/views/sample_images/index.html.erb" timestamp="1473304235878">
         <mark key="[" line="0" column="57" />
         <mark key="]" line="1" column="0" />
@@ -128,8 +125,10 @@
         <mark key="^" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/custs_controllerable.rb" timestamp="1476264139858" />
-      <file name="$USER_HOME$/projects/pos-calc/config/secrets.yml" timestamp="1475848969830">
-        <mark key="'" line="30" column="20" />
+      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1476255744134">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/zipcode_select_modal_dialogs_controller.rb" timestamp="1476276971870">
         <mark key="[" line="3" column="16" />
@@ -422,6 +421,7 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/client/postal_mailer.rb" timestamp="1476282275848" />
       <file name="$USER_HOME$/projects/pos-calc/app/models/channel.rb" timestamp="1475152121965">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="18" />
@@ -607,9 +607,6 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1476154410139">
-        <mark key="'" line="215" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/cntr/src/tpl/postalcust/mid.view.php" timestamp="1473824421603">
         <mark key="[" line="64" column="16" />
         <mark key="]" line="65" column="43" />
@@ -702,6 +699,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476255900681">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/edit.html.slim" timestamp="1473610205847">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="57" />
@@ -732,7 +734,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1476279101640">
+      <file name="/a.regexp" timestamp="1476282739771">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -917,9 +919,6 @@
         <mark key="^" line="61" column="4" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_monthly_by_bitems_creator.rb" timestamp="1476085539005">
-        <mark key="'" line="23" column="8" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1474960477117">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -1072,10 +1071,12 @@
         <mark key="." line="68" column="31" />
         <mark key="^" line="68" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1475655997505">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1476283449987">
+        <mark key="'" line="124" column="24" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
+        <mark key="^" line="205" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_fields.html.slim" timestamp="1476278831683">
         <mark key="[" line="10" column="0" />
@@ -1267,6 +1268,11 @@
         <mark key="]" line="15" column="25" />
         <mark key="." line="15" column="25" />
         <mark key="^" line="15" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/postal_saving_service.rb" timestamp="1476282672311">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/admin/books_helper.rb" timestamp="1473162854529">
         <mark key="[" line="0" column="7" />
@@ -1470,6 +1476,11 @@
         <mark key="^" line="135" column="8" />
         <mark key="." line="135" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/settings.yml" timestamp="1476234765637">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/base_input.rb" timestamp="1476267347348">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1661,9 +1672,6 @@
         <mark key="." line="13" column="81" />
         <mark key="^" line="13" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1476228776117">
-        <mark key="'" line="497" column="52" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_book_service.rb" timestamp="1475651677016">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1731,9 +1739,6 @@
       <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1475842725486" />
     </filemarks>
     <jumps>
-      <jump line="686" column="23" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="722" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="233" column="9" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="16" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="113" column="2" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="58" column="9" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
@@ -1831,6 +1836,9 @@
       <jump line="44" column="67" filename="$USER_HOME$/projects/cplus/app/inputs/zipcode_input.rb" />
       <jump line="8" column="33" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/zipcode_input.coffee" />
       <jump line="0" column="16" filename="$USER_HOME$/projects/cplus/app/views/admin/interims/_form.html.slim" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
+      <jump line="12" column="6" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
+      <jump line="124" column="24" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3611,32 +3619,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sikutyouson</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>zipcode</text>
+        <text>demand</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbnB1dF9odG1sOiB7IGNsYXNzOiAic2lrdXR5b3Vzb24iIH0sCg==</text>
+      <register name="0" type="4">
+        <text>self.ts_demand</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYudHNfZGVtYW5kID0gKGNkX3VyICE9IDk5ICYmICkgPyBEYXRlVGltZS5ub3cgOiBuaWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">emlwY29kZVZhbHVlID0gemlwY29kZVZhbHVlLnRyaW0oKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JCgiIyIgKyBAYXR0cmlidXRlX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>@search.result(distinct: true).
-      page(params[:page]).per(5)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3858,22 +3865,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzZWFyY2guc29ydHMgPSAiemlwY29kZSBkZXNjIiBpZiBAc2VhcmNoLnNvcnRzLmVtcHR5Pwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgc3Ffc2VxCg==</text>
+        <text encoding="base64">emlwY29kZVZhbHVlID0gemlwY29kZVZhbHVlLnRyaW0oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJhYWFhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>zipcode</last-search>
+      <last-search>demand</last-search>
       <last-offset />
-      <last-pattern>zipcode</last-pattern>
+      <last-pattern>demand</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3881,7 +3888,6 @@
     </search>
     <history>
       <history-search>
-        <entry>z_dt_ymd</entry>
         <entry>desc</entry>
         <entry>line</entry>
         <entry>dt_dead</entry>
@@ -3901,6 +3907,7 @@
         <entry>cust</entry>
         <entry>addr-fields</entry>
         <entry>zipcode</entry>
+        <entry>demand</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
