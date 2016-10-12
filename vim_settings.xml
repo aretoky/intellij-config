@@ -671,11 +671,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476229476155">
-        <mark key="[" line="74" column="25" />
-        <mark key="]" line="74" column="26" />
-        <mark key="." line="74" column="26" />
-        <mark key="^" line="77" column="21" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476238520957">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/edit.html.slim" timestamp="1473610205847">
         <mark key="[" line="13" column="25" />
@@ -3551,7 +3551,7 @@
         <text>billmail</text>
       </register>
       <register name="0" type="4">
-        <text>billmail.dt_deadline</text>
+        <text>ActionMailer::Base.deliveries</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcCAiYWFhYSIK</text>
