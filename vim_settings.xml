@@ -39,15 +39,11 @@
         <mark key="^" line="30" column="92" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1476377749448">
+      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1476378878850">
         <mark key="[" line="40" column="1" />
         <mark key="]" line="41" column="1" />
         <mark key="^" line="41" column="1" />
         <mark key="." line="41" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/Gemfile" timestamp="1476362546089">
-        <mark key="'" line="57" column="5" />
-        <mark key="[" line="112" column="21" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_form.html.slim" timestamp="1476376451080">
         <mark key="'" line="18" column="10" />
@@ -726,10 +722,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476255900681">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476379265710">
+        <mark key="[" line="74" column="25" />
+        <mark key="]" line="74" column="26" />
+        <mark key="." line="74" column="26" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/lib/tasks/close_toritsugi.rake" timestamp="1476365355107">
         <mark key="[" line="2" column="27" />
@@ -1176,10 +1172,6 @@
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_year.php" timestamp="1476256970310">
-        <mark key="'" line="100" column="30" />
-        <mark key="[" line="178" column="27" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/models/addr_spec.rb" timestamp="1476342056488" />
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1470820761202">
@@ -1714,10 +1706,6 @@
         <mark key="]" line="0" column="88" />
         <mark key="." line="0" column="88" />
         <mark key="^" line="0" column="88" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1476329095751">
-        <mark key="'" line="7" column="19" />
-        <mark key="[" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/books/edit.html.slim" timestamp="1475664668577">
         <mark key="[" line="13" column="75" />
@@ -4556,7 +4544,7 @@
         <text>Depo.where(no_cust: no_cust)</text>
       </register>
       <register name="/" type="4">
-        <text>depo</text>
+        <text>最終勧告メールは送信される</text>
       </register>
       <register name="0" type="4">
         <text>デポジット口座</text>
@@ -4812,9 +4800,9 @@
       </register>
     </registers>
     <search>
-      <last-search>depo</last-search>
+      <last-search>最終勧告メールは送信される</last-search>
       <last-offset />
-      <last-pattern>depo</last-pattern>
+      <last-pattern>最終勧告メールは送信される</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4822,7 +4810,6 @@
     </search>
     <history>
       <history-search>
-        <entry>torisugi_type</entry>
         <entry>set_toritsugi</entry>
         <entry>update_toritsugi_store</entry>
         <entry>order_type</entry>
@@ -4842,6 +4829,7 @@
         <entry>database</entry>
         <entry>update_bansen_by_sales_force_data</entry>
         <entry>depo</entry>
+        <entry>最終勧告メールは送信される</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
