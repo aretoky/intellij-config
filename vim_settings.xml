@@ -620,7 +620,7 @@
         <mark key="^" line="65" column="43" />
         <mark key="." line="65" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/spec/controllers/dailyorders_controller_spec.rb" timestamp="1473688260985">
+      <file name="$USER_HOME$/projects/pos-calc/spec/controllers/dailyorders_controller_spec.rb" timestamp="1476329827308">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="16" />
         <mark key="^" line="6" column="16" />
@@ -711,6 +711,12 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/close_toritsugi.rake" timestamp="1476329179249">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/edit.html.slim" timestamp="1473610205847">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="57" />
@@ -741,7 +747,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1476282739771">
+      <file name="/a.regexp" timestamp="1476328585481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -806,7 +812,13 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1476327964999" />
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" timestamp="1476328903294">
+        <mark key="'" line="75" column="16" />
+        <mark key="[" line="77" column="37" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/deliver_type.rb" timestamp="1475156393962">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="18" column="32" />
@@ -1087,10 +1099,11 @@
         <mark key="." line="14" column="68" />
         <mark key="^" line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/circle.yml" timestamp="1476327885208">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/circle.yml" timestamp="1476329648543">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1476284154321">
         <mark key="[" line="90" column="41" />
@@ -1115,6 +1128,10 @@
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_year.php" timestamp="1476256970310">
+        <mark key="'" line="100" column="30" />
+        <mark key="[" line="178" column="27" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1470820761202">
         <mark key="[" line="1" column="52" />
@@ -1641,12 +1658,9 @@
         <mark key="." line="0" column="88" />
         <mark key="^" line="0" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1475837684686">
+      <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1476329095751">
         <mark key="'" line="7" column="19" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+        <mark key="[" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/books/edit.html.slim" timestamp="1475664668577">
         <mark key="[" line="13" column="75" />
@@ -1714,10 +1728,8 @@
         <mark key="." line="88" column="2" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1475842725486" />
     </filemarks>
     <jumps>
-      <jump line="173" column="12" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="34" column="21" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="19" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="449" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
@@ -1817,6 +1829,7 @@
       <jump line="93" column="19" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="94" column="32" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="103" column="86" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
+      <jump line="75" column="16" filename="$USER_HOME$/projects/pos-calc/lib/tasks/upsert_toritsugi_on_sfdc_20161101.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4466,31 +4479,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>10</text>
       </register>
       <register name="0" type="4">
-        <text>.gsub(&quot;-&quot;, &quot;&quot;)</text>
+        <text>p2_close_date__c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2UgY2lyY2xlY2kueW1sIGZvciBlZGl0dGluZyBvdGhlciByZXBvc2l0b3J5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBidW5kbGUgZXhlYyBjYXAgc3RhZ2luZyBkZXBsb3kK</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgIyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcCByb3dbNl0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4712,22 +4725,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcCByb3dbNV0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBjaGFuZ2UgY2lyY2xlY2kueW1sIGZvciBlZGl0dGluZyBvdGhlciByZXBvc2l0b3J5Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ3Rvcml0c3VnaV9qb2hvX19jJywK</text>
+        <text encoding="base64">ICAgICAgLSBidW5kbGUgZXhlYyBjYXAgc3RhZ2luZyBkZXBsb3kK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgc2FsZXNmb3JjZS51cHNlcnQoCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>10</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>10</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4735,7 +4748,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_dead</entry>
         <entry>billmail</entry>
         <entry>fixed</entry>
         <entry>current_re</entry>
@@ -4755,6 +4767,7 @@
         <entry>demand</entry>
         <entry>upsert</entry>
         <entry>date</entry>
+        <entry>10</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
