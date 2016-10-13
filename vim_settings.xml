@@ -211,11 +211,11 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1476345595004">
-        <mark key="'" line="572" column="0" />
-        <mark key="[" line="138" column="29" />
-        <mark key="]" line="140" column="29" />
-        <mark key="." line="140" column="29" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1476368155712">
+        <mark key="'" line="532" column="10" />
+        <mark key="[" line="724" column="70" />
+        <mark key="]" line="724" column="70" />
+        <mark key="." line="724" column="70" />
         <mark key="^" line="140" column="29" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/bill_decorator.rb" timestamp="1472633988311">
@@ -757,11 +757,11 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/close_toritsugi.rake" timestamp="1476360970311">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="32" column="4" />
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/close_toritsugi.rake" timestamp="1476365355107">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/infos/edit.html.slim" timestamp="1473610205847">
         <mark key="[" line="13" column="25" />
@@ -793,7 +793,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1476353836226">
+      <file name="/a.regexp" timestamp="1476367991676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -1605,6 +1605,12 @@
         <mark key="^" line="79" column="38" />
         <mark key="." line="79" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/services/close_toritsugi_service.rb" timestamp="1476367711076">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="79" />
+        <mark key="." line="9" column="79" />
+        <mark key="^" line="9" column="79" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app.json" timestamp="1472191344935">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="3" />
@@ -1847,9 +1853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/pos-calc/spec/factories/toritsugis.rb" />
-      <jump line="19" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="25" column="18" filename="$USER_HOME$/projects/pos-calc/db/fixtures/050_base.rb" />
       <jump line="165" column="2" filename="$USER_HOME$/projects/pos-calc/db/fixtures/050_base.rb" />
       <jump line="12" column="150" filename="$USER_HOME$/projects/pos-calc/db/fixtures/050_base.rb" />
@@ -1947,6 +1950,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="4" column="21" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="57" column="5" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
+      <jump line="690" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
+      <jump line="532" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4596,31 +4602,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>where(is_valid_daily_order: true)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>database</text>
+        <text>update_bansen_by_sales_force_data</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBiZWxvbmdzX3RvIDp0b3JpdHN1Z2lfdHlwZQo=</text>
+      <register name="0" type="4">
+        <text>p2_transferred_from</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgIyAndG9yaXR1Z2lfdmFuX3N0b3JlX25hbWVfX2MnLCBzZl90b3JpdHN1Z2kudG9yaXR1Z2lfdmFuX3N0b3JlX25hbWVfX2MsCiAgICAgICAgICAjICd0b3JpdHVnaV92YW5fZGF0YV9fYycsIHNmX3Rvcml0c3VnaS50b3JpdHVnaV92YW5fZGF0YV9fYywKICAgICAgICAgICMgJ3N5b3Nla2lfYmFuc2VuX19jJywgc2ZfdG9yaXRzdWdpLnN5b3Nla2lfYmFuc2VuX19jLAogICAgICAgICAgIyAnc3lvc2VraV9iYW5zZW5faG9qb19fYycsIHNmX3Rvcml0c3VnaS5zeW9zZWtpX2JhbnNlbl9ob2pvX19jLAogICAgICAgICAgIyAnemFzc2lfYmFuc2VuX19jJywgc2ZfdG9yaXRzdWdpLnphc3NpX2JhbnNlbl9fYywKICAgICAgICAgICMgJ3phc3NpX2JhbnNlbl9ob2pvX19jJywgc2ZfdG9yaXRzdWdpLnphc3NpX2JhbnNlbl9ob2pvX19jLAogICAgICAgICAgIyAnY2xvc2Vfa2JuX19jJywgc2ZfdG9yaXRzdWdpLmNsb3NlX2tibl9fYywKICAgICAgICAgICMgJ2hlaXRlbl95bV9fYycsIHNmX3Rvcml0c3VnaS5oZWl0ZW5feW1fX2MsCiAgICAgICAgICAjICd1c2Vfa2JuX19jJywgc2ZfdG9yaXRzdWdpLnVzZV9rYm5fX2MsCiAgICAgICAgICAjICdhZGRfeW1kX19jJywgc2ZfdG9yaXRzdWdpLmFkZF95bWRfX2MsCiAgICAgICAgICAjICd1cGRfeW1kX19jJywgc2ZfdG9yaXRzdWdpLnVwZF95bWRfX2M=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHAgc2ZfdG9yaXRzdWdpcwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5jbHVzaW9uOiB7IGluOiBUb3JpdHN1Z2lUeXBlLndoZXJlKGlzX3ZhbGlkX2RhaWx5X29yZGVyOiB0cnVlKS5wbHVjayg6aWQpIH0sCg==</text>
+        <text encoding="base64">ICAgICAgcCBzZl90b3JpdHN1Z2kucDJfdHJhbnNmZXJyZWRfdG9fX2MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZXJlKCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4842,22 +4848,26 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmQKZW4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text>p shotenmaster_toritsugi_import_id__c = &quot;#{sprintf(&quot;%06d&quot;, sf_toritsugi.kyouyu_code__c)}-#{sf_toritsugi.toritsugi_code__c.split(&quot; : &quot;)[0]}-#{sf_toritsugi.t_syoten_cd__c}-#{sf_toritsugi.bansen__c}&quot;
+      r = Hash[
+        'shotenmaster_toritsugi_import_id__c', shotenmaster_toritsugi_import_id__c,
+        'use_kbn__c', false
+      ]</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QWN0aXZlUmVjb3JkOjpCYXNlLnRyYW5zYWN0aW9uIGRvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>database</last-search>
+      <last-search>update_bansen_by_sales_force_data</last-search>
       <last-offset />
-      <last-pattern>database</last-pattern>
+      <last-pattern>update_bansen_by_sales_force_data</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4865,7 +4875,6 @@
     </search>
     <history>
       <history-search>
-        <entry>syoten</entry>
         <entry>index_stores_on_kyouyu_cd</entry>
         <entry>torisugi_type</entry>
         <entry>set_toritsugi</entry>
@@ -4885,6 +4894,7 @@
         <entry>toritsugi_type</entry>
         <entry>toritsugi_type_id</entry>
         <entry>database</entry>
+        <entry>update_bansen_by_sales_force_data</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
