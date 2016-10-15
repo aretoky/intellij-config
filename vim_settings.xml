@@ -111,6 +111,12 @@
       <file name="$USER_HOME$/projects/cplus/app/views/admin/cust_select_modal_dialogs/_modal.html.slim" timestamp="1476271954406">
         <mark key="'" line="22" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_bitem_fields.html.slim" timestamp="1476517554065">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1476443815689">
         <mark key="'" line="83" column="28" />
         <mark key="[" line="128" column="0" />
@@ -214,6 +220,12 @@
         <mark key="]" line="25" column="3" />
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_inamt_fields.html.slim" timestamp="1476517888729">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/_basic_store.html.erb" timestamp="1476333249073">
         <mark key="'" line="34" column="39" />
@@ -3276,31 +3288,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>備考</text>
       </register>
       <register name="/" type="4">
         <text>mplan</text>
       </register>
       <register name="0" type="4">
-        <text>:no_plan</text>
+        <text encoding="base64">LmNvbC14cy02CiAgICAgIGRpdgogICAgICAgIGxhYmVsIOWCmeiAgwogICAgICBkaXYKICAgICAgICA9IGYuaW5wdXRfZmllbGQgOm5vdGUKICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZHRfY3VycmVudCA9IERhdGUudG9kYXkudG9fcyg6ZHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA9IGYuaW5wdXRfZmllbGQgOm5vdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZHRfY3VycmVudCA9IERhdGUudG9kYXkudG9fcyg6ZHQpCiAgICAgIEJpdGVtLmluY2x1ZGVzKDpiaWxsKS5qb2lucyg6YmlsbCkuCiAgICAgICAgICBtZXJnZShjdXN0LmJpbGxzLmZpeGVkKS4KICAgICAgICAgIHdoZXJlKGNkX3BhOiBjZF9wYSkuCiAgICAgICAgICB3aGVyZXsgKChgYml0ZW0uZHRfc3RhcnRgIDw9IGR0X2N1cnJlbnQpICYgKGBiaXRlbS5kdF9lbmRgID49IGR0X2N1cnJlbnQpIHwgKGBiaXRlbS5kdF9zdGFydGAgPiBkdF9jdXJyZW50KSkgfS4KICAgICAgICAgIG1pbmltdW0oOmR0X3N0YXJ0KQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA9IGYuaGlkZGVuX2ZpZWxkIDpzcV9zZXEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwLmZvcm0tY29udHJvbC1zdGF0aWMgPSBmLm9iamVjdC5zcV9zZXEK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3522,13 +3534,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGl2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGZvcmVpZ25fa2V5OiAibm9fY3VzdCIK</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbCAmbmJzcDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNsYXNzX25hbWU6ICJDdXN0IiwK</text>
+        <text encoding="base64">ICAgICAgZGl2Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
