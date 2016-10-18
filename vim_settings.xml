@@ -257,11 +257,11 @@
         <mark key="^" line="97" column="1" />
         <mark key="." line="97" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1476530497371">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1476774657524">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="80" />
+        <mark key="." line="27" column="39" />
+        <mark key="^" line="27" column="38" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_sendmail_year.php" timestamp="1476433599252">
         <mark key="'" line="129" column="39" />
@@ -3424,28 +3424,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>display_only: true</text>
+        <text>%w(edit update)</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gaWYgZi5vYmplY3QucGVyc2lzdGVkPwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICYmICV3KGVkaXQgdXBkYXRlKS5pbmNsdWRlPyhhY3Rpb25fbmFtZSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3673,10 +3673,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGF0dHJpYnV0ZV9uYW1lID09IDpwc3dkCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
