@@ -547,12 +547,12 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1476442803778">
         <mark key="'" line="413" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" timestamp="1476696192040">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" timestamp="1476757135443">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="183" column="23" />
-        <mark key="]" line="186" column="28" />
-        <mark key="." line="186" column="28" />
-        <mark key="^" line="186" column="28" />
+        <mark key="[" line="183" column="36" />
+        <mark key="]" line="183" column="36" />
+        <mark key="." line="183" column="36" />
+        <mark key="^" line="182" column="25" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" timestamp="1476445333292">
         <mark key="'" line="71" column="86" />
@@ -597,11 +597,11 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1476696380948">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1476757575258">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1476340949527">
         <mark key="'" line="10" column="32" />
@@ -663,12 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
-      <jump line="91" column="242" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
-      <jump line="118" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
-      <jump line="5" column="6" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="23" column="20" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="145" column="18" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="128" column="20" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="87" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="2" column="14" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -763,6 +757,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
       <jump line="118" column="16" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="141" column="17" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="5" column="29" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="52" column="4" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="15" column="27" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="172" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="150" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3412,31 +3412,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>&quot;非表示&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>passw</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDphY2NvdW50LCBkaXNwbGF5X29ubHk6IHRydWUK</text>
+      <register name="0" type="4">
+        <text encoding="base64">dGVtcGxhdGUubGFiZWxfdGFnKG5pbCwgIumdnuihqOekuiIsIGlucHV0X2h0bWxfb3B0aW9ucyhtZXRob2QpKSAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgIGlmIGF0dHJpYnV0ZV9uYW1lID09IDpwc3dkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">b3V0ID0gdGVtcGxhdGUuY29udGVudF90YWcoOmRpdiwgc3R5bGU6ICJkaXNwbGF5OiBub25lOyIpIGRvCiAgICAgIHRlbXBsYXRlLmNvbmNhdCBzdXBlcgogICAgZW5kCiAgICBvdXQgPDwgdGVtcGxhdGUubGFiZWxfdGFnKG5pbCwgIumdnuihqOekuiIsIGlucHV0X2h0bWxfb3B0aW9ucyhtZXRob2QpKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpwc3dkLCBhczogOnBhc3N3b3JkLCBkaXNwbGF5X29ubHk6IHRydWUKCiAgICB0cihjbGFzcz0iZm9ybS1ncm91cCBzZWxlY3QgcmVxdWlyZWQgY3VzdF95bl91c2UiKQogICAgICB0ZC50YWJsZS1saXN0LWhlYWQK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">b3V0ID0gdGVtcGxhdGUuY29udGVudF90YWcoOmRpdiwgc3R5bGU6ICJkaXNwbGF5OiBub25lOyIpIGRvCiAgICAgICAgdGVtcGxhdGUuY29uY2F0IHN1cGVyCiAgICAgIGVuZAogICAgICBvdXQgPDwgdGVtcGxhdGUubGFiZWxfdGFnKG5pbCwgIumdnuihqOekuiIsIGlucHV0X2h0bWxfb3B0aW9ucyhtZXRob2QpKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZvcmNlX2Rpc3BsYXk6IHRydWUK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3658,22 +3658,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN1cGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search>passw</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>passw</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3681,7 +3681,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Yml0ZW0uZHRfc3RhcnRgIDw9IGR0X2N1cnJlbnQ=</entry>
         <entry>cust</entry>
         <entry>bitems</entry>
         <entry>bill</entry>
@@ -3701,6 +3700,7 @@
         <entry>billmai</entry>
         <entry>account</entry>
         <entry>password</entry>
+        <entry>passw</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
