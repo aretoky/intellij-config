@@ -171,11 +171,6 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="102" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1476521887646">
-        <mark key="[" line="40" column="61" />
-        <mark key="]" line="40" column="61" />
-        <mark key="." line="40" column="61" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/factories/stores.rb" timestamp="1476346900981">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -189,8 +184,8 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1476445414511">
-        <mark key="'" line="78" column="16" />
+      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1476790266977">
+        <mark key="'" line="0" column="22" />
         <mark key="[" line="85" column="105" />
         <mark key="]" line="86" column="40" />
         <mark key="^" line="86" column="40" />
@@ -595,10 +590,10 @@
         <mark key="^" line="100" column="79" />
         <mark key="." line="100" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1476228776117">
-        <mark key="'" line="497" column="52" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1476790409325">
+        <mark key="'" line="582" column="19" />
       </file>
-      <file name="/a.regexp" timestamp="1476760139240">
+      <file name="/a.regexp" timestamp="1476790298421">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -675,16 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="2" column="14" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="4" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="11" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="12" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="40" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="49" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="50" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="56" column="21" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="57" column="25" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="83" column="28" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="249" column="18" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="412" column="14" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
@@ -727,7 +712,6 @@
       <jump line="71" column="27" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="72" column="63" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="108" column="14" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="124" column="11" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="138" column="11" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="170" column="6" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
@@ -775,6 +759,17 @@
       <jump line="172" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
       <jump line="150" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="0" column="22" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
+      <jump line="129" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="215" column="14" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="66" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="806" column="11" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="798" column="40" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="797" column="11" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="789" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="604" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="582" column="19" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3427,7 +3422,7 @@
         <text>%w(edit update)</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>error_no</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICYmICV3KGVkaXQgdXBkYXRlKS5pbmNsdWRlPyhhY3Rpb25fbmFtZSk=</text>
@@ -3683,9 +3678,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>error_no</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern>error_no</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3693,11 +3688,8 @@
     </search>
     <history>
       <history-search>
-        <entry>bitems</entry>
-        <entry>bill</entry>
         <entry>bill:</entry>
         <entry>130</entry>
-        <entry>bitem</entry>
         <entry>plan</entry>
         <entry>no_plan</entry>
         <entry encoding="base64">IHBsYW4=</entry>
@@ -3713,6 +3705,9 @@
         <entry>password</entry>
         <entry>passw</entry>
         <entry>pass</entry>
+        <entry>bitem</entry>
+        <entry>bitem_max_dt_end</entry>
+        <entry>error_no</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
