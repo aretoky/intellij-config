@@ -426,6 +426,7 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/ymdroom/ajax_reserve_book.php" timestamp="1474595621842">
         <mark key="'" line="533" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/link_input.rb" timestamp="1476759626505" />
       <file name="$USER_HOME$/projects/cplus/app/services/batch/add_event_on_google_calender_service.rb" timestamp="1476176372433">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="7" />
@@ -509,6 +510,17 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/price_input.rb" timestamp="1476759967538">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="26" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/profile_sheets/show.pdf.slim" timestamp="1476443536725" />
+      <file name="$USER_HOME$/projects/cplus/app/inputs/my_password_input.rb" timestamp="1476759986726">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+        <mark key="^" line="6" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1476514605888">
         <mark key="[" line="94" column="53" />
         <mark key="]" line="94" column="57" />
@@ -547,12 +559,12 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_month.php" timestamp="1476442803778">
         <mark key="'" line="413" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" timestamp="1476757135443">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" timestamp="1476760505518">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="183" column="36" />
-        <mark key="]" line="183" column="36" />
-        <mark key="." line="183" column="36" />
-        <mark key="^" line="182" column="25" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="14" />
+        <mark key="." line="175" column="14" />
+        <mark key="^" line="209" column="39" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" timestamp="1476445333292">
         <mark key="'" line="71" column="86" />
@@ -571,7 +583,7 @@
         <mark key="." line="42" column="8" />
         <mark key="^" line="42" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476531183512">
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1476760849625">
         <mark key="[" line="76" column="25" />
         <mark key="]" line="76" column="26" />
         <mark key="." line="76" column="26" />
@@ -586,7 +598,7 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1476228776117">
         <mark key="'" line="497" column="52" />
       </file>
-      <file name="/a.regexp" timestamp="1476695648009">
+      <file name="/a.regexp" timestamp="1476760139240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -597,11 +609,11 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1476757575258">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1476759787318">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1476340949527">
         <mark key="'" line="10" column="32" />
@@ -663,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="20" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="87" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="2" column="14" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="4" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -763,6 +774,7 @@
       <jump line="15" column="27" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
       <jump line="172" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
       <jump line="150" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3412,31 +3424,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;非表示&quot;</text>
+        <text>display_only: true</text>
       </register>
       <register name="/" type="4">
-        <text>passw</text>
+        <text>pass</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGVtcGxhdGUubGFiZWxfdGFnKG5pbCwgIumdnuihqOekuiIsIGlucHV0X2h0bWxfb3B0aW9ucyhtZXRob2QpKSAg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC0gaWYgZi5vYmplY3QucGVyc2lzdGVkPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGF0dHJpYnV0ZV9uYW1lID09IDpwc3dkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">b3V0ID0gdGVtcGxhdGUuY29udGVudF90YWcoOmRpdiwgc3R5bGU6ICJkaXNwbGF5OiBub25lOyIpIGRvCiAgICAgIHRlbXBsYXRlLmNvbmNhdCBzdXBlcgogICAgZW5kCiAgICBvdXQgPDwgdGVtcGxhdGUubGFiZWxfdGFnKG5pbCwgIumdnuihqOekuiIsIGlucHV0X2h0bWxfb3B0aW9ucyhtZXRob2QpKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmlucHV0IDpwc3dkLCBhczogOnBhc3N3b3JkLCBkaXNwbGF5X29ubHk6IHRydWUKCiAgICB0cihjbGFzcz0iZm9ybS1ncm91cCBzZWxlY3QgcmVxdWlyZWQgY3VzdF95bl91c2UiKQogICAgICB0ZC50YWJsZS1saXN0LWhlYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvcmNlX2Rpc3BsYXk6IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3658,22 +3670,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN1cGVyCg==</text>
+        <text encoding="base64">ICAgIGlmIGF0dHJpYnV0ZV9uYW1lID09IDpwc3dkCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>passw</last-search>
+      <last-search>pass</last-search>
       <last-offset />
-      <last-pattern>passw</last-pattern>
+      <last-pattern>pass</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3681,7 +3693,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cust</entry>
         <entry>bitems</entry>
         <entry>bill</entry>
         <entry>bill:</entry>
@@ -3701,6 +3712,7 @@
         <entry>account</entry>
         <entry>password</entry>
         <entry>passw</entry>
+        <entry>pass</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
