@@ -565,8 +565,8 @@
         <mark key="." line="63" column="65" />
         <mark key="^" line="63" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1476791019154">
-        <mark key="'" line="57" column="62" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1476806410503">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="73" column="33" />
         <mark key="]" line="73" column="40" />
         <mark key="^" line="100" column="15" />
@@ -643,7 +643,7 @@
         <mark key="^" line="365" column="34" />
         <mark key="." line="365" column="34" />
       </file>
-      <file name="/a.regexp" timestamp="1476804374456">
+      <file name="/a.regexp" timestamp="1476806389661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -720,7 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="14" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="15" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="49" column="178" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
@@ -820,6 +819,7 @@
       <jump line="129" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="130" column="20" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="136" column="173" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3472,7 +3472,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>bitem</text>
+        <text>current</text>
       </register>
       <register name="0" type="4">
         <text>Plan.make_bill_yearly</text>
@@ -3728,9 +3728,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bitem</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern>bitem</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3738,7 +3738,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
         <entry>enable</entry>
         <entry>year_plan_before_30_day_billmail_attributes</entry>
         <entry>billmail</entry>
@@ -3758,6 +3757,7 @@
         <entry>bitem_max_dt_end</entry>
         <entry>billmails</entry>
         <entry>bitem</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
