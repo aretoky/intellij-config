@@ -131,6 +131,10 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/edit.php" timestamp="1476521094542">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" timestamp="1476797306990">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="15" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/db/fixtures/030_mailtpl.rb" timestamp="1476435519537">
         <mark key="'" line="17" column="503" />
       </file>
@@ -184,12 +188,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1476793326386">
-        <mark key="'" line="0" column="22" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="^" line="173" column="24" />
-        <mark key="." line="189" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1476797848960">
+        <mark key="'" line="79" column="24" />
+        <mark key="[" line="74" column="9" />
+        <mark key="]" line="74" column="67" />
+        <mark key="^" line="73" column="16" />
+        <mark key="." line="72" column="29" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/bill.ja.yml" timestamp="1476530337467">
         <mark key="[" line="37" column="27" />
@@ -251,6 +255,13 @@
         <mark key="]" line="90" column="53" />
         <mark key="^" line="97" column="1" />
         <mark key="." line="97" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" timestamp="1476797536174">
+        <mark key="'" line="59" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1476797505717">
+        <mark key="[" line="64" column="2" />
+        <mark key="]" line="65" column="70" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1476774657524">
         <mark key="[" line="27" column="39" />
@@ -515,6 +526,12 @@
         <mark key="[" line="22" column="2" />
         <mark key="]" line="26" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/simple_form.ja.yml" timestamp="1476797555763">
+        <mark key="[" line="101" column="27" />
+        <mark key="]" line="102" column="22" />
+        <mark key="^" line="102" column="22" />
+        <mark key="." line="102" column="22" />
+      </file>
       <file name="/Ruby Console" timestamp="1476792966192">
         <mark key="[" line="0" column="0" />
       </file>
@@ -530,6 +547,12 @@
         <mark key="]" line="94" column="57" />
         <mark key="^" line="94" column="57" />
         <mark key="." line="94" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/elog/batchbills/index.html.slim" timestamp="1476797636499">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/room.ja.yml" timestamp="1476518677215">
         <mark key="[" line="3" column="0" />
@@ -613,8 +636,8 @@
         <mark key="^" line="100" column="79" />
         <mark key="." line="100" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1476790409325">
-        <mark key="'" line="582" column="19" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1476797852426">
+        <mark key="'" line="172" column="23" />
       </file>
       <file name="/a.regexp" timestamp="1476791832424">
         <mark key="[" line="0" column="0" />
@@ -693,9 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="28" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="249" column="18" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="412" column="14" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="428" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="429" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
       <jump line="430" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
@@ -793,6 +813,9 @@
       <jump line="51" column="67" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="56" column="63" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="57" column="62" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
+      <jump line="79" column="24" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
+      <jump line="59" column="9" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
+      <jump line="172" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3442,31 +3465,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bitems.existing_plan.minimum(:dt_start)</text>
+        <text>書</text>
       </register>
       <register name="/" type="4">
-        <text>exist</text>
+        <text encoding="base64">d2hlbiBkdF9wcm9jIGlzIG51bGwgYW5kIHBsYW4uZHRfc3RhcnQgPD0gcGxhbi5kdF9lbmQg</text>
       </register>
       <register name="0" type="4">
-        <text>bitems.existing_plan.maximum(:dt_end)</text>
+        <text encoding="base64">Y2FzZSB3aGVuIGR0X3Byb2MgaXMgbnVsbCBhbmQgcGxhbi5kdF9zdGFydCA8PSBwbGFuLmR0X2VuZCA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAuZm9ybS1hY3Rpb25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpdGVtcy5leGlzdGluZ19wbGFuLm1heGltdW0oOmR0X2VuZCkK</text>
+        <text encoding="base64">ICAgID0gZi5idXR0b24gOnN1Ym1pdCwgdmFsdWU6ICLmpJzntKIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgYml0ZW1fbWF4X2R0X2VuZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIC5mb3JtLWlucHV0cwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3688,22 +3711,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpdGVtcy5leGlzdGluZ19wbGFuLm1pbmltdW0oOmR0X3N0YXJ0KQo=</text>
+        <text encoding="base64">ICA9IHNlYXJjaF9mb3JtX2ZvciBbOmFkbWluLCBAc2VhcmNoXSwgYnVpbGRlcjogU2ltcGxlRm9ybTo6Rm9ybUJ1aWxkZXIgIGRvIHxmfAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYml0ZW1fbWluX2R0X3N0YXJ0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>exist</last-search>
+      <last-search encoding="base64">d2hlbiBkdF9wcm9jIGlzIG51bGwgYW5kIHBsYW4uZHRfc3RhcnQgPD0gcGxhbi5kdF9lbmQg</last-search>
       <last-offset />
-      <last-pattern>exist</last-pattern>
+      <last-pattern encoding="base64">d2hlbiBkdF9wcm9jIGlzIG51bGwgYW5kIHBsYW4uZHRfc3RhcnQgPD0gcGxhbi5kdF9lbmQg</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3711,9 +3734,6 @@
     </search>
     <history>
       <history-search>
-        <entry>130</entry>
-        <entry>plan</entry>
-        <entry>no_plan</entry>
         <entry encoding="base64">IHBsYW4=</entry>
         <entry>list_plan</entry>
         <entry>str</entry>
@@ -3731,6 +3751,9 @@
         <entry>bitem_max_dt_end</entry>
         <entry>error_no</entry>
         <entry>exist</entry>
+        <entry encoding="base64">Y2FzZSB3aGVuIGR0X3Byb2MgaXMgbnVsbCBhbmQgcGxhbi5kdF9zdGFydCA8PSBwbGFuLmR0X2VuZCA=</entry>
+        <entry encoding="base64">Y2FzZSB3aGVuIGR0X3Byb2MgaXMgbnVsbCBhbmQgcGxhbi5kdF9zdGFydCA8PSBwbGFuLmR0X2VuZA==</entry>
+        <entry encoding="base64">d2hlbiBkdF9wcm9jIGlzIG51bGwgYW5kIHBsYW4uZHRfc3RhcnQgPD0gcGxhbi5kdF9lbmQg</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
