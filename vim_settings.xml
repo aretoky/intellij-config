@@ -80,6 +80,9 @@
         <mark key="^" line="18" column="51" />
         <mark key="." line="18" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/vendor/bundle/gems/capybara-2.9.2/lib/capybara/node/actions.rb" timestamp="1476945923140">
+        <mark key="'" line="35" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/factories/sales_people.rb" timestamp="1476330750004">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
@@ -341,6 +344,7 @@
         <mark key="." line="74" column="34" />
         <mark key="^" line="74" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" timestamp="1476946428728" />
       <file name="$USER_HOME$/projects/cplus/app/views/zipcode_select_modal_dialogs/create.js.coffee" timestamp="1476279040140">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="5" column="56" />
@@ -540,11 +544,11 @@
         <mark key="." line="20" column="49" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" timestamp="1476938029590">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
+      <file name="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" timestamp="1476947789195">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1476514605888">
         <mark key="[" line="94" column="53" />
@@ -713,7 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="49" column="178" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="65" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="100" column="23" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -813,6 +816,7 @@
       <jump line="136" column="173" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="39" column="6" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="35" column="55" filename="$USER_HOME$/projects/pos-calc/vendor/bundle/gems/capybara-2.9.2/lib/capybara/node/actions.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3462,31 +3466,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_handles</text>
       </register>
       <register name="/" type="4">
         <text>note</text>
       </register>
-      <register name="0" type="4">
-        <text>Plan.make_bill_yearly</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlc3Npb24uZmluZCg6eHBhdGgsICcvL2lucHV0W0BuYW1lPSJ0ZXh0ZmllbGQxIl0nKS5uYXRpdmUuc2VuZF9rZXkoIkIwNDhFSCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENsb3NlVG9yaXRzdWdpU2VydmljZS5ydW4K</text>
+        <text encoding="base64">ICAgIGZpbmQoImltZyMxIikuY2xpY2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uZmluZCgnaW5wdXQjcGFzc3dvcmRmaWVsZDEnKS5uYXRpdmUuc2VuZF9rZXkoIm0zWFgzRVR6IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuZm9ybS1hY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgIGZpbGxfaW4oInBhc3N3b3JkZmllbGQxIiwgd2l0aDogIm0zWFgzRVR6IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID0gZi5idXR0b24gOnN1Ym1pdCwgdmFsdWU6ICLmpJzntKIiCg==</text>
+        <text encoding="base64">ICAgIGZpbGxfaW4oInRleHRmaWVsZDEiLCB3aXRoOiAiQjA0OEVIIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1dHMgJ+WQhOipseOCv+OCpOODiOODqycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3708,13 +3712,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5mb3JtLWlucHV0cwo=</text>
+        <text encoding="base64">ICAgIENsb3NlVG9yaXRzdWdpU2VydmljZS5ydW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA9IHNlYXJjaF9mb3JtX2ZvciBbOmFkbWluLCBAc2VhcmNoXSwgYnVpbGRlcjogU2ltcGxlRm9ybTo6Rm9ybUJ1aWxkZXIgIGRvIHxmfAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuZm9ybS1hY3Rpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
