@@ -531,10 +531,12 @@
         <mark key="." line="20" column="49" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" timestamp="1476981218296">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" timestamp="1476983994548">
+        <mark key="'" line="43" column="24" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="4" />
+        <mark key="^" line="47" column="1" />
+        <mark key="." line="44" column="4" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1476514605888">
         <mark key="[" line="94" column="53" />
@@ -697,10 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="19" column="13" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="20" column="27" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="35" column="31" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="64" column="27" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="68" column="24" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="70" column="15" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -797,6 +795,10 @@
       <jump line="37" column="17" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="34" column="33" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
       <jump line="39" column="19" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="37" column="60" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="41" column="23" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="42" column="19" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="43" column="24" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3449,28 +3451,28 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ctl00_dlSubMenuFlame_ctl01_dlSubMenu_ctl01_pnlSubMenu1</text>
+        <text>ctl00_cphBOK_imePrintTitle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1dHMgc2Vzc2lvbi53aW5kb3dzLnNpemUK</text>
+      <register name="0" type="4">
+        <text>session.windows.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24uZmluZCgiI2N0bDAwX2NwaEJPS19pbWVQcmludFRpdGxlIikuc2V0ID0gIiIK</text>
+        <text encoding="base64">ICAgIHB1dHMgc2Vzc2lvbi53aW5kb3dzLnNpemUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uZmluZCgiI2N0bDAwX2NwaEJPS19pbWVQcmludFRpdGxlIikuc2V0ID0gIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24gPSBDYXB5YmFyYTo6U2Vzc2lvbi5uZXcoOnBvbHRlcmdlaXN0KSBkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3692,22 +3694,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKDQpCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb24gPSBDYXB5YmFyYTo6U2Vzc2lvbi5uZXcoOnBvbHRlcmdlaXN0KSBkbwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>ctl00_dlSubMenuFlame_ctl01_dlSubMenu_ctl01_pnlSubMenu1</last-search>
+      <last-search>ctl00_cphBOK_imePrintTitle</last-search>
       <last-offset />
-      <last-pattern>ctl00_dlSubMenuFlame_ctl01_dlSubMenu_ctl01_pnlSubMenu1</last-pattern>
+      <last-pattern>ctl00_cphBOK_imePrintTitle</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3715,7 +3717,6 @@
     </search>
     <history>
       <history-search>
-        <entry>account</entry>
         <entry>password</entry>
         <entry>passw</entry>
         <entry>pass</entry>
@@ -3735,6 +3736,7 @@
         <entry>note</entry>
         <entry>processing_started_at</entry>
         <entry>ctl00_dlSubMenuFlame_ctl01_dlSubMenu_ctl01_pnlSubMenu1</entry>
+        <entry>ctl00_cphBOK_imePrintTitle</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
