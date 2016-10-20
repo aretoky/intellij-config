@@ -153,12 +153,6 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1476531834409">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="12" />
-        <mark key="." line="128" column="12" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1476363584925">
         <mark key="'" line="217" column="8" />
         <mark key="[" line="215" column="29" />
@@ -275,6 +269,12 @@
         <mark key="]" line="157" column="24" />
         <mark key="^" line="157" column="24" />
         <mark key="." line="157" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/fetch_intage.rake" timestamp="1476938004883">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/cust_select_modal_dialogs_controllerable.rb" timestamp="1476262331319">
         <mark key="[" line="25" column="7" />
@@ -410,12 +410,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1475850535086">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1476938063959">
         <mark key="'" line="82" column="12" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
         <mark key="^" line="96" column="16" />
-        <mark key="." line="100" column="0" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/environments/development.rb" timestamp="1475586493031">
         <mark key="'" line="19" column="39" />
@@ -438,7 +438,6 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/client/ymdroom/ajax_reserve_book.php" timestamp="1474595621842">
         <mark key="'" line="533" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/link_input.rb" timestamp="1476759626505" />
       <file name="$USER_HOME$/projects/cplus/app/services/batch/add_event_on_google_calender_service.rb" timestamp="1476176372433">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="7" />
@@ -535,12 +534,17 @@
       <file name="/Ruby Console" timestamp="1476792966192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/profile_sheets/show.pdf.slim" timestamp="1476443536725" />
       <file name="$USER_HOME$/projects/cplus/app/inputs/my_password_input.rb" timestamp="1476759986726">
         <mark key="[" line="20" column="49" />
         <mark key="]" line="20" column="49" />
         <mark key="." line="20" column="49" />
         <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" timestamp="1476938029590">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1476514605888">
         <mark key="[" line="94" column="53" />
@@ -636,6 +640,7 @@
         <mark key="^" line="100" column="79" />
         <mark key="." line="100" column="79" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/close_toritsugi.rake" timestamp="1476937965019" />
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" timestamp="1476805519559">
         <mark key="'" line="136" column="173" />
         <mark key="[" line="365" column="33" />
@@ -653,12 +658,6 @@
         <mark key="]" line="7" column="34" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1476759787318">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1476340949527">
         <mark key="'" line="10" column="32" />
@@ -711,12 +710,6 @@
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/edit_confirm.php" timestamp="1476523143733">
         <mark key="'" line="375" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1476523765588">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -3469,7 +3462,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>note</text>
@@ -3478,22 +3471,22 @@
         <text>Plan.make_bill_yearly</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENsb3NlVG9yaXRzdWdpU2VydmljZS5ydW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuZm9ybS1hY3Rpb25zCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgID0gZi5idXR0b24gOnN1Ym1pdCwgdmFsdWU6ICLmpJzntKIiCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAuZm9ybS1hY3Rpb25zCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgID0gZi5idXR0b24gOnN1Ym1pdCwgdmFsdWU6ICLmpJzntKIiCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5mb3JtLWlucHV0cwo=</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3715,13 +3708,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA9IHNlYXJjaF9mb3JtX2ZvciBbOmFkbWluLCBAc2VhcmNoXSwgYnVpbGRlcjogU2ltcGxlRm9ybTo6Rm9ybUJ1aWxkZXIgIGRvIHxmfAo=</text>
+        <text encoding="base64">ICAgIC5mb3JtLWlucHV0cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA9IHNlYXJjaF9mb3JtX2ZvciBbOmFkbWluLCBAc2VhcmNoXSwgYnVpbGRlcjogU2ltcGxlRm9ybTo6Rm9ybUJ1aWxkZXIgIGRvIHxmfAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
