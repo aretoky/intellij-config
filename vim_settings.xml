@@ -134,13 +134,10 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/edit.php" timestamp="1476521094542">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" timestamp="1476797306990">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="15" column="40" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/db/fixtures/030_mailtpl.rb" timestamp="1476435519537">
         <mark key="'" line="17" column="503" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1476961437797" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/cust_select_modal_dialogs/_modal.html.slim" timestamp="1476271954406">
         <mark key="'" line="22" column="18" />
       </file>
@@ -254,10 +251,6 @@
       <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" timestamp="1476797536174">
         <mark key="'" line="59" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1476797505717">
-        <mark key="[" line="64" column="2" />
-        <mark key="]" line="65" column="70" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1476774657524">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="27" column="80" />
@@ -334,6 +327,9 @@
         <mark key="]" line="28" column="19" />
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1476961344064">
+        <mark key="'" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1476807660340">
         <mark key="'" line="39" column="6" />
@@ -523,10 +519,6 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/price_input.rb" timestamp="1476759967538">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="26" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/simple_form.ja.yml" timestamp="1476797555763">
         <mark key="[" line="101" column="27" />
         <mark key="]" line="102" column="22" />
@@ -603,6 +595,7 @@
         <mark key="." line="175" column="14" />
         <mark key="^" line="209" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/log_intage.rb" timestamp="1476961185881" />
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" timestamp="1476445333292">
         <mark key="'" line="71" column="86" />
       </file>
@@ -647,7 +640,7 @@
         <mark key="^" line="365" column="34" />
         <mark key="." line="365" column="34" />
       </file>
-      <file name="/a.regexp" timestamp="1476806389661">
+      <file name="/a.regexp" timestamp="1476961743732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -657,6 +650,10 @@
         <mark key="]" line="7" column="34" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/log_intages_controller.rb" timestamp="1476961855837">
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1476340949527">
         <mark key="'" line="10" column="32" />
@@ -683,10 +680,6 @@
         <mark key="." line="54" column="1" />
         <mark key="^" line="54" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/newrelic.yml" timestamp="1476524009397">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/admin_application/_address_fields.html.slim" timestamp="1476279230498">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="67" />
@@ -705,7 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="178" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="65" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="100" column="23" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -805,6 +797,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="39" column="6" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
       <jump line="35" column="55" filename="$USER_HOME$/projects/pos-calc/vendor/bundle/gems/capybara-2.9.2/lib/capybara/node/actions.rb" />
+      <jump line="37" column="17" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3457,10 +3450,10 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>note</text>
+        <text>processing_started_at</text>
       </register>
       <register name="0" type="4">
-        <text>session.driver.alert_messages</text>
+        <text>Job.delay.importintage</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdGFyZ2V0PSJQdWJzIjsK</text>
@@ -3713,9 +3706,9 @@
       </register>
     </registers>
     <search>
-      <last-search>note</last-search>
+      <last-search>processing_started_at</last-search>
       <last-offset />
-      <last-pattern>note</last-pattern>
+      <last-pattern>processing_started_at</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3723,7 +3716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>billmail</entry>
         <entry>billmai</entry>
         <entry>account</entry>
         <entry>password</entry>
@@ -3743,6 +3735,7 @@
         <entry>current</entry>
         <entry>desc</entry>
         <entry>note</entry>
+        <entry>processing_started_at</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
