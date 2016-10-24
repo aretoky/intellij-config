@@ -542,11 +542,12 @@
         <mark key="." line="20" column="49" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" timestamp="1477273343392">
-        <mark key="[" line="80" column="10" />
-        <mark key="]" line="80" column="16" />
-        <mark key="." line="80" column="16" />
-        <mark key="^" line="80" column="16" />
+      <file name="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" timestamp="1477274974353">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="77" column="59" />
+        <mark key="]" line="77" column="59" />
+        <mark key="." line="77" column="59" />
+        <mark key="^" line="77" column="59" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1476514605888">
         <mark key="[" line="94" column="53" />
@@ -707,12 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="6" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="171" column="9" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="176" column="6" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="177" column="9" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="94" column="11" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
-      <jump line="66" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="90" column="57" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
       <jump line="40" column="13" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" />
@@ -803,10 +798,16 @@
       <jump line="106" column="7" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="107" column="39" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="77" column="6" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
       <jump line="58" column="7" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="76" column="6" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
       <jump line="216" column="93" filename="$USER_HOME$/projects/pos-calc/hoge.txt" />
+      <jump line="63" column="16" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="66" column="4" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="70" column="4" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="71" column="4" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="88" column="5" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
+      <jump line="10" column="19" filename="$USER_HOME$/projects/pos-calc/app/services/fetching_intage_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3456,31 +3457,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>response_parts.headers</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>polter</text>
+        <text>header</text>
       </register>
       <register name="0" type="4">
-        <text>t.data[&quot;post_data&quot;]</text>
+        <text>file_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcCB0LmRhdGEK</text>
+        <text encoding="base64">ICAgICAgcCB0LmhlYWRlcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAgc2Vzc2lvbi5yZXNwb25zZV9oZWFkZXJzCg==</text>
+        <text encoding="base64">ICAgICAgcCB0LmRhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgY3VybC5wb3N0X2JvZHkK</text>
+        <text encoding="base64">ICAgIHAgc2Vzc2lvbi5yZXNwb25zZV9oZWFkZXJzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgY3VybC5oZWFkZXJzCg==</text>
+        <text encoding="base64">ICAgIHAgY3VybC5wb3N0X2JvZHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgY3VybC4K</text>
+        <text encoding="base64">ICAgIHAgY3VybC5oZWFkZXJzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcCBjdXJsLmhlYWRlcnMK</text>
+        <text encoding="base64">ICAgIHAgY3VybC4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3702,22 +3703,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCBjdXJsLmhlYWRlcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcCBzZXNzaW9uLnJlc3BvbnNlX2hlYWRlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcCBzZXNzaW9uLnJlc3BvbnNlX2hlYWRlcnMK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>polter</last-search>
+      <last-search>header</last-search>
       <last-offset />
-      <last-pattern>polter</last-pattern>
+      <last-pattern>header</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3725,8 +3726,6 @@
     </search>
     <history>
       <history-search>
-        <entry>error_no</entry>
-        <entry>exist</entry>
         <entry encoding="base64">Y2FzZSB3aGVuIGR0X3Byb2MgaXMgbnVsbCBhbmQgcGxhbi5kdF9zdGFydCA8PSBwbGFuLmR0X2VuZCA=</entry>
         <entry encoding="base64">Y2FzZSB3aGVuIGR0X3Byb2MgaXMgbnVsbCBhbmQgcGxhbi5kdF9zdGFydCA8PSBwbGFuLmR0X2VuZA==</entry>
         <entry encoding="base64">d2hlbiBkdF9wcm9jIGlzIG51bGwgYW5kIHBsYW4uZHRfc3RhcnQgPD0gcGxhbi5kdF9lbmQg</entry>
@@ -3745,6 +3744,8 @@
         <entry>ctl00_dlMainMenu_ctl01_pnlMenu1</entry>
         <entry>.Align_MiddleLeft.BGColor_Item1</entry>
         <entry>polter</entry>
+        <entry>session</entry>
+        <entry>header</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
