@@ -617,6 +617,12 @@
         <mark key="." line="175" column="14" />
         <mark key="^" line="209" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1477296780755">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="94" />
+        <mark key="^" line="17" column="94" />
+        <mark key="." line="17" column="94" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_sendmail.php" timestamp="1476445333292">
         <mark key="'" line="71" column="86" />
       </file>
@@ -3470,7 +3476,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>self.impo</text>
+        <text>public</text>
       </register>
       <register name="0" type="4">
         <text>workdata.size</text>
@@ -3726,9 +3732,9 @@
       </register>
     </registers>
     <search>
-      <last-search>self.impo</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern>self.impo</last-pattern>
+      <last-pattern>public</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3736,7 +3742,6 @@
     </search>
     <history>
       <history-search>
-        <entry>z_bitem_max_dt_end</entry>
         <entry>dt_fr</entry>
         <entry>bitem_max_dt_end</entry>
         <entry>billmails</entry>
@@ -3756,6 +3761,7 @@
         <entry>book</entry>
         <entry>import</entry>
         <entry>self.impo</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
