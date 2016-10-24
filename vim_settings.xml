@@ -144,6 +144,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/.env" timestamp="1477302133961" />
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/edit.php" timestamp="1476521094542">
         <mark key="'" line="0" column="0" />
       </file>
@@ -187,12 +188,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/secrets.yml" timestamp="1477299609451">
-        <mark key="'" line="50" column="23" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="50" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="23" />
+      <file name="$USER_HOME$/projects/pos-calc/config/secrets.yml" timestamp="1477302408890">
+        <mark key="'" line="56" column="23" />
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+        <mark key="." line="39" column="46" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1476804420366">
         <mark key="'" line="79" column="24" />
@@ -340,12 +341,12 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1477298049991">
-        <mark key="'" line="37" column="17" />
-        <mark key="[" line="127" column="14" />
-        <mark key="]" line="128" column="20" />
-        <mark key="^" line="128" column="20" />
-        <mark key="." line="128" column="20" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1477303503790">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="100" column="36" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1476807660340">
         <mark key="'" line="39" column="6" />
@@ -528,10 +529,11 @@
       <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1476521850672">
         <mark key="'" line="193" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/initializers/carrierwave.rb" timestamp="1477299448839">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/config/initializers/carrierwave.rb" timestamp="1477302183281">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="14" column="68" />
+        <mark key="." line="14" column="68" />
+        <mark key="^" line="14" column="68" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/cust_previous_change_attributable.rb" timestamp="1476377047188">
         <mark key="[" line="123" column="3" />
@@ -671,7 +673,7 @@
         <mark key="^" line="365" column="34" />
         <mark key="." line="365" column="34" />
       </file>
-      <file name="/a.regexp" timestamp="1477295965144">
+      <file name="/a.regexp" timestamp="1477303437273">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -686,8 +688,8 @@
         <mark key="[" line="43" column="10" />
         <mark key="]" line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1476340949527">
-        <mark key="'" line="10" column="32" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" timestamp="1477303648016">
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="228" column="33" />
         <mark key="]" line="229" column="19" />
         <mark key="." line="229" column="19" />
@@ -711,6 +713,12 @@
         <mark key="." line="54" column="1" />
         <mark key="^" line="54" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/toritsugi.rb" timestamp="1477303726294">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/admin_application/_address_fields.html.slim" timestamp="1476279230498">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="67" />
@@ -729,8 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="3" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="36" column="3" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="63" column="18" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="66" column="18" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="69" column="59" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -829,6 +835,8 @@
       <jump line="277" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="280" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="293" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3478,31 +3486,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IFJhaWxzLmVudi5zdGFnaW5nPw==</text>
+        <text encoding="base64">aW1wb3J0X3NpemUgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>public</text>
+        <text>infodetail</text>
       </register>
-      <register name="0" type="4">
-        <text>Rails.env.staging?</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYXdzX2FjY2Vzc19rZXlfaWQ6ICAgICBSYWlscy5hcHBsaWNhdGlvbi5zZWNyZXRzLmF3c19hY2Nlc3Nfa2V5X2lkeSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbHNpZiBSYWlscy5lbnYuc3RhZ2luZz8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqb2IucmVwb3J0X2RhdGUgPSByZXBvX2RhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByYWlzZSBBY3RpdmVSZWNvcmQ6OlJvbGxiYWNrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqb2IubG9nX2ludGFnZV9pZCA9IGxvZ19pbnRhZ2VfaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwIGltcG9ydF9zaXplCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICBwIHdvcmtkYXRhLnNpemUKICAgICAgICAgICAgICAgIHAgaW1wb3J0X3NpemU=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwIHdvcmtkYXRhLnNpemUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgd29ya2RhdGEuc2l6ZSAhPSBpbXBvcnRfc2l6ZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3724,22 +3732,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgd29ya2RhdGEuc2l6ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByYWlzZSBBY3RpdmVSZWNvcmQ6OlJvbGxiYWNrCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>public</last-search>
+      <last-search>infodetail</last-search>
       <last-offset />
-      <last-pattern>public</last-pattern>
+      <last-pattern>infodetail</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3747,9 +3755,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_fr</entry>
-        <entry>bitem_max_dt_end</entry>
-        <entry>billmails</entry>
         <entry>bitem</entry>
         <entry>current</entry>
         <entry>desc</entry>
@@ -3767,6 +3772,9 @@
         <entry>import</entry>
         <entry>self.impo</entry>
         <entry>public</entry>
+        <entry>remove</entry>
+        <entry>delete</entry>
+        <entry>infodetail</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
