@@ -341,12 +341,12 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1477303503790">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1477304996631">
+        <mark key="'" line="119" column="18" />
+        <mark key="[" line="100" column="22" />
+        <mark key="]" line="100" column="22" />
         <mark key="^" line="100" column="36" />
-        <mark key="." line="101" column="0" />
+        <mark key="." line="100" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1476807660340">
         <mark key="'" line="39" column="6" />
@@ -737,14 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="18" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="66" column="18" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="69" column="59" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="72" column="15" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="83" column="16" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
-      <jump line="31" column="6" filename="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" />
-      <jump line="54" column="13" filename="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" />
       <jump line="56" column="13" filename="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" />
       <jump line="58" column="12" filename="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" />
       <jump line="53" column="6" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/edit.php" />
@@ -837,6 +829,14 @@
       <jump line="293" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/stores_controller.rb" />
+      <jump line="32" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="15" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="28" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="95" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="100" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="83" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="119" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3486,10 +3486,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wb3J0X3NpemUgPSA=</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>infodetail</text>
+        <text>fail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYXdzX2FjY2Vzc19rZXlfaWQ6ICAgICBSYWlscy5hcHBsaWNhdGlvbi5zZWNyZXRzLmF3c19hY2Nlc3Nfa2V5X2lkeSwK</text>
@@ -3745,9 +3745,9 @@
       </register>
     </registers>
     <search>
-      <last-search>infodetail</last-search>
+      <last-search>fail</last-search>
       <last-offset />
-      <last-pattern>infodetail</last-pattern>
+      <last-pattern>fail</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3755,7 +3755,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bitem</entry>
         <entry>current</entry>
         <entry>desc</entry>
         <entry>note</entry>
@@ -3769,12 +3768,13 @@
         <entry>header</entry>
         <entry>att</entry>
         <entry>book</entry>
-        <entry>import</entry>
         <entry>self.impo</entry>
         <entry>public</entry>
         <entry>remove</entry>
         <entry>delete</entry>
         <entry>infodetail</entry>
+        <entry>import</entry>
+        <entry>fail</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
