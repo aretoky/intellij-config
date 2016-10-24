@@ -106,8 +106,8 @@
         <mark key="." line="59" column="57" />
         <mark key="^" line="59" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1477318779225">
-        <mark key="'" line="6" column="3" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1477320926680">
+        <mark key="'" line="25" column="3" />
         <mark key="[" line="128" column="23" />
         <mark key="]" line="130" column="6" />
         <mark key="." line="130" column="6" />
@@ -115,12 +115,6 @@
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit.php" timestamp="1474592890833">
         <mark key="'" line="16" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1477294753328">
-        <mark key="'" line="27" column="17" />
-        <mark key="[" line="92" column="15" />
-        <mark key="]" line="92" column="15" />
-        <mark key="." line="92" column="15" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1477315079657">
         <mark key="'" line="148" column="0" />
@@ -420,6 +414,9 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1477320185748">
+        <mark key="'" line="443" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/admin.html.erb" timestamp="1476339953903">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="61" />
@@ -560,6 +557,13 @@
         <mark key="." line="124" column="1" />
         <mark key="^" line="124" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/assets/stylesheets/application.css.scss" timestamp="1477321813105">
+        <mark key="'" line="9" column="77" />
+        <mark key="[" line="175" column="11" />
+        <mark key="]" line="174" column="28" />
+        <mark key="." line="174" column="28" />
+        <mark key="^" line="174" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/search_no_cust_input.coffee" timestamp="1476268980147">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="26" />
@@ -698,7 +702,13 @@
         <mark key="^" line="365" column="34" />
         <mark key="." line="365" column="34" />
       </file>
-      <file name="/a.regexp" timestamp="1477318396421">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477319066161">
+        <mark key="[" line="16" column="99" />
+        <mark key="]" line="16" column="102" />
+        <mark key="." line="16" column="102" />
+        <mark key="^" line="16" column="102" />
+      </file>
+      <file name="/a.regexp" timestamp="1477320231128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -728,12 +738,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1477318869008">
-        <mark key="'" line="54" column="45" />
-        <mark key="[" line="55" column="129" />
-        <mark key="]" line="55" column="132" />
-        <mark key="." line="55" column="132" />
-        <mark key="^" line="55" column="132" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1477321804083">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="200" column="99" />
+        <mark key="]" line="200" column="99" />
+        <mark key="^" line="200" column="99" />
+        <mark key="." line="200" column="99" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1476255115273">
         <mark key="[" line="54" column="3" />
@@ -771,20 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
-      <jump line="0" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="204" column="23" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
-      <jump line="118" column="16" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="141" column="17" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="5" column="29" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="52" column="4" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="15" column="27" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="172" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="150" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
-      <jump line="0" column="22" filename="$USER_HOME$/projects/cplus/app/models/plan.rb" />
       <jump line="215" column="14" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="66" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
       <jump line="806" column="11" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/public/src/cmd/batch_make_bill_year.php" />
@@ -869,8 +865,22 @@
       <jump line="57" column="9" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="58" column="10" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
       <jump line="51" column="11" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
       <jump line="54" column="45" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="347" column="2" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="193" column="60" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="229" column="40" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="310" column="40" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="443" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="34" column="71" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="24" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="25" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="201" column="69" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="133" column="36" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="213" column="130" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="155" column="71" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="9" column="77" filename="$USER_HOME$/projects/pos-calc/app/assets/stylesheets/application.css.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3520,32 +3530,33 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>biko</text>
       </register>
       <register name="/" type="4">
-        <text>toritsugi_type_id</text>
+        <text>.bnks-number-input-biko</text>
       </register>
       <register name="0" type="4">
-        <text>def toritsugi_code
-  end</text>
+        <text>.bnks-number-input-biko{
+   /*width:45px;*/
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdibmtzLW51bWJlci1zYWxlcy1wZXJzb24taWQnLDptaW4gPT5TYWxlc1BlcnNvbi5taW5pbXVtKCJpZCIpICw6bWF4ID0+IFNhbGVzUGVyc29uLm1heGltdW0oImlkIikgJT4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dHlwZV9pZAogICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm51bWJlcl9maWVsZCA6c2FsZXNfcGVyc29uX2lkICwgOmNsYXNzID0+Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">dHlwZV9pZAogICAg</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmxhc2g6IHsgaHRtbF9zYWZlOiB0cnVlIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGlua190byBAZGFpbHlvcmRlci5pZC50b19zLCB1cmxfZm9yKGFjdGlvbjogOnNob3csIGlkOiBAZGFpbHlvcmRlci5pZCkK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXhzLTMiPgogICAgICAgICAgICA8c3Ryb25nPuebtOi/keWun+e4vjwvc3Ryb25nPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtOSI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAKPCUgaWYgQHJlY2VudF9wb3NzICAlPgoKIDwlPSBAcmVjZW50X3Bvc3MucXR5ICU+5YaKCiA8JT0gQHJlY2VudF9wb3NzLnJlcG9ydF9kYXRlLnN0cmZ0aW1lKCIlWS8lbS8lZCIpICU+KFBvc0NhbGMpCjwlIGVuZCAgJT4KCgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9ImNsZWFyZml4Ij48L2Rpdj4=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGlua190byBAZGFpbHlvcmRlci5pZC50b19zLCB1cmxfZm9yKGFjdGlvbjogOnNob3csIGlkOiBAZGFpbHlvcmRlci5pZCkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3766,23 +3777,23 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXhzLTMiPgogICAgICAgICAgICA8c3Ryb25nPuebtOi/keWun+e4vjwvc3Ryb25nPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtOSI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAKPCUgaWYgQHJlY2VudF9wb3NzICAlPgoKIDwlPSBAcmVjZW50X3Bvc3MucXR5ICU+5YaKCiA8JT0gQHJlY2VudF9wb3NzLnJlcG9ydF9kYXRlLnN0cmZ0aW1lKCIlWS8lbS8lZCIpICU+KFBvc0NhbGMpCjwlIGVuZCAgJT4KCgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9ImNsZWFyZml4Ij48L2Rpdj4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByYWlzZSBBY3RpdmVSZWNvcmQ6OlJvbGxiYWNrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwIGltcG9ydF9zaXplCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>toritsugi_type_id</last-search>
+      <last-search>.bnks-number-input-biko</last-search>
       <last-offset />
-      <last-pattern>toritsugi_type_id</last-pattern>
+      <last-pattern>.bnks-number-input-biko</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3790,14 +3801,6 @@
     </search>
     <history>
       <history-search>
-        <entry>note</entry>
-        <entry>processing_started_at</entry>
-        <entry>ctl00_dlSubMenuFlame_ctl01_dlSubMenu_ctl01_pnlSubMenu1</entry>
-        <entry>ctl00_cphBOK_imePrintTitle</entry>
-        <entry>ctl00_dlMainMenu_ctl01_pnlMenu1</entry>
-        <entry>.Align_MiddleLeft.BGColor_Item1</entry>
-        <entry>polter</entry>
-        <entry>session</entry>
         <entry>header</entry>
         <entry>att</entry>
         <entry>book</entry>
@@ -3810,6 +3813,14 @@
         <entry>fail</entry>
         <entry>split</entry>
         <entry>toritsugi_type_id</entry>
+        <entry>daily_order_shipping_list_params</entry>
+        <entry>camp</entry>
+        <entry>campaign_code</entry>
+        <entry>deliver_type_id</entry>
+        <entry>select</entry>
+        <entry>order_type_id</entry>
+        <entry>campa</entry>
+        <entry>.bnks-number-input-biko</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
