@@ -182,6 +182,7 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/concierge_mplan.rb" timestamp="1477373607178" />
       <file name="$USER_HOME$/projects/cplus/app/controllers/zipcode_select_modal_dialogs_controller.rb" timestamp="1476276971870">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="27" />
@@ -309,7 +310,7 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new.php" timestamp="1477368213191">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new.php" timestamp="1477373642149">
         <mark key="'" line="62" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/zipcode_select_modal_dialogs/_modal_result_table.html.slim" timestamp="1476273682399">
@@ -468,11 +469,11 @@
         <mark key="." line="9" column="79" />
         <mark key="^" line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_initializer.rb" timestamp="1477367851173">
-        <mark key="[" line="86" column="10" />
-        <mark key="]" line="86" column="47" />
-        <mark key="^" line="127" column="40" />
-        <mark key="." line="127" column="40" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_initializer.rb" timestamp="1477373875405">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="^" line="250" column="8" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1476521850672">
         <mark key="'" line="193" column="6" />
@@ -3439,31 +3440,33 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Y</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>yn_plan40</text>
       </register>
       <register name="0" type="4">
-        <text>#{email_0_1_100__1__email}</text>
+        <text>concierge</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFszMjEsIDMxMSwgMzEzXS5pbmNsdWRlPyBjZF9pbgo=</text>
+        <text encoding="base64">ICAgICMgVE9ETyDpm7voqbHjg5fjg6njg7MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgeW5fcGxhbjMwPwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="6" type="4">
+        <text>(
+
+      )</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3685,13 +3688,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFsyMjEsIDIxMSwgMjEzLCAzMjEsIDMxMSwgMzEzXS5pbmNsdWRlPyBjZF9pbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgeW5fcGxhbjIwPwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIFszMjEsIDMxMSwgMzEzXS5pbmNsdWRlPyBjZF9pbgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
