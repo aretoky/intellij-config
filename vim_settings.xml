@@ -597,12 +597,11 @@
         <mark key="." line="170" column="6" />
         <mark key="^" line="170" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" timestamp="1477403421174">
-        <mark key="'" line="84" column="17" />
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="7" column="13" />
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" timestamp="1477405710151">
+        <mark key="'" line="81" column="17" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1477361611730">
         <mark key="[" line="76" column="25" />
@@ -3440,31 +3439,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>郵便番号</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>addrs</text>
       </register>
-      <register name="0" type="4">
-        <text>住所プラン転送先住所の</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRvb19zaG9ydDogIiV7Y291bnR95YCL5Lul5LiK44GX44GL55m76Yyy44Gn44GN44G+44Gb44KTIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRvb19zaG9ydDogIiV7Y291bnR95YCL5Lul5LiK44GX44GL55m76Yyy44Gn44GN44G+44Gb44KTIgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICAgIHRvb19zaG9ydDogIiV7Y291bnR95YCL5Lul5LiK44GX44GL55m76Yyy44Gn44GN44G+44Gb44KTIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoQGN1c3QuZXJyb3JzLmluc3BlY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3686,13 +3685,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzc19tcGxhbnM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0b29fc2hvcnQ6ICIle2NvdW50feWAi+S7peS4iuOBl+OBi+eZu+mMsuOBp+OBjeOBvuOBm+OCkyIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
