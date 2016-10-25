@@ -261,6 +261,12 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1477361023591">
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="58" column="48" />
+        <mark key="." line="58" column="48" />
+        <mark key="^" line="58" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1476774657524">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="27" column="80" />
@@ -551,6 +557,12 @@
         <mark key="." line="9" column="79" />
         <mark key="^" line="9" column="79" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_initializer.rb" timestamp="1477361948215">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="218" column="3" />
+        <mark key="." line="196" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/config/initializers/carrierwave.rb" timestamp="1477302183281">
         <mark key="[" line="16" column="52" />
         <mark key="]" line="14" column="68" />
@@ -582,11 +594,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/simple_form.ja.yml" timestamp="1476797555763">
-        <mark key="[" line="101" column="27" />
-        <mark key="]" line="102" column="22" />
-        <mark key="^" line="102" column="22" />
-        <mark key="." line="102" column="22" />
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/simple_form.ja.yml" timestamp="1477360960614">
+        <mark key="[" line="102" column="23" />
+        <mark key="]" line="103" column="58" />
+        <mark key="^" line="103" column="58" />
+        <mark key="." line="103" column="58" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/my_password_input.rb" timestamp="1476759986726">
         <mark key="[" line="20" column="49" />
@@ -708,7 +720,7 @@
         <mark key="^" line="92" column="10" />
         <mark key="." line="92" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1477186635802">
+      <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1477361611730">
         <mark key="[" line="76" column="25" />
         <mark key="]" line="76" column="26" />
         <mark key="." line="76" column="26" />
@@ -734,7 +746,7 @@
         <mark key="." line="16" column="102" />
         <mark key="^" line="16" column="102" />
       </file>
-      <file name="/a.regexp" timestamp="1477327231111">
+      <file name="/a.regexp" timestamp="1477360323394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -3572,25 +3584,25 @@
         <text>parent</text>
       </register>
       <register name="0" type="4">
-        <text>(9文字)</text>
+        <text>input_wrapper_html: { class: &quot;col-xs-4 form-group form-box-size &quot; }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHRfbm90X2V4cHJlc3NfdG86ICcxOTAwMDEwMScK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHRkIGNsYXNzPSJibmtzLW51bWJlci1pbnB1dC10YWJsZS1yb3ciPgogICAgICAgIDwlPSBkYWlseW9yZGVyLmtha3V6YWkgJT48L3RkPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZHRfbm90X2V4cHJlc3NfZnI6ICcxOTAwMDEwMScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHRfbm90X3RyYW5zbWl0X3RvOiAnMTkwMDAxMDEnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHRoPuaLoeadkDwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgZHRfbm90X3RyYW5zbWl0X2ZyOiAnMTkwMDAxMDEnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHRfbm90X2V4cHJlc3NfdG86ICcxOTAwMDEwMScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHRfbm90X2V4cHJlc3NfZnI6ICcxOTAwMDEwMScsCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3811,14 +3823,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PHRkIGNsYXNzPSJibmtzLW51bWJlci1pbnB1dC10YWJsZS1yb3ciPgogICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgYm5rcy1udW1iZXItaW1wdXQtZm9ybSI+CiAgICAgICAgICA8JSBpZiBkYWlseW9yZGVyc19mb3JtLm9iamVjdC5lcnJvcnNbOmtha3V6YWldLnByZXNlbnQ/ICU+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkX3dpdGhfZXJyb3JzIj4KICAgICAgICAgIDwlIGVuZCAlPgogICAgICAgICAgPCU9IGRhaWx5b3JkZXJzX2Zvcm0udGV4dF9maWVsZCA6a2FrdXphaSAsIDpjbGFzcyA9PidibmtzLW51bWJlci1pbnB1dC1rYWt1emFpJywgOnNpemU9PiIxNSIgJT4KICAgICAgICAgIDwlIGlmIGRhaWx5b3JkZXJzX2Zvcm0ub2JqZWN0LmVycm9yc1s6a2FrdXphaV0ucHJlc2VudD8gJT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8JSBlbmQgJT4KICAgICAgICA8L2Rpdj4KICAgICAgPC90ZD4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZHRfbm90X3RyYW5zbWl0X3RvOiAnMTkwMDAxMDEnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHRfbm90X3RyYW5zbWl0X2ZyOiAnMTkwMDAxMDEnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHRoPuaLoeadkDwvdGg+Cg==</text>
+        <text encoding="base64">ICAgIHRlbF9tcGxhCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
