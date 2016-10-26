@@ -288,7 +288,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_address_mplan_fields.html.slim" timestamp="1477386438908" />
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/interim.ja.yml" timestamp="1476518741474">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="37" column="16" />
@@ -408,7 +407,6 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/concerns/commonable/codable.rb" timestamp="1477384763265" />
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/no_cust_input.coffee" timestamp="1476264018001">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="72" />
@@ -464,7 +462,6 @@
         <mark key="^" line="93" column="69" />
         <mark key="." line="93" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/tel.rb" timestamp="1477402272558" />
       <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1477322746123">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="178" column="12" />
@@ -483,6 +480,11 @@
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/settings.yml" timestamp="1477470764840">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1476342626984">
         <mark key="[" line="114" column="26" />
@@ -660,8 +662,7 @@
         <mark key="^" line="100" column="79" />
         <mark key="." line="100" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477394738632" />
-      <file name="/a.regexp" timestamp="1477409606291">
+      <file name="/a.regexp" timestamp="1477470749265">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -3493,10 +3494,10 @@
         <text>cplus-staging.cvetgvnq8vi9.us-east-1.rds.amazonaws.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB8IOOAgDIwMTblubQxMOaciDIx5pelKOmHkSnjgIDjgYvjgonjgIA5OTk55bm0MTLmnIgzMeaXpSjph5Ep44G+44GnCg==</text>
+        <text encoding="base64">ICAgICAgLSAidGFuYWthQGdpbnphLXBsdXMubmV0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB8IOOAgDIwMTblubQxMOaciDIx5pelKOmHkSnjgIDjgYvjgonjgIA5OTk55bm0MTLmnIgzMeaXpSjph5Ep44G+44GnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3505,10 +3506,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA9IGwgY3VzdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB8IOOAgDIwMTblubQxMOaciDIx5pelKOmHkSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA9IGwgY3VzdC4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3730,13 +3731,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB8IOOAgDIwMTblubQxMOaciDIx5pelKOmHkSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAidGFuYWthQGdpbnphLXBsdXMubmV0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlyc3QoInRyLmN1c3RfdHJhbnNmZXJfYWRkcnMgLmFkZF9maWVsZHMiKS5jbGljawo=</text>
+        <text encoding="base64">ICAgICAgLSAidGFuYWthQGdpbnphLXBsdXMubmV0Igo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
