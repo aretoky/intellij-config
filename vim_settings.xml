@@ -96,12 +96,12 @@
         <mark key="^" line="87" column="67" />
         <mark key="." line="87" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1477558532914">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1477560733696">
         <mark key="'" line="25" column="3" />
-        <mark key="[" line="122" column="4" />
-        <mark key="]" line="122" column="3" />
-        <mark key="." line="122" column="3" />
-        <mark key="^" line="122" column="3" />
+        <mark key="[" line="120" column="45" />
+        <mark key="]" line="120" column="65" />
+        <mark key="." line="120" column="65" />
+        <mark key="^" line="120" column="65" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1477315079657">
         <mark key="'" line="148" column="0" />
@@ -223,6 +223,9 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/address_mplan.rb" timestamp="1477402463659">
+        <mark key="'" line="19" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/validators/dt_visit_and_hour_validator.rb" timestamp="1477461061694">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="25" />
@@ -284,6 +287,9 @@
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new_confirm.php" timestamp="1477402149665">
+        <mark key="'" line="413" column="181" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/lib/tasks/fetch_intage.rake" timestamp="1476938004883">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -318,6 +324,9 @@
         <mark key="]" line="37" column="16" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" timestamp="1477560394717">
+        <mark key="'" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/dusers/_form.html.slim" timestamp="1476280025570">
         <mark key="[" line="11" column="21" />
@@ -374,6 +383,9 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new.php" timestamp="1477385178996">
+        <mark key="'" line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/zipcode_select_modal_dialogs/_modal_result_table.html.slim" timestamp="1477471844762">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -428,12 +440,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1477326529398">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1477559995574">
         <mark key="'" line="443" column="6" />
-        <mark key="[" line="48" column="83" />
-        <mark key="]" line="48" column="102" />
-        <mark key="^" line="48" column="102" />
-        <mark key="." line="48" column="102" />
+        <mark key="[" line="336" column="55" />
+        <mark key="]" line="336" column="55" />
+        <mark key="^" line="336" column="55" />
+        <mark key="." line="336" column="55" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/admin.html.erb" timestamp="1476339953903">
         <mark key="[" line="16" column="55" />
@@ -769,9 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="294" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="303" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="164" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="6" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new.php" />
       <jump line="73" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -868,6 +877,9 @@
       <jump line="607" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="641" column="35" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="40" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
+      <jump line="106" column="33" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="25" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
@@ -3518,13 +3530,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>campaign_code</text>
       </register>
       <register name="0" type="4">
-        <text>dailyorders.</text>
+        <text encoding="base64">bnVtZXJpY2FsaXR5OiA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc3IudG9yaXRzdWdpX3R5cGVfaWQK</text>
@@ -3787,7 +3799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tel_mplans</entry>
         <entry>reject_m</entry>
         <entry>vali</entry>
         <entry>sq_</entry>
@@ -3806,6 +3817,7 @@
         <entry>staging.cohoujldbzfr.ap</entry>
         <entry>order_date</entry>
         <entry>type_id</entry>
+        <entry>toritsugi_type_id</entry>
         <entry>campaign_code</entry>
       </history-search>
       <history-cmd>
