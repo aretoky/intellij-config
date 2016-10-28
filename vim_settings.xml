@@ -459,6 +459,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/concerns/confirmable.rb" timestamp="1477401580286">
+        <mark key="'" line="26" column="12" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/tools-sfdc/store_bansen_import.rb" timestamp="1476353866946">
         <mark key="[" line="42" column="31" />
         <mark key="]" line="43" column="4" />
@@ -744,6 +750,12 @@
         <mark key="." line="25" column="13" />
         <mark key="^" line="25" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" timestamp="1477405710151">
+        <mark key="'" line="81" column="17" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1477406368733">
         <mark key="[" line="74" column="17" />
         <mark key="]" line="74" column="18" />
@@ -757,11 +769,11 @@
         <mark key="^" line="100" column="79" />
         <mark key="." line="100" column="79" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477653281965">
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="58" column="31" />
-        <mark key="." line="58" column="31" />
-        <mark key="^" line="58" column="31" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477654500121">
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="79" column="7" />
+        <mark key="." line="79" column="7" />
+        <mark key="^" line="79" column="7" />
       </file>
       <file name="/a.regexp" timestamp="1477646018871">
         <mark key="[" line="0" column="0" />
@@ -835,20 +847,14 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="68" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1477653503308">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="39" />
-        <mark key="]" line="46" column="47" />
-        <mark key="^" line="46" column="47" />
-        <mark key="." line="46" column="47" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1477654534819">
+        <mark key="'" line="35" column="30" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
-      <jump line="48" column="28" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
-      <jump line="251" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="742" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="21" column="26" filename="$USER_HOME$/projects/cplus/app/models/concerns/confirmable.rb" />
       <jump line="22" column="32" filename="$USER_HOME$/projects/cplus/app/models/concerns/confirmable.rb" />
       <jump line="26" column="12" filename="$USER_HOME$/projects/cplus/app/models/concerns/confirmable.rb" />
       <jump line="85" column="70" filename="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/custs_controllerable.rb" />
@@ -942,8 +948,13 @@
       <jump line="25" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="74" column="70" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
-      <jump line="112" column="14" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
+      <jump line="112" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
+      <jump line="39" column="11" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
+      <jump line="76" column="36" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
+      <jump line="61" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
+      <jump line="29" column="30" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
+      <jump line="35" column="30" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3593,43 +3604,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>setup_dailyorders</text>
+        <text>setup_dailyorder</text>
       </register>
       <register name="0" type="4">
-        <text>dailyorders.each do |dailyorder|
-      dailyorder.update_toritsugi_store
-      if(current_user)
-        dailyorder.add_empno = current_user.email
-        dailyorder.upd_empno = current_user.email
-      end
-    end</text>
+        <text>&quot;次の行の取次書店コードが検出できませんでした &quot; + has_error_toritsugi_line.join(&quot;, &quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>@daily_order_number_input.dailyorders.each do |dailyorder|
-      dailyorder.update_toritsugi_store
-      if(current_user)
-        dailyorder.add_empno = current_user.email
-        dailyorder.upd_empno = current_user.email
-      end
-    end</text>
+        <text encoding="base64">CgogICAgICBoYXNfZXJyb3JfdG9yaXRzdWdpX2xpbmUgPSBBcnJheS5uZXcKICAgICAgbnVtID0gMAogICAgICBAZGFpbHlfb3JkZXJfbnVtYmVyX2lucHV0LmRhaWx5b3JkZXJzLmVhY2ggZG8gfGRvZHwKICAgICAgICBudW0gKz0gMQogICAgICAgIHRvcml0c3VnaSA9IFRvcml0c3VnaS4KICAgICAgICAgICAgd2hlcmUodG9yaXRzdWdpX3R5cGVfaWQ6IGRvZC50b3JpdHN1Z2lfdHlwZV9pZCkuCiAgICAgICAgICAgIHdoZXJlKHRvcml0c3VnaV9jb2RlOiBkb2QudF9zeW90ZW5fY2QpLgogICAgICAgICAgICB3aGVyZShpc3ZhbGlkOiB0cnVlKS4KICAgICAgICAgICAgdGFrZQogICAgICAgIGlmICF0b3JpdHN1Z2kKICAgICAgICAgIGhhc19lcnJvcl90b3JpdHN1Z2lfbGluZS5wdXNoIChudW0pCiAgICAgICAgZW5kCiAgICAgIGVuZA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgIHNldHVwX2RhaWx5b3JkZXJzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3851,22 +3850,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wteHMtNiBjb2wtc20tNCI+Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGlmIEBkYWlseV9vcmRlcl9udW1iZXJfaW5wdXQubm92YWxpZGF0ZQogICAgICByZW5kZXIgOm5ld19ub3ZhbGlkYXRlIGFuZCByZXR1cm4KICAgIGVsc2UKICAgICAgaWYgaGFzX2Vycm9yX3Rvcml0c3VnaV9saW5lLnNpemUgPiAwCiAgICAgICAgZmxhc2hbOmVycm9yXSA9ICLmrKHjga7ooYzjga7lj5bmrKHmm7jlupfjgrPjg7zjg4njgYzmpJzlh7rjgafjgY3jgb7jgZvjgpPjgafjgZfjgZ8gIiArIGhhc19lcnJvcl90b3JpdHN1Z2lfbGluZS5qb2luKCIsICIpCiAgICAgIGVuZAogICAgICByZW5kZXIgOm5ldyBhbmQgcmV0dXJu</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>setup_dailyorders</last-search>
+      <last-search>setup_dailyorder</last-search>
       <last-offset />
-      <last-pattern>setup_dailyorders</last-pattern>
+      <last-pattern>setup_dailyorder</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3874,7 +3873,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addrs</entry>
         <entry>staging.cohoujldbzfr.ap</entry>
         <entry>order_date</entry>
         <entry>type_id</entry>
@@ -3894,6 +3892,7 @@
         <entry>camp</entry>
         <entry>default</entry>
         <entry>setup_dailyorders</entry>
+        <entry>setup_dailyorder</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
