@@ -757,6 +757,12 @@
         <mark key="^" line="100" column="79" />
         <mark key="." line="100" column="79" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477653281965">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="58" column="31" />
+        <mark key="." line="58" column="31" />
+        <mark key="^" line="58" column="31" />
+      </file>
       <file name="/a.regexp" timestamp="1477646018871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -829,11 +835,16 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="68" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1477653503308">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="39" />
+        <mark key="]" line="46" column="47" />
+        <mark key="^" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
       <jump line="111" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
       <jump line="48" column="28" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
       <jump line="251" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="742" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -931,6 +942,8 @@
       <jump line="25" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="74" column="70" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
+      <jump line="112" column="14" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3580,31 +3593,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>setup_dailyorders</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXhzLTcgY29sLW1kLTIiPgogICAgICA8ZGl2IGNsYXNzPSJmb3JtLWlubGluZSBmb3JtLWdyb3VwLXNtIGZvcm0tZ3JvdXAiPgogICAgICAgIDxsYWJlbCBmb3I9ImRhaWx5b3JkZXJfcGFyZW50X2lkIj7liIbntI3lrZA8L2xhYmVsPgogICAgICAgIDwlPSBzZWxlY3RfdGFnIDpwYXJlbnRfaWRfbnVsbCwgb3B0aW9uc19mb3Jfc2VsZWN0KFtbIuWIhue0jeWtkCIsIDFdLCBbIuWIhue0jeWtkOS7peWkliIsIDJdXSwgc2VsZWN0ZWQ6IHBhcmFtc1s6cGFyZW50X2lkX251bGxdKSwgeyBpbmNsdWRlX2JsYW5rOiB0cnVlLCBjbGFzczogJ2Zvcm0tY29udHJvbCBpbnB1dC1zbSd9ICU+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9kaXY+</text>
+        <text>dailyorders.each do |dailyorder|
+      dailyorder.update_toritsugi_store
+      if(current_user)
+        dailyorder.add_empno = current_user.email
+        dailyorder.upd_empno = current_user.email
+      end
+    end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wteHMtNiBjb2wtc20tNCI+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+      <register name="3" type="4">
+        <text>@daily_order_number_input.dailyorders.each do |dailyorder|
+      dailyorder.update_toritsugi_store
+      if(current_user)
+        dailyorder.add_empno = current_user.email
+        dailyorder.upd_empno = current_user.email
+      end
+    end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8bGFiZWwgZm9yPSJkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0X2xpc3RfdHlwZV9pZCI+44Oq44K544OI56iu5YilPC9sYWJlbD4K</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3826,22 +3851,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wteHMtNiBjb2wtc20tNCI+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXhzLTQiPjxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgZm9ybS1ncm91cC1zbSI+CjxsYWJlbCBmb3I9Imxpc3RfdHlwZV9pZCI+44Oq44K544OI5bGe5oCnPC9sYWJlbD4KICA8JT0gc2VsZWN0X3RhZyAgOmxpc3RfdHlwZSwgb3B0aW9uc19mb3Jfc2VsZWN0KExpc3RUeXBlLmFsbC5tYXB7fG98IFtvLm5hbWUgLCBvLmlkXX0sOnNlbGVjdGVkID0+IHBhcmFtc1s6ZGVsaXZlcl90eXBlXSksIHsgOmluY2x1ZGVfYmxhbmsgPT4gdHJ1ZSAsOmNsYXNzID0+ICdmb3JtLWNvbnRyb2wgaW5wdXQtc20nIH0lPgo8L2Rpdj4KPC9kaXY+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>setup_dailyorders</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>setup_dailyorders</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3849,7 +3874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addr</entry>
         <entry>addrs</entry>
         <entry>staging.cohoujldbzfr.ap</entry>
         <entry>order_date</entry>
@@ -3869,6 +3893,7 @@
         <entry>order</entry>
         <entry>camp</entry>
         <entry>default</entry>
+        <entry>setup_dailyorders</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
