@@ -767,6 +767,9 @@
         <mark key="^" line="100" column="79" />
         <mark key="." line="100" column="79" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477660728594">
+        <mark key="'" line="28" column="19" />
+      </file>
       <file name="/a.regexp" timestamp="1477655744705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -839,16 +842,15 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="68" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1477656062750">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_number_inputs_controller.rb" timestamp="1477661170083">
         <mark key="'" line="35" column="30" />
-        <mark key="[" line="66" column="107" />
-        <mark key="]" line="66" column="107" />
-        <mark key="." line="66" column="107" />
-        <mark key="^" line="66" column="107" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="607" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="641" column="35" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="40" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_shipping_list.rb" />
@@ -948,6 +950,7 @@
       <jump line="258" column="8" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="27" column="16" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="79" column="18" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="28" column="19" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3606,18 +3609,21 @@
         <text>this.settings.width</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCh0aGlzLnNldHRpbmdzLndpZHRoKTsK</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCh0aGlzLnNldHRpbmdzLndpZHRoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwMHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTAwMHB4Owo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>num_data = 0
     num_books = 0
     ActiveRecord::Base.transaction do
@@ -3627,9 +3633,6 @@
         dailyorder.save
       end
     end</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3854,10 +3857,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdG9yaXRzdWdpLnNhdmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdG9yaXRzdWdpLnNhdmUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
