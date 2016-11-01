@@ -63,12 +63,6 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" timestamp="1477659439065">
-        <mark key="'" line="79" column="18" />
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="." line="258" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/models/store_spec.rb" timestamp="1476351835202">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -276,12 +270,6 @@
         <mark key="]" line="10" column="25" />
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1477910179430">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/bill_decorator.rb" timestamp="1476514804907">
         <mark key="[" line="30" column="26" />
@@ -527,6 +515,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/confirmable.rb" timestamp="1477895048359" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/email_log_observer.rb" timestamp="1477992369200" />
       <file name="$USER_HOME$/projects/pos-calc/tools-sfdc/store_bansen_import.rb" timestamp="1476353866946">
         <mark key="[" line="42" column="31" />
         <mark key="]" line="43" column="4" />
@@ -570,6 +559,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/admin_application_mailer.rb" timestamp="1477992318608" />
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/no_cust_input.coffee" timestamp="1476264018001">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="72" />
@@ -813,6 +803,12 @@
         <mark key="." line="63" column="65" />
         <mark key="^" line="63" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/cust_mailer.rb" timestamp="1477992327616">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_year.rake" timestamp="1477989155736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -919,7 +915,7 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1477983588193">
+      <file name="/a.regexp" timestamp="1477992360422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -3775,7 +3771,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mycustomer</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>store_id</text>
