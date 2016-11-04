@@ -697,11 +697,6 @@
         <mark key="." line="423" column="54" />
         <mark key="^" line="423" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail_year.rake" timestamp="1477989226396">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1477890785219">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="8" />
@@ -793,11 +788,6 @@
         <mark key="]" line="103" column="58" />
         <mark key="^" line="103" column="58" />
         <mark key="." line="103" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_month.rake" timestamp="1477989143111">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/places_controller.rb" timestamp="1477448488526">
         <mark key="[" line="51" column="33" />
@@ -937,6 +927,12 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/DailySFposter/sf-poster.rb" timestamp="1478258741898">
+        <mark key="[" line="164" column="7" />
+        <mark key="]" line="164" column="20" />
+        <mark key="^" line="164" column="20" />
+        <mark key="." line="164" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/dailyorders.js.coffee" timestamp="1477908419462" />
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1477406368733">
         <mark key="[" line="74" column="17" />
@@ -957,11 +953,6 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/static_pages/export_csv.html.erb" timestamp="1477906314405">
-        <mark key="[" line="33" column="73" />
-        <mark key="]" line="33" column="73" />
-        <mark key="." line="33" column="73" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477897330644">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="20" column="52" />
@@ -973,11 +964,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1477989133144">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/commonable.rb" timestamp="1477384748544">
         <mark key="[" line="5" column="22" />
@@ -3828,10 +3814,10 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>parent</text>
+        <text>A1</text>
       </register>
       <register name="0" type="4">
-        <text>params[:per_page] || 20</text>
+        <text>order.book</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4084,9 +4070,9 @@
       </register>
     </registers>
     <search>
-      <last-search>parent</last-search>
+      <last-search>A1</last-search>
       <last-offset />
-      <last-pattern>parent</last-pattern>
+      <last-pattern>A1</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4094,7 +4080,6 @@
     </search>
     <history>
       <history-search>
-        <entry>number_i</entry>
         <entry>mass_input</entry>
         <entry>counter</entry>
         <entry>count</entry>
@@ -4114,6 +4099,7 @@
         <entry>ranking</entry>
         <entry>desc</entry>
         <entry>parent</entry>
+        <entry>A1</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
