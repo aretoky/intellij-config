@@ -437,11 +437,11 @@
         <mark key="^" line="62" column="69" />
         <mark key="." line="62" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_listup_search.erb" timestamp="1477906235888">
-        <mark key="[" line="48" column="53" />
-        <mark key="]" line="48" column="53" />
-        <mark key="." line="48" column="53" />
-        <mark key="^" line="53" column="72" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_listup_search.erb" timestamp="1478245297480">
+        <mark key="[" line="143" column="202" />
+        <mark key="]" line="143" column="202" />
+        <mark key="." line="143" column="202" />
+        <mark key="^" line="143" column="205" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1478019376388">
         <mark key="[" line="37" column="50" />
@@ -804,7 +804,8 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1477907692855">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1478244892696">
+        <mark key="'" line="98" column="79" />
         <mark key="[" line="26" column="17" />
         <mark key="]" line="26" column="16" />
         <mark key="." line="26" column="16" />
@@ -942,12 +943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="46" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="73" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="61" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="85" column="38" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="42" column="8" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="258" column="8" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="27" column="16" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="79" column="18" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
@@ -1042,6 +1037,12 @@
       <jump line="6" column="20" filename="$USER_HOME$/projects/cplus/app/models/concerns/cust_previous_change_attributable.rb" />
       <jump line="65" column="60" filename="$USER_HOME$/projects/cplus/app/models/concerns/cust_previous_change_attributable.rb" />
       <jump line="97" column="7" filename="$USER_HOME$/projects/cplus/app/models/concerns/cust_previous_change_attributable.rb" />
+      <jump line="61" column="61" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" />
+      <jump line="64" column="19" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" />
+      <jump line="65" column="21" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" />
+      <jump line="72" column="21" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" />
+      <jump line="146" column="17" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" />
+      <jump line="98" column="79" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3691,10 +3692,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>と</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>no_smailbody</text>
+        <text>desc</text>
       </register>
       <register name="0" type="4">
         <text>if cust.nested_attributes_previous_changes[:namelists]
@@ -3952,9 +3953,9 @@
       </register>
     </registers>
     <search>
-      <last-search>no_smailbody</last-search>
+      <last-search>desc</last-search>
       <last-offset />
-      <last-pattern>no_smailbody</last-pattern>
+      <last-pattern>desc</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3962,9 +3963,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toritsugi</entry>
-        <entry>sum</entry>
-        <entry>belongs</entry>
         <entry>add_empno</entry>
         <entry>number_i</entry>
         <entry>mass_input</entry>
@@ -3982,6 +3980,9 @@
         <entry>store_id</entry>
         <entry>namelists_ware</entry>
         <entry>no_smailbody</entry>
+        <entry>order</entry>
+        <entry>ranking</entry>
+        <entry>desc</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
