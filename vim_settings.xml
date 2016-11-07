@@ -326,11 +326,10 @@
         <mark key="." line="37" column="66" />
         <mark key="^" line="37" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" timestamp="1478518798131">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" timestamp="1478519884423">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/tools-sfdc/store_bansen_import.rb" timestamp="1476353866946">
         <mark key="[" line="42" column="31" />
@@ -508,7 +507,7 @@
         <mark key="]" line="33" column="73" />
         <mark key="." line="33" column="73" />
       </file>
-      <file name="/a.regexp" timestamp="1478518453184">
+      <file name="/a.regexp" timestamp="1478519991109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -721,6 +720,11 @@
         <mark key="^" line="4" column="84" />
         <mark key="." line="4" column="84" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/show_list_edit_button.html.erb" timestamp="1478520013414">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_new_custom_code_form.html.erb" timestamp="1477904638898">
         <mark key="[" line="31" column="61" />
         <mark key="]" line="31" column="66" />
@@ -872,7 +876,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_search_form.erb" timestamp="1477906185025">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_search_form.erb" timestamp="1478519882977">
         <mark key="[" line="49" column="52" />
         <mark key="]" line="49" column="52" />
         <mark key="." line="49" column="52" />
@@ -931,6 +935,12 @@
         <mark key="]" line="11" column="32" />
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/show.html.erb" timestamp="1478520009238">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="84" />
+        <mark key="^" line="7" column="79" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_regular_something_by_bitems_creator.rb" timestamp="1476514605888">
         <mark key="[" line="94" column="53" />
@@ -3770,26 +3780,26 @@
       <register name="/" type="4">
         <text>dailyorder</text>
       </register>
-      <register name="0" type="4">
-        <text>dao = Dailyorder.new</text>
+      <register name="0" type="2">
+        <text encoding="base64">PCU9IHJlbmRlciAnbGlzdHVwX3NlYXJjaCcsIGNvbnRyb2xsZXJfbmFtZTogY29udHJvbGxlcl9uYW1lLCBhY3Rpb25fbmFtZTogInNob3ciICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCU9IHJlbmRlciAnYWRkX2NoaWxkX3NlYXJjaF9mb3JtJyAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCU9IHJlbmRlciAnbGlzdHVwX3NlYXJjaCcgJT4K</text>
+        <text encoding="base64">PCU9IHJlbmRlciAnc2hvd19kYWlseW9yZGVyc19zZWFyY2hfZm9ybScgJT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCU9IHJlbmRlciAnbGlzdHVwX3NlYXJjaCcgJT4K</text>
+        <text encoding="base64">PCU9IHJlbmRlciAnc2hvd19kYWlseW9yZGVyc19zZWFyY2hfZm9ybScgJT4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgPuWJiumZpOa4iOOBv+ODh+ODvOOCv+OBr+i/veWKoOOBp+OBjeOBvuOBm+OCkzwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PCUgaWYgIXBhcmFtc1s6aXNfc2hvd19kZWxldGVkXS5ibGFuaz8gICAlPgogICAgPCU9IGNoZWNrX2JveCA6aXNfc2hvd19kZWxldGVkLCA6dmFsLCB7Y2hlY2tlZDogKHBhcmFtc1s6aXNfc2hvd19kZWxldGVkXVsndmFsJ10udG9faSAhPSAwKX0gICU+CiAgICA8JSBlbHNlICAlPgogICAgPCU9IGNoZWNrX2JveCA6aXNfc2hvd19kZWxldGVkLCA6dmFsLCB7Y2hlY2tlZDogZmFsc2V9ICAlPgogICAgPCUgZW5kICAlPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8JT0gc3VibWl0X3RhZyAi5qSc57SiIiwgOm5hbWUgPT4gbmlsICwgOmNsYXNzID0+ICdidG4gYnRuLWxhcmdlIGJ0bi1wcmltYXJ5JyU+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4011,13 +4021,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCU9IHJlbmRlciAnYWRkX2NoaWxkX3NlYXJjaF9mb3JtJyAlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCU9IHJlbmRlciAnbGlzdHVwX3NlYXJjaCcgJT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwlPSBzZWxlY3RfdGFnIDpkZWxpdmVyeV9saXN0X3JlZ2lzdGVyZWQsIG9wdGlvbnNfZm9yX3NlbGVjdChbWyLjg6rjgrnjg4jmnKrnmbvpjLIiLCAiMSJdLCBbIuODquOCueODiOeZu+mMsiIsICIyIl1dICw6c2VsZWN0ZWQgPT4gcGFyYW1zWzpkZWxpdmVyeV9saXN0X3JlZ2lzdGVyZWRdKSwgeyA6aW5jbHVkZV9ibGFuayA9PiB0cnVlICw6Y2xhc3MgPT4gJ2Zvcm0tY29udHJvbCBpbnB1dC1zbScgfSU+Cg==</text>
+        <text encoding="base64">PCU9IHJlbmRlciAnbGlzdHVwX3NlYXJjaCcgJT4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
