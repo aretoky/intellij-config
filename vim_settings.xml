@@ -932,12 +932,12 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/DailySFposter/sf-poster.rb" timestamp="1478483384555">
+      <file name="$USER_HOME$/projects/DailySFposter/sf-poster.rb" timestamp="1478484706474">
         <mark key="'" line="144" column="11" />
-        <mark key="[" line="164" column="7" />
-        <mark key="]" line="164" column="20" />
-        <mark key="^" line="164" column="20" />
-        <mark key="." line="164" column="20" />
+        <mark key="[" line="178" column="11" />
+        <mark key="]" line="178" column="10" />
+        <mark key="^" line="178" column="10" />
+        <mark key="." line="178" column="10" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/dailyorders.js.coffee" timestamp="1477908419462" />
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1477406368733">
@@ -3817,10 +3817,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>references</text>
       </register>
       <register name="/" type="4">
-        <text>Order</text>
+        <text>BOOK</text>
       </register>
       <register name="0" type="4">
         <text>order.book</text>
@@ -4076,9 +4076,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Order</last-search>
+      <last-search>BOOK</last-search>
       <last-offset />
-      <last-pattern>Order</last-pattern>
+      <last-pattern>BOOK</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4086,7 +4086,6 @@
     </search>
     <history>
       <history-search>
-        <entry>counter</entry>
         <entry>count</entry>
         <entry>destroy</entry>
         <entry>mass</entry>
@@ -4106,6 +4105,7 @@
         <entry>A1</entry>
         <entry>order</entry>
         <entry>Order</entry>
+        <entry>BOOK</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
