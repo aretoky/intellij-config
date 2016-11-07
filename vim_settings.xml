@@ -404,8 +404,8 @@
         <mark key="^" line="58" column="54" />
         <mark key="." line="58" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1477895255281">
-        <mark key="'" line="408" column="54" />
+      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1478503554776">
+        <mark key="'" line="160" column="61" />
         <mark key="[" line="423" column="43" />
         <mark key="]" line="423" column="54" />
         <mark key="." line="423" column="54" />
@@ -441,9 +441,6 @@
         <mark key="]" line="6" column="26" />
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
-      </file>
-      <file name="/Ruby Console" timestamp="1478018529339">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/stylesheets/common/flexselect.css" timestamp="1477658591212">
         <mark key="[" line="15" column="0" />
@@ -707,11 +704,11 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/DailySFposter/daily-sf-update-diff.sh" timestamp="1478502761729">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="31" />
+      <file name="$USER_HOME$/projects/DailySFposter/daily-sf-update-diff.sh" timestamp="1478503753549">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_fields.html.slim" timestamp="1476523308399">
         <mark key="[" line="10" column="0" />
@@ -1105,7 +1102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="40" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
       <jump line="454" column="62" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="27" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
       <jump line="60" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
@@ -1205,6 +1201,7 @@
       <jump line="128" column="6" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="143" column="13" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="144" column="11" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="160" column="61" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3857,7 +3854,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>BOOK</text>
+        <text>dailyorder</text>
       </register>
       <register name="0" type="4">
         <text>dao = Dailyorder.new</text>
@@ -4113,9 +4110,9 @@
       </register>
     </registers>
     <search>
-      <last-search>BOOK</last-search>
+      <last-search>dailyorder</last-search>
       <last-offset />
-      <last-pattern>BOOK</last-pattern>
+      <last-pattern>dailyorder</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4126,7 +4123,6 @@
         <entry>count</entry>
         <entry>destroy</entry>
         <entry>mass</entry>
-        <entry>dailyorder</entry>
         <entry>mass_in</entry>
         <entry>number</entry>
         <entry>search</entry>
@@ -4143,6 +4139,7 @@
         <entry>order</entry>
         <entry>Order</entry>
         <entry>BOOK</entry>
+        <entry>dailyorder</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
