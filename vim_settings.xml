@@ -184,6 +184,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_index_dailyorder_shipping_list_pagenated.html.erb" timestamp="1478488923098">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/billmail.rb" timestamp="1476523511428">
         <mark key="[" line="46" column="54" />
         <mark key="]" line="46" column="68" />
@@ -423,6 +428,11 @@
         <mark key="]" line="11" column="27" />
         <mark key="^" line="7" column="42" />
         <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_daily_order_shipping_list.html.erb" timestamp="1478488744532">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1476810147588">
         <mark key="[" line="87" column="18" />
@@ -702,6 +712,11 @@
         <mark key="." line="423" column="54" />
         <mark key="^" line="423" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/sendmail_year.rake" timestamp="1477989226396">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1477890785219">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="8" />
@@ -793,6 +808,11 @@
         <mark key="]" line="103" column="58" />
         <mark key="^" line="103" column="58" />
         <mark key="." line="103" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/make_bill_month.rake" timestamp="1477989143111">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/places_controller.rb" timestamp="1477448488526">
         <mark key="[" line="51" column="33" />
@@ -959,6 +979,11 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/static_pages/export_csv.html.erb" timestamp="1477906314405">
+        <mark key="[" line="33" column="73" />
+        <mark key="]" line="33" column="73" />
+        <mark key="." line="33" column="73" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477897330644">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="20" column="52" />
@@ -966,10 +991,15 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1478057124125">
+      <file name="/a.regexp" timestamp="1478488931090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/maintenance.rake" timestamp="1477989133144">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/commonable.rb" timestamp="1477384748544">
         <mark key="[" line="5" column="22" />
@@ -3826,22 +3856,22 @@
         <text>dao = Dailyorder.new</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCUgaWYgZGFpbHlfb3JkZXJfc2hpcHBpbmdfbGlzdC5saXN0X3R5cGUgICU+Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PCUgaWYgIWRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QubGlzdF90eXBlLm5hbWUuYmxhbms/ICU+CjwlIGlmIGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QubGlzdF90eXBlLmNvbG9yID49IDYwICU+CjxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1kYW5nZXIiPjwlPSBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0Lmxpc3RfdHlwZS5uYW1lICU+PC9zcGFuPiZuYnNwOwogIDwlIGVsc2lmIGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QubGlzdF90eXBlLmNvbG9yID49IDUwICU+CiAgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXN1Y2Nlc3MiPjwlPSBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0Lmxpc3RfdHlwZS5uYW1lICAlPjwvc3Bhbj4mbmJzcDsKICA8JSBlbHNpZiBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0Lmxpc3RfdHlwZS5jb2xvciA+PSA0MCAlPgogIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC13YXJuaW5nIj48JT0gZGFpbHlfb3JkZXJfc2hpcHBpbmdfbGlzdC5saXN0X3R5cGUubmFtZSAgJT48L3NwYW4+Jm5ic3A7CiAgPCUgZWxzaWYgZGFpbHlfb3JkZXJfc2hpcHBpbmdfbGlzdC5saXN0X3R5cGUuY29sb3IgPj0gMzAgJT4KICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtcHJpbWFyeSI+PCU9IGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QubGlzdF90eXBlLm5hbWUgICU+PC9zcGFuPiZuYnNwOwogIDwlIGVsc2lmIGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QubGlzdF90eXBlLmNvbG9yID49IDIwICU+CiAgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLWluZm8iPjwlPSBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0Lmxpc3RfdHlwZS5uYW1lICAlPjwvc3Bhbj4mbmJzcDsKICA8JSBlbHNpZiBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0Lmxpc3RfdHlwZS5jb2xvciA+PSAxMCAlPgogIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1kZWZhdWx0Ij48JT0gZGFpbHlfb3JkZXJfc2hpcHBpbmdfbGlzdC5saXN0X3R5cGUubmFtZSAgJT48L3NwYW4+Jm5ic3A7CiAgPCUgZWxzZSAlPgogIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1kZWZhdWx0Ij48JT0gZGFpbHlfb3JkZXJfc2hpcHBpbmdfbGlzdC5saXN0X3R5cGUubmFtZSAgJT48L3NwYW4+Jm5ic3A7CjwlIGVuZCAlPgo8JSBlbHNlICU+CiAgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLWRlZmF1bHQiPjwlPSBkYWlseV9vcmRlcl9zaGlwcGluZ19saXN0Lmxpc3RfdHlwZS5uYW1lICAlPjwvc3Bhbj4mbmJzcDsKPCUgZW5kICU+CjwlIGVuZCAlPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">PCUgZW5kICU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGFvID0gRGFpbHlvcmRlci5uZXcK</text>
+        <text encoding="base64">PCUgaWYgIWRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QubGlzdF90eXBlLm5hbWUuYmxhbms/ICU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCUgaWYgZGFpbHlfb3JkZXJfc2hpcHBpbmdfbGlzdC5saXN0X3R5cGUgICU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXIgPSBvcmRlcnMucmVvcmRlcigiZGF0YV9pZCBhc2MiKS53aGVyZSgiZGF0YV9pZCA+ID8iLCBsYXN0X3dvcmtlZF9pZCkudGFrZQo=</text>
+        <text encoding="base64">PCUgZW5kICU+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4063,13 +4093,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGFzdF93b3JrZWRfaWQgPSBvcmRlci5kYXRhX2lkCg==</text>
+        <text encoding="base64">ICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtZGVmYXVsdCI+PCU9IGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QubGlzdF90eXBlLm5hbWUgICU+PC9zcGFuPiZuYnNwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCUgZWxzZSAlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBwIG9yZGVyLmRhdGFfaWQK</text>
+        <text encoding="base64">PCUgZW5kICU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
