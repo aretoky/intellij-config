@@ -932,7 +932,8 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/DailySFposter/sf-poster.rb" timestamp="1478258741898">
+      <file name="$USER_HOME$/projects/DailySFposter/sf-poster.rb" timestamp="1478483384555">
+        <mark key="'" line="144" column="11" />
         <mark key="[" line="164" column="7" />
         <mark key="]" line="164" column="20" />
         <mark key="^" line="164" column="20" />
@@ -1067,18 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="19" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="51" column="1" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="11" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="13" column="76" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="47" column="38" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="49" column="30" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="53" column="30" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="55" column="30" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="93" column="61" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="96" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
-      <jump line="97" column="40" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
       <jump line="98" column="40" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
       <jump line="454" column="62" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="27" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
@@ -1167,6 +1156,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="32" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="78" column="28" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="158" column="5" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="45" column="44" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="56" column="17" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="57" column="44" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="69" column="17" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="97" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="115" column="36" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="116" column="39" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="128" column="6" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="143" column="13" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="144" column="11" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3819,7 +3820,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>A1</text>
+        <text>Order</text>
       </register>
       <register name="0" type="4">
         <text>order.book</text>
@@ -4075,9 +4076,9 @@
       </register>
     </registers>
     <search>
-      <last-search>A1</last-search>
+      <last-search>Order</last-search>
       <last-offset />
-      <last-pattern>A1</last-pattern>
+      <last-pattern>Order</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4085,7 +4086,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mass_input</entry>
         <entry>counter</entry>
         <entry>count</entry>
         <entry>destroy</entry>
@@ -4100,11 +4100,12 @@
         <entry>store_id</entry>
         <entry>namelists_ware</entry>
         <entry>no_smailbody</entry>
-        <entry>order</entry>
         <entry>ranking</entry>
         <entry>desc</entry>
         <entry>parent</entry>
         <entry>A1</entry>
+        <entry>order</entry>
+        <entry>Order</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
