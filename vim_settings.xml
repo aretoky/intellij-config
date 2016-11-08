@@ -638,6 +638,9 @@
         <mark key="^" line="30" column="117" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" timestamp="1478618505769">
+        <mark key="'" line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/lib/tasks/add_event_on_google_calender.rake" timestamp="1477989073878">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="4" column="1" />
@@ -900,8 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="62" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="27" column="22" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
       <jump line="60" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
       <jump line="61" column="19" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
       <jump line="63" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" />
@@ -1000,6 +1001,8 @@
       <jump line="143" column="13" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="144" column="11" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="160" column="61" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="109" column="18" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
+      <jump line="2" column="4" filename="$USER_HOME$/projects/cplus/app/services/batch/make_bill_month_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3652,7 +3655,7 @@
         <text>.limit(20)</text>
       </register>
       <register name="/" type="4">
-        <text>dailyorder</text>
+        <text>@@dt_batch</text>
       </register>
       <register name="0" type="4">
         <text>ps -ef | grep #{task.name} | grep -v grep | wc -l</text>
@@ -3908,9 +3911,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dailyorder</last-search>
+      <last-search>@@dt_batch</last-search>
       <last-offset />
-      <last-pattern>dailyorder</last-pattern>
+      <last-pattern>@@dt_batch</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3918,7 +3921,6 @@
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>destroy</entry>
         <entry>mass</entry>
         <entry>mass_in</entry>
@@ -3938,6 +3940,7 @@
         <entry>Order</entry>
         <entry>BOOK</entry>
         <entry>dailyorder</entry>
+        <entry>@@dt_batch</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
