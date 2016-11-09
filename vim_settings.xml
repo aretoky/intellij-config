@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/my_rails_base/Gemfile" timestamp="1478676854340">
+        <mark key="[" line="70" column="46" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/models/toritsugi_spec.rb" timestamp="1476351604532">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -450,6 +456,7 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/company-list/Gemfile" timestamp="1478676845752" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_table.html.erb" timestamp="1477325352672">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -518,10 +525,6 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_search_form.erb" timestamp="1478518174214">
-        <mark key="'" line="151" column="0" />
-        <mark key="^" line="59" column="72" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/0billmail.ja.yml" timestamp="1476529232800">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="8" />
@@ -562,7 +565,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/.gitignore" timestamp="1478675957263" />
+      <file name="$USER_HOME$/projects/cplus/.gitignore" timestamp="1478676612130" />
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1476284154321">
         <mark key="[" line="90" column="41" />
         <mark key="]" line="90" column="53" />
@@ -831,6 +834,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1478676719417" />
       <file name="$USER_HOME$/projects/cplus/app/mailers/admin/cust_mailer.rb" timestamp="1478019325748">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="45" />
@@ -3638,7 +3642,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.limit(20)</text>
+        <text>, github: &quot;matthewd/default_value_for&quot;, branch: &quot;rails-50&quot;</text>
       </register>
       <register name="/" type="4">
         <text>@@dt_batch</text>
