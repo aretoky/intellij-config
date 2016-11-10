@@ -975,6 +975,13 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1478787126779">
+        <mark key="'" line="25" column="41" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="^" line="286" column="12" />
+        <mark key="." line="286" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1478244892696">
         <mark key="'" line="98" column="79" />
         <mark key="[" line="26" column="17" />
@@ -1044,8 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="5" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="51" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="101" column="148" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
       <jump line="6" column="20" filename="$USER_HOME$/projects/cplus/app/models/concerns/cust_previous_change_attributable.rb" />
@@ -1144,6 +1149,8 @@
       <jump line="645" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="650" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="407" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="255" column="15" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
+      <jump line="25" column="41" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3796,28 +3803,28 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>order_date</text>
+        <text>search</text>
       </register>
       <register name="0" type="4">
-        <text>DateTime.now.strftime(&quot;%Y%m&quot;)</text>
+        <text>matches.size</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgbWF0Y2hlcwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDptb250aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp5ZWFyCg==</text>
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDptb250aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnN5b3Rlbl9jb2RlCg==</text>
+        <text encoding="base64">ICAgICAgdC5pbnRlZ2VyIDp5ZWFyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmJvb2tfaXNibgo=</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOnN5b3Rlbl9jb2RlCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4039,22 +4046,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3N2X3JlY29yZF9tb250aHMsIDpzeW90ZW5fY29kZQo=</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmJvb2tfaXNibgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3N2X3JlY29yZF9tb250aHMsIDpib29rX2lzYm4K</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3N2X3JlY29yZF9tb250aHMsIDpzeW90ZW5fY29kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3N2X3JlY29yZF9tb250aHMsIDpib29rX2lzYm4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>order_date</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern>order_date</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4062,8 +4069,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edit_dailyorder_table</entry>
-        <entry>store</entry>
         <entry>store_id</entry>
         <entry>namelists_ware</entry>
         <entry>no_smailbody</entry>
@@ -4082,6 +4087,8 @@
         <entry>order_by</entry>
         <entry>'order_date</entry>
         <entry>order_date</entry>
+        <entry>page</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
