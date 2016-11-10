@@ -74,7 +74,7 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161110080650_create_csv_files.rb" timestamp="1478765719088">
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161110080650_create_csv_files.rb" timestamp="1478774506588">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="2" column="38" />
         <mark key="^" line="2" column="38" />
@@ -720,6 +720,12 @@
         <mark key="]" line="62" column="69" />
         <mark key="^" line="62" column="69" />
         <mark key="." line="62" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161110103702_create_csv_records.rb" timestamp="1478774607783">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="73" />
+        <mark key="^" line="2" column="73" />
+        <mark key="." line="2" column="73" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postals_controllerable.rb" timestamp="1477448574609">
         <mark key="[" line="2" column="0" />
@@ -3737,13 +3743,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, unique: true</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PCU9IGJvb2tbOm5hbWVdICU+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6Y3N2X3JlY29yZHMsIFs6Y3N2X2ZpbGVfaWQsIDpzeW90ZW5fY29kZV0sIHVuaXF1ZTogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
