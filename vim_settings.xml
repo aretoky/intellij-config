@@ -20,7 +20,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1477460782664">
+      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1478878233438">
         <mark key="'" line="32" column="8" />
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="8" />
@@ -475,11 +475,11 @@
         <mark key="^" line="58" column="54" />
         <mark key="." line="58" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/application.rb" timestamp="1478865961006">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
-        <mark key="^" line="18" column="16" />
+      <file name="$USER_HOME$/projects/value_press/config/application.rb" timestamp="1478879124802">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="57" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1478783561766">
         <mark key="'" line="244" column="15" />
@@ -636,7 +636,7 @@
         <mark key="^" line="42" column="13" />
         <mark key="." line="42" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1478762306653" />
+      <file name="$USER_HOME$/projects/company-list/config/database.yml" timestamp="1478879102774" />
       <file name="$USER_HOME$/projects/pos-calc/app/models/concerns/dailyorder_groupable.rb" timestamp="1477902300578">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="24" />
@@ -758,6 +758,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/config/initializers/bugsnag.rb" timestamp="1478879192341" />
       <file name="$USER_HOME$/projects/DailySFposter/circle.yml" timestamp="1478262683845">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -781,11 +782,11 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1478868917073">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="73" column="11" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1478878888443">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/Gemfile" timestamp="1478763384781">
         <mark key="[" line="72" column="0" />
@@ -967,7 +968,7 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/company-list/config/application.rb" timestamp="1478763205393" />
+      <file name="$USER_HOME$/projects/company-list/config/application.rb" timestamp="1478879116720" />
       <file name="$USER_HOME$/projects/pos-calc/app/models/book.rb" timestamp="1477906534529">
         <mark key="'" line="84" column="12" />
         <mark key="[" line="54" column="15" />
@@ -1170,6 +1171,12 @@
         <mark key="." line="100" column="79" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/config/initializers/carrierwave.rb" timestamp="1478766519924" />
+      <file name="$USER_HOME$/projects/value_press/config/database.yml" timestamp="1478878575411">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/commonable.rb" timestamp="1477384748544">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="27" />
@@ -3979,7 +3986,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
@@ -3991,22 +3998,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcGFyYW1zWzpwZXJfcGFnZV0gfHw9IDIwCg==</text>
+        <text encoding="base64">ICAgICMgLS0gYWxsIC5yYiBmaWxlcyBpbiB0aGF0IGRpcmVjdG9yeSBhcmUgYXV0b21hdGljYWxseSBsb2FkZWQuCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXhzLTcgY29sLW1kLTIiPgogICAgICA8ZGl2IGNsYXNzPSJmb3JtLWlubGluZSBmb3JtLWdyb3VwLXNtIGZvcm0tZ3JvdXAiPgogICAgICAgIDxsYWJlbCBmb3I9ImRhaWx5b3JkZXJfcGFyZW50X2lkIj7kuKbjgbPpoIY8L2xhYmVsPgogICAgICAgIDwlPSBzZWxlY3RfdGFnIDpvcmRlcl9ieSwgb3B0aW9uc19mb3Jfc2VsZWN0KFtbIklEIiwgImRhaWx5b3JkZXJzLmlkIGRlc2MiXSwgWyLlhormlbAiLCAiZGFpbHlvcmRlcnMucXVhbnRpdHkgZGVzYywgZGFpbHlvcmRlcnMuaWQgZGVzYyJdLCBbIuODqeODs+OCreODs+OCsCIsICJzdG9yZXMuYm5rc19yYW5raW5nIElTIE5VTEwsIHN0b3Jlcy5ibmtzX3JhbmtpbmciXV0sIHNlbGVjdGVkOiBwYXJhbXNbOm9yZGVyX2J5XSksIHsgaW5jbHVkZV9ibGFuazogZmFsc2UsIGNsYXNzOiAnZm9ybS1jb250cm9sIGlucHV0LXNtJ30gJT4KICAgICAgPC9kaXY+CiAgPC9kaXY+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgQXBwbGljYXRpb24gY29uZmlndXJhdGlvbiBzaG91bGQgZ28gaW50byBmaWxlcyBpbiBjb25maWcvaW5pdGlhbGl6ZXJzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgU2V0dGluZ3MgaW4gY29uZmlnL2Vudmlyb25tZW50cy8qIHRha2UgcHJlY2VkZW5jZSBvdmVyIHRob3NlIHNwZWNpZmllZCBoZXJlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0aW1lb3V0OiA1MDAwCg==</text>
       </register>
-      <register name="6" type="4">
-        <text># csv_file_name  = &quot;NIPPAN-&quot; + @daily_order_shipping_list.id.to_s
-    # if !@daily_order_shipping_list.date.nil?
-    #   csv_file_name = &quot;NIPPAN-&quot; +@daily_order_shipping_list.date.strftime(&quot;%Y%m%d&quot;) + &quot;-&quot;  + Time.now.strftime('%Y%m%d-%H%M%S') + @daily_order_shipping_list.id.to_s + &quot;.xls&quot;
-    # end</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwb29sOiA1Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4228,13 +4232,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAjIGhvc3Q6IGxvY2FsaG9zdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgbWF0Y2hlcwo=</text>
+        <text encoding="base64">ICBwYXNzd29yZDogYWlmYmJkNzcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VybmFtZTogYXJldG9reQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
