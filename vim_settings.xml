@@ -781,6 +781,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1478868917073">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="73" column="11" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-analytics/Gemfile" timestamp="1478763384781">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="73" column="9" />
@@ -3982,25 +3988,25 @@
         <text encoding="base64">ICAgIDxDZWxsIHNzOlN0eWxlSUQ9InM3MiIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcGFyYW1zWzpwZXJfcGFnZV0gfHw9IDIwCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXhzLTcgY29sLW1kLTIiPgogICAgICA8ZGl2IGNsYXNzPSJmb3JtLWlubGluZSBmb3JtLWdyb3VwLXNtIGZvcm0tZ3JvdXAiPgogICAgICAgIDxsYWJlbCBmb3I9ImRhaWx5b3JkZXJfcGFyZW50X2lkIj7kuKbjgbPpoIY8L2xhYmVsPgogICAgICAgIDwlPSBzZWxlY3RfdGFnIDpvcmRlcl9ieSwgb3B0aW9uc19mb3Jfc2VsZWN0KFtbIklEIiwgImRhaWx5b3JkZXJzLmlkIGRlc2MiXSwgWyLlhormlbAiLCAiZGFpbHlvcmRlcnMucXVhbnRpdHkgZGVzYywgZGFpbHlvcmRlcnMuaWQgZGVzYyJdLCBbIuODqeODs+OCreODs+OCsCIsICJzdG9yZXMuYm5rc19yYW5raW5nIElTIE5VTEwsIHN0b3Jlcy5ibmtzX3JhbmtpbmciXV0sIHNlbGVjdGVkOiBwYXJhbXNbOm9yZGVyX2J5XSksIHsgaW5jbHVkZV9ibGFuazogZmFsc2UsIGNsYXNzOiAnZm9ybS1jb250cm9sIGlucHV0LXNtJ30gJT4KICAgICAgPC9kaXY+CiAgPC9kaXY+</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgcGFyYW1zWzpwZXJfcGFnZV0gfHw9IDIwCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXhzLTcgY29sLW1kLTIiPgogICAgICA8ZGl2IGNsYXNzPSJmb3JtLWlubGluZSBmb3JtLWdyb3VwLXNtIGZvcm0tZ3JvdXAiPgogICAgICAgIDxsYWJlbCBmb3I9ImRhaWx5b3JkZXJfcGFyZW50X2lkIj7kuKbjgbPpoIY8L2xhYmVsPgogICAgICAgIDwlPSBzZWxlY3RfdGFnIDpvcmRlcl9ieSwgb3B0aW9uc19mb3Jfc2VsZWN0KFtbIklEIiwgImRhaWx5b3JkZXJzLmlkIGRlc2MiXSwgWyLlhormlbAiLCAiZGFpbHlvcmRlcnMucXVhbnRpdHkgZGVzYywgZGFpbHlvcmRlcnMuaWQgZGVzYyJdLCBbIuODqeODs+OCreODs+OCsCIsICJzdG9yZXMuYm5rc19yYW5raW5nIElTIE5VTEwsIHN0b3Jlcy5ibmtzX3JhbmtpbmciXV0sIHNlbGVjdGVkOiBwYXJhbXNbOm9yZGVyX2J5XSksIHsgaW5jbHVkZV9ibGFuazogZmFsc2UsIGNsYXNzOiAnZm9ybS1jb250cm9sIGlucHV0LXNtJ30gJT4KICAgICAgPC9kaXY+CiAgPC9kaXY+</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text># csv_file_name  = &quot;NIPPAN-&quot; + @daily_order_shipping_list.id.to_s
     # if !@daily_order_shipping_list.date.nil?
     #   csv_file_name = &quot;NIPPAN-&quot; +@daily_order_shipping_list.date.strftime(&quot;%Y%m%d&quot;) + &quot;-&quot;  + Time.now.strftime('%Y%m%d-%H%M%S') + @daily_order_shipping_list.id.to_s + &quot;.xls&quot;
     # end</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4222,10 +4228,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgbWF0Y2hlcwo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgbWF0Y2hlcwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
