@@ -220,6 +220,11 @@
         <mark key="." line="65" column="34" />
         <mark key="^" line="65" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/db/maindb_schema.sql" timestamp="1479042100049">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/submit_button_disabler.js.coffee" timestamp="1475827678510">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="13" />
@@ -462,7 +467,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/db/migrate/2016111220481401_create_old_tables.rb" timestamp="1479038351974" />
+      <file name="$USER_HOME$/projects/value_press/db/migrate/2016111220481401_create_old_tables.rb" timestamp="1479043792459">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/admin.html.erb" timestamp="1476339953903">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="61" />
@@ -755,11 +764,11 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/database.yml" timestamp="1478878575411">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="$USER_HOME$/projects/value_press/config/database.yml" timestamp="1479043177951">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1478865990039">
         <mark key="[" line="0" column="0" />
@@ -843,10 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="6" filename="$USER_HOME$/projects/pos-analytics/app/services/fetching_intage_service.rb" />
-      <jump line="3" column="9" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
-      <jump line="306" column="25" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
-      <jump line="331" column="71" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="384" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="399" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="474" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
@@ -943,6 +948,10 @@
       <jump line="30" column="17" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/nippan.xls.erb" />
       <jump line="38" column="18" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="88" column="0" filename="$USER_HOME$/projects/value_press/README.md" />
+      <jump line="96" column="0" filename="$USER_HOME$/projects/value_press/db/maindb_schema.sql" />
+      <jump line="1418" column="0" filename="$USER_HOME$/projects/value_press/db/maindb_schema.sql" />
+      <jump line="1416" column="0" filename="$USER_HOME$/projects/value_press/db/maindb_schema.sql" />
+      <jump line="56" column="0" filename="$USER_HOME$/projects/value_press/db/maindb_schema.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3592,31 +3601,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>custs</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxDZWxsIHNzOlN0eWxlSUQ9InM3MiIvPgo=</text>
+      <register name="0" type="4">
+        <text>config = YAML.load_file('config/database.yml')[Rails.env].symbolize_keys
+    config[:username] ||= &quot;root&quot;
+    config[:flags] = Mysql2::Client::MULTI_STATEMENTS
+    client = Mysql2::Client.new(config)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ1s6ZmxhZ3NdID0gTXlzcWwyOjpDbGllbnQ6Ok1VTFRJX1NUQVRFTUVOVFMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ1s6dXNlcm5hbWVdIHx8PSAicm9vdCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgU2VydmVyIHByb3Zpc2lvbmluZwo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IFlBTUwubG9hZF9maWxlKCdjb25maWcvZGF0YWJhc2UueW1sJylbUmFpbHMuZW52XS5zeW1ib2xpemVfa2V5cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WyFbQ2lyY2xlQ0ldKGh0dHBzOi8vY2lyY2xlY2kuY29tL2doL2FyZXRva3kvdmFsdWVfcHJlc3Muc3ZnP3N0eWxlPXN2ZyldKGh0dHBzOi8vY2lyY2xlY2kuY29tL2doL2FyZXRva3kvdmFsdWVfcHJlc3MpCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">44OH44K244Kk44Oz44Gr55u05o6l6Zai6YCj44GZ44KL44OH44Kj44Os44Kv44OI44Oq44Gv5Lul5LiL44Gu6YCa44KK44Gn44GZ44CCCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ1s6ZmxhZ3NdID0gTXlzcWwyOjpDbGllbnQ6Ok1VTFRJX1NUQVRFTUVOVFMK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3838,13 +3850,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ1s6dXNlcm5hbWVdIHx8PSAicm9vdCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiDku4rjga7jgajjgZPjgo3jga/nibnjgavliKnnlKjjgZfjgabjgYTjgb7jgZvjgpMK</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IFlBTUwubG9hZF9maWxlKCdjb25maWcvZGF0YWJhc2UueW1sJylbUmFpbHMuZW52XS5zeW1ib2xpemVfa2V5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
