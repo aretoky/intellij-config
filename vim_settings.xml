@@ -68,6 +68,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/pos-analytics/app/services/csv_importing_service.rb" timestamp="1479089486392">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/search.html.erb" timestamp="1476341070670">
         <mark key="[" line="18" column="53" />
         <mark key="]" line="18" column="53" />
@@ -3613,22 +3618,22 @@
     client = Mysql2::Client.new(config)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1s6ZmxhZ3NdID0gTXlzcWwyOjpDbGllbnQ6Ok1VTFRJX1NUQVRFTUVOVFMK</text>
+        <text encoding="base64">ICAgICAgIyBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1s6dXNlcm5hbWVdIHx8PSAicm9vdCIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IFlBTUwubG9hZF9maWxlKCdjb25maWcvZGF0YWJhc2UueW1sJylbUmFpbHMuZW52XS5zeW1ib2xpemVfa2V5cwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbmZpZ1s6ZmxhZ3NdID0gTXlzcWwyOjpDbGllbnQ6Ok1VTFRJX1NUQVRFTUVOVFMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZ1s6dXNlcm5hbWVdIHx8PSAicm9vdCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZyA9IFlBTUwubG9hZF9maWxlKCdjb25maWcvZGF0YWJhc2UueW1sJylbUmFpbHMuZW52XS5zeW1ib2xpemVfa2V5cwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3850,13 +3855,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1s6dXNlcm5hbWVdIHx8PSAicm9vdCIK</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IFlBTUwubG9hZF9maWxlKCdjb25maWcvZGF0YWJhc2UueW1sJylbUmFpbHMuZW52XS5zeW1ib2xpemVfa2V5cwo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZ1s6ZmxhZ3NdID0gTXlzcWwyOjpDbGllbnQ6Ok1VTFRJX1NUQVRFTUVOVFMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ1s6dXNlcm5hbWVdIHx8PSAicm9vdCIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
