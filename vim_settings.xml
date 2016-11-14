@@ -26,11 +26,11 @@
         <mark key="^" line="10" column="173" />
         <mark key="." line="10" column="173" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161110104932_create_csv_record_months.rb" timestamp="1478776001217">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="79" />
-        <mark key="^" line="2" column="79" />
-        <mark key="." line="2" column="79" />
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161110104932_create_csv_record_months.rb" timestamp="1479095303939">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1478878233438">
         <mark key="'" line="32" column="8" />
@@ -68,10 +68,11 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/services/csv_importing_service.rb" timestamp="1479089486392">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/projects/pos-analytics/app/services/csv_importing_service.rb" timestamp="1479098042556">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="^" line="23" column="32" />
+        <mark key="." line="23" column="32" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/stores/search.html.erb" timestamp="1476341070670">
         <mark key="[" line="18" column="53" />
@@ -85,12 +86,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/services/fetching_intage_service.rb" timestamp="1478767341927">
-        <mark key="'" line="81" column="6" />
-        <mark key="[" line="56" column="72" />
-        <mark key="]" line="56" column="87" />
-        <mark key="." line="56" column="87" />
-        <mark key="^" line="56" column="87" />
+      <file name="$USER_HOME$/projects/pos-analytics/app/services/fetching_intage_service.rb" timestamp="1479099368568">
+        <mark key="'" line="83" column="6" />
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="52" column="19" />
+        <mark key="." line="52" column="19" />
+        <mark key="^" line="52" column="19" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/preview.html.erb" timestamp="1477326901789">
         <mark key="[" line="0" column="12" />
@@ -129,6 +130,18 @@
         <mark key="]" line="40" column="145" />
         <mark key="^" line="40" column="145" />
         <mark key="." line="40" column="145" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161110080650_create_csv_files.rb" timestamp="1479095257825">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-analytics/app/models/csv_record.rb" timestamp="1479095870800">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/books/index.html.slim" timestamp="1476154334962">
         <mark key="[" line="92" column="18" />
@@ -297,6 +310,12 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161114044324_create_books.rb" timestamp="1479099437890">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="67" />
+        <mark key="^" line="2" column="67" />
+        <mark key="." line="2" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1476774657524">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="27" column="80" />
@@ -400,6 +419,12 @@
         <mark key="." line="58" column="36" />
         <mark key="^" line="58" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/pos-analytics/app/models/csv_record_month.rb" timestamp="1479095088798">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_merge_form.html.erb" timestamp="1477647527115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -411,6 +436,12 @@
         <mark key="]" line="5" column="56" />
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-analytics/db/seeds.rb" timestamp="1479098763123">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/zipcode_input.coffee" timestamp="1477471722701">
         <mark key="[" line="6" column="0" />
@@ -430,6 +461,12 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/pos-analytics/app/models/csv_file.rb" timestamp="1479095172503">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/emps/_form.html.slim" timestamp="1476280144705">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="48" />
@@ -447,6 +484,12 @@
         <mark key="]" line="62" column="69" />
         <mark key="^" line="62" column="69" />
         <mark key="." line="62" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161110103702_create_csv_records.rb" timestamp="1479099426608">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="73" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postals_controllerable.rb" timestamp="1477448574609">
         <mark key="[" line="2" column="0" />
@@ -694,6 +737,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161114043826_create_book_syoten_records.rb" timestamp="1479099431667">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="81" />
+        <mark key="^" line="2" column="81" />
+        <mark key="." line="2" column="81" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_month_service_spec.rb" timestamp="1475804104146">
         <mark key="[" line="63" column="66" />
         <mark key="]" line="63" column="65" />
@@ -756,6 +805,12 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/pos-analytics/config/application.rb" timestamp="1479092658911">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1477406368733">
         <mark key="[" line="74" column="17" />
         <mark key="]" line="74" column="18" />
@@ -775,7 +830,7 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1478865990039">
+      <file name="/a.regexp" timestamp="1479095864041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -829,6 +884,12 @@
         <mark key="]" line="42" column="13" />
         <mark key="^" line="42" column="13" />
         <mark key="." line="42" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-analytics/app/models/book.rb" timestamp="1479099388454">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/admin_application/_address_fields.html.slim" timestamp="1476279230498">
         <mark key="[" line="18" column="62" />
@@ -3606,34 +3667,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
       </register>
       <register name="0" type="4">
-        <text>config = YAML.load_file('config/database.yml')[Rails.env].symbolize_keys
-    config[:username] ||= &quot;root&quot;
-    config[:flags] = Mysql2::Client::MULTI_STATEMENTS
-    client = Mysql2::Client.new(config)</text>
+        <text>options: &quot;ENGINE=InnoDB ROW_FORMAT=DYNAMIC&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
+        <text encoding="base64">ICAgICAgIyAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1s6ZmxhZ3NdID0gTXlzcWwyOjpDbGllbnQ6Ok1VTFRJX1NUQVRFTUVOVFMK</text>
+        <text encoding="base64">ICAgICAgIyAgICAgaW1wb3J0ZWRfbnVtICs9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1s6dXNlcm5hbWVdIHx8PSAicm9vdCIK</text>
+        <text encoding="base64">ICAgICAgIyAgICAgdXNlci5zYXZlIQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IFlBTUwubG9hZF9maWxlKCdjb25maWcvZGF0YWJhc2UueW1sJylbUmFpbHMuZW52XS5zeW1ib2xpemVfa2V5cwo=</text>
+        <text encoding="base64">ICAgICAgIyAgIGlmIHVzZXIudmFsaWQ/Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3855,13 +3913,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IE15c3FsMjo6Q2xpZW50Lm5ldyhjb25maWcpCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICMg44OQ44Oq44OH44O844K344On44OzT0vjga7loLTlkIjjga/kv53lrZgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1s6ZmxhZ3NdID0gTXlzcWwyOjpDbGllbnQ6Ok1VTFRJX1NUQVRFTUVOVFMK</text>
+        <text encoding="base64">ICAgICAgIwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1s6dXNlcm5hbWVdIHx8PSAicm9vdCIK</text>
+        <text encoding="base64">ICAgICAgIyAgICAgKnRhYmxlLnRvX2hhc2guZXhjZXB0KDppZCwgOmNyZWF0ZWRfYXQsIDp1cGRhdGVkX2F0KS5rZXlzKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
