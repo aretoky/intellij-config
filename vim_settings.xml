@@ -539,6 +539,12 @@
         <mark key="^" line="165" column="33" />
         <mark key="." line="165" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/circle.yml" timestamp="1479197301360">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/services/calculating_record_service.rb" timestamp="1479107732498">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="2" column="3" />
@@ -630,6 +636,12 @@
         <mark key="]" line="34" column="8" />
         <mark key="^" line="34" column="8" />
         <mark key="." line="34" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/circleci.yml" timestamp="1479195229190">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/base_input.rb" timestamp="1476267347348">
         <mark key="[" line="16" column="0" />
@@ -940,8 +952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="533" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="546" column="49" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="549" column="49" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="553" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1040,6 +1050,8 @@
       <jump line="393" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="5" column="67" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="28" column="45" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="4" column="6" filename="$USER_HOME$/projects/value_press/circle.yml" />
+      <jump line="14" column="30" filename="$USER_HOME$/projects/value_press/circle.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3689,31 +3701,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2hpcF90eXBlOiA6YXNjLCA=</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>oder_type</text>
+        <text>5.5.53-0ubuntu0.14.04.1</text>
       </register>
       <register name="0" type="4">
-        <text>dailyorder.order_type</text>
+        <text>14.04.1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1tdCg==</text>
+        <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgbXlzcWwtc2VydmVyLTUuNT01LjUuNTMtMHVidW50dTAuMTIuMDQuMgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">c2Vzc2lvbi52aXNpdCAiaHR0cHM6Ly93d3cucHVicG9zLmludGFnZS5qcC8iCgogICAgc2Vzc2lvbi5maW5kKDp4cGF0aCwgJy8vaW5wdXRbQG5hbWU9InRleHRmaWVsZDEiXScpLm5hdGl2ZS5zZW5kX2tleSgiQjA0OEVIIikKCiAgICBzZXNzaW9uLmZpbmQoOnhwYXRoLCAnLy9pbnB1dFtAbmFtZT0icGFzc3dvcmRmaWVsZDEiXScpLm5hdGl2ZS5zZW5kX2tleSgibTNYWDNFVHoiKQogICAgcCBzZXNzaW9uLndpbmRvd3Muc2l6ZQoKICAgIHNsZWVwKDEpCgogICAgIyDjg63jgrDjgqTjg7MKICAgIHNlc3Npb24uZXhlY3V0ZV9zY3JpcHQgPDxFT0QKICAgIHdpdGgod2luZG93LmRvY3VtZW50LmZvcm1zWydmb3JtMSddKXsKICAgICAgaGlkZGVuZmllbGQxLnZhbHVlPSdCb29rJzsKICAgICAgdGFyZ2V0PSJQdWJzIjsKICAgICAgYWN0aW9uPSIvUHVicy9Db21tb25Gb3JtL0ZybUNNTkZNTG9naW5QcmVwYXJlLmFzcHgiOwogICAgICBzdWJtaXQoKTsKICAgIH0KRU9ECiAgICBzbGVlcCgyKQogICAgc2Vzc2lvbi5zd2l0Y2hfdG9fd2luZG93KHNlc3Npb24ud2luZG93cy5sYXN0KQoKICAgIHB1dHMgc2Vzc2lvbi53aW5kb3dzLnNpemUKCiAgICBpZiBzZXNzaW9uLndpbmRvd3Muc2l6ZSA9PSAxCiAgICAgIHB1dHMgc2Vzc2lvbi5zYXZlX3NjcmVlbnNob3QoInRlc3QucG5nIikKICAgIGVuZA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgbXlzcWwtc2VydmVyLWNvcmUtNS41PTUuNS41My0wdWJ1bnR1MC4xMi4wNC4yCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c2Vzc2lvbi5maW5kKDp4cGF0aCwgIi8vZGl2W0BpZD0nY3RsMDBfZGxNYWluTWVudV9jdGwwMV9wbmxNZW51MSddL2EiKS50cmlnZ2VyKCJjbGljayIpCiAgICBzZXNzaW9uLmZpbmQoOnhwYXRoLCAiLy9hW0BpZD0nY3RsMDBfZGxTdWJNZW51RmxhbWVfY3RsMDFfZGxTdWJNZW51X2N0bDAxX2NsaW5rJ10iKS50cmlnZ2VyKCJjbGljayIpCgogICAgc2xlZXAoMikK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IHVwZGF0ZTsgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgLVYgbXlzcWwtc2VydmVyLTUuNS1tcm9vbmdhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgbGFzdF9tb250aF9vbmUuZGF0ZQo=</text>
+        <text encoding="base64">ICAgIC0gc3VkbyBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmdyb29uZ2EvcHBhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgbGFzdF9tb250aF9vbmUuZGF0ZQo=</text>
+        <text encoding="base64">ICAgIC0gc3VkbyBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgImRlYiBodHRwOi8vc2VjdXJpdHkudWJ1bnR1LmNvbS91YnVudHUgJChsc2JfcmVsZWFzZSAtLXNob3J0IC0tY29kZW5hbWUpLXNlY3VyaXR5IG1haW4gcmVzdHJpY3RlZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAgYm9va19zeW90ZW5fbW9udGhseV9yZWNvcmQK</text>
+        <text encoding="base64">ICAgIC0gc3VkbyBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgdW5pdmVyc2UK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3935,22 +3947,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAgImFhYWEiCg==</text>
+        <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgLVYgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb24gbHNiLXJlbGVhc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9va19zeW90ZW5fbW9udGhseV9yZWNvcmQudmFsaWQ/Cg==</text>
+        <text encoding="base64">ICAgIC0gc3VkbyBhcHQtZ2V0IGluc3RhbGwgbGliYWlvMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICBvdmVycmlkZToK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>oder_type</last-search>
+      <last-search>5.5.53-0ubuntu0.14.04.1</last-search>
       <last-offset />
-      <last-pattern>oder_type</last-pattern>
+      <last-pattern>5.5.53-0ubuntu0.14.04.1</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -3958,9 +3970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'order_date</entry>
-        <entry>order_date</entry>
-        <entry>page</entry>
         <entry>search</entry>
         <entry>t_syoten_cd</entry>
         <entry>k_syoten</entry>
@@ -3978,6 +3987,9 @@
         <entry>h</entry>
         <entry>[</entry>
         <entry>oder_type</entry>
+        <entry>mysql-server-5.5=5.5.46-0ubuntu0.12.04.2</entry>
+        <entry>mysql-server-core-5.5=5.5.53-0ubuntu0.12.04.1</entry>
+        <entry>5.5.53-0ubuntu0.14.04.1</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
