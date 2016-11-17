@@ -596,8 +596,8 @@
         <mark key="." line="48" column="10" />
         <mark key="^" line="48" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1479371950831">
-        <mark key="'" line="208" column="9" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1479373886819">
+        <mark key="'" line="47" column="30" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -1031,16 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="581" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="585" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="587" column="78" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="590" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="592" column="78" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="597" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="601" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="607" column="46" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="612" column="46" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="617" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="621" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="624" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1080,7 +1070,6 @@
       <jump line="184" column="23" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="211" column="63" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="30" column="17" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/nippan.xls.erb" />
-      <jump line="38" column="18" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="88" column="0" filename="$USER_HOME$/projects/value_press/README.md" />
       <jump line="96" column="0" filename="$USER_HOME$/projects/value_press/db/maindb_schema.sql" />
       <jump line="1418" column="0" filename="$USER_HOME$/projects/value_press/db/maindb_schema.sql" />
@@ -1131,6 +1120,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile.lock" />
       <jump line="206" column="9" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="544" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="32" column="24" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="33" column="27" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="34" column="87" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="35" column="29" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="36" column="34" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="38" column="52" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="39" column="31" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="41" column="34" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="43" column="52" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="44" column="31" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="47" column="30" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3783,7 +3783,7 @@
         <text>first</text>
       </register>
       <register name="/" type="4">
-        <text>ridg</text>
+        <text>store</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PCUgaWYgZGFpbHlvcmRlcl9pdGVyYXRpb24uZmlyc3Q/ICU+CgoKPCUgZW5kICU+</text>
@@ -4039,9 +4039,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ridg</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>ridg</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4049,8 +4049,6 @@
     </search>
     <history>
       <history-search>
-        <entry>book_syoten_record</entry>
-        <entry>points_of_year_over_year</entry>
         <entry>ctl00_cphBOK_btnGoM02DownLoad</entry>
         <entry>ordera_id</entry>
         <entry>list</entry>
@@ -4069,6 +4067,8 @@
         <entry>dailyorder.order_type.name</entry>
         <entry>rid</entry>
         <entry>ridg</entry>
+        <entry>sore</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
