@@ -179,7 +179,7 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1479353001127">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1479354655482">
         <mark key="[" line="89" column="94" />
         <mark key="]" line="89" column="94" />
         <mark key="." line="89" column="94" />
@@ -811,7 +811,8 @@
         <mark key="^" line="93" column="69" />
         <mark key="." line="93" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1479353081259">
+      <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1479355428927">
+        <mark key="'" line="6" column="4" />
         <mark key="[" line="43" column="12" />
         <mark key="]" line="44" column="11" />
         <mark key="^" line="44" column="11" />
@@ -1017,7 +1018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="546" column="49" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="549" column="49" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="553" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="554" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1117,6 +1117,7 @@
       <jump line="28" column="45" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="4" column="6" filename="$USER_HOME$/projects/value_press/circle.yml" />
       <jump line="14" column="30" filename="$USER_HOME$/projects/value_press/circle.yml" />
+      <jump line="6" column="4" filename="$USER_HOME$/projects/pos-calc/config/database.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3769,7 +3770,7 @@
         <text>production</text>
       </register>
       <register name="/" type="4">
-        <text>5.5.53-0ubuntu0.14.04.1</text>
+        <text>bunkyoshaposcalc2d.csuzkhadbudi.ap-northeast-1.rds.amazonaws.com</text>
       </register>
       <register name="0" type="4">
         <text>@@dt_batch</text>
@@ -4026,9 +4027,9 @@
       </register>
     </registers>
     <search>
-      <last-search>5.5.53-0ubuntu0.14.04.1</last-search>
+      <last-search>bunkyoshaposcalc2d.csuzkhadbudi.ap-northeast-1.rds.amazonaws.com</last-search>
       <last-offset />
-      <last-pattern>5.5.53-0ubuntu0.14.04.1</last-pattern>
+      <last-pattern>bunkyoshaposcalc2d.csuzkhadbudi.ap-northeast-1.rds.amazonaws.com</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4036,7 +4037,6 @@
     </search>
     <history>
       <history-search>
-        <entry>search</entry>
         <entry>t_syoten_cd</entry>
         <entry>k_syoten</entry>
         <entry>store</entry>
@@ -4056,6 +4056,7 @@
         <entry>mysql-server-5.5=5.5.46-0ubuntu0.12.04.2</entry>
         <entry>mysql-server-core-5.5=5.5.53-0ubuntu0.12.04.1</entry>
         <entry>5.5.53-0ubuntu0.14.04.1</entry>
+        <entry>bunkyoshaposcalc2d.csuzkhadbudi.ap-northeast-1.rds.amazonaws.com</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
