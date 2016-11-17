@@ -518,7 +518,8 @@
         <mark key="^" line="42" column="13" />
         <mark key="." line="42" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_table.html.erb" timestamp="1479134913174">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_table.html.erb" timestamp="1479366439194">
+        <mark key="'" line="67" column="36" />
         <mark key="[" line="67" column="63" />
         <mark key="]" line="67" column="67" />
         <mark key="." line="67" column="67" />
@@ -1026,8 +1027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="565" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="569" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="570" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="572" column="42" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1126,6 +1125,8 @@
       <jump line="36" column="5" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="79" column="13" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
+      <jump line="46" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_table.html.erb" />
+      <jump line="67" column="36" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_dailyorders_table.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3778,7 +3779,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>squ</text>
+        <text>dailyorder.order_type.name</text>
       </register>
       <register name="0" type="4">
         <text>store_id</text>
@@ -4035,9 +4036,9 @@
       </register>
     </registers>
     <search>
-      <last-search>squ</last-search>
+      <last-search>dailyorder.order_type.name</last-search>
       <last-offset />
-      <last-pattern>squ</last-pattern>
+      <last-pattern>dailyorder.order_type.name</last-pattern>
       <last-replace>store.</last-replace>
       <last-substitute>sr.</last-substitute>
       <last-dir>1</last-dir>
@@ -4045,7 +4046,6 @@
     </search>
     <history>
       <history-search>
-        <entry>store</entry>
         <entry>s65</entry>
         <entry>book</entry>
         <entry>book_syoten_record</entry>
@@ -4065,6 +4065,7 @@
         <entry>bunkyoshaposcalc2d.csuzkhadbudi.ap-northeast-1.rds.amazonaws.com</entry>
         <entry>search</entry>
         <entry>squ</entry>
+        <entry>dailyorder.order_type.name</entry>
       </history-search>
       <history-cmd>
         <entry>%/s/'/&quot;/g</entry>
