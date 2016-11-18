@@ -516,6 +516,12 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/admins/options_controller.rb" timestamp="1479451239968">
+        <mark key="[" line="0" column="63" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/factories/sales_people.rb" timestamp="1476330750004">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
@@ -615,6 +621,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/admins/information_controller.rb" timestamp="1479451221387">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1476774657524">
         <mark key="[" line="27" column="39" />
@@ -831,11 +843,11 @@
         <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/projects/cplus/lib/string_utils.rb" timestamp="1479281031907" />
-      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1479450592199">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
+      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1479451929615">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/simple_form.ja.yml" timestamp="1477360960614">
         <mark key="[" line="102" column="23" />
@@ -901,6 +913,12 @@
         <mark key="]" line="146" column="0" />
         <mark key="^" line="146" column="0" />
         <mark key="." line="146" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/admins/cache_pages_controller.rb" timestamp="1479451758185">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/database.yml" timestamp="1479043177951">
         <mark key="[" line="23" column="0" />
@@ -3721,31 +3739,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>option_overseas</text>
+        <text>, only: %w(index destroy)</text>
       </register>
       <register name="/" type="4">
         <text>shipping_list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyA6b3B0aW9uX292ZXJzZWFzLCBvbmx5OiAldyhpbmRleCkK</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyA6Y2FjaGVfcGFnZXMsIG9ubHk6ICV3KGluZGV4IGRlc3Ryb3kpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLmZldGNoKDpvcHRpb25fbWVkaWFjb250YWN0LCB7fSkK</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLmZldGNoKDpjYWNoZV9wYWdlLCB7fSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBvcHRpb25fbWVkaWFjb250YWN0X3BhcmFtcwo=</text>
+        <text encoding="base64">ICAgIGRlZiBjYWNoZV9wYWdlX3BhcmFtcwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3967,13 +3985,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgc2hvdwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgZGVmIGluZm9ybWF0aW9uX2ZpcnN0CiAgICAjIOOBr+OBmOOCgeOBpuOBruaWueOBuAogIGVuZAoKICBkZWYgcHJpY2VsaXN0CiAgICAjIOaWmemHkeODmuODvOOCuAogIGVuZAoKICBkZWYgbWVkaWFsaXN0CiAgICAjIOmFjeS/oeWFiOODoeODh+OCo+OCouS4gOimpwogIGVuZAoKICBkZWYgc2l0ZW1hcAogICAgIyDjgrXjgqTjg4jjg57jg4Pjg5cKICBlbmQK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlc291cmNlcyA6b3B0aW9ucywgb25seTogJXcoaW5kZXgpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</text>
