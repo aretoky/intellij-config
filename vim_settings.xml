@@ -365,10 +365,10 @@
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" timestamp="1479693321315">
         <mark key="'" line="116" column="12" />
-        <mark key="[" line="161" column="129" />
-        <mark key="]" line="161" column="134" />
-        <mark key="^" line="161" column="134" />
-        <mark key="." line="161" column="134" />
+        <mark key="[" line="144" column="129" />
+        <mark key="]" line="144" column="134" />
+        <mark key="^" line="144" column="134" />
+        <mark key="." line="144" column="134" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/tools-sfdc/store_bansen_import.rb" timestamp="1476353866946">
         <mark key="[" line="42" column="31" />
@@ -679,13 +679,6 @@
         <mark key="]" line="14" column="18" />
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1479395497226">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="88" column="55" />
-        <mark key="]" line="88" column="55" />
-        <mark key="." line="88" column="55" />
-        <mark key="^" line="88" column="55" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1479395090742">
         <mark key="'" line="178" column="46" />
@@ -1012,9 +1005,9 @@
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1479691948734">
         <mark key="'" line="6" column="4" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/sessions_controller.rb" timestamp="1479660793688">
         <mark key="[" line="32" column="0" />
@@ -1246,11 +1239,11 @@
         <mark key="." line="51" column="40" />
         <mark key="^" line="51" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1479391541397">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="26" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="3" column="26" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1479695585529">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="55" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="5" column="55" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/models/book.rb" timestamp="1479114970634">
         <mark key="[" line="26" column="34" />
@@ -4033,7 +4026,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1 #</text>
+        <text>try(:sfdc_toritsugi_name)</text>
       </register>
       <register name="/" type="4">
         <text>order_by</text>
