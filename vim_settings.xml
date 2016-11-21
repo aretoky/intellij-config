@@ -3251,7 +3251,7 @@
         <text>リスト</text>
       </register>
       <register name="/" type="4">
-        <text>作成</text>
+        <text>utf</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PCUgaWYgIWRhaWx5b3JkZXIuY2hpbGRyZW4uZW1wdHk/ICU+CiAgICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtaW5mbyI+5YiG57SN6KaqPC9zcGFuPgogICAgICAgIDwlIGVuZCAlPgogICAgICAgIDwlIGlmIGRhaWx5b3JkZXIucGFyZW50ICU+CiAgICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtaW5mbyI+5YiG57SN5a2QPC9zcGFuPgogICAgICAgIDwlIGVuZCAlPg==</text>
@@ -3507,9 +3507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>作成</last-search>
+      <last-search>utf</last-search>
       <last-offset />
-      <last-pattern>作成</last-pattern>
+      <last-pattern>utf</last-pattern>
       <last-replace>staff</last-replace>
       <last-substitute>emp</last-substitute>
       <last-dir>1</last-dir>
@@ -3517,8 +3517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
-        <entry>syoten</entry>
         <entry>store_name</entry>
         <entry>date</entry>
         <entry>List-</entry>
@@ -3537,6 +3535,8 @@
         <entry>upd_empno</entry>
         <entry>emp</entry>
         <entry>作成</entry>
+        <entry>utf8</entry>
+        <entry>utf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sales/places/g</entry>
