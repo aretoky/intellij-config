@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" timestamp="1479819580251">
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" timestamp="1479820563792">
         <mark key="'" line="10" column="23" />
-        <mark key="[" line="50" column="58" />
-        <mark key="]" line="50" column="59" />
-        <mark key="." line="50" column="59" />
-        <mark key="^" line="50" column="59" />
+        <mark key="[" line="50" column="74" />
+        <mark key="]" line="50" column="82" />
+        <mark key="." line="50" column="82" />
+        <mark key="^" line="50" column="82" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/admins/articles/show.html.slim" timestamp="1479403696715">
         <mark key="[" line="0" column="19" />
@@ -240,9 +240,9 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1479818282319">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="39" />
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" timestamp="1479820822884">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="69" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161114044324_create_books.rb" timestamp="1479108483476">
         <mark key="[" line="5" column="21" />
@@ -320,9 +320,9 @@
         <mark key="^" line="87" column="17" />
         <mark key="." line="87" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1479817380170">
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="14" column="49" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1479820497394">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="75" />
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="66" />
       </file>
@@ -477,12 +477,12 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1479818822998">
-        <mark key="'" line="63" column="78" />
-        <mark key="[" line="75" column="22" />
-        <mark key="]" line="75" column="23" />
-        <mark key="." line="75" column="23" />
-        <mark key="^" line="75" column="23" />
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1479820855792">
+        <mark key="'" line="70" column="78" />
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="55" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/projects/value_press/circleci.yml" timestamp="1479195229190">
         <mark key="[" line="10" column="6" />
@@ -555,6 +555,7 @@
         <mark key="." line="32" column="81" />
         <mark key="^" line="32" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/good_select_modal_dialogs_controller.rb" timestamp="1479819723533" />
       <file name="$USER_HOME$/projects/pos-calc/spec/controllers/dailyorders_controller_spec.rb" timestamp="1479390613385">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -610,7 +611,7 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1479814815286">
+      <file name="/a.regexp" timestamp="1479820422138">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -4111,31 +4112,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">44CA6aGn5a6i5ZCNOiAje2N1c3Qubm1fY3VzdH0=</text>
       </register>
       <register name="/" type="4">
         <text>amtax_bitem</text>
       </register>
       <register name="0" type="4">
-        <text>attribute_id_element.parents(&quot;.nested-fields&quot;).find(k).val(json[v])</text>
+        <text>&quot;顧客ID: #{cust.no_cust}　顧客名: #{cust.nm_cust}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlX2lkX2VsZW1lbnQucGFyZW50cygiLm5lc3RlZC1maWVsZHMiKS5maW5kKCIiKS52YWwoanNvblt2XSkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGVtcGxhdGUuY29uY2F0IHRlbXBsYXRlLmNvbnRlbnRfdGFnKDpzdHJvbmcsICLllYblk4HlkI3jgIAiLCBjbGFzczogImZvcm0tY29udHJvbC1zdGF0aWMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4357,13 +4358,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6YW10YXhfYml0ZW0sIDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6Y250X2JpdGVtLCAxCg==</text>
+        <text encoding="base64">ICAgICAgdGVtcGxhdGUuY29uY2F0IHRlbXBsYXRlLmNvbnRlbnRfdGFnKDpzdHJvbmcsICLllYblk4HlkI3jgIAiLCBjbGFzczogImZvcm0tY29udHJvbC1zdGF0aWMiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6YW10YXhfZ29vZHMsIDAK</text>
+        <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6YW10YXhfYml0ZW0sIDAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/emp/staff/g</text>
