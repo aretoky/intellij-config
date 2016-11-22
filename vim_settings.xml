@@ -102,7 +102,6 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/user/static_pages_controller.rb" timestamp="1479659989286" />
       <file name="$USER_HOME$/projects/pos-analytics/app/models/csv_record.rb" timestamp="1479112867594">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="22" column="21" />
@@ -407,10 +406,9 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admin/application_controller.rb" timestamp="1479661536909">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/no_cust_input.coffee" timestamp="1476264018001">
         <mark key="[" line="6" column="46" />
@@ -579,13 +577,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/helpers/admin/sessions_helper.rb" timestamp="1479661574814">
-        <mark key="'" line="43" column="32" />
-        <mark key="[" line="17" column="80" />
-        <mark key="]" line="17" column="80" />
-        <mark key="^" line="43" column="33" />
-        <mark key="." line="17" column="80" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/toritsugi.rb" timestamp="1477561449528">
         <mark key="[" line="42" column="9" />
@@ -894,12 +885,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/admin/sessions_controller.rb" timestamp="1479662056203">
-        <mark key="[" line="18" column="81" />
-        <mark key="]" line="18" column="81" />
-        <mark key="^" line="18" column="81" />
-        <mark key="." line="18" column="81" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/admins/sessions/new.html.slim" timestamp="1479658479467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -977,11 +962,11 @@
         <mark key="^" line="165" column="33" />
         <mark key="." line="165" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/circle.yml" timestamp="1479209911926">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/projects/value_press/circle.yml" timestamp="1479779477061">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="9" column="12" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/services/calculating_record_service.rb" timestamp="1479107732498">
         <mark key="[" line="0" column="30" />
@@ -4079,22 +4064,22 @@
         <text encoding="base64">ICAgICAgZGFvLmJvb2tfaWQgPSBCb29rbi5maW5kX2J5KGlzYm46IG9yZGVyLmJvb2suYm9va19pc2JuKS5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIC0gYnVuZGxlIGV4ZWMgYnJha2VtYW4gLS1za2lwLWZpbGVzIGxpYi90ZW1wbGF0ZXMvIC0tZXhpdC1vbi13YXJuIC1vICRDSVJDTEVfQVJUSUZBQ1RTL2JyYWtlbWFuLmh0bWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gYnVuZGxlIGV4ZWMgcnVib2NvcCAtRCAtYyAucnVib2NvcC55bWwgLS1mb3JtYXQgc2ltcGxlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgc3RhcnRfdGltZSA9IERhdGVUaW1lLm5vdwogIHdvcmtjb3VudCA9IDAKICBsYXN0X3dvcmtlZF9pZCA9IDAKICBpZiB0aW1lX2RpZmYubmlsPwogICAgb3JkZXJzID0gZmV0Y2hfYWxsX29yZGVyCiAgZWxzZQogICAgdGltZV9kaWZmID0gVGltZS5ub3cuYWR2YW5jZShob3VyczogLXRpbWVfZGlmZikudG9fZGF0ZXRpbWUKICAgIG9yZGVycyA9IGZldGNoX29yZGVyX2RheXModGltZV9kaWZmKQogIGVuZAogIG9yZGVyID0gb3JkZXJzLnJlb3JkZXIoImRhdGFfaWQgYXNjIikud2hlcmUoImRhdGFfaWQgPiA/IiwgbGFzdF93b3JrZWRfaWQpLnRha2UKICB3aGlsZSAhb3JkZXIubmlsPyBkbyAKICAgIG9yZGVyID0gYm9va25vZml4KG9yZGVyKQogICAgdXBkYXRlRHMob3JkZXIpCiAgICB3b3JrY291bnQgKz0gMQogICAgbGFzdF93b3JrZWRfaWQgPSBvcmRlci5kYXRhX2lkCiAgICBvcmRlciA9IG9yZGVycy5yZW9yZGVyKCJkYXRhX2lkIGFzYyIpLndoZXJlKCJkYXRhX2lkID4gPyIsIGxhc3Rfd29ya2VkX2lkKS50YWtlCiAgZW5kCj09PT09PT0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwb3N0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">dGVzdDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4315,14 +4300,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgc3RhcnRfdGltZSA9IERhdGVUaW1lLm5vdwogIHdvcmtjb3VudCA9IDAKICBsYXN0X3dvcmtlZF9pZCA9IDAKICBpZiB0aW1lX2RpZmYubmlsPwogICAgb3JkZXJzID0gZmV0Y2hfYWxsX29yZGVyCiAgZWxzZQogICAgdGltZV9kaWZmID0gVGltZS5ub3cuYWR2YW5jZShob3VyczogLXRpbWVfZGlmZikudG9fZGF0ZXRpbWUKICAgIG9yZGVycyA9IGZldGNoX29yZGVyX2RheXModGltZV9kaWZmKQogIGVuZAogIG9yZGVyID0gb3JkZXJzLnJlb3JkZXIoImRhdGFfaWQgYXNjIikud2hlcmUoImRhdGFfaWQgPiA/IiwgbGFzdF93b3JrZWRfaWQpLnRha2UKICB3aGlsZSAhb3JkZXIubmlsPyBkbyAKICAgIG9yZGVyID0gYm9va25vZml4KG9yZGVyKQogICAgdXBkYXRlRHMob3JkZXIpCiAgICB3b3JrY291bnQgKz0gMQogICAgbGFzdF93b3JrZWRfaWQgPSBvcmRlci5kYXRhX2lkCiAgICBvcmRlciA9IG9yZGVycy5yZW9yZGVyKCJkYXRhX2lkIGFzYyIpLndoZXJlKCJkYXRhX2lkID4gPyIsIGxhc3Rfd29ya2VkX2lkKS50YWtlCiAgZW5kCj09PT09PT0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGJyLz4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIHJvbGU9InByZXNlbnRhdGlvbiIgY2xhc3M9ImRpdmlkZXIiPjwvbGk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/emp/staff/g</text>
