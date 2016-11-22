@@ -272,10 +272,11 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" timestamp="1479806745959">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" timestamp="1479808291986">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1477901527183">
         <mark key="'" line="40" column="122" />
@@ -494,6 +495,12 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form/components/hint_tooltips.rb" timestamp="1479808887436">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/make_bill_month_service_spec.rb" timestamp="1475804104146">
         <mark key="[" line="63" column="66" />
         <mark key="]" line="63" column="65" />
@@ -561,7 +568,7 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1479799877643">
+      <file name="/a.regexp" timestamp="1479808945449">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -4051,31 +4058,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>options[:icon]</text>
       </register>
       <register name="/" type="4">
         <text>A1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiYS51c2UgOmhpbnQsICB3cmFwX3dpdGg6IHsgdGFnOiAic3BhbiIsIGNsYXNzOiAiaGVscC1ibG9jayIgfQo=</text>
+      <register name="0" type="4">
+        <text>data-original-title</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYS51c2UgOmhpbnQsICB3cmFwX3dpdGg6IHsgdGFnOiAic3BhbiIsIGNsYXNzOiAiaGVscC1ibG9jayIgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgIGlucHV0X2h0bWxfb3B0aW9uc1s6cmVsXSB8fD0gJ3Rvb2x0aXAnCiAgICAgICAgICBpbnB1dF9odG1sX29wdGlvbnNbJ2RhdGEtdG9nZ2xlJ10gfHw9ICd0b29sdGlwJwogICAgICAgICAgaW5wdXRfaHRtbF9vcHRpb25zWydkYXRhLXBsYWNlbWVudCddIHx8PSB0b29sdGlwX3Bvc2l0aW9uCiAgICAgICAgICBpbnB1dF9odG1sX29wdGlvbnNbJ2RhdGEtdHJpZ2dlciddIHx8PSAnZm9jdXMnCiAgICAgICAgICBpbnB1dF9odG1sX29wdGlvbnNbJ2RhdGEtb3JpZ2luYWwtdGl0bGUnXSB8fD0gdG9vbHRpcF90ZXh0CiAgICAgICAgICBuaWw=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmEudXNlIDpoaW50LCAgd3JhcF93aXRoOiB7IHRhZzogInNwYW4iLCBjbGFzczogImhlbHAtYmxvY2siIH0K</text>
+        <text encoding="base64">ICAgICAgICBiYS51c2UgOmhpbnQsICB3cmFwX3dpdGg6IHsgdGFnOiAic3BhbiIsIGNsYXNzOiAiaGVscC1ibG9jayIgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTA6ICLnoLTmo4QiCg==</text>
+        <text encoding="base64">ICAgICAgYmEudXNlIDpoaW50LCAgd3JhcF93aXRoOiB7IHRhZzogInNwYW4iLCBjbGFzczogImhlbHAtYmxvY2siIH0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4297,13 +4304,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8ocm9vdF9wYXRoKSB1bmxlc3MgY3VycmVudF9zdGFmZj8oQGN1cnJlbnRfc3RhZmYpCg==</text>
+        <text encoding="base64">MTA6ICLnoLTmo4QiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQGN1cnJlbnRfc3RhZmYgPSBTdGFmZi5maW5kKHBhcmFtc1s6aWRdKQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/emp/staff/g</text>
