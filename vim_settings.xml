@@ -46,12 +46,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/Gemfile" timestamp="1479706214875">
-        <mark key="'" line="63" column="11" />
-        <mark key="[" line="89" column="20" />
-        <mark key="]" line="89" column="25" />
-        <mark key="." line="89" column="25" />
-        <mark key="^" line="89" column="25" />
+      <file name="$USER_HOME$/projects/pos-calc/Gemfile" timestamp="1479881854997">
+        <mark key="'" line="97" column="8" />
+        <mark key="[" line="63" column="15" />
+        <mark key="]" line="63" column="23" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="63" column="23" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/models/book_syoten_record.rb" timestamp="1479114948624">
         <mark key="[" line="14" column="72" />
@@ -343,6 +343,9 @@
         <mark key="]" line="16" column="12" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/Gemfile.lock" timestamp="1479881785315">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/staff.rb" timestamp="1479657986665">
         <mark key="[" line="30" column="45" />
@@ -1345,8 +1348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="279" column="6" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="83" column="71" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="372" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="727" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1445,6 +1446,8 @@
       <jump line="62" column="61" filename="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" />
       <jump line="63" column="78" filename="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" />
       <jump line="10" column="23" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile.lock" />
+      <jump line="97" column="8" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4097,7 +4100,7 @@
         <text encoding="base64">44CA6aGn5a6i5ZCNOiAje2N1c3Qubm1fY3VzdH0=</text>
       </register>
       <register name="/" type="4">
-        <text>amtax_bitem</text>
+        <text>wice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6Y250X2JpdGVtLCAxCg==</text>
@@ -4353,9 +4356,9 @@
       </register>
     </registers>
     <search>
-      <last-search>amtax_bitem</last-search>
+      <last-search>wice</last-search>
       <last-offset />
-      <last-pattern>amtax_bitem</last-pattern>
+      <last-pattern>wice</last-pattern>
       <last-replace>staff</last-replace>
       <last-substitute>emp</last-substitute>
       <last-dir>1</last-dir>
@@ -4363,8 +4366,6 @@
     </search>
     <history>
       <history-search>
-        <entry>正常</entry>
-        <entry>削除</entry>
         <entry>店舗</entry>
         <entry>詳細</entry>
         <entry>date</entry>
@@ -4383,6 +4384,8 @@
         <entry>val</entry>
         <entry>amtax_goods</entry>
         <entry>amtax_bitem</entry>
+        <entry>wri</entry>
+        <entry>wice</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sales/places/g</entry>
