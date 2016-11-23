@@ -96,6 +96,12 @@
         <mark key="." line="2" column="71" />
         <mark key="^" line="2" column="71" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1479920826796">
+        <mark key="[" line="299" column="57" />
+        <mark key="]" line="300" column="10" />
+        <mark key="^" line="300" column="10" />
+        <mark key="." line="300" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1475777358044">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
@@ -224,6 +230,12 @@
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" timestamp="1479921185218">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="50" column="45" />
+        <mark key="^" line="50" column="21" />
+        <mark key="." line="50" column="45" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/interims_controller.rb" timestamp="1479917959455" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/dusers/_form.html.slim" timestamp="1476280025570">
@@ -815,12 +827,12 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/client/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1479920499046">
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1479920982397">
         <mark key="'" line="0" column="69" />
-        <mark key="[" line="58" column="111" />
-        <mark key="]" line="58" column="111" />
-        <mark key="^" line="58" column="111" />
-        <mark key="." line="58" column="111" />
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="26" column="111" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admins/articles_controller.rb" timestamp="1479403880536">
         <mark key="[" line="0" column="64" />
@@ -3886,37 +3898,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>望</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
       </register>
-      <register name="0" type="4">
-        <text>, display_only: true</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW1hcnlfa2V5OiBbOm5vX2N1c3QsIDpzcV9tcGxhbl0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">6Zu76Kmx55Wq5Y+3Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5leHQgdW5sZXNzIHRlbC5vYmplY3QuZW5hYmxlPwo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbmRfdG8gZG8gfGZvcm1hdHwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQuanNvbiB7IHJlbmRlciBqc29uOiBAdGVsX21wbGFuc190b190cmFuc2Zlcl90ZWxzX2NoYW5nZV9yZXF1ZXN0LmVycm9ycywgc3RhdHVzOiA6dW5wcm9jZXNzYWJsZV9lbnRpdHkgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>def destroy
-    @tel_mplans_to_transfer_tels_change_request.destroy
-    respond_to do |format|
-      format.html { redirect_to client_tel_mplans_to_transfer_tels_change_requests_url, notice: 'Tel mplans to transfer tels change request was successfully destroyed.' }
-      format.json { head :no_content }
-    end
-  end</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JtYXQuanNvbiB7IHJlbmRlciA6c2hvdywgc3RhdHVzOiA6Y3JlYXRlZCwgbG9jYXRpb246IEB0ZWxfbXBsYW5zX3RvX3RyYW5zZmVyX3RlbHNfY2hhbmdlX3JlcXVlc3QgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA9IGYuaW5wdXQgOnNxX21wbGFuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA9IGYuaW5wdXQgOmFjY2VwdGVkX25vX3BlcnNvbgo=</text>
+        <text encoding="base64">ICAgICAgbm9fY3VzdDogY3VycmVudF9jdXN0Lm5vX2N1c3QsCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4138,13 +4144,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA9IGYuaW5wdXQgOmFjY2VwdGVkX2F0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA9IGYuaW5wdXQgOnN0YXR1cwo=</text>
+        <text encoding="base64">ICAgICAgVGVsTXBsYW5zVG9UcmFuc2ZlclRlbHNDaGFuZ2VSZXF1ZXN0Lm5ldygK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA9IGYuaW5wdXQgOm5vX2N1c3QK</text>
+        <text encoding="base64">6Zu76Kmx55Wq5Y+3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
