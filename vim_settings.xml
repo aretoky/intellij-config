@@ -329,11 +329,8 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1479887059710">
-        <mark key="[" line="100" column="22" />
-        <mark key="]" line="100" column="22" />
-        <mark key="^" line="100" column="22" />
-        <mark key="." line="100" column="22" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/job.rb" timestamp="1479907671600">
+        <mark key="'" line="48" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/admin/custs_spec.rb" timestamp="1477407256108">
         <mark key="[" line="58" column="36" />
@@ -1357,10 +1354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="727" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="27" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="353" column="28" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="503" column="43" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="505" column="40" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="132" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1457,6 +1450,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile.lock" />
       <jump line="97" column="8" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="293" column="95" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
+      <jump line="35" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="84" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="33" column="39" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
+      <jump line="48" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4109,7 +4106,7 @@
         <text encoding="base64">44CA6aGn5a6i5ZCNOiAje2N1c3Qubm1fY3VzdH0=</text>
       </register>
       <register name="/" type="4">
-        <text>Pos.impo</text>
+        <text>report_from</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6Y250X2JpdGVtLCAxCg==</text>
@@ -4365,9 +4362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Pos.impo</last-search>
+      <last-search>report_from</last-search>
       <last-offset />
-      <last-pattern>Pos.impo</last-pattern>
+      <last-pattern>report_from</last-pattern>
       <last-replace>staff</last-replace>
       <last-substitute>emp</last-substitute>
       <last-dir>1</last-dir>
@@ -4375,7 +4372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>詳細</entry>
         <entry>date</entry>
         <entry>book</entry>
         <entry>isbn</entry>
@@ -4395,6 +4391,7 @@
         <entry>wri</entry>
         <entry>wice</entry>
         <entry>Pos.impo</entry>
+        <entry>report_from</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sales/places/g</entry>
