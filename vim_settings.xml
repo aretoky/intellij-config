@@ -320,12 +320,6 @@
         <mark key="^" line="87" column="17" />
         <mark key="." line="87" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1479820497394">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="75" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="14" column="66" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/show.html.slim" timestamp="1475776632663">
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="19" />
@@ -405,12 +399,6 @@
         <mark key="^" line="43" column="4" />
         <mark key="." line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_form.html.slim" timestamp="1479815610046">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="43" />
-        <mark key="." line="27" column="43" />
-        <mark key="^" line="27" column="43" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/telexp.ja.yml" timestamp="1476519235657">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="6" />
@@ -477,13 +465,6 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1479820855792">
-        <mark key="'" line="70" column="78" />
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="55" />
-        <mark key="^" line="16" column="53" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/circleci.yml" timestamp="1479195229190">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="17" column="3" />
@@ -544,10 +525,11 @@
         <mark key="." line="63" column="65" />
         <mark key="^" line="63" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1479817916240">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1479822990679">
+        <mark key="[" line="115" column="57" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/edit_billmail_fields.html.slim" timestamp="1476521475272">
         <mark key="[" line="32" column="77" />
@@ -611,7 +593,7 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1479820422138">
+      <file name="/a.regexp" timestamp="1479822843907">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -4117,8 +4099,8 @@
       <register name="/" type="4">
         <text>amtax_bitem</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;顧客ID: #{cust.no_cust}　顧客名: #{cust.nm_cust}&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6Y250X2JpdGVtLCAxCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
