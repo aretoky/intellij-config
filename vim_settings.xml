@@ -96,7 +96,8 @@
         <mark key="." line="2" column="71" />
         <mark key="^" line="2" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1479920826796">
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1479923878679">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="299" column="57" />
         <mark key="]" line="300" column="10" />
         <mark key="^" line="300" column="10" />
@@ -827,12 +828,12 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/client/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1479920982397">
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1479924165246">
         <mark key="'" line="0" column="69" />
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="18" />
-        <mark key="^" line="26" column="111" />
-        <mark key="." line="28" column="18" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="26" column="54" />
+        <mark key="^" line="26" column="54" />
+        <mark key="." line="26" column="54" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admins/articles_controller.rb" timestamp="1479403880536">
         <mark key="[" line="0" column="64" />
@@ -1149,8 +1150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="167" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="168" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="221" column="63" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="238" column="63" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1249,6 +1248,8 @@
       <jump line="1" column="46" filename="$USER_HOME$/projects/cplus/app/controllers/admin/tel_mplans_to_transfer_tels_change_requests_controller.rb" />
       <jump line="0" column="69" filename="$USER_HOME$/projects/cplus/app/controllers/client/tel_mplans_to_transfer_tels_change_requests_controller.rb" />
       <jump line="5" column="13" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="292" column="24" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3898,31 +3899,33 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>tel_mplan</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW1hcnlfa2V5OiBbOm5vX2N1c3QsIDpzcV9tcGxhbl0sCg==</text>
+      <register name="0" type="4">
+        <text>tel_mplan = current_cust.tel_mplans.
+      where(sq_mplan: params[:sq_mplan]).first
+    redirect_to client_profile_path if tel_mplan == nil</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbmRfdG8gZG8gfGZvcm1hdHwK</text>
+        <text encoding="base64">ICAgICAgc3FfbXBsYW46IHBhcmFtc1s6c3FfbXBsYW5dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQuanNvbiB7IHJlbmRlciBqc29uOiBAdGVsX21wbGFuc190b190cmFuc2Zlcl90ZWxzX2NoYW5nZV9yZXF1ZXN0LmVycm9ycywgc3RhdHVzOiA6dW5wcm9jZXNzYWJsZV9lbnRpdHkgfQo=</text>
+        <text encoding="base64">ICAgICMgcmVkaXJlY3RfdG8gY2xpZW50X3Byb2ZpbGVfcGF0aCBpZiBwYXJhbXNbOnNxX21wbGFuXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQuanNvbiB7IHJlbmRlciA6c2hvdywgc3RhdHVzOiA6Y3JlYXRlZCwgbG9jYXRpb246IEB0ZWxfbXBsYW5zX3RvX3RyYW5zZmVyX3RlbHNfY2hhbmdlX3JlcXVlc3QgfQo=</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbm9fY3VzdDogY3VycmVudF9jdXN0Lm5vX2N1c3QsCg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbmRfdG8gZG8gfGZvcm1hdHwK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4144,22 +4147,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQuanNvbiB7IHJlbmRlciBqc29uOiBAdGVsX21wbGFuc190b190cmFuc2Zlcl90ZWxzX2NoYW5nZV9yZXF1ZXN0LmVycm9ycywgc3RhdHVzOiA6dW5wcm9jZXNzYWJsZV9lbnRpdHkgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVGVsTXBsYW5zVG9UcmFuc2ZlclRlbHNDaGFuZ2VSZXF1ZXN0Lm5ldygK</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXQuanNvbiB7IHJlbmRlciA6c2hvdywgc3RhdHVzOiA6Y3JlYXRlZCwgbG9jYXRpb246IEB0ZWxfbXBsYW5zX3RvX3RyYW5zZmVyX3RlbHNfY2hhbmdlX3JlcXVlc3QgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">6Zu76Kmx55Wq5Y+3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>tel_mplan</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>tel_mplan</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -4167,7 +4170,6 @@
     </search>
     <history>
       <history-search>
-        <entry>A</entry>
         <entry>book_isbn</entry>
         <entry>1004000000001</entry>
         <entry>orders</entry>
@@ -4187,6 +4189,7 @@
         <entry>requiest</entry>
         <entry>enumerize</entry>
         <entry>admin</entry>
+        <entry>tel_mplan</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
