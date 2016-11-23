@@ -90,6 +90,9 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1479882779614">
+        <mark key="'" line="293" column="95" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" timestamp="1477551823325">
         <mark key="[" line="87" column="66" />
         <mark key="]" line="87" column="67" />
@@ -596,7 +599,7 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1479822843907">
+      <file name="/a.regexp" timestamp="1479882555097">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -1348,7 +1351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="71" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="372" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="727" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="27" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -1448,6 +1450,7 @@
       <jump line="10" column="23" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/Gemfile.lock" />
       <jump line="97" column="8" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
+      <jump line="293" column="95" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4100,7 +4103,7 @@
         <text encoding="base64">44CA6aGn5a6i5ZCNOiAje2N1c3Qubm1fY3VzdH0=</text>
       </register>
       <register name="/" type="4">
-        <text>wice</text>
+        <text>Pos.impo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6Y250X2JpdGVtLCAxCg==</text>
@@ -4356,9 +4359,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wice</last-search>
+      <last-search>Pos.impo</last-search>
       <last-offset />
-      <last-pattern>wice</last-pattern>
+      <last-pattern>Pos.impo</last-pattern>
       <last-replace>staff</last-replace>
       <last-substitute>emp</last-substitute>
       <last-dir>1</last-dir>
@@ -4366,7 +4369,6 @@
     </search>
     <history>
       <history-search>
-        <entry>店舗</entry>
         <entry>詳細</entry>
         <entry>date</entry>
         <entry>book</entry>
@@ -4386,6 +4388,7 @@
         <entry>amtax_bitem</entry>
         <entry>wri</entry>
         <entry>wice</entry>
+        <entry>Pos.impo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sales/places/g</entry>
