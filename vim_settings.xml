@@ -257,8 +257,8 @@
         <mark key="^" line="221" column="24" />
         <mark key="." line="221" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1479718321931">
-        <mark key="'" line="502" column="12" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1479991845100">
+        <mark key="'" line="238" column="6" />
         <mark key="[" line="147" column="6" />
         <mark key="]" line="147" column="6" />
         <mark key="." line="147" column="6" />
@@ -432,7 +432,7 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1479988986038">
+      <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1479990924483">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="24" column="4" />
         <mark key="^" line="24" column="4" />
@@ -462,10 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="20" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
-      <jump line="21" column="10" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
-      <jump line="31" column="13" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
-      <jump line="295" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="139" column="177" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="78" column="14" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
@@ -562,6 +558,10 @@
       <jump line="225" column="6" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="7" column="11" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="218" column="21" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="38" column="9" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="134" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="221" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="238" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3214,7 +3214,7 @@
         <text>1.day, at: '0:49'</text>
       </register>
       <register name="/" type="4">
-        <text>LiquidMetal</text>
+        <text>all</text>
       </register>
       <register name="0" type="4">
         <text>every 1.day, at: '4:49', roles: [:batch] do
@@ -3472,9 +3472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LiquidMetal</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>LiquidMetal</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3482,8 +3482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>daily</entry>
-        <entry>sync</entry>
         <entry>book_no</entry>
         <entry>A1</entry>
         <entry>Bookn</entry>
@@ -3502,6 +3500,8 @@
         <entry>updateDs</entry>
         <entry>LiquidMetal.score</entry>
         <entry>LiquidMetal</entry>
+        <entry>export_sfdc</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
