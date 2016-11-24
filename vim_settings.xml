@@ -879,6 +879,7 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/DailySFposter/database.yml" timestamp="1479976238685" />
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1479919673770">
         <mark key="[" line="3" column="58" />
         <mark key="]" line="3" column="74" />
@@ -1332,12 +1333,12 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/DailySFposter/sf-poster.rb" timestamp="1479732241804">
-        <mark key="'" line="194" column="19" />
-        <mark key="[" line="228" column="17" />
-        <mark key="]" line="228" column="19" />
-        <mark key="." line="228" column="19" />
-        <mark key="^" line="228" column="19" />
+      <file name="$USER_HOME$/projects/DailySFposter/sf-poster.rb" timestamp="1479976580485">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="185" column="22" />
+        <mark key="]" line="185" column="38" />
+        <mark key="." line="185" column="38" />
+        <mark key="^" line="185" column="38" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admins/user_accounts_controller.rb" timestamp="1479456993155">
         <mark key="[" line="20" column="0" />
@@ -1446,14 +1447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="565" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="567" column="47" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="569" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="571" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="574" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="581" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="583" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="585" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="587" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="502" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="108" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
@@ -1495,7 +1488,6 @@
       <jump line="164" column="34" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="82" column="24" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="146" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="134" column="12" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="194" column="19" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/common/common.coffee" />
@@ -1546,6 +1538,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="37" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
+      <jump line="112" column="8" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="128" column="34" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="133" column="22" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="185" column="11" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="186" column="26" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="231" column="13" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="187" column="4" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="232" column="29" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4198,10 +4199,10 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>sync</text>
+        <text>Bookn</text>
       </register>
       <register name="0" type="4">
-        <text>15000</text>
+        <text>order.book_no</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4455,9 +4456,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sync</last-search>
+      <last-search>Bookn</last-search>
       <last-offset />
-      <last-pattern>sync</last-pattern>
+      <last-pattern>Bookn</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -4465,9 +4466,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wri</entry>
-        <entry>wice</entry>
-        <entry>Pos.impo</entry>
         <entry>report_from</entry>
         <entry>tel__mplan</entry>
         <entry>tels</entry>
@@ -4485,6 +4483,9 @@
         <entry>dup</entry>
         <entry>daily</entry>
         <entry>sync</entry>
+        <entry>book_no</entry>
+        <entry>A1</entry>
+        <entry>Bookn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
