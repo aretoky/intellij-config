@@ -82,12 +82,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1479972029661">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1479973955022">
         <mark key="'" line="37" column="21" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="140" column="32" />
-        <mark key="^" line="140" column="32" />
-        <mark key="." line="140" column="32" />
+        <mark key="[" line="177" column="17" />
+        <mark key="]" line="177" column="21" />
+        <mark key="^" line="214" column="31" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" timestamp="1477551823325">
         <mark key="[" line="87" column="66" />
@@ -4201,25 +4201,26 @@
         <text>sync</text>
       </register>
       <register name="0" type="4">
-        <text>sfdc_sync_history.note</text>
+        <text>15000</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNmZGNfc3luY19oaXN0b3J5LnRvdWNoCg==</text>
+      <register name="2" type="4">
+        <text>sfdc_sync_history.current_worked_data = workcount
+        sfdc_sync_history.save</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHNmZGNfc3luY19oaXN0b3J5LnRvdWNoCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNmZGNfc3luY19oaXN0b3J5Lm5vdGUgPSAiYWxsIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4444,10 +4445,10 @@
         <text encoding="base64">ICAgIHNmZGNfc3luY19oaXN0b3J5LnRvdWNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2ZkY19zeW5jX2hpc3Rvcnkuc2F2ZQo=</text>
+        <text encoding="base64">ICAgIHNmZGNfc3luY19oaXN0b3J5Lm5vdGUgPSAiYWxsIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNmZGNfc3luY19oaXN0b3J5LnRvdWNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
