@@ -54,8 +54,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1479961945324">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1479966649047">
         <mark key="'" line="37" column="21" />
+        <mark key="[" line="331" column="6" />
+        <mark key="]" line="331" column="15" />
+        <mark key="^" line="331" column="15" />
+        <mark key="." line="331" column="15" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" timestamp="1477551823325">
         <mark key="[" line="87" column="66" />
@@ -3978,19 +3982,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>worked +=</text>
       </register>
       <register name="/" type="4">
         <text>dup</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2hlcmUoYm9va19pZDogYm9va19pZCkuCg==</text>
+      <register name="0" type="4">
+        <text>worked</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY291bnQK</text>
+        <text encoding="base64">ICAgIGR1cGxpY2F0aW9uX3Bvc19pZHMgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3999,10 +4003,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgUG9zLmltcG9ydChbOmlkLCA6aXNfZGVsZXRlZF0sICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text># unique_keys.each do |key, max_id|
+    #   duplication_poses = Pos.
+    #     where(book_id: book_id).
+    #     where(store_id: key[0]).
+    #     where(report_date: key[1]).
+    #     where(is_deleted: false).
+    #     reorder(id: :desc).
+    #     offset(1)
+    #   if limit_num
+    #     duplication_poses = duplication_poses.limit(limit_num)
+    #   end
+    #   if is_dry_run
+    #     worked = 1
+    #     break
+    #   end
+    #   # duplication_pos_ids = duplication_poses.pluck(:id)
+    #   # worked += Pos.where(id: duplication_pos_ids).update_all(is_deleted: true)
+    #
+    #   duplication_pos_ids += duplication_poses.pluck(:id)
+    # end
+
+
+
+    # worked += Pos.import([:id, :is_deleted], duplication_pos_ids.map do |id| [id, false] end, on_duplicate_key_update: [:id]).num_inserts</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4224,10 +4251,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcCBrZXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
