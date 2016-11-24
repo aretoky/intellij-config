@@ -742,6 +742,13 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" timestamp="1479985514046">
+        <mark key="'" line="218" column="21" />
+        <mark key="[" line="221" column="24" />
+        <mark key="]" line="221" column="24" />
+        <mark key="^" line="221" column="24" />
+        <mark key="." line="221" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/models/store_spec.rb" timestamp="1476351835202">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1450,8 +1457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="5" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
-      <jump line="123" column="34" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="3" column="20" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="21" column="10" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="31" column="13" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
@@ -1550,6 +1555,8 @@
       <jump line="176" column="4" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="227" column="10" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="225" column="6" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
+      <jump line="7" column="11" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="218" column="21" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4199,13 +4206,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>updateDs</text>
+        <text>LiquidMetal</text>
       </register>
       <register name="0" type="4">
-        <text>notify_release_stages</text>
+        <text>abbreviation</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYmVnaW4K</text>
@@ -4458,9 +4465,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updateDs</last-search>
+      <last-search>LiquidMetal</last-search>
       <last-offset />
-      <last-pattern>updateDs</last-pattern>
+      <last-pattern>LiquidMetal</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -4468,8 +4475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;pos&quot;</entry>
-        <entry>dup</entry>
         <entry>daily</entry>
         <entry>sync</entry>
         <entry>book_no</entry>
@@ -4488,6 +4493,8 @@
         <entry>bugsnag</entry>
         <entry>Bugsnag</entry>
         <entry>updateDs</entry>
+        <entry>LiquidMetal.score</entry>
+        <entry>LiquidMetal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
