@@ -82,12 +82,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1479968482936">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1479969935572">
         <mark key="'" line="37" column="21" />
-        <mark key="[" line="127" column="21" />
-        <mark key="]" line="127" column="29" />
-        <mark key="^" line="127" column="29" />
-        <mark key="." line="127" column="29" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="140" column="32" />
+        <mark key="^" line="140" column="32" />
+        <mark key="." line="140" column="32" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_form.html.erb" timestamp="1477551823325">
         <mark key="[" line="87" column="66" />
@@ -521,7 +521,7 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/sfdc_sync_pos_histories_controller.rb" timestamp="1479968131330">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/sfdc_sync_pos_histories_controller.rb" timestamp="1479969843348">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="27" column="5" />
         <mark key="^" line="27" column="5" />
@@ -4206,7 +4206,7 @@
         <text>sync</text>
       </register>
       <register name="0" type="4">
-        <text>worked</text>
+        <text>sfdc_sync_history.note</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
