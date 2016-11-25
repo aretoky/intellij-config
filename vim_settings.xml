@@ -16,6 +16,7 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/_edit_form.html.slim" timestamp="1480062248042" />
       <file name="$USER_HOME$/projects/pos-analytics/app/models/book_syoten_monthly_record.rb" timestamp="1479116565015">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="46" column="36" />
@@ -311,11 +312,11 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" timestamp="1479921185218">
+      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" timestamp="1480061375763">
         <mark key="[" line="50" column="45" />
-        <mark key="]" line="50" column="45" />
-        <mark key="^" line="50" column="21" />
-        <mark key="." line="50" column="45" />
+        <mark key="]" line="52" column="1" />
+        <mark key="^" line="52" column="1" />
+        <mark key="." line="52" column="1" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" timestamp="1477901527183">
         <mark key="'" line="40" column="122" />
@@ -442,17 +443,18 @@
         <mark key="^" line="16" column="61" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/client/postal_mailer.rb" timestamp="1480052672351" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/rooms/edit.html.slim" timestamp="1480062138807" />
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/no_cust_input.coffee" timestamp="1476264018001">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="72" />
         <mark key="." line="6" column="72" />
         <mark key="^" line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_request_mailer/created_admin_notify.text.erb" timestamp="1480057876131">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-        <mark key="^" line="6" column="36" />
+      <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_request_mailer/created_admin_notify.text.erb" timestamp="1480059713041">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/factories/books.rb" timestamp="1476341983759">
         <mark key="[" line="26" column="7" />
@@ -511,11 +513,11 @@
         <mark key="^" line="60" column="69" />
         <mark key="." line="60" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/tel_mplans_to_transfer_tels_change_request_saving_service.rb" timestamp="1480057741424">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
+      <file name="$USER_HOME$/projects/cplus/app/services/tel_mplans_to_transfer_tels_change_request_saving_service.rb" timestamp="1480059672143">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
         <mark key="^" line="15" column="18" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/sfdc_sync_pos_histories_controller.rb" timestamp="1479969843348">
         <mark key="[" line="25" column="20" />
@@ -529,12 +531,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1479916383262">
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1480061794015">
         <mark key="'" line="1" column="46" />
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="37" />
-        <mark key="." line="46" column="37" />
-        <mark key="^" line="46" column="37" />
+        <mark key="[" line="61" column="99" />
+        <mark key="]" line="61" column="99" />
+        <mark key="." line="61" column="99" />
+        <mark key="^" line="61" column="98" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/my_password_input.rb" timestamp="1476759986726">
         <mark key="[" line="20" column="49" />
@@ -615,6 +617,12 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/tel_mplans_to_transfer_tels_change_requests/edit.html.slim" timestamp="1480062464658">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/pos-analytics/config/application.rb" timestamp="1479092658911">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="0" />
@@ -647,6 +655,12 @@
         <mark key="^" line="0" column="75" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1480064137231">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1479652507830">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -666,18 +680,22 @@
         <mark key="." line="67" column="67" />
         <mark key="^" line="67" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1480056500187">
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1480063455422">
         <mark key="'" line="5" column="13" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="139" column="23" />
+        <mark key="[" line="140" column="25" />
+        <mark key="]" line="140" column="27" />
+        <mark key="." line="140" column="27" />
+        <mark key="^" line="140" column="27" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admins/user_account_disables_controller.rb" timestamp="1479452700478">
         <mark key="[" line="0" column="75" />
         <mark key="]" line="2" column="50" />
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/telexps_controllerable.rb" timestamp="1480058823950">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/postal.ja.yml" timestamp="1476518654092">
         <mark key="[" line="48" column="0" />
@@ -782,6 +800,7 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1480058411549" />
       <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1479991845100">
         <mark key="'" line="238" column="6" />
         <mark key="[" line="147" column="6" />
@@ -911,11 +930,12 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/tel_mplans_to_transfer_tels_change_requests/index.html.slim" timestamp="1479916718045">
-        <mark key="[" line="30" column="64" />
-        <mark key="]" line="30" column="69" />
-        <mark key="^" line="30" column="69" />
-        <mark key="." line="30" column="69" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/tel_mplans_to_transfer_tels_change_requests/index.html.slim" timestamp="1480063268039">
+        <mark key="'" line="43" column="50" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="16" />
+        <mark key="^" line="42" column="46" />
+        <mark key="." line="43" column="16" />
       </file>
       <file name="$USER_HOME$/projects/cplus/db/migrate/20161123144918_create_tel_mplans_to_transfer_tels_change_requiests.rb" timestamp="1479914985048">
         <mark key="[" line="13" column="131" />
@@ -923,11 +943,11 @@
         <mark key="." line="13" column="131" />
         <mark key="^" line="13" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplans_to_transfer_tels_change_request.rb" timestamp="1480057078583">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="53" column="37" />
-        <mark key="^" line="53" column="37" />
-        <mark key="." line="53" column="37" />
+      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplans_to_transfer_tels_change_request.rb" timestamp="1480062994828">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="^" line="60" column="27" />
+        <mark key="." line="60" column="27" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1476774657524">
         <mark key="[" line="27" column="39" />
@@ -953,6 +973,7 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/edit.html.slim" timestamp="1480062431557" />
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/interim.ja.yml" timestamp="1476518741474">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="37" column="16" />
@@ -1054,18 +1075,24 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_requests/_form.html.slim" timestamp="1480056306884">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="14" column="32" />
+      <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_requests/_form.html.slim" timestamp="1480059772220">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="47" />
         <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="32" />
+        <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/client/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1480057534229">
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1480061655938">
         <mark key="'" line="0" column="69" />
-        <mark key="[" line="64" column="107" />
-        <mark key="]" line="64" column="113" />
-        <mark key="^" line="64" column="113" />
-        <mark key="." line="64" column="113" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="54" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/tel_mplans_to_transfer_tels_change_requests/_form.html.slim" timestamp="1480064679573">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="116" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admins/articles_controller.rb" timestamp="1479403880536">
         <mark key="[" line="0" column="64" />
@@ -1476,7 +1503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="177" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="78" column="14" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="126" column="14" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
@@ -1576,6 +1602,7 @@
       <jump line="134" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="221" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="238" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="31" column="50" filename="$USER_HOME$/projects/cplus/app/views/admin/tel_mplans_to_transfer_tels_change_requests/index.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4225,33 +4252,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>.delete(:ready)</text>
       </register>
       <register name="/" type="4">
-        <text>all</text>
+        <text>note</text>
       </register>
       <register name="0" type="4">
-        <text>Client::TelMplansToTransferTelsChangeRequetMailer.create_user_notify(
-        change_request
-      ).deliver_now</text>
+        <text>TelMplansToTransferTelsChangeRequest.status.options</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PSBhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PSBmLmlucHV0IDpwbGFuX25hbWUsIGFzOiA6ZGlzcGxheQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmFsc2UK</text>
+        <text encoding="base64">S0sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text>= simple_form_for(@tel_mplans_to_transfer_tels_change_request) do |f|
+  = f.error_notification
+
+  .form-inputs
+    = f.input :no_cust
+    = f.input :sq_mplan
+    = f.input :status
+    = f.input :note
+    = f.input :accepted_at
+    = f.input :accepted_no_person
+
+  .form-actions
+    = f.button :submit</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbmRfbm90aWZpY2F0aW9uX21haWwK</text>
+        <text encoding="base64">PQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4473,22 +4510,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgID0gZi5oaWRkZW5fZmllbGQgOnRzX3VwZGF0ZV9jb25maXJtYXRpb25faW5fdW5peHRpbWUsIHZhbHVlOiBmLm9iamVjdC50c191cGRhdGVfaW5fdW5peHRpbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZCA9IGxpbmtfdG8gJ0VkaXQnLCBbOmNsaWVudCwgZWRpdF90ZWxfbXBsYW5zX3RvX3RyYW5zZmVyX3RlbHNfY2hhbmdlX3JlcXVlc3RfcGF0aCh0ZWxfbXBsYW5zX3RvX3RyYW5zZmVyX3RlbHNfY2hhbmdlX3JlcXVlc3QpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgbmV3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
       </register>
     </registers>
     <search>
-      <last-search>all</last-search>
+      <last-search>note</last-search>
       <last-offset />
-      <last-pattern>all</last-pattern>
+      <last-pattern>note</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -4496,7 +4533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>book_no</entry>
         <entry>A1</entry>
         <entry>Bookn</entry>
         <entry>LAST WORKED</entry>
@@ -4516,6 +4552,7 @@
         <entry>LiquidMetal</entry>
         <entry>export_sfdc</entry>
         <entry>all</entry>
+        <entry>note</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
