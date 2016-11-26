@@ -282,11 +282,11 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/tel_mplans_to_transfer_tels_change_request_saving_service_spec.rb" timestamp="1480149932597">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="44" column="5" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/tel_mplans_to_transfer_tels_change_request_saving_service_spec.rb" timestamp="1480150773624">
+        <mark key="[" line="82" column="90" />
+        <mark key="]" line="82" column="89" />
+        <mark key="^" line="82" column="89" />
+        <mark key="." line="82" column="89" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477897330644">
         <mark key="'" line="73" column="12" />
@@ -441,11 +441,11 @@
         <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/edit.html.slim" timestamp="1480062431557" />
-      <file name="$USER_HOME$/projects/cplus/app/models/sales_analytics_result.rb" timestamp="1480144352772">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="12" column="39" />
+      <file name="$USER_HOME$/projects/cplus/app/models/sales_analytics_result.rb" timestamp="1480151235439">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_daily_order_shipping_list.html.erb" timestamp="1479693745671">
         <mark key="'" line="32" column="0" />
@@ -610,12 +610,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/places_analytics_result.rb" timestamp="1480144315533">
+      <file name="$USER_HOME$/projects/cplus/app/models/places_analytics_result.rb" timestamp="1480151249760">
         <mark key="'" line="144" column="20" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="146" column="0" />
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1479990924483">
         <mark key="[" line="2" column="13" />
@@ -3403,31 +3403,35 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Smailbody</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3ViamVjdCB7IGNoYW5nZV9yZXF1ZXN0X3NlcnZpY2Uuc2F2ZSB9Cg==</text>
+      <register name="0" type="4">
+        <text>it &quot;転送先電話番号レコードが1増えること&quot; do
+          expect{ subject }.to change(cust.mplans.first.enable_to_transfer_tels.size).by(1)
+        end</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>it &quot;リクエストレコードが増えないこと&quot; do
+          expect{ subject }.to change(TelMplansToTransferTelsChangeRequest, :count).by(0)
+        end</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3649,13 +3653,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdHsgc3ViamVjdCB9LnRvIGNoYW5nZShUZWxNcGxhbnNUb1RyYW5zZmVyVGVsc0NoYW5nZVJlcXVlc3QsIDpjb3VudCkuYnkoMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpdCAi44Oq44Kv44Ko44K544OI44Os44Kz44O844OJ44GM5aKX44GI44Gq44GE44GT44GoIiBkbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
