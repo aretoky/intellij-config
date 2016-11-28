@@ -10,11 +10,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161128061354_create_syoten_groups.rb" timestamp="1480314864609">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="75" />
-        <mark key="^" line="2" column="75" />
-        <mark key="." line="2" column="75" />
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161128061354_create_syoten_groups.rb" timestamp="1480317256293">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+        <mark key="^" line="5" column="54" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/models/toritsugi_spec.rb" timestamp="1476351604532">
         <mark key="[" line="10" column="0" />
@@ -273,6 +273,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="^" line="37" column="1" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-analytics/app/models/syoten.rb" timestamp="1480317376433">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/search_no_cust_input.coffee" timestamp="1476268980147">
         <mark key="[" line="6" column="25" />
@@ -1021,10 +1027,10 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/controllers/syotens_controller.rb" timestamp="1480315134877">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="29" />
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/emps/_form.html.slim" timestamp="1476280144705">
         <mark key="[" line="12" column="43" />
@@ -1061,11 +1067,11 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161128040247_create_syotens.rb" timestamp="1480314858935">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="69" />
-        <mark key="^" line="2" column="69" />
-        <mark key="." line="2" column="69" />
+      <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161128040247_create_syotens.rb" timestamp="1480316783285">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="77" />
+        <mark key="." line="14" column="37" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_new_form.html.erb" timestamp="1477646190909">
         <mark key="[" line="17" column="0" />
@@ -1189,12 +1195,6 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="/a.regexp" timestamp="1480302327290">
-        <mark key="i" line="0" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/sendmail_year_service.rb" timestamp="1479652507830">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1225,13 +1225,19 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/pos-analytics/app/models/syoten_group.rb" timestamp="1480317530403">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/controllers/book_syoten_records_controller.rb" timestamp="1480303761590">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="2" />
         <mark key="^" line="15" column="12" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/lib/tasks/calculate_records.rake" timestamp="1479112443731">
+      <file name="$USER_HOME$/projects/pos-analytics/lib/tasks/calculate_records.rake" timestamp="1480316124483">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
@@ -1289,6 +1295,12 @@
         <mark key="]" line="14" column="58" />
         <mark key="." line="14" column="58" />
         <mark key="^" line="14" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-analytics/Gemfile" timestamp="1480317002556">
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="77" column="19" />
+        <mark key="^" line="77" column="19" />
+        <mark key="." line="77" column="19" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_fields.html.slim" timestamp="1480148135903">
         <mark key="[" line="54" column="0" />
@@ -1530,11 +1542,11 @@
         <mark key="^" line="3" column="76" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/services/calculating_records_service.rb" timestamp="1480315017529">
-        <mark key="[" line="14" column="63" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/projects/pos-analytics/app/services/calculating_records_service.rb" timestamp="1480318825386">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/commonable.rb" timestamp="1477384748544">
         <mark key="[" line="5" column="22" />
@@ -4323,16 +4335,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>pg</text>
       </register>
       <register name="0" type="4">
-        <text>csv_record.syoten_code</text>
+        <text>csv_record_month</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmdyb3VwX25hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -4340,38 +4352,30 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>book.last_csv_file.csv_records.each do |csv_record|
-        book_syoten_record = book.book_syoten_records.select do |book_syoten_record|
-          book_syoten_record.syoten_code == csv_record.syoten_code
+      <register name="4" type="4">
+        <text>csv_record.csv_record_months.each do |csv_record_month|
+        book_syoten_monthly_record = book_syoten_record.book_syoten_monthly_records.select do |book_syoten_monthly_record|
+          csv_record_month.date == book_syoten_monthly_record.date
         end.first
-        book_syoten_record ||= book.book_syoten_records.build(syoten_code: csv_record.syoten_code)
 
-        csv_record.csv_record_months.each do |csv_record_month|
-          book_syoten_monthly_record = book_syoten_record.book_syoten_monthly_records.select do |book_syoten_monthly_record|
-            csv_record_month.date == book_syoten_monthly_record.date
-          end.first
-
-          if book_syoten_monthly_record
-            book_syoten_monthly_record.calculate_points(true)
-            if book_syoten_monthly_record.cnt != csv_record_month.cnt
-              book_syoten_monthly_record.cnt = csv_record_month.cnt
-            end
-          else
-            book_syoten_record.book_syoten_monthly_records.build(
-              date: csv_record_month.date,
-              cnt: csv_record_month.cnt
-            )
+        if book_syoten_monthly_record
+          book_syoten_monthly_record.calculate_points(true)
+          if book_syoten_monthly_record.cnt != csv_record_month.cnt
+            book_syoten_monthly_record.cnt = csv_record_month.cnt
           end
+        else
+          book_syoten_record.book_syoten_monthly_records.build(
+            date: csv_record_month.date,
+            cnt: csv_record_month.cnt
+          )
         end
-      end
-      book.save!</text>
+      end</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZF9vcl9lZGl0X2Jvb2tfc3lvdGVuX21vbnRobHlfcmVjb3JkX3dpdGhfYm9va19zeW90ZW5fcmVjb3JkX2FuZF9jc3ZfcmVjb3JkX21vbnRoKGJvb2tfc3lvdGVuX3JlY29yZCwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNsYXNzX25hbWU6ICJCb29rIiwK</text>
+        <text encoding="base64">ICAgIHAgY2xvc2VfbW9udGhfc3RyaW5nCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4593,13 +4597,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCBjbG9zZV9tb250aF9zdHJpbmcK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmVnaW4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
