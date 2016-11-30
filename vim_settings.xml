@@ -350,11 +350,11 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_inamt_fields.html.slim" timestamp="1480491524100">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="6" />
-        <mark key="." line="24" column="6" />
-        <mark key="^" line="2" column="14" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_inamt_fields.html.slim" timestamp="1480493774990">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/guide.html.erb" timestamp="1477904733370">
         <mark key="'" line="104" column="0" />
@@ -882,13 +882,13 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1480407780096">
+      <file name="/a.regexp" timestamp="1480493863864">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1480491071738">
+      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1480493070191">
         <mark key="[" line="145" column="9" />
         <mark key="]" line="146" column="1" />
         <mark key="." line="146" column="1" />
@@ -1248,11 +1248,10 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/inamt.rb" timestamp="1480354957443">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="53" />
-        <mark key="^" line="15" column="53" />
-        <mark key="." line="15" column="53" />
+      <file name="$USER_HOME$/projects/cplus/app/models/inamt.rb" timestamp="1480493861363">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/db/migrate/20161123144918_create_tel_mplans_to_transfer_tels_change_requiests.rb" timestamp="1479914985048">
         <mark key="[" line="13" column="131" />
@@ -1603,12 +1602,12 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1480355113984">
-        <mark key="'" line="237" column="6" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="60" />
-        <mark key="." line="87" column="10" />
-        <mark key="^" line="87" column="10" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1480493905977">
+        <mark key="'" line="238" column="6" />
+        <mark key="[" line="82" column="38" />
+        <mark key="]" line="82" column="38" />
+        <mark key="." line="82" column="38" />
+        <mark key="^" line="82" column="38" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/initializers/carrierwave.rb" timestamp="1477302183281">
         <mark key="[" line="16" column="52" />
@@ -4657,35 +4656,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>inamt</text>
+        <text>削除</text>
       </register>
       <register name="/" type="4">
         <text>del</text>
       </register>
-      <register name="0" type="4">
-        <text>template.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPSBsaW5rX3RvX3JlbW92ZV9hc3NvY2lhdGlvbiAiw5ciLCBmLCBjbGFzczogImJ0biBidG4tc21hbGwgYnRuLWRhbmdlciIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0X3Njb3BlIC0+IHsgb3JkZXIobm9fYmlsbDogOmFzYywgc3Ffc2VxOiA6YXNjKSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICA9IGxpbmtfdG9fcmVtb3ZlX2Fzc29jaWF0aW9uICLDlyIsIGYsIGNsYXNzOiAiYnRuIGJ0bi1zbWFsbCBidG4tZGFuZ2VyIgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkZWYgZGVsX3RhZyhpc19ub3RfZGVsLCBvcHRpb25zID0ge30sICZibG9jaykKICAgIGlmIGlzX25vdF9kZWwgPT0gZmFsc2UKICAgICAgb3B0aW9ucyA9IHsKICAgICAgfS5tZXJnZShvcHRpb25zKQogICAgICB0ZW1wbGF0ZS5jb250ZW50X3RhZyg6ZGVsLCBvcHRpb25zLCAmYmxvY2spCiAgICBlbHNlCiAgICAgIGNhcHR1cmUoJmJsb2NrKQogICAgZW5kCiAgZW5k</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSBlbHNlCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>(*args) do
-      del_tag(@marked_for_destruction) do
-        block.call
-      end
-    end</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLSBpZiBmLm9iamVjdC5wYXJlbnRfZm9ybV9jb25maXJtaW5nID09IGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">by5wYXJlbnRfZm9ybV9jb25maXJtaW5nawo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4913,7 +4908,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
