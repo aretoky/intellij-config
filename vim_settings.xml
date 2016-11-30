@@ -710,7 +710,7 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1480401813652">
+      <file name="/Ruby Console" timestamp="1480488589661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/stylesheets/common/flexselect.css" timestamp="1477658591212">
@@ -886,6 +886,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1480489138081">
+        <mark key="[" line="123" column="19" />
+        <mark key="]" line="125" column="15" />
+        <mark key="." line="125" column="15" />
+        <mark key="^" line="125" column="15" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/tel_mplans_to_transfer_tels_change_request_decorator.rb" timestamp="1480079823144">
         <mark key="[" line="10" column="67" />
@@ -1120,7 +1126,12 @@
         <mark key="^" line="87" column="132" />
         <mark key="." line="87" column="132" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/cocoon_patch.rb" timestamp="1480407765515" />
+      <file name="$USER_HOME$/projects/cplus/config/initializers/monkey_patches/cocoon_patch.rb" timestamp="1480488527061">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admins/application_controller.rb" timestamp="1479402938077">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -4649,7 +4660,7 @@
         <text>cnt_bitem</text>
       </register>
       <register name="/" type="4">
-        <text>inamt</text>
+        <text>del</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6Y250X2JpdGVtLCAxCg==</text>
@@ -4658,19 +4669,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmJ1dHRvbiA6c3VibWl0LCB2YWx1ZTogIue3qOmbhuOBl+ebtOOBmSIsIG5hbWU6ICJiYWNrIiwgY2xhc3M6ICJidG4gYnRuLWRlZmF1bHQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgQGJpbGwuaW5hbXRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4892,22 +4903,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBiaWxsLmF0dHJpYnV0ZXMgPSB1cGRhdGVfYmlsbF9wYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgPSBmLmJ1dHRvbiA6c3VibWl0LCB2YWx1ZTogIue3qOmbhuOBl+ebtOOBmSIsIG5hbWU6ICJiYWNrIiwgY2xhc3M6ICJidG4gYnRuLWRlZmF1bHQiCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgQGJpbGwuaW5hbXRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
       </register>
     </registers>
     <search>
-      <last-search>inamt</last-search>
+      <last-search>del</last-search>
       <last-offset />
-      <last-pattern>inamt</last-pattern>
+      <last-pattern>del</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -4915,7 +4926,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Bugsnag</entry>
         <entry>updateDs</entry>
         <entry>LiquidMetal.score</entry>
         <entry>LiquidMetal</entry>
@@ -4935,6 +4945,7 @@
         <entry>sales_person</entry>
         <entry>slales_person_name</entry>
         <entry>inamt</entry>
+        <entry>del</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
