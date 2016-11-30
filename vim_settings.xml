@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" timestamp="1479820563792">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="50" column="74" />
-        <mark key="]" line="50" column="82" />
-        <mark key="." line="50" column="82" />
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" timestamp="1480498203701">
+        <mark key="'" line="43" column="25" />
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="24" />
         <mark key="^" line="50" column="82" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/admin/bills_spec.rb" timestamp="1480357042023">
@@ -881,7 +881,7 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1480493863864">
+      <file name="/a.regexp" timestamp="1480498276229">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1287,6 +1287,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/bills.coffee" timestamp="1480497694762">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/interim.ja.yml" timestamp="1476518741474">
         <mark key="[" line="3" column="6" />
@@ -1811,6 +1817,13 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" timestamp="1480498218125">
+        <mark key="'" line="27" column="27" />
+        <mark key="[" line="32" column="88" />
+        <mark key="]" line="32" column="88" />
+        <mark key="^" line="32" column="97" />
+        <mark key="." line="32" column="88" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/commonable.rb" timestamp="1477384748544">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="27" />
@@ -1906,13 +1919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="42" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
-      <jump line="101" column="21" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
-      <jump line="104" column="21" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
-      <jump line="112" column="62" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
-      <jump line="556" column="15" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
-      <jump line="773" column="4" filename="$USER_HOME$/projects/cplus/db/structure.sql" />
-      <jump line="320" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="118" column="78" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
       <jump line="18" column="38" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="24" column="14" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
@@ -2006,6 +2012,13 @@
       <jump line="61" column="18" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" />
       <jump line="32" column="17" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" />
+      <jump line="55" column="41" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
+      <jump line="30" column="28" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
+      <jump line="43" column="25" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
+      <jump line="5" column="29" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
+      <jump line="26" column="35" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
+      <jump line="27" column="27" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4658,28 +4671,28 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>del</text>
+        <text>_attribute_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPSBsaW5rX3RvX3JlbW92ZV9hc3NvY2lhdGlvbiAiw5ciLCBmLCBjbGFzczogImJ0biBidG4tc21hbGwgYnRuLWRhbmdlciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJhYWFhIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3Njb3BlIC0+IHsgb3JkZXIobm9fYmlsbDogOmFzYywgc3Ffc2VxOiA6YXNjKSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA9IGxpbmtfdG9fcmVtb3ZlX2Fzc29jaWF0aW9uICLDlyIsIGYsIGNsYXNzOiAiYnRuIGJ0bi1zbWFsbCBidG4tZGFuZ2VyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBlbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBpZiBmLm9iamVjdC5wYXJlbnRfZm9ybV9jb25maXJtaW5nID09IGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">by5wYXJlbnRfZm9ybV9jb25maXJtaW5nawo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiYWFhYSIpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4901,22 +4914,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJhYWFhIikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0X3Njb3BlIC0+IHsgb3JkZXIobm9fYmlsbDogOmFzYywgc3Ffc2VxOiA6YXNjKSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
       </register>
     </registers>
     <search>
-      <last-search>del</last-search>
+      <last-search>_attribute_id</last-search>
       <last-offset />
-      <last-pattern>del</last-pattern>
+      <last-pattern>_attribute_id</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -4924,10 +4937,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateDs</entry>
-        <entry>LiquidMetal.score</entry>
-        <entry>LiquidMetal</entry>
-        <entry>export_sfdc</entry>
         <entry>all</entry>
         <entry>note</entry>
         <entry>enum</entry>
@@ -4944,6 +4953,10 @@
         <entry>slales_person_name</entry>
         <entry>inamt</entry>
         <entry>del</entry>
+        <entry>value</entry>
+        <entry>good</entry>
+        <entry>cust</entry>
+        <entry>_attribute_id</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
