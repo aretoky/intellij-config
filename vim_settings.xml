@@ -213,11 +213,11 @@
         <mark key="^" line="233" column="32" />
         <mark key="." line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1480147784304">
-        <mark key="[" line="77" column="39" />
-        <mark key="]" line="77" column="39" />
-        <mark key="." line="77" column="39" />
-        <mark key="^" line="79" column="21" />
+      <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1480491435154">
+        <mark key="[" line="90" column="6" />
+        <mark key="]" line="90" column="6" />
+        <mark key="." line="90" column="6" />
+        <mark key="^" line="94" column="4" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/factories/stores.rb" timestamp="1476346900981">
         <mark key="[" line="55" column="0" />
@@ -350,10 +350,11 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_inamt_fields.html.slim" timestamp="1480353634856">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_inamt_fields.html.slim" timestamp="1480491524100">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="24" column="6" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/guide.html.erb" timestamp="1477904733370">
         <mark key="'" line="104" column="0" />
@@ -887,11 +888,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1480489138081">
-        <mark key="[" line="123" column="19" />
-        <mark key="]" line="125" column="15" />
-        <mark key="." line="125" column="15" />
-        <mark key="^" line="125" column="15" />
+      <file name="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" timestamp="1480491071738">
+        <mark key="[" line="145" column="9" />
+        <mark key="]" line="146" column="1" />
+        <mark key="." line="146" column="1" />
+        <mark key="^" line="146" column="1" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/tel_mplans_to_transfer_tels_change_request_decorator.rb" timestamp="1480079823144">
         <mark key="[" line="10" column="67" />
@@ -1162,12 +1163,11 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1480355609637">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1480491530003">
         <mark key="'" line="32" column="17" />
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="15" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="2" />
+        <mark key="." line="75" column="2" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/sales_analytics/index.html.slim" timestamp="1480144370428">
         <mark key="[" line="14" column="51" />
@@ -4657,31 +4657,35 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cnt_bitem</text>
+        <text>inamt</text>
       </register>
       <register name="/" type="4">
         <text>del</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3ZhbHVlX2ZvciA6Y250X2JpdGVtLCAxCg==</text>
+      <register name="0" type="4">
+        <text>template.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBkZWYgZGVsX3RhZyhpc19ub3RfZGVsLCBvcHRpb25zID0ge30sICZibG9jaykKICAgIGlmIGlzX25vdF9kZWwgPT0gZmFsc2UKICAgICAgb3B0aW9ucyA9IHsKICAgICAgfS5tZXJnZShvcHRpb25zKQogICAgICB0ZW1wbGF0ZS5jb250ZW50X3RhZyg6ZGVsLCBvcHRpb25zLCAmYmxvY2spCiAgICBlbHNlCiAgICAgIGNhcHR1cmUoJmJsb2NrKQogICAgZW5kCiAgZW5k</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>(*args) do
+      del_tag(@marked_for_destruction) do
+        block.call
+      end
+    end</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4903,13 +4907,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPSBmLmJ1dHRvbiA6c3VibWl0LCB2YWx1ZTogIue3qOmbhuOBl+ebtOOBmSIsIG5hbWU6ICJiYWNrIiwgY2xhc3M6ICJidG4gYnRuLWRlZmF1bHQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgQGJpbGwuaW5hbXRzCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
