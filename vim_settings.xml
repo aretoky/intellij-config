@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" timestamp="1480502828339">
-        <mark key="'" line="43" column="25" />
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
-        <mark key="^" line="43" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/admin/bills_spec.rb" timestamp="1480357042023">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -1019,13 +1012,6 @@
         <mark key="." line="147" column="6" />
         <mark key="^" line="148" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1480576612730">
-        <mark key="'" line="63" column="64" />
-        <mark key="[" line="72" column="80" />
-        <mark key="]" line="72" column="104" />
-        <mark key="." line="55" column="40" />
-        <mark key="^" line="55" column="40" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/application/_dailyorder_ship_date_label.html.erb" timestamp="1479724713111">
         <mark key="[" line="3" column="75" />
         <mark key="]" line="3" column="82" />
@@ -1062,18 +1048,17 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/assets/javascripts/book_monthly_records.coffee" timestamp="1480568193599">
-        <mark key="'" line="20" column="53" />
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="53" />
-        <mark key="." line="20" column="53" />
-        <mark key="^" line="20" column="53" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admins/application_controller.rb" timestamp="1479402938077">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1480586847350">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/billmail.rb" timestamp="1479649598539">
         <mark key="[" line="46" column="54" />
@@ -1216,12 +1201,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_daily_order_shipping_list.html.erb" timestamp="1479693745671">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_daily_order_shipping_list.html.erb" timestamp="1480587238358">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="95" column="6" />
-        <mark key="]" line="95" column="5" />
-        <mark key="." line="95" column="5" />
-        <mark key="^" line="95" column="5" />
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="78" column="40" />
+        <mark key="." line="78" column="40" />
+        <mark key="^" line="78" column="40" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/add_child.html.erb" timestamp="1478518483830">
         <mark key="[" line="4" column="76" />
@@ -1730,13 +1715,6 @@
         <mark key="]" line="15" column="42" />
         <mark key="^" line="3" column="38" />
         <mark key="." line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" timestamp="1480502832299">
-        <mark key="'" line="27" column="27" />
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/commonable.rb" timestamp="1477384748544">
         <mark key="[" line="5" column="22" />
@@ -4578,7 +4556,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>book</text>
