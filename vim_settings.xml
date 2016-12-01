@@ -286,11 +286,6 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/books/show.html.erb" timestamp="1480508904687">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" timestamp="1480561296571">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="12" column="1" />
@@ -537,11 +532,6 @@
         <mark key="." line="6" column="72" />
         <mark key="^" line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/views/book_monthly_records/_scaffold_index.html.slim" timestamp="1480559913086">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/spec/mailers/client/tel_mplans_to_transfer_tels_change_requet_mailer_spec.rb" timestamp="1480082107377">
         <mark key="[" line="2" column="57" />
         <mark key="]" line="2" column="57" />
@@ -576,11 +566,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/bill_saving_service.rb" timestamp="1480407523050">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/circleci.yml" timestamp="1479195229190">
         <mark key="[" line="10" column="6" />
@@ -725,11 +710,11 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_preview_form.html.erb" timestamp="1479699703549">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_preview_form.html.erb" timestamp="1480574902321">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="105" column="50" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/admins/sessions/new.html.erb" timestamp="1479659605842">
         <mark key="[" line="16" column="32" />
@@ -1087,11 +1072,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/circle.yml" timestamp="1479389290288">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+      <file name="$USER_HOME$/projects/pos-calc/circle.yml" timestamp="1480575276478">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/sessions_controller.rb" timestamp="1479402976045">
         <mark key="[" line="1" column="0" />
@@ -4424,7 +4409,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>window.location.href</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
@@ -4433,22 +4418,22 @@
         <text>d3.json</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">c3RhZ2luZzoKICAgIGJyYW5jaDogbWFzdGVyCiAgICBjb21tYW5kczoKICAgICAgLSB8CiAgICAgICAgICBpZiBbICIke0NJUkNMRV9SRVBPU0lUT1JZX1VSTH0iID0gImh0dHBzOi8vZ2l0aHViLmNvbS9idW5reW9zaGEvcG9zLWNhbGMiIF0gOyB0aGVuCiAgICAgICAgICAgIGJ1bmRsZSBleGVjIGNhcCBwcm9kdWN0aW9uIGRlcGxveQogICAgICAgICAgZWxzZQogICAgICAgICAgICA6CiAgICAgICAgICBmaQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">c3ZnLnNlbGVjdEFsbCgiLmJhciIpCiAgICAuZGF0YShkYXRhKQogICAgLmVudGVyKCkuYXBwZW5kKCJyZWN0IikKICAgIC5hdHRyKCJjbGFzcyIsICJiYXIiKQogICAgLmF0dHIoIngiLCAoZCkgLT4geChkLnNlbmRfZGF0ZSkpCiAgICAuYXR0cigid2lkdGgiLCB4LnJhbmdlQmFuZCgpKQogICAgLmF0dHIoInkiLCAoZCkgLT4geShkLm9wZW5fY291bnQpKQogICAgLmF0dHIoImhlaWdodCIsIChkKS0+IGhlaWdodCAtIHkoZC5vcGVuX2NvdW50KSkKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHRkIGNsYXNzPSJibmtzLW51bWJlci1pbnB1dC10YWJsZS1yb3ciPgogICAgICAgIDwlPSBkYWlseW9yZGVyc19mb3JtLm9iamVjdC5rYWt1emFpICU+PC90ZD4=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">c3ZnLmFwcGVuZCgiZyIpCiAgICAuYXR0cigiY2xhc3MiLCAieCBheGlzIikKICAgIC5hdHRyKCJ0cmFuc2Zvcm0iLCAidHJhbnNsYXRlKDAsIiArIGhlaWdodCArICIpIikKICAgIC5jYWxsKHhBeGlzKQoKICBzdmcuYXBwZW5kKCJnIikKICAgIC5hdHRyKCJjbGFzcyIsICJ5IGF4aXMiKQogICAgLmNhbGwoeUF4aXMpCiAgICAuYXBwZW5kKCJ0ZXh0IikKICAgIC5hdHRyKCJ0cmFuc2Zvcm0iLCAicm90YXRlKC05MCkiKQogICAgLmF0dHIoInkiLCA2KQogICAgLmF0dHIoImR5IiwgIi43MWVtIikKICAgIC5zdHlsZSgidGV4dC1hbmNob3IiLCAiZW5kIikKICAgIC50ZXh0KCJvcGVuX2NvdW50IChudW0pIikK</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4670,13 +4655,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">eC5kb21haW4oZGF0YS5tYXAoKGQpIC0+IGQuZGF0ZSkpCiAgeS5kb21haW4oWwogICAgMCwKICAgIGQzLm1heChkYXRhLCAoZCkgLT4gZC5jbnQpCiAgXSk=</text>
+        <text encoding="base64">c3ZnLnNlbGVjdEFsbCgiLmJhciIpCiAgICAuZGF0YShkYXRhKQogICAgLmVudGVyKCkuYXBwZW5kKCJyZWN0IikKICAgIC5hdHRyKCJjbGFzcyIsICJiYXIiKQogICAgLmF0dHIoIngiLCAoZCkgLT4geChkLnNlbmRfZGF0ZSkpCiAgICAuYXR0cigid2lkdGgiLCB4LnJhbmdlQmFuZCgpKQogICAgLmF0dHIoInkiLCAoZCkgLT4geShkLm9wZW5fY291bnQpKQogICAgLmF0dHIoImhlaWdodCIsIChkKS0+IGhlaWdodCAtIHkoZC5vcGVuX2NvdW50KSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB5QXhpcyA9IGQzLnN2Zy5heGlzKCkuc2NhbGUoeSkub3JpZW50KCJsZWZ0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkMykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/requiest/request/g</text>
