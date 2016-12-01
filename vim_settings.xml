@@ -4800,7 +4800,7 @@
         <text>show_daily_orders</text>
       </register>
       <register name="/" type="4">
-        <text>20</text>
+        <text>store</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3BsaXQg</text>
@@ -5052,13 +5052,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/requiest/request/g</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>20</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>20</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -5066,7 +5066,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update_daily</entry>
         <entry>submit_dail</entry>
         <entry>edit_dailyorder_table</entry>
         <entry>delivery</entry>
@@ -5086,6 +5085,7 @@
         <entry>split</entry>
         <entry>cache</entry>
         <entry>20</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
@@ -5103,11 +5103,11 @@
         <entry>%s/'/&quot;/g</entry>
         <entry>%s/rds./rds_jp./g</entry>
         <entry>%s/sdd/book/g</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
         <entry>s/emp/staf/g</entry>
         <entry>%s/emp/staff/g</entry>
         <entry>%s/requiest/request/g</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
