@@ -1524,8 +1524,8 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1480593171986">
-        <mark key="'" line="28" column="6" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1480594420996">
+        <mark key="'" line="469" column="63" />
         <mark key="[" line="14" column="82" />
         <mark key="]" line="14" column="102" />
         <mark key="^" line="14" column="102" />
@@ -2027,20 +2027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="175" column="4" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="226" column="10" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="190" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="103" column="18" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="138" column="4" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="216" column="4" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="250" column="9" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="25" column="18" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="251" column="17" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="28" column="18" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="243" column="12" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
-      <jump line="169" column="8" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="8" column="9" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
       <jump line="18" column="10" filename="$USER_HOME$/projects/DailySFposter/sf-poster.rb" />
@@ -2127,6 +2113,20 @@
       <jump line="45" column="70" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
       <jump line="16" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="28" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="417" column="18" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="423" column="7" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="424" column="7" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="166" column="12" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="210" column="12" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="211" column="24" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="213" column="21" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="217" column="31" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="218" column="46" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="418" column="17" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="421" column="15" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="422" column="13" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="469" column="63" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4779,7 +4779,7 @@
         <text>pect</text>
       </register>
       <register name="/" type="4">
-        <text>edit_dailyorder_table</text>
+        <text>edit_deli</text>
       </register>
       <register name="0" type="4">
         <text>@dailyorders = Dailyorder</text>
@@ -5035,9 +5035,9 @@
       </register>
     </registers>
     <search>
-      <last-search>edit_dailyorder_table</last-search>
+      <last-search>edit_deli</last-search>
       <last-offset />
-      <last-pattern>edit_dailyorder_table</last-pattern>
+      <last-pattern>edit_deli</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -5045,9 +5045,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inamt</entry>
-        <entry>del</entry>
-        <entry>value</entry>
         <entry>good</entry>
         <entry>cust</entry>
         <entry>_attribute_id</entry>
@@ -5065,6 +5062,9 @@
         <entry>update_daily</entry>
         <entry>submit_dail</entry>
         <entry>edit_dailyorder_table</entry>
+        <entry>delivery</entry>
+        <entry>type</entry>
+        <entry>edit_deli</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
