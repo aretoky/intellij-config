@@ -1145,12 +1145,12 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1480647000331">
-        <mark key="'" line="441" column="15" />
-        <mark key="[" line="679" column="41" />
-        <mark key="]" line="679" column="53" />
-        <mark key="." line="679" column="41" />
-        <mark key="^" line="674" column="52" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1480649819414">
+        <mark key="'" line="554" column="68" />
+        <mark key="[" line="554" column="42" />
+        <mark key="]" line="554" column="42" />
+        <mark key="." line="554" column="42" />
+        <mark key="^" line="554" column="42" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1480576612730">
         <mark key="'" line="63" column="64" />
@@ -2142,12 +2142,12 @@
       <jump line="59" column="67" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
       <jump line="445" column="19" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="526" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="554" column="62" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="35" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="377" column="34" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="439" column="34" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="441" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="554" column="68" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4797,10 +4797,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>show_daily_orders</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>dailyorders.kyouyu_cd</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3BsaXQg</text>
@@ -5056,9 +5056,9 @@
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>dailyorders.kyouyu_cd</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>dailyorders.kyouyu_cd</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -5066,7 +5066,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delivery</entry>
         <entry>type</entry>
         <entry>edit_deli</entry>
         <entry>update_deli</entry>
@@ -5086,6 +5085,7 @@
         <entry>store</entry>
         <entry>セブンネットショッピング</entry>
         <entry>group</entry>
+        <entry>dailyorders.kyouyu_cd</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
