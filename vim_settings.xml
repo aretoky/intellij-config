@@ -1145,8 +1145,8 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1480600233433">
-        <mark key="'" line="446" column="6" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1480647000331">
+        <mark key="'" line="441" column="15" />
         <mark key="[" line="679" column="41" />
         <mark key="]" line="679" column="53" />
         <mark key="." line="679" column="41" />
@@ -2048,14 +2048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="18" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" />
-      <jump line="32" column="17" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" />
-      <jump line="55" column="41" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
-      <jump line="30" column="28" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
-      <jump line="43" column="25" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/admin/good_select_modal_dialogs.coffee" />
-      <jump line="5" column="29" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
       <jump line="26" column="35" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
       <jump line="27" column="27" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
       <jump line="77" column="6" filename="$USER_HOME$/projects/pos-analytics/Gemfile" />
@@ -2148,6 +2140,14 @@
       <jump line="37" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/nippan.xls.erb" />
       <jump line="34" column="3" filename="$USER_HOME$/projects/pos-calc/config/database.yml" />
       <jump line="59" column="67" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="445" column="19" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="526" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="554" column="62" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="35" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="377" column="34" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="439" column="34" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="441" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4800,7 +4800,7 @@
         <text>show_daily_orders</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>group</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3BsaXQg</text>
@@ -5056,9 +5056,9 @@
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -5066,8 +5066,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submit_dail</entry>
-        <entry>edit_dailyorder_table</entry>
         <entry>delivery</entry>
         <entry>type</entry>
         <entry>edit_deli</entry>
@@ -5086,6 +5084,8 @@
         <entry>cache</entry>
         <entry>20</entry>
         <entry>store</entry>
+        <entry>セブンネットショッピング</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
