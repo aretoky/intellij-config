@@ -435,11 +435,11 @@
         <mark key="^" line="23" column="10" />
         <mark key="." line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app.json" timestamp="1480245185818">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="35" />
+      <file name="$USER_HOME$/projects/value_press/app.json" timestamp="1480873630757">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/dusers/_form.html.slim" timestamp="1476280025570">
         <mark key="[" line="11" column="21" />
@@ -716,12 +716,12 @@
       <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1480867597793">
         <mark key="'" line="69" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/environments/staging.rb" timestamp="1480247318728">
+      <file name="$USER_HOME$/projects/value_press/config/environments/staging.rb" timestamp="1480872987857">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="40" column="73" />
-        <mark key="^" line="41" column="4" />
-        <mark key="." line="41" column="4" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="38" />
+        <mark key="^" line="42" column="38" />
+        <mark key="." line="42" column="38" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/bill_saving_service.rb" timestamp="1480407523050">
         <mark key="[" line="14" column="0" />
@@ -1285,6 +1285,12 @@
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1480872636824">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="102" column="1" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/sales_analytics/index.html.slim" timestamp="1480144370428">
         <mark key="[" line="14" column="51" />
@@ -4853,39 +4859,32 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_last</text>
+        <text>setup</text>
       </register>
       <register name="/" type="4">
         <text>yn_all</text>
       </register>
       <register name="0" type="4">
-        <text>if object.respond_to?(:parent_form_confirming)
-      if object.exist_parent_form_confirming?
-        return object.parent_form_confirming?
-      end
-    end
-    if object.respond_to?(:confirming)
-      return object.send(:confirming?)
-    end
-    false</text>
+        <text encoding="base64">ICJwb3N0ZGVwbG95IjogImJ1bmRsZSBleGVjIHJhaWxzIGRiOnNldHVw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZW0gJ3J1Ym9jb3AnCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YSA9IG9iamVjdC5yZXNwb25kX3RvPyg6cGFyZW50X2Zvcm1fY29uZmlybWluZykgJiYKICAgICAgb2JqZWN0LnNlbmQoOnBhcmVudF9mb3JtX2NvbmZpcm1pbmc/KQogICAgaWYgYSA9PSBmYWxzZQogICAgICByZXR1cm4gZmFsc2UKICAgIGVuZAoKICAgIChvYmplY3QucmVzcG9uZF90bz8oOmNvbmZpcm1pbmcpICYmCiAgICAgIG9iamVjdC5zZW5kKDpjb25maXJtaW5nPykpIHx8CiAgICAgIChvYmplY3QucmVzcG9uZF90bz8oOnBhcmVudF9mb3JtX2NvbmZpcm1pbmcpICYmCiAgICAgICAgb2JqZWN0LnNlbmQoOnBhcmVudF9mb3JtX2NvbmZpcm1pbmc/KSk=</text>
+        <text>gem 'better_errors'
+  gem 'binding_of_caller'</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3Quc2VuZCg6cGFyZW50X2Zvcm1fY29uZmlybWluZz8pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5107,13 +5106,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKG9iamVjdC5yZXNwb25kX3RvPyg6cGFyZW50X2Zvcm1fY29uZmlybWluZykgJiYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb2JqZWN0LnNlbmQoOmNvbmZpcm1pbmc/KSkgfHwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">YSA9IG9iamVjdC5yZXNwb25kX3RvPyg6cGFyZW50X2Zvcm1fY29uZmlybWluZykgJiYKICAgICAgb2JqZWN0LnNlbmQoOnBhcmVudF9mb3JtX2NvbmZpcm1pbmc/KQogICAgaWYgYSA9PSBmYWxzZQogICAgICByZXR1cm4gZmFsc2UKICAgIGVuZAoKICAgIChvYmplY3QucmVzcG9uZF90bz8oOmNvbmZpcm1pbmcpICYmCiAgICAgIG9iamVjdC5zZW5kKDpjb25maXJtaW5nPykpIHx8CiAgICAgIChvYmplY3QucmVzcG9uZF90bz8oOnBhcmVudF9mb3JtX2NvbmZpcm1pbmcpICYmCiAgICAgICAgb2JqZWN0LnNlbmQoOnBhcmVudF9mb3JtX2NvbmZpcm1pbmc/KSk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChvYmplY3QucmVzcG9uZF90bz8oOmNvbmZpcm1pbmcpICYmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
