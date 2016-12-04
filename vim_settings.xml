@@ -41,21 +41,11 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/admin/sessions_helper.rb" timestamp="1480353077209">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/models/toritsugi_spec.rb" timestamp="1476351604532">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_index_list_search_form.html.erb" timestamp="1477646230558">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1478878233438">
         <mark key="'" line="32" column="8" />
@@ -63,11 +53,6 @@
         <mark key="]" line="41" column="8" />
         <mark key="^" line="41" column="8" />
         <mark key="." line="41" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_form.html.erb" timestamp="1477646173182">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/Gemfile" timestamp="1479881854997">
         <mark key="'" line="97" column="8" />
@@ -81,11 +66,6 @@
         <mark key="]" line="29" column="4" />
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-analytics/spec/factories/books.rb" timestamp="1480302345416">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/views/books/_scaffold_index.html.slim" timestamp="1480560000819">
         <mark key="[" line="33" column="26" />
@@ -254,11 +234,6 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1479280965625">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/models/syoten_monthly_record.rb" timestamp="1480339224862">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="2" />
@@ -338,11 +313,6 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/db/seeds/bill_request_log.rb" timestamp="1480252990557">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161114044324_create_books.rb" timestamp="1480314852696">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="67" />
@@ -416,11 +386,6 @@
         <mark key="^" line="59" column="35" />
         <mark key="." line="59" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/settings/production.yml" timestamp="1477408455462">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/helpers/application_helper.rb" timestamp="1480562672689">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="4" />
@@ -446,11 +411,23 @@
         <mark key="^" line="7" column="42" />
         <mark key="." line="11" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/uncreated_bitems/_new_form.html.slim" timestamp="1480865213460">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1476810147588">
         <mark key="[" line="87" column="18" />
         <mark key="]" line="87" column="17" />
         <mark key="^" line="87" column="17" />
         <mark key="." line="87" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1480865477025">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/show.html.slim" timestamp="1475776632663">
         <mark key="[" line="28" column="15" />
@@ -475,6 +452,12 @@
         <mark key="]" line="58" column="36" />
         <mark key="." line="58" column="36" />
         <mark key="^" line="58" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/uncreated_bitems/index.html.slim" timestamp="1480865096701">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="45" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/database.heroku.yml" timestamp="1480252177560">
         <mark key="[" line="1" column="0" />
@@ -518,11 +501,6 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/models/csv_file.rb" timestamp="1480305113116">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/admins/campaigns_controller.rb" timestamp="1479455437950">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="62" />
@@ -565,11 +543,6 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/views/books/_form.html.slim" timestamp="1480302340328">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" timestamp="1480596056011">
         <mark key="'" line="45" column="70" />
         <mark key="[" line="53" column="171" />
@@ -589,11 +562,6 @@
         <mark key="]" line="43" column="4" />
         <mark key="^" line="43" column="4" />
         <mark key="." line="43" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/views/books/_book.json.jbuilder" timestamp="1480302335030">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/telexp.ja.yml" timestamp="1476519235657">
         <mark key="[" line="3" column="0" />
@@ -624,16 +592,6 @@
         <mark key="]" line="2" column="69" />
         <mark key="^" line="14" column="77" />
         <mark key="." line="14" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_new_form.html.erb" timestamp="1477646190909">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/admin/application_controller.rb" timestamp="1479661536909">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/no_cust_input.coffee" timestamp="1476264018001">
         <mark key="[" line="6" column="46" />
@@ -690,10 +648,8 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/new.html.slim" timestamp="1480402403212">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1480864825307">
+        <mark key="'" line="69" column="60" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/environments/staging.rb" timestamp="1480247318728">
         <mark key="'" line="8" column="0" />
@@ -738,11 +694,6 @@
         <mark key="^" line="37" column="1" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/models/syoten.rb" timestamp="1480341331688">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_newform.html.erb" timestamp="1477904614400">
         <mark key="[" line="60" column="69" />
         <mark key="]" line="60" column="69" />
@@ -767,11 +718,6 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="53" column="0" />
         <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/assets/stylesheets/common/flexselect.css" timestamp="1477658591212">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1480077146713">
         <mark key="'" line="1" column="46" />
@@ -816,11 +762,6 @@
         <mark key="." line="63" column="65" />
         <mark key="^" line="63" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/data_serializers/codede_hb.yml" timestamp="1480066988876">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161128082752_create_book_monthly_records.rb" timestamp="1480323163327">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -851,10 +792,10 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/spec/controllers/dailyorders_controller_spec.rb" timestamp="1479390613385">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/good_select_modal_dialogs_controller.rb" timestamp="1480865537380">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy.rb" timestamp="1479987926258">
         <mark key="[" line="31" column="27" />
@@ -885,11 +826,6 @@
         <mark key="]" line="14" column="2" />
         <mark key="." line="14" column="2" />
         <mark key="^" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-analytics/config/application.rb" timestamp="1480561100206">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/loading_date_mass_inputs/index.html.erb" timestamp="1479951119067">
         <mark key="[" line="7" column="0" />
@@ -929,7 +865,7 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1480862900624">
+      <file name="/a.regexp" timestamp="1480864929460">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1031,11 +967,6 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/models/syoten_group.rb" timestamp="1480341144362">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/daily_order_number_inputs.js.coffee" timestamp="1480580741567">
         <mark key="[" line="3" column="55" />
         <mark key="]" line="3" column="56" />
@@ -1134,11 +1065,6 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/mailtpls_controller.rb" timestamp="1480353071183">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="36" />
-        <mark key="." line="23" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/spec/factories/sales_people.rb" timestamp="1476330750004">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
@@ -1171,11 +1097,6 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/sideci.yml" timestamp="1479740933875">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/0billmail.ja.yml" timestamp="1476529232800">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="8" />
@@ -1187,16 +1108,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/DailySFposter/circle.yml" timestamp="1478262683845">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_index_dailyorder_shipping_list_pagenated.html.erb" timestamp="1480591117817">
-        <mark key="[" line="91" column="151" />
-        <mark key="]" line="91" column="151" />
-        <mark key="." line="91" column="151" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" timestamp="1480352589404">
         <mark key="[" line="87" column="121" />
@@ -1259,21 +1170,11 @@
         <mark key="." line="14" column="58" />
         <mark key="^" line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/pos-analytics/app/views/books/index.html.slim" timestamp="1480302353537">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="0" column="55" />
-        <mark key="." line="0" column="55" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_addr_fields.html.slim" timestamp="1480353615545">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="33" />
         <mark key="^" line="44" column="34" />
         <mark key="." line="54" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/admins/option_mediacontacts_controller.rb" timestamp="1479404368707">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1479707549591">
         <mark key="'" line="3" column="20" />
@@ -1325,11 +1226,6 @@
         <mark key="]" line="29" column="11" />
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/inamt.rb" timestamp="1480493861363">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/db/migrate/20161123144918_create_tel_mplans_to_transfer_tels_change_requiests.rb" timestamp="1479914985048">
         <mark key="[" line="13" column="131" />
@@ -1429,11 +1325,6 @@
         <mark key="]" line="12" column="10" />
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/admins/sessions/new.html.slim" timestamp="1479658479467">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/zipcode_select_modal_dialogs/create.js.coffee" timestamp="1480502848507">
         <mark key="[" line="3" column="51" />
@@ -1630,6 +1521,12 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/good.rb" timestamp="1480864644223">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="32" column="1" />
+        <mark key="^" line="32" column="1" />
+        <mark key="." line="32" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/db/migrate/20161123153118_create_tel_mplans_to_transfer_tels_change_requests.rb" timestamp="1480072813515">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="22" />
@@ -1642,22 +1539,12 @@
         <mark key="^" line="93" column="69" />
         <mark key="." line="93" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/rails_helper.rb" timestamp="1479661782866">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="44" column="24" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/tel.rb" timestamp="1480145485362">
         <mark key="'" line="5" column="3" />
         <mark key="[" line="34" column="2" />
         <mark key="]" line="34" column="6" />
         <mark key="." line="34" column="6" />
         <mark key="^" line="34" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-analytics/config/routes.rb" timestamp="1480342095136">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1480603135289">
         <mark key="'" line="34" column="3" />
@@ -1683,11 +1570,6 @@
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/config/settings.yml" timestamp="1477470764840">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1476342626984">
         <mark key="[" line="114" column="26" />
@@ -1787,11 +1669,6 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/campaign_code.rb" timestamp="1479404014315">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/show.html.erb" timestamp="1478520009238">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="84" />
@@ -1840,11 +1717,6 @@
         <mark key="]" line="22" column="32" />
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/data_serializers/codede_ur.yml" timestamp="1479806187315">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1480588909104">
         <mark key="'" line="25" column="41" />
@@ -1903,11 +1775,6 @@
         <mark key="]" line="24" column="4" />
         <mark key="^" line="24" column="4" />
         <mark key="." line="24" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bills_controller.rb" timestamp="1480355533878">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/information.rb" timestamp="1480247764982">
         <mark key="[" line="22" column="2" />
@@ -2028,11 +1895,6 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/articles/show.html.slim" timestamp="1479457693790">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/good_select_modal_dialogs/_modal.html.slim" timestamp="1480502733861">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="31" />
@@ -2048,7 +1910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="35" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
       <jump line="27" column="27" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
       <jump line="77" column="6" filename="$USER_HOME$/projects/pos-analytics/Gemfile" />
       <jump line="66" column="5" filename="$USER_HOME$/projects/pos-analytics/Gemfile" />
@@ -2148,6 +2009,7 @@
       <jump line="439" column="34" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="441" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="554" column="68" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="69" column="60" filename="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4797,31 +4659,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.page(params[:page])</text>
       </register>
       <register name="/" type="4">
-        <text>dailyorders.kyouyu_cd</text>
+        <text>yn_all</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3BsaXQg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaF9xdWVyaWVzOiB7IHluX2FsbDogMSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNlYXJjaF9xdWVyaWVzOiB7IGxsIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAgQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QuZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZWFyY2hfcXVlcmllczogeyB5bl9hbGw6IDEgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgQGRhaWx5X29yZGVyX3NoaXBwaW5nX2xpc3QuZXJyb3JzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNjdWUgZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5043,22 +4905,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZXMoOnRvcml0c3VnaV90eXBlLCA6cGFyZW50LCA6Y2hpbGRyZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBkYWlseW9yZGVycyA9IERhaWx5b3JkZXIubGlzdHVwKHBhcmFtcyxAZGFpbHlvcmRlcnMgKS4K</text>
+        <text encoding="base64">ICAgICAgICByZXNjdWUgZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZXMoOnRvcml0c3VnaV90eXBlLCA6cGFyZW50LCA6Y2hpbGRyZW4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>dailyorders.kyouyu_cd</last-search>
+      <last-search>yn_all</last-search>
       <last-offset />
-      <last-pattern>dailyorders.kyouyu_cd</last-pattern>
+      <last-pattern>yn_all</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -5066,7 +4928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>edit_deli</entry>
         <entry>update_deli</entry>
         <entry>raw</entry>
@@ -5086,6 +4947,7 @@
         <entry>セブンネットショッピング</entry>
         <entry>group</entry>
         <entry>dailyorders.kyouyu_cd</entry>
+        <entry>yn_all</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
