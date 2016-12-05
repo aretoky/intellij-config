@@ -99,7 +99,7 @@
         <mark key="^" line="23" column="10" />
         <mark key="." line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/multiple_kakuzais/edit.html.erb" timestamp="1480941190935">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/multiple_kakuzais/edit.html.erb" timestamp="1480948828470">
         <mark key="'" line="3" column="89" />
         <mark key="[" line="35" column="26" />
         <mark key="]" line="35" column="26" />
@@ -127,12 +127,12 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" timestamp="1480946105176">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_split_dailyorder_numbers_form.html.erb" timestamp="1480946291637">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="49" column="51" />
-        <mark key="^" line="49" column="51" />
-        <mark key="." line="49" column="51" />
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1480937892079">
         <mark key="'" line="105" column="12" />
@@ -182,6 +182,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/daily_order_shipping_lists.js.coffee" timestamp="1480949119151">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="35" />
+        <mark key="^" line="27" column="35" />
+        <mark key="." line="27" column="35" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1477897330644">
         <mark key="'" line="73" column="12" />
@@ -236,12 +242,12 @@
         <mark key="." line="55" column="99" />
         <mark key="^" line="55" column="99" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1480933078453">
-        <mark key="'" line="63" column="64" />
-        <mark key="[" line="72" column="80" />
-        <mark key="]" line="72" column="104" />
-        <mark key="." line="55" column="40" />
-        <mark key="^" line="55" column="40" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1480948861028">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/assets/javascripts/book_monthly_records.coffee" timestamp="1480568193599">
         <mark key="'" line="20" column="53" />
@@ -448,10 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="2" filename="$USER_HOME$/projects/value_press/config/environments/staging.rb" />
-      <jump line="236" column="57" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="16" column="17" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="35" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="370" column="34" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="432" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="99" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
@@ -548,6 +550,10 @@
       <jump line="13" column="26" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="18" column="82" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="32" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="388" column="9" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="292" column="12" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3197,22 +3203,24 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>daily_order_shipping_list.</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>edit_dailyorder_table</text>
+        <text>sales</text>
       </register>
       <register name="0" type="4">
-        <text>split split_submit</text>
+        <text>.click()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+      <register name="2" type="4">
+        <text>&quot; &quot; + $(this).val() + &quot; &quot;
+        $(&quot;#search_data&quot;).val()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>$(this).val() + &quot; &quot;
+        $(&quot;#search_data&quot;).val()</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -3221,7 +3229,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3443,22 +3451,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICAgIDx0aD48L3RoPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGg+PC90aD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwlIGVsc2UgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>edit_dailyorder_table</last-search>
+      <last-search>sales</last-search>
       <last-offset />
-      <last-pattern>edit_dailyorder_table</last-pattern>
+      <last-pattern>sales</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3466,7 +3474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>storelist</entry>
         <entry>dailyorders</entry>
         <entry>default</entry>
         <entry>status</entry>
@@ -3478,7 +3485,6 @@
         <entry>store</entry>
         <entry>address</entry>
         <entry>csv_records[key].sales_person_name</entry>
-        <entry>person</entry>
         <entry>dailyorder</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw8</entry>
@@ -3486,6 +3492,8 @@
         <entry>enum</entry>
         <entry>dailyor</entry>
         <entry>edit_dailyorder_table</entry>
+        <entry>person</entry>
+        <entry>sales</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
