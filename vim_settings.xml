@@ -716,12 +716,12 @@
       <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1480867597793">
         <mark key="'" line="69" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/environments/staging.rb" timestamp="1480872987857">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="42" column="51" />
-        <mark key="]" line="42" column="38" />
-        <mark key="^" line="42" column="38" />
-        <mark key="." line="42" column="38" />
+      <file name="$USER_HOME$/projects/value_press/config/environments/staging.rb" timestamp="1480875800923">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/bill_saving_service.rb" timestamp="1480407523050">
         <mark key="[" line="14" column="0" />
@@ -809,6 +809,12 @@
         <mark key="]" line="20" column="49" />
         <mark key="." line="20" column="49" />
         <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/config/initializers/rails_footnotes.rb" timestamp="1480876154528">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="56" />
+        <mark key="^" line="2" column="56" />
+        <mark key="." line="2" column="56" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/db/migrate/20161114043826_create_book_syoten_records.rb" timestamp="1479108504733">
         <mark key="[" line="4" column="28" />
@@ -915,7 +921,7 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480566615623">
+      <file name="/Dummy.txt" timestamp="1480874726320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/config/application.rb" timestamp="1480561100206">
@@ -961,7 +967,7 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="/a.regexp" timestamp="1480871269688">
+      <file name="/a.regexp" timestamp="1480876133414">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1286,11 +1292,10 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1480872636824">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="102" column="1" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1480876228448">
+        <mark key="[" line="103" column="7" />
+        <mark key="]" line="103" column="21" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/sales_analytics/index.html.slim" timestamp="1480144370428">
         <mark key="[" line="14" column="51" />
@@ -2110,10 +2115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="6" filename="$USER_HOME$/projects/pos-analytics/Gemfile" />
-      <jump line="66" column="5" filename="$USER_HOME$/projects/pos-analytics/Gemfile" />
-      <jump line="23" column="6" filename="$USER_HOME$/projects/pos-analytics/Gemfile" />
-      <jump line="24" column="5" filename="$USER_HOME$/projects/pos-analytics/Gemfile" />
       <jump line="20" column="53" filename="$USER_HOME$/projects/pos-analytics/app/assets/javascripts/book_monthly_records.coffee" />
       <jump line="228" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="473" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -2210,6 +2211,10 @@
       <jump line="554" column="68" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="69" column="60" filename="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" />
       <jump line="106" column="4" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
+      <jump line="0" column="44" filename="$USER_HOME$/projects/value_press/config/environments/staging.rb" />
+      <jump line="2" column="18" filename="$USER_HOME$/projects/value_press/config/environments/staging.rb" />
+      <jump line="3" column="2" filename="$USER_HOME$/projects/value_press/config/environments/staging.rb" />
+      <jump line="5" column="2" filename="$USER_HOME$/projects/value_press/config/environments/staging.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4859,32 +4864,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setup</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>yn_all</text>
+        <text>footer</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICJwb3N0ZGVwbG95IjogImJ1bmRsZSBleGVjIHJhaWxzIGRiOnNldHVw</text>
+        <text>rails-footnotes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW0gJ3J1Ym9jb3AnCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBnZW0gJ3JhaWxzLWZvb3Rub3RlcycK</text>
       </register>
-      <register name="4" type="4">
-        <text>gem 'better_errors'
-  gem 'binding_of_caller'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBCZXR0ZXJFcnJvcnM6Ok1pZGRsZXdhcmUuYWxsb3dfaXAhICcwLjAuMC4wLzMyJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBnZW0gJ3J1Ym9jb3AnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5105,11 +5109,12 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>gem 'better_errors'
+  gem 'binding_of_caller'</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YSA9IG9iamVjdC5yZXNwb25kX3RvPyg6cGFyZW50X2Zvcm1fY29uZmlybWluZykgJiYKICAgICAgb2JqZWN0LnNlbmQoOnBhcmVudF9mb3JtX2NvbmZpcm1pbmc/KQogICAgaWYgYSA9PSBmYWxzZQogICAgICByZXR1cm4gZmFsc2UKICAgIGVuZAoKICAgIChvYmplY3QucmVzcG9uZF90bz8oOmNvbmZpcm1pbmcpICYmCiAgICAgIG9iamVjdC5zZW5kKDpjb25maXJtaW5nPykpIHx8CiAgICAgIChvYmplY3QucmVzcG9uZF90bz8oOnBhcmVudF9mb3JtX2NvbmZpcm1pbmcpICYmCiAgICAgICAgb2JqZWN0LnNlbmQoOnBhcmVudF9mb3JtX2NvbmZpcm1pbmc/KSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -5119,9 +5124,9 @@
       </register>
     </registers>
     <search>
-      <last-search>yn_all</last-search>
+      <last-search>footer</last-search>
       <last-offset />
-      <last-pattern>yn_all</last-pattern>
+      <last-pattern>footer</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -5129,9 +5134,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edit_deli</entry>
-        <entry>update_deli</entry>
-        <entry>raw</entry>
         <entry>set_daily</entry>
         <entry>def show</entry>
         <entry>add_</entry>
@@ -5149,6 +5151,9 @@
         <entry>group</entry>
         <entry>dailyorders.kyouyu_cd</entry>
         <entry>yn_all</entry>
+        <entry>con</entry>
+        <entry>cons</entry>
+        <entry>footer</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
