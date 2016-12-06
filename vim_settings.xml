@@ -257,6 +257,12 @@
         <mark key="." line="20" column="53" />
         <mark key="^" line="20" column="53" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1480991080350">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="103" column="7" />
+        <mark key="]" line="103" column="21" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1480932453735">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="19" column="0" />
@@ -456,8 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="34" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="432" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="99" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/pos-calc/config/database.yml" />
       <jump line="93" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
@@ -556,6 +560,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="292" column="12" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" />
+      <jump line="34" column="16" filename="$USER_HOME$/projects/value_press/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3208,7 +3214,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>sales</text>
+        <text>foo</text>
       </register>
       <register name="0" type="4">
         <text>.click()</text>
@@ -3466,9 +3472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sales</last-search>
+      <last-search>foo</last-search>
       <last-offset />
-      <last-pattern>sales</last-pattern>
+      <last-pattern>foo</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3476,8 +3482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dailyorders</entry>
-        <entry>default</entry>
         <entry>status</entry>
         <entry>date</entry>
         <entry>yy</entry>
@@ -3496,6 +3500,8 @@
         <entry>edit_dailyorder_table</entry>
         <entry>person</entry>
         <entry>sales</entry>
+        <entry>footer</entry>
+        <entry>foo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
