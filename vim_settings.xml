@@ -47,6 +47,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_overseas.php" timestamp="1481112960873" />
       <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1480937892079">
         <mark key="'" line="105" column="12" />
         <mark key="[" line="324" column="47" />
@@ -312,12 +313,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/doc/user_map.md" timestamp="1481112434886">
+      <file name="$USER_HOME$/projects/value_press/doc/user_map.md" timestamp="1481113341686">
         <mark key="'" line="53" column="30" />
-        <mark key="[" line="132" column="16" />
-        <mark key="]" line="132" column="30" />
-        <mark key="." line="132" column="30" />
-        <mark key="^" line="132" column="30" />
+        <mark key="[" line="153" column="32" />
+        <mark key="]" line="153" column="42" />
+        <mark key="." line="153" column="42" />
+        <mark key="^" line="153" column="42" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1480938370008">
         <mark key="'" line="390" column="35" />
@@ -3119,31 +3120,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICogZWRpdF9jb21wYW55X25hbWUgLT4gb3ZlcnNlYV9hcnRpY2xlcy5yYjp1cGRhdGUK</text>
+      <register name="0" type="4">
+        <text>_controller</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmV3CiAgICA=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y3JlYXRlCiAgICAKICAgIA==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">aW5kZXgKICAgIA==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICogY29uZmlybSAtPiBvcHRpb25fbWVkaWFjb250YWN0cy5yYjpjcmVhdGUK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">bmV3CiAgICA=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Y3JlYXRlCiAgICAKICAgIA==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">aW5kZXgKICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogZGVsZXRlX2NhcmQgLT4gY3JlZGl0X2NhcmRzLnJiOmRlc3Ryb3kK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3364,11 +3365,11 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW5kZXgKICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXhwbGFpbgogICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICogZGVsZXRlX2NhcmQgLT4gY3JlZGl0X2NhcmRzLnJiOmRlc3Ryb3kK</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">aW5kZXgKICAgIA==</text>
