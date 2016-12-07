@@ -383,9 +383,6 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1480940776062">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1481008127761">
         <mark key="'" line="1" column="46" />
         <mark key="[" line="18" column="12" />
@@ -447,11 +444,8 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480874726320">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1481097061682">
-        <mark key="'" line="95" column="0" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1481100556699">
+        <mark key="'" line="227" column="49" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/batch/sendmail_year_service_spec.rb" timestamp="1479652590039">
         <mark key="'" line="20" column="4" />
@@ -489,7 +483,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/doc/admin_map.md" timestamp="1481094108721">
+      <file name="$USER_HOME$/projects/value_press/doc/admin_map.md" timestamp="1481099812664">
         <mark key="'" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/decorators/tel_mplans_to_transfer_tels_change_request_decorator.rb" timestamp="1481008366978">
@@ -1755,8 +1749,11 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/doc/user_map.md" timestamp="1481097100199">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/value_press/doc/user_map.md" timestamp="1481100504490">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/edit.html.erb" timestamp="1479709166317">
         <mark key="[" line="2" column="4" />
@@ -2234,15 +2231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="620" column="48" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="622" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="624" column="17" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="626" column="55" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="627" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="629" column="57" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="124" column="0" filename="$USER_HOME$/projects/pos-calc/config/routes.rb" />
-      <jump line="55" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="364" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="77" column="5" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="47" column="5" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
       <jump line="102" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -2334,6 +2322,15 @@
       <jump line="0" column="14" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="25" column="33" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="95" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="153" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="163" column="55" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="164" column="56" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="166" column="62" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="167" column="8" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="422" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="227" column="49" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4983,13 +4980,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>camp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbmZsZWN0LmlycmVndWxhciAiZGF0YSIsICJkYXRhcyIK</text>
+        <text encoding="base64">ICAgICogY29uZmlybSAtPiBiaWxsc19jb250cm9sbGVyLnJiOmNyZWF0ZQo=</text>
       </register>
       <register name="1" type="4">
         <text>def last_search_query(custom_controller_name = nil)
@@ -5259,9 +5256,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>camp</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>camp</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -5269,8 +5266,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enum</entry>
-        <entry>dailyor</entry>
         <entry>edit_dailyorder_table</entry>
         <entry>person</entry>
         <entry>sales</entry>
@@ -5289,6 +5284,8 @@
         <entry>退会</entry>
         <entry>data</entry>
         <entry>user</entry>
+        <entry>analytics</entry>
+        <entry>camp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
