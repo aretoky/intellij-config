@@ -20,8 +20,8 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_count.php" timestamp="1481087123525">
         <mark key="'" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1480938370008">
-        <mark key="'" line="390" column="35" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481163428751">
+        <mark key="'" line="101" column="14" />
         <mark key="[" line="55" column="99" />
         <mark key="]" line="55" column="99" />
         <mark key="." line="55" column="99" />
@@ -134,12 +134,12 @@
       <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1481101842201">
         <mark key="'" line="138" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/multiple_kakuzais/edit.html.erb" timestamp="1480948828470">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/multiple_kakuzais/edit.html.erb" timestamp="1481163691005">
         <mark key="'" line="3" column="89" />
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="26" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="35" column="26" />
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="65" column="29" />
+        <mark key="." line="65" column="29" />
+        <mark key="^" line="65" column="29" />
       </file>
       <file name="/a.regexp" timestamp="1481109922498">
         <mark key="i" line="0" column="3" />
@@ -150,20 +150,18 @@
       <file name="$USER_HOME$/projects/value_press/doc/admin_map.md" timestamp="1481099812664">
         <mark key="'" line="102" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1481163686111">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="64" column="41" />
+        <mark key="]" line="64" column="41" />
+        <mark key="." line="64" column="41" />
+        <mark key="^" line="41" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1481011314074">
         <mark key="'" line="62" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="63" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="244" column="63" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="270" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="274" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="363" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="388" column="19" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="390" column="35" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="57" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="149" column="58" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="680" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="681" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="682" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
@@ -255,6 +253,15 @@
       <jump line="69" column="5" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_overseas.php" />
       <jump line="94" column="20" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_overseas.php" />
       <jump line="130" column="10" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="55" column="99" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="29" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="471" column="99" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="101" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="16" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
+      <jump line="1" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
+      <jump line="2" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
+      <jump line="4" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2904,31 +2911,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wait</text>
+        <text>.name</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>add_empno</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAZGFpbHlvcmRlcnMgPSBAZGFpbHlvcmRlcnMud2l0aF9rYWt1emFpX2RlbGl2ZXJfc3RhdHVzKDp3YWl0KQo=</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOmFkZF9lbXBubywgOnN0cmluZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOmFkZF91c2VyX25hbWUsIDpzdHJpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8dGg+PC90aD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICogY29uZmlybSAtPiBvcHRpb25fbWVkaWFjb250YWN0cy5yYjpjcmVhdGUK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">bmV3CiAgICA=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y3JlYXRlCiAgICAKICAgIA==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">aW5kZXgKICAgIA==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3149,23 +3156,23 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">bmV3CiAgICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y3JlYXRlCiAgICAKICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICogZGVsZXRlX2NhcmQgLT4gY3JlZGl0X2NhcmRzLnJiOmRlc3Ryb3kK</text>
+      <register name="9" type="4">
+        <text encoding="base64">aW5kZXgKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>add_empno</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>add_empno</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3173,9 +3180,6 @@
     </search>
     <history>
       <history-search>
-        <entry>foo</entry>
-        <entry>amtax</entry>
-        <entry>good</entry>
         <entry>bitem</entry>
         <entry>format</entry>
         <entry>30日</entry>
@@ -3193,6 +3197,9 @@
         <entry>medium_list</entry>
         <entry>csv</entry>
         <entry>create</entry>
+        <entry>add</entry>
+        <entry>add_user</entry>
+        <entry>add_empno</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
