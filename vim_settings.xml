@@ -63,11 +63,11 @@
         <mark key="." line="31" column="2" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/multiple_kakuzais_controller.rb" timestamp="1481162641549">
-        <mark key="[" line="10" column="65" />
-        <mark key="]" line="10" column="69" />
-        <mark key="." line="10" column="69" />
-        <mark key="^" line="10" column="69" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/multiple_kakuzais_controller.rb" timestamp="1481164396665">
+        <mark key="[" line="4" column="128" />
+        <mark key="]" line="4" column="128" />
+        <mark key="." line="4" column="128" />
+        <mark key="^" line="4" column="128" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1480941017261">
         <mark key="'" line="221" column="11" />
@@ -150,10 +150,10 @@
       <file name="$USER_HOME$/projects/value_press/doc/admin_map.md" timestamp="1481099812664">
         <mark key="'" line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1481163686111">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1481164335315">
         <mark key="'" line="4" column="29" />
-        <mark key="[" line="64" column="41" />
-        <mark key="]" line="64" column="41" />
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="127" />
         <mark key="." line="64" column="41" />
         <mark key="^" line="41" column="25" />
       </file>
@@ -2916,26 +2916,26 @@
       <register name="/" type="4">
         <text>add_empno</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dGUgOmFkZF9lbXBubywgOnN0cmluZwo=</text>
+      <register name="0" type="4">
+        <text>includes(:order_type, :toritsugi, :deliver_type, :deliver_status, :sales_person, :book, :toritsugi_type, store: [:parent])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dGUgOmFkZF91c2VyX25hbWUsIDpzdHJpbmcK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dGg+PC90aD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOmFkZF91c2VyX25hbWUsIDpzdHJpbmcK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8dGg+PC90aD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogY29uZmlybSAtPiBvcHRpb25fbWVkaWFjb250YWN0cy5yYjpjcmVhdGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3156,14 +3156,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bmV3CiAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICogY29uZmlybSAtPiBvcHRpb25fbWVkaWFjb250YWN0cy5yYjpjcmVhdGUK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Y3JlYXRlCiAgICAKICAgIA==</text>
+        <text encoding="base64">bmV3CiAgICA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aW5kZXgKICAgIA==</text>
+        <text encoding="base64">Y3JlYXRlCiAgICAKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
