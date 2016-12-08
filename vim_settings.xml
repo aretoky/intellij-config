@@ -317,7 +317,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1481192248032">
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" timestamp="1481208608490">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="240" column="0" />
         <mark key="]" line="240" column="0" />
         <mark key="^" line="129" column="1" />
@@ -413,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="10" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="55" column="99" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="29" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="16" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
@@ -513,6 +513,7 @@
       <jump line="155" column="27" filename="$USER_HOME$/projects/pos-calc/app/controllers/store_daily_orders_controller.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_preview_form.html.erb" />
       <jump line="103" column="29" filename="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_preview_form.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorders_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3165,7 +3166,7 @@
         <text>production</text>
       </register>
       <register name="/" type="4">
-        <text>person</text>
+        <text>def update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnVuZGxlIGV4ZWMgY2FwIHByb2R1Y3Rpb24gZGVwbG95Cg==</text>
@@ -3421,9 +3422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>person</last-search>
+      <last-search>def update</last-search>
       <last-offset />
-      <last-pattern>person</last-pattern>
+      <last-pattern>def update</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3431,7 +3432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add_empno</entry>
         <entry>list</entry>
         <entry>sales_person</entry>
         <entry>sales</entry>
@@ -3451,6 +3451,7 @@
         <entry>delete_all</entry>
         <entry>biko</entry>
         <entry>person</entry>
+        <entry>def update</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
