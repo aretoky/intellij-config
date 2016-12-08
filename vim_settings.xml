@@ -20,8 +20,8 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_count.php" timestamp="1481087123525">
         <mark key="'" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481180259598">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481187835800">
+        <mark key="'" line="462" column="33" />
         <mark key="[" line="149" column="17" />
         <mark key="]" line="149" column="15" />
         <mark key="." line="149" column="15" />
@@ -43,12 +43,12 @@
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_overseas_entry.php" timestamp="1481112145750">
         <mark key="'" line="476" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1480937892079">
-        <mark key="'" line="105" column="12" />
-        <mark key="[" line="324" column="47" />
-        <mark key="]" line="324" column="47" />
-        <mark key="^" line="256" column="9" />
-        <mark key="." line="324" column="47" />
+      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1481187872721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="256" column="35" />
+        <mark key="]" line="256" column="58" />
+        <mark key="^" line="256" column="58" />
+        <mark key="." line="256" column="58" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/no_goods_input.rb" timestamp="1480867597793">
         <mark key="'" line="69" column="60" />
@@ -187,11 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="55" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="164" column="56" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="166" column="62" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="167" column="8" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="227" column="49" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="422" column="8" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
@@ -287,6 +282,11 @@
       <jump line="150" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="403" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="415" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="149" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="462" column="33" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="258" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2939,7 +2939,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pos</text>
+        <text>kakuzai_</text>
       </register>
       <register name="0" type="4">
         <text>@dailyorder.recent_pos</text>
@@ -3195,9 +3195,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pos</last-search>
+      <last-search>kakuzai_</last-search>
       <last-offset />
-      <last-pattern>pos</last-pattern>
+      <last-pattern>kakuzai_</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3205,7 +3205,6 @@
     </search>
     <history>
       <history-search>
-        <entry>medium_list</entry>
         <entry>csv</entry>
         <entry>create</entry>
         <entry>add</entry>
@@ -3225,6 +3224,7 @@
         <entry>quantity</entry>
         <entry>Pos</entry>
         <entry>pos</entry>
+        <entry>kakuzai_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
