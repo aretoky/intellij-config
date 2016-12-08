@@ -273,6 +273,12 @@
         <mark key="." line="11" column="43" />
         <mark key="^" line="11" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/circle.yml" timestamp="1481203212000">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" timestamp="1481012442371">
         <mark key="'" line="1" column="2" />
       </file>
@@ -3156,22 +3162,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDwlPSBmLmhpZGRlbl9maWVsZCA6cGVyc29uLCA6dmFsdWUgPT4gZi5vYmplY3QucGVyc29uICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVuZGxlIGV4ZWMgY2FwIHByb2R1Y3Rpb24gZGVwbG95Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcG9zdCAnZGVsZXRlX29yZGVycycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcG9zdCAnZGVsZXRlX29yZGVycycK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -3402,13 +3408,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoYXQucGFyZW50cygiLmJua3MtbnVtYmVyLWlucHV0LXRhYmxlLXJvdyIpLmZpbmQoIi5yZWNlbnQtcG9zIikpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PCUKPWJlZ2luCiAgICAgICAgICAgIGRhdGFfY29udGVudCA9ICIiCiAgICAgICAgICAgaWYgZGFpbHlvcmRlcnNfZm9ybS5vYmplY3Quc3RvcmUKICAgICAgICAgICAgIGRhdGFfY290ZW50ID0gZGFpbHlvcmRlcnNfZm9ybS5vYmplY3QuZGFpbHlvcmRlcnNfb2Zfc2FtZV9zdG9yZV9hbmRfYm9vay5saW1pdCgzKS5tYXAgZG8gfGRhaWx5b3JkZXJ8ICIje2woZGFpbHlvcmRlci5vcmRlcl9kYXRlLnRvX2RhdGUpfSAje2RhaWx5b3JkZXIucXVhbnRpdHl95YaKIgogICAgICAgICAgICAgZW5kLmpvaW4oIjxici8+IikKICAgICAgICAgICBlbmQKPWVuZAogICAgICAgICAgICBkYXRhX2NvdGVudCA9ICLjgarjgZciIGlmIGRhdGFfY290ZW50LmJsYW5rPwogICAgICAgICAgJT4=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">PCUKPWJlZ2luCiAgICAgICAgICBpZiBkYWlseW9yZGVyc19mb3JtLm9iamVjdC5zdG9yZSAmJiBkYWlseW9yZGVyc19mb3JtLm9iamVjdC5ib29rICU+CiAgICAgICAgICA8JSByZWNlbnRfcG9zcyA9IFBvcy53aGVyZSgiYm9va19pZCA9ID8gYW5kIHN0b3JlX2lkID0gPyAiLGRhaWx5b3JkZXJzX2Zvcm0ub2JqZWN0LmJvb2tfaWQsIGRhaWx5b3JkZXJzX2Zvcm0ub2JqZWN0LnN0b3JlX2lkICkub3JkZXIoInJlcG9ydF9kYXRlIGRlc2MiKS5maXJzdCAlPgogICAgICAgICAgPCUgaWYgcmVjZW50X3Bvc3MgJT4KICAgICAgICAgICAgIDwlPSByZWNlbnRfcG9zcy5xdHkgJT7lhooKICAgICAgICAgICAgPCU9IHJlY2VudF9wb3NzLnJlcG9ydF9kYXRlID8gcmVjZW50X3Bvc3MucmVwb3J0X2RhdGUuc3RyZnRpbWUoIiVZLyVtLyVkIikgOiAiIiAlPgogICAgICAgICAgICAgIDwlIGVuZCAgJT4KICAgICAgICAgICAgPCUgZW5kCj1lbmQKICAgICAgICAgICAgJT4=</text>
+        <text encoding="base64">PCUKPWJlZ2luCiAgICAgICAgICAgIGRhdGFfY29udGVudCA9ICIiCiAgICAgICAgICAgaWYgZGFpbHlvcmRlcnNfZm9ybS5vYmplY3Quc3RvcmUKICAgICAgICAgICAgIGRhdGFfY290ZW50ID0gZGFpbHlvcmRlcnNfZm9ybS5vYmplY3QuZGFpbHlvcmRlcnNfb2Zfc2FtZV9zdG9yZV9hbmRfYm9vay5saW1pdCgzKS5tYXAgZG8gfGRhaWx5b3JkZXJ8ICIje2woZGFpbHlvcmRlci5vcmRlcl9kYXRlLnRvX2RhdGUpfSAje2RhaWx5b3JkZXIucXVhbnRpdHl95YaKIgogICAgICAgICAgICAgZW5kLmpvaW4oIjxici8+IikKICAgICAgICAgICBlbmQKPWVuZAogICAgICAgICAgICBkYXRhX2NvdGVudCA9ICLjgarjgZciIGlmIGRhdGFfY290ZW50LmJsYW5rPwogICAgICAgICAgJT4=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
