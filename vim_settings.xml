@@ -175,6 +175,13 @@
         <mark key="." line="4" column="128" />
         <mark key="^" line="4" column="128" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_preview_form.html.erb" timestamp="1481201058794">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1481198178668">
         <mark key="'" line="283" column="4" />
         <mark key="[" line="296" column="18" />
@@ -188,6 +195,9 @@
         <mark key="]" line="28" column="14" />
         <mark key="." line="82" column="21" />
         <mark key="^" line="82" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/store_daily_orders_controller.rb" timestamp="1481201042594">
+        <mark key="'" line="155" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/models/syoten.rb" timestamp="1480341331688">
         <mark key="[" line="43" column="0" />
@@ -397,8 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="40" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_overseas_entry.php" />
-      <jump line="69" column="5" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_overseas.php" />
       <jump line="94" column="20" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_overseas.php" />
       <jump line="130" column="10" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="55" column="99" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -497,6 +505,8 @@
       <jump line="271" column="55" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
       <jump line="283" column="4" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
+      <jump line="155" column="27" filename="$USER_HOME$/projects/pos-calc/app/controllers/store_daily_orders_controller.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/store_daily_orders/_preview_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3146,15 +3156,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>タ</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>delete_all</text>
+        <text>person</text>
       </register>
-      <register name="0" type="4">
-        <text>delete_all_orders:
-      messages:
-        success: &quot;全データ登録解除%{num} 件/ %{sum} 冊のデータを登録解除しました&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDwlPSBmLmhpZGRlbl9maWVsZCA6cGVyc29uLCA6dmFsdWUgPT4gZi5vYmplY3QucGVyc29uICU+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3407,9 +3415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete_all</last-search>
+      <last-search>person</last-search>
       <last-offset />
-      <last-pattern>delete_all</last-pattern>
+      <last-pattern>person</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3417,14 +3425,12 @@
     </search>
     <history>
       <history-search>
-        <entry>add_user</entry>
         <entry>add_empno</entry>
         <entry>list</entry>
         <entry>sales_person</entry>
         <entry>sales</entry>
         <entry>Sales</entry>
         <entry>email</entry>
-        <entry>person</entry>
         <entry>upd_e</entry>
         <entry>show</entry>
         <entry>max</entry>
@@ -3437,6 +3443,8 @@
         <entry>short</entry>
         <entry>edit_</entry>
         <entry>delete_all</entry>
+        <entry>biko</entry>
+        <entry>person</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
