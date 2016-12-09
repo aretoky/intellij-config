@@ -43,12 +43,12 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/doc/user_map.md" timestamp="1481113341686">
+      <file name="$USER_HOME$/projects/value_press/doc/user_map.md" timestamp="1481252465052">
         <mark key="'" line="53" column="30" />
-        <mark key="[" line="153" column="32" />
-        <mark key="]" line="153" column="42" />
-        <mark key="." line="153" column="42" />
-        <mark key="^" line="153" column="42" />
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481197680841">
         <mark key="'" line="25" column="10" />
@@ -206,6 +206,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1481252683563">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="37" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1481090316843">
         <mark key="'" line="2" column="2" />
@@ -3177,25 +3183,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>admin/</text>
       </register>
       <register name="/" type="4">
         <text>long</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVuZGxlIGV4ZWMgY2FwIHByb2R1Y3Rpb24gZGVwbG95Cg==</text>
+      <register name="0" type="4">
+        <text>original_list_csv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcG9zdCAnZGVsZXRlX29yZGVycycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -3426,10 +3432,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcG9zdCAnZGVsZXRlX29yZGVycycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoYXQucGFyZW50cygiLmJua3MtbnVtYmVyLWlucHV0LXRhYmxlLXJvdyIpLmZpbmQoIi5yZWNlbnQtcG9zIikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
