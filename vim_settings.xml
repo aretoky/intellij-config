@@ -65,8 +65,8 @@
         <mark key="." line="289" column="0" />
         <mark key="^" line="289" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481532845629">
-        <mark key="'" line="517" column="15" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481541523978">
+        <mark key="'" line="540" column="37" />
         <mark key="[" line="474" column="110" />
         <mark key="]" line="474" column="108" />
         <mark key="." line="474" column="108" />
@@ -539,12 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="57" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="7" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="55" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="101" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="25" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="40" column="9" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="378" column="28" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="541" column="40" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -639,6 +633,12 @@
       <jump line="517" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="69" column="4" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_listup_list.erb" />
       <jump line="31" column="6" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
+      <jump line="10" column="39" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="532" column="205" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="582" column="37" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="576" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="578" column="52" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="540" column="37" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3291,7 +3291,7 @@
         <text>asc</text>
       </register>
       <register name="/" type="4">
-        <text>並び</text>
+        <text>group</text>
       </register>
       <register name="0" type="4">
         <text>dailyorders.order_date desc</text>
@@ -3547,9 +3547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>並び</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>並び</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3557,7 +3557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete_all</entry>
         <entry>biko</entry>
         <entry>person</entry>
         <entry>def update</entry>
@@ -3570,13 +3569,14 @@
         <entry>ts_</entry>
         <entry>admin</entry>
         <entry>show</entry>
-        <entry>listup</entry>
         <entry>sotres</entry>
         <entry>:order</entry>
         <entry>order(</entry>
         <entry>order</entry>
         <entry>並び順</entry>
         <entry>並び</entry>
+        <entry>listup</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
