@@ -165,12 +165,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1481544322577">
-        <mark key="'" line="18" column="49" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="76" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1481560916249">
+        <mark key="'" line="23" column="49" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/copying_db_from_production_to_staging_service.rb" timestamp="1481217616716">
         <mark key="'" line="76" column="13" />
@@ -3301,28 +3301,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>add_child</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnBlcihwYXJhbXNbOnBlcl9wYWdlXS5ibGFuaz8gPyAxMDAgOiBwYXJhbXNbOnBlcl9wYWdlXSkK</text>
+      <register name="0" type="4">
+        <text>if csv_type == &quot;sumi&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgWyJob3J5dSJdLmluY2x1ZGU/KGNzdl90eXBlKQo=</text>
+        <text encoding="base64">ICAgICAgZGFpbHlvcmRlcnMgPSBkYWlseW9yZGVycy53aGVyZShkZWxpdmVyX3N0YXR1c19pZDogZGVsaXZlcl9zdGF0dXNfaWQudG9faSkgaWYgZGVsaXZlcl9zdGF0dXNfaWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAZGFpbHlvcmRlcnMgPSBAZGFpbHlvcmRlcnMud2hlcmUoa2FrdXphaV9zaGlwX2RhdGU6IG5pbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlcmUoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3547,13 +3547,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgaWYgWyJob3J5dSJdLmluY2x1ZGU/KGNzdl90eXBlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5pbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
