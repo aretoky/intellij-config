@@ -56,6 +56,9 @@
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1481246942731">
         <mark key="'" line="20" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1481547794433">
+        <mark key="'" line="75" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_count.php" timestamp="1481087123525">
         <mark key="'" line="11" column="37" />
       </file>
@@ -545,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="60" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="28" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
       <jump line="138" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
@@ -645,6 +647,7 @@
       <jump line="0" column="16" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" />
       <jump line="17" column="49" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" />
       <jump line="63" column="30" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="75" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/pos.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3297,7 +3300,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>add_chi</text>
+        <text>sync_sf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnBlcihwYXJhbXNbOnBlcl9wYWdlXS5ibGFuaz8gPyAxMDAgOiBwYXJhbXNbOnBlcl9wYWdlXSkK</text>
@@ -3553,9 +3556,9 @@
       </register>
     </registers>
     <search>
-      <last-search>add_chi</last-search>
+      <last-search>sync_sf</last-search>
       <last-offset />
-      <last-pattern>add_chi</last-pattern>
+      <last-pattern>sync_sf</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3563,7 +3566,6 @@
     </search>
     <history>
       <history-search>
-        <entry>long</entry>
         <entry>credit</entry>
         <entry>media</entry>
         <entry>_sf_startpt</entry>
@@ -3583,6 +3585,7 @@
         <entry>dailyorder_csv_records</entry>
         <entry>ship</entry>
         <entry>add_chi</entry>
+        <entry>sync_sf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
