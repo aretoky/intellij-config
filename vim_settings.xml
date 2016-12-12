@@ -279,12 +279,12 @@
         <mark key="." line="0" column="39" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/last_search_query_savable.rb" timestamp="1481352982490" />
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481513013520">
-        <mark key="'" line="463" column="30" />
-        <mark key="[" line="383" column="37" />
-        <mark key="]" line="384" column="5" />
-        <mark key="." line="384" column="5" />
-        <mark key="^" line="384" column="5" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481546348046">
+        <mark key="'" line="63" column="30" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="181" column="5" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_list_edit_button.html.erb" timestamp="1481197901213">
         <mark key="[" line="6" column="28" />
@@ -350,7 +350,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1481542793396">
+      <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1481545738056">
         <mark key="'" line="44" column="10" />
         <mark key="[" line="31" column="2" />
         <mark key="]" line="31" column="2" />
@@ -545,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="18" column="60" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="28" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
@@ -645,6 +644,7 @@
       <jump line="21" column="5" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" />
       <jump line="0" column="16" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" />
       <jump line="17" column="49" filename="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" />
+      <jump line="63" column="30" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3294,31 +3294,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>ship</text>
+        <text>add_chi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAZGFpbHlvcmRlcnMgPSBAZGFpbHlvcmRlcnMud2hlcmUoa2FrdXphaV9zaGlwX2RhdGU6IG5pbCkK</text>
+        <text encoding="base64">ICAgICAgLnBlcihwYXJhbXNbOnBlcl9wYWdlXS5ibGFuaz8gPyAxMDAgOiBwYXJhbXNbOnBlcl9wYWdlXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgWyJob3J5dSJdLmluY2x1ZGU/KGNzdl90eXBlKQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgWyJob3J5dSJdLmluY2x1ZGU/KGNzdl90eXBlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAZGFpbHlvcmRlcnMgPSBAZGFpbHlvcmRlcnMud2hlcmUoa2FrdXphaV9zaGlwX2RhdGU6IG5pbCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBAZGFpbHlvcmRlcnMgPSBAZGFpbHlvcmRlcnMud2hlcmUoa2FrdXphaV9zaGlwX2RhdGU6IG5pbCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3540,22 +3540,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAogIGVuZAo=</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5pbAo=</text>
+        <text encoding="base64">ICAgIGVuZAogIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5pbAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ship</last-search>
+      <last-search>add_chi</last-search>
       <last-offset />
-      <last-pattern>ship</last-pattern>
+      <last-pattern>add_chi</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3563,7 +3563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def update</entry>
         <entry>long</entry>
         <entry>credit</entry>
         <entry>media</entry>
@@ -3583,6 +3582,7 @@
         <entry>group</entry>
         <entry>dailyorder_csv_records</entry>
         <entry>ship</entry>
+        <entry>add_chi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
