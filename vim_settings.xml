@@ -59,8 +59,8 @@
         <mark key="." line="289" column="0" />
         <mark key="^" line="289" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481513347785">
-        <mark key="'" line="462" column="33" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481529112607">
+        <mark key="'" line="517" column="15" />
         <mark key="[" line="474" column="110" />
         <mark key="]" line="474" column="108" />
         <mark key="." line="474" column="108" />
@@ -491,13 +491,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1481528803760">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="21" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="445" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="471" column="84" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="669" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="671" column="84" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="28" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="73" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="129" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -593,6 +594,11 @@
       <jump line="58" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="172" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="463" column="30" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="478" column="72" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="485" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="488" column="29" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="499" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="517" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3245,7 +3251,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>sotres</text>
+        <text>order(</text>
       </register>
       <register name="0" type="4">
         <text>includes(:store,:book,:toritsugi,:deliver_type,:deliver_status,:order_type,:sales_person, :add_user).
@@ -3502,9 +3508,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sotres</last-search>
+      <last-search>order(</last-search>
       <last-offset />
-      <last-pattern>sotres</last-pattern>
+      <last-pattern>order(</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3512,9 +3518,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Pos</entry>
-        <entry>pos</entry>
-        <entry>kakuzai_</entry>
         <entry>short</entry>
         <entry>edit_</entry>
         <entry>delete_all</entry>
@@ -3532,6 +3535,9 @@
         <entry>show</entry>
         <entry>listup</entry>
         <entry>sotres</entry>
+        <entry>order</entry>
+        <entry>:order</entry>
+        <entry>order(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
