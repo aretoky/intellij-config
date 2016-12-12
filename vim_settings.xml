@@ -65,7 +65,7 @@
         <mark key="." line="289" column="0" />
         <mark key="^" line="289" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481529112607">
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1481532845629">
         <mark key="'" line="517" column="15" />
         <mark key="[" line="474" column="110" />
         <mark key="]" line="474" column="108" />
@@ -266,12 +266,12 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" timestamp="1481530968863">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" timestamp="1481533417702">
         <mark key="'" line="31" column="6" />
-        <mark key="[" line="162" column="129" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+        <mark key="[" line="163" column="87" />
+        <mark key="]" line="163" column="90" />
+        <mark key="^" line="163" column="90" />
+        <mark key="." line="163" column="90" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/views/books/_book.json.jbuilder" timestamp="1480302335030">
         <mark key="[" line="0" column="39" />
@@ -3288,14 +3288,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>asc</text>
       </register>
       <register name="/" type="4">
         <text>並び</text>
       </register>
       <register name="0" type="4">
-        <text>includes(:store,:book,:toritsugi,:deliver_type,:deliver_status,:order_type,:sales_person, :add_user).
-        references(:stores,:toritsugis)</text>
+        <text>dailyorders.order_date desc</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
