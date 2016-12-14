@@ -389,12 +389,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/application/header/_menu.html.erb" timestamp="1481720080723">
-        <mark key="'" line="196" column="0" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="6" />
-        <mark key="." line="194" column="6" />
-        <mark key="^" line="193" column="85" />
+      <file name="$USER_HOME$/projects/value_press/app/views/application/header/_menu.html.erb" timestamp="1481720843179">
+        <mark key="'" line="146" column="5" />
+        <mark key="[" line="195" column="7" />
+        <mark key="]" line="195" column="10" />
+        <mark key="." line="195" column="10" />
+        <mark key="^" line="195" column="10" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1481711489218">
         <mark key="'" line="213" column="7" />
@@ -439,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_head.html.erb" />
       <jump line="258" column="7" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
       <jump line="206" column="16" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
@@ -539,6 +538,7 @@
       <jump line="26" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/models/useraccess_tbl_model.php" />
       <jump line="195" column="11" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/api/effect_measurement_api.php" />
       <jump line="210" column="4" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="146" column="5" filename="$USER_HOME$/projects/value_press/app/views/application/header/_menu.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3188,7 +3188,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
