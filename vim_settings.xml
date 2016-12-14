@@ -167,12 +167,12 @@
         <mark key="." line="163" column="90" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/last_search_query_savable.rb" timestamp="1481352982490" />
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481558003434">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="478" column="37" />
-        <mark key="]" line="478" column="47" />
-        <mark key="." line="478" column="47" />
-        <mark key="^" line="478" column="47" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481683397969">
+        <mark key="'" line="308" column="19" />
+        <mark key="[" line="391" column="25" />
+        <mark key="]" line="391" column="37" />
+        <mark key="^" line="391" column="37" />
+        <mark key="." line="391" column="37" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_show_list_edit_button.html.erb" timestamp="1481197901213">
         <mark key="[" line="6" column="28" />
@@ -193,6 +193,7 @@
         <mark key="'" line="939" column="8" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/user/application.html.erb" timestamp="1481568586685" />
+      <file name="/daily_order_shipping_lists_controller.rb" timestamp="1481683142538" />
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_overseas_entry.php" timestamp="1481112145750">
         <mark key="'" line="476" column="40" />
       </file>
@@ -332,11 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="92" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="162" column="48" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="164" column="99" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="1" column="37" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="3" column="22" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
       <jump line="5" column="37" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
       <jump line="7" column="29" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
       <jump line="9" column="37" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
@@ -422,8 +418,6 @@
       <jump line="196" column="22" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="203" column="6" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="243" column="21" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="308" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="4" column="14" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="20" column="45" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/schedule.rb" />
@@ -432,6 +426,13 @@
       <jump line="36" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_person_model.php" />
       <jump line="121" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_person_model.php" />
       <jump line="34" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_person_model.php" />
+      <jump line="475" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="143" column="21" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="232" column="21" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="244" column="51" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="302" column="67" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="308" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3084,25 +3085,25 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>same_telephone_flg</text>
+        <text>update_all</text>
       </register>
       <register name="0" type="4">
         <text>if csv_type == &quot;sumi&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVmZXJlbmNlcyg6c3RvcmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVmZXJlbmNlcyg6c3RvcmUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGFpbHlvcmRlcnMgPSBkYWlseW9yZGVycy53aGVyZShkZWxpdmVyX3N0YXR1c19pZDogZGVsaXZlcl9zdGF0dXNfaWQudG9faSkgaWYgZGVsaXZlcl9zdGF0dXNfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlcmUoKQo=</text>
+        <text encoding="base64">ICAgICAgZGFpbHlvcmRlcnMgPSBkYWlseW9yZGVycy53aGVyZShkZWxpdmVyX3N0YXR1c19pZDogZGVsaXZlcl9zdGF0dXNfaWQudG9faSkgaWYgZGVsaXZlcl9zdGF0dXNfaWQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3327,22 +3328,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlcmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgWyJob3J5dSJdLmluY2x1ZGU/KGNzdl90eXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>same_telephone_flg</last-search>
+      <last-search>update_all</last-search>
       <last-offset />
-      <last-pattern>same_telephone_flg</last-pattern>
+      <last-pattern>update_all</last-pattern>
       <last-replace>request</last-replace>
       <last-substitute>requiest</last-substitute>
       <last-dir>1</last-dir>
@@ -3367,9 +3368,9 @@
         <entry>sync_sf</entry>
         <entry>submit</entry>
         <entry>add_child_submit</entry>
-        <entry>update_all</entry>
         <entry>add_child</entry>
         <entry>same_telephone_flg</entry>
+        <entry>update_all</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Sales/Places/g</entry>
