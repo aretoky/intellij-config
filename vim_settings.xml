@@ -56,6 +56,7 @@
       <file name="$USER_HOME$/projects/pos-calc/app/models/pos.rb" timestamp="1481547794433">
         <mark key="'" line="75" column="6" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/api/effect_measurement_api.php" timestamp="1481713252919" />
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bill/ajax_add_count.php" timestamp="1481087123525">
         <mark key="'" line="11" column="37" />
       </file>
@@ -450,6 +451,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/models/useraccess_tbl_model.php" timestamp="1481712536381">
+        <mark key="'" line="26" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1481277716604">
         <mark key="'" line="22" column="38" />
         <mark key="[" line="2" column="1" />
@@ -501,7 +505,7 @@
         <mark key="]" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/a.regexp" timestamp="1481708514058">
+      <file name="/a.regexp" timestamp="1481712554046">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -523,11 +527,6 @@
         <mark key="." line="64" column="41" />
         <mark key="^" line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_index_bitem.html.slim" timestamp="1481607056256">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/articles/show.html.slim" timestamp="1479457693790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -538,8 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_head.html.erb" />
-      <jump line="96" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_head.html.erb" />
       <jump line="163" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_head.html.erb" />
       <jump line="161" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_head.html.erb" />
       <jump line="258" column="7" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
@@ -638,6 +635,8 @@
       <jump line="16" column="10" filename="$USER_HOME$/sandbox/vp_main_system/application/views/parts/header_view.php" />
       <jump line="17" column="111" filename="$USER_HOME$/sandbox/vp_main_system/application/views/parts/header_view.php" />
       <jump line="31" column="103" filename="$USER_HOME$/sandbox/vp_main_system/application/views/parts/header_view.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/models/useraccess_tbl_model.php" />
+      <jump line="26" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/models/useraccess_tbl_model.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3290,7 +3289,7 @@
         <text encoding="base64">dXJpX3N0cmluZygpICE9PSAnJyAmJiB1cmlfc3RyaW5nKCkgIT09ICcvJyAmJiB1cmlfc3RyaW5nKCkgIT09ICdyJw==</text>
       </register>
       <register name="/" type="4">
-        <text>uri</text>
+        <text>stat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBnZXQgInIiID0+ICJzdGF0aWNfcGFnZXMjcl90b3AiCg==</text>
@@ -3546,9 +3545,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uri</last-search>
+      <last-search>stat</last-search>
       <last-offset />
-      <last-pattern>uri</last-pattern>
+      <last-pattern>stat</last-pattern>
       <last-replace encoding="base64">PCU=</last-replace>
       <last-substitute encoding="base64">XDw/</last-substitute>
       <last-dir>1</last-dir>
@@ -3556,7 +3555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrap</entry>
         <entry encoding="base64">PFw/</entry>
         <entry encoding="base64">PFxcPw==</entry>
         <entry encoding="base64">PFw/PQ==</entry>
@@ -3576,6 +3574,7 @@
         <entry>&quot;r</entry>
         <entry>'r</entry>
         <entry>uri</entry>
+        <entry>stat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
