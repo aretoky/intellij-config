@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/parts/header_view.php" timestamp="1481700645721" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/parts/header_view.php" timestamp="1481702117095" />
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" timestamp="1481434439097">
         <mark key="[" line="70" column="7" />
         <mark key="]" line="70" column="6" />
@@ -30,14 +30,17 @@
       <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_overseas.php" timestamp="1481111930453">
         <mark key="'" line="94" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/application/_footer.html.erb" timestamp="1481702513071">
+        <mark key="'" line="459" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" timestamp="1481687638830">
         <mark key="'" line="89" column="127" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/layouts/application.html.erb" timestamp="1481700787756">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="9" />
-        <mark key="^" line="26" column="9" />
+      <file name="$USER_HOME$/projects/value_press/app/views/layouts/application.html.erb" timestamp="1481702239196">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/deploy/production.rb" timestamp="1481554696420" />
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/multiple_kakuzais_controller.rb" timestamp="1481542943038">
@@ -82,6 +85,7 @@
         <mark key="^" line="163" column="90" />
         <mark key="." line="163" column="90" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/parts/footer_view.php" timestamp="1481702263690" />
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/last_search_query_savable.rb" timestamp="1481352982490" />
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481683397969">
         <mark key="'" line="308" column="19" />
@@ -89,6 +93,9 @@
         <mark key="]" line="391" column="37" />
         <mark key="^" line="391" column="37" />
         <mark key="." line="391" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" timestamp="1481702297041">
+        <mark key="'" line="90" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/cplus_url_helper.rb" timestamp="1481356100575">
         <mark key="[" line="20" column="16" />
@@ -126,7 +133,7 @@
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1481554651795">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1481568575449">
+      <file name="/a.regexp" timestamp="1481702341651">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -152,19 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="29" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="9" column="37" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="107" column="80" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="144" column="68" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="6" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="115" column="165" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="405" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="150" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="403" column="7" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="415" column="15" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="149" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="462" column="33" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="258" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
@@ -252,6 +246,19 @@
       <jump line="302" column="67" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="308" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
       <jump line="87" column="127" filename="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
+      <jump line="13" column="14" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
+      <jump line="72" column="10" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
+      <jump line="77" column="24" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
+      <jump line="81" column="23" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
+      <jump line="86" column="24" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
+      <jump line="90" column="23" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
+      <jump line="11" column="24" filename="$USER_HOME$/projects/value_press/app/views/application/_footer.html.erb" />
+      <jump line="479" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_footer.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_footer.html.erb" />
+      <jump line="463" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_footer.html.erb" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_footer.html.erb" />
+      <jump line="459" column="4" filename="$USER_HOME$/projects/value_press/app/views/application/_footer.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2901,31 +2908,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
-        <text>update_all</text>
+        <text encoding="base64">PFw/PQ==</text>
       </register>
-      <register name="0" type="4">
-        <text>if csv_type == &quot;sumi&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDwlPSByZW5kZXIgImhlYWRlciIgJT4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgogIDxoZWFkPgogICAgPHRpdGxlPk15UmFpbHNCYXNlPC90aXRsZT4KICAgIDwlPSBjc3JmX21ldGFfdGFncyAlPgoKICAgIDwlPSBzdHlsZXNoZWV0X2xpbmtfdGFnICAgICdhcHBsaWNhdGlvbicsIG1lZGlhOiAnYWxsJyAlPgogICAgPCU9IGphdmFzY3JpcHRfaW5jbHVkZV90YWcgJ2FwcGxpY2F0aW9uJyAlPgogIDwvaGVhZD4KCiAgPGJvZHk+CiAgICA8JT0geWllbGQgJT4KICA8L2JvZHk+CjwvaHRtbD4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAucmVmZXJlbmNlcyg6c3RvcmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAucmVmZXJlbmNlcyg6c3RvcmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiIDw/IGlmKHByZWdfbWF0Y2goIi9ecHJlc3NyZWxlYXNlXC8oXGQrPykvIix1cmlfc3RyaW5nKCkpKXs/PnhtbG5zOm9nPSJodHRwOi8vb2dwLm1lL25zIyIgeG1sbnM6ZmI9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tLzIwMDgvZmJtbCI8P30/Pj4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGFpbHlvcmRlcnMgPSBkYWlseW9yZGVycy53aGVyZShkZWxpdmVyX3N0YXR1c19pZDogZGVsaXZlcl9zdGF0dXNfaWQudG9faSkgaWYgZGVsaXZlcl9zdGF0dXNfaWQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgogIDxoZWFkPgogICAgPHRpdGxlPk15UmFpbHNCYXNlPC90aXRsZT4KICAgIDwlPSBjc3JmX21ldGFfdGFncyAlPgoKICAgIDwlPSBzdHlsZXNoZWV0X2xpbmtfdGFnICAgICdhcHBsaWNhdGlvbicsIG1lZGlhOiAnYWxsJyAlPgogICAgPCU9IGphdmFzY3JpcHRfaW5jbHVkZV90YWcgJ2FwcGxpY2F0aW9uJyAlPgogIDwvaGVhZD4KCiAgPGJvZHk+CiAgICA8JT0geWllbGQgJT4KICA8L2JvZHk+CjwvaHRtbD4=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3147,33 +3154,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVmZXJlbmNlcyg6c3RvcmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlcmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAucmVmZXJlbmNlcyg6c3RvcmUpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text encoding="base64">JXMvPFw/PS88JT0vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>update_all</last-search>
+      <last-search encoding="base64">PFw/PQ==</last-search>
       <last-offset />
-      <last-pattern>update_all</last-pattern>
-      <last-replace>request</last-replace>
-      <last-substitute>requiest</last-substitute>
+      <last-pattern encoding="base64">PFw/PQ==</last-pattern>
+      <last-replace encoding="base64">PCU9</last-replace>
+      <last-substitute encoding="base64">PFw/PQ==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ts_</entry>
-        <entry>admin</entry>
-        <entry>show</entry>
-        <entry>sotres</entry>
         <entry>:order</entry>
         <entry>order(</entry>
         <entry>order</entry>
@@ -3190,11 +3193,12 @@
         <entry>add_child</entry>
         <entry>same_telephone_flg</entry>
         <entry>update_all</entry>
+        <entry>wrap</entry>
+        <entry encoding="base64">PFw/</entry>
+        <entry encoding="base64">PFxcPw==</entry>
+        <entry encoding="base64">PFw/PQ==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Sales/Places/g</entry>
-        <entry>s/wait: 15/wait: 25/g</entry>
-        <entry encoding="base64">JzwsJz5zLyA9Pi86IC9n</entry>
         <entry encoding="base64">JzwsJz5zLywkLy9n</entry>
         <entry encoding="base64">JzwsJz5zLzouKyQvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLzovL2c=</entry>
@@ -3212,6 +3216,9 @@
         <entry>%s/emp/staff/g</entry>
         <entry>%s/requiest/request/g</entry>
         <entry>q</entry>
+        <entry encoding="base64">JXMvPFw/LzwlL2c=</entry>
+        <entry encoding="base64">JXMvPFxcPy88JS9n</entry>
+        <entry encoding="base64">JXMvPFw/PS88JT0vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
