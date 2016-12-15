@@ -378,12 +378,12 @@
         <mark key="'" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/helpers/admin/sessions_helper.rb" timestamp="1481710419222" />
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1481766519055">
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="17" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="40" column="17" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1481768542688">
+        <mark key="'" line="3" column="29" />
+        <mark key="[" line="68" column="61" />
+        <mark key="]" line="68" column="7" />
+        <mark key="^" line="68" column="7" />
+        <mark key="." line="68" column="7" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" timestamp="1481195588626">
         <mark key="[" line="118" column="59" />
@@ -3151,31 +3151,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>CSV_KAKUZAI_HEADER = %w(id add_empno k_syoten_cd toritugi_cd toritsugi_name t_syoten_cd bansen store_name_kanji book_name quantity memo deliver_type_name deliver_status_name biko order_date order_type_name person ship_date kakuzai postal_cd main_address vice_address phone_number group_name)</text>
       </register>
       <register name="/" type="4">
-        <text>partner_data</text>
+        <text>is_d</text>
       </register>
       <register name="0" type="4">
         <text>job/lists/category/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZXQgImZhcS9zZWFyY2gvOmtleXdvcmQiID0+ICJmYXFzI2luZGV4IiwgYXM6ICJmYXFfc2VhcmNoIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXQgImZhcSIgPT4gImZhcXMjaW5kZXgiCg==</text>
+        <text encoding="base64">ICBnZXQgImZhcS9zZWFyY2gvOmtleXdvcmQiID0+ICJmYXFzI2luZGV4IiwgYXM6ICJmYXFfc2VhcmNoIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSI8JT1fVVJMKCdqb2IvbGlzdHMvY2F0ZWdvcnkvJy5oKCRqb2ItPmNhdGVnb3J5X2lkKSk7JT4iIGl0ZW1wcm9wPSJ1cmwiPgo=</text>
+        <text encoding="base64">ICBnZXQgImZhcSIgPT4gImZhcXMjaW5kZXgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSI8JT1fVVJMKCdjb3Jwb3JhdGlvbi8nLiR1c2VyX2FjY291bnQtPnVzZXJfYWNjb3VudF9pZCk7JT4iIGl0ZW1wcm9wPSJ1cmwiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSI8JT1fVVJMKCdqb2IvbGlzdHMvY2F0ZWdvcnkvJy5oKCRqb2ItPmNhdGVnb3J5X2lkKSk7JT4iIGl0ZW1wcm9wPSJ1cmwiPgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3397,22 +3397,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwlaWYoaXNzZXQoJHBhZ2VfdGl0bGUpICYmICRwYWdlX3RpdGxlICE9PScnKXslPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSI8JT1fVVJMKCdjb3Jwb3JhdGlvbi8nLiR1c2VyX2FjY291bnQtPnVzZXJfYWNjb3VudF9pZCk7JT4iIGl0ZW1wcm9wPSJ1cmwiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iPCU9X1VSTCgnY29ycG9yYXRpb24vZ2VucmUvJy4kdXNlcl9hY2NvdW50LT5nZW5yZV9pZCk7JT4iIGl0ZW1wcm9wPSJ1cmwiPgo=</text>
+        <text encoding="base64">ICAgIDwlaWYoaXNzZXQoJHBhZ2VfdGl0bGUpICYmICRwYWdlX3RpdGxlICE9PScnKXslPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IjwlPSAlPiIgaXRlbXByb3A9InVybCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iPCU9X1VSTCgnY29ycG9yYXRpb24vZ2VucmUvJy4kdXNlcl9hY2NvdW50LT5nZW5yZV9pZCk7JT4iIGl0ZW1wcm9wPSJ1cmwiPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDw/LzwlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>partner_data</last-search>
+      <last-search>is_d</last-search>
       <last-offset />
-      <last-pattern>partner_data</last-pattern>
+      <last-pattern>is_d</last-pattern>
       <last-replace encoding="base64">PCU=</last-replace>
       <last-substitute encoding="base64">XDw/</last-substitute>
       <last-dir>1</last-dir>
@@ -3420,7 +3420,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XD9cPg==</entry>
         <entry encoding="base64">P1w+</entry>
         <entry encoding="base64">P1xcPg==</entry>
         <entry encoding="base64">Pz4=</entry>
@@ -3440,6 +3439,7 @@
         <entry>status</entry>
         <entry>data</entry>
         <entry>partner_data</entry>
+        <entry>is_d</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
