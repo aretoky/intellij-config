@@ -312,6 +312,13 @@
         <mark key="." line="25" column="75" />
         <mark key="^" line="25" column="75" />
       </file>
+      <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/views/admin/user/edit.php" timestamp="1481880721044">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="177" column="36" />
+        <mark key="]" line="177" column="47" />
+        <mark key="^" line="177" column="47" />
+        <mark key="." line="177" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/show.json.jbuilder" timestamp="1481194654070">
         <mark key="[" line="5" column="110" />
         <mark key="]" line="5" column="116" />
@@ -397,11 +404,11 @@
         <mark key="^" line="59" column="37" />
         <mark key="." line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/payment.ginza-plus.net/public/assets/js/user_edit.js" timestamp="1481877430788">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/projects/payment.ginza-plus.net/public/assets/js/user_edit.js" timestamp="1481881576779">
+        <mark key="'" line="28" column="33" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1481874965297">
         <mark key="i" line="0" column="3" />
@@ -444,9 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="43" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="133" column="46" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="134" column="55" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="135" column="37" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="136" column="38" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="137" column="11" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
@@ -544,6 +548,9 @@
       <jump line="29" column="0" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" />
       <jump line="7" column="4" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" />
       <jump line="18" column="42" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" />
+      <jump line="25" column="33" filename="$USER_HOME$/projects/payment.ginza-plus.net/public/assets/js/user_edit.js" />
+      <jump line="87" column="4" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/views/admin/user/edit.php" />
+      <jump line="171" column="4" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/views/admin/user/edit.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3193,31 +3200,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>form_attribute_modify_year_payment</text>
+        <text>$(that).remove();</text>
       </register>
       <register name="/" type="4">
-        <text>month</text>
+        <text>form_now_course_id_clone</text>
       </register>
       <register name="0" type="4">
-        <text>$(&quot;#form_course_id&quot;)</text>
+        <text>input[name=attribute]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhdHRyaWJ1dGVfdmFsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygkKHRoYXQpLnZhbCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iPCU9IHVzZXJfaW5mb3JtYXRpb25zX3BhdGggJT4iIDwlPSBjb250cm9sbGVyX25hbWUgPT0gImluZm9ybWF0aW9ucyIgPyAnc3R5bGU9ImJhY2tncm91bmQtcG9zaXRpb246IDAgLTkycHg7IicgOiAiIiAlPj48L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCUgZW5kICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAkKCcjZm9ybV9jb3Vyc2VfaWQnKS5lbXB0eSgpLmFwcGVuZCggJCgnI2Zvcm1fY291cnNlX2lkX2Nsb25lIG9wdGlvbicpLmNsb25lKCkgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPCUgZWxzZSAlPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQoJyNmb3JtX2NvdXJzZV9pZCBvcHRpb24nKS5jbG9uZSgpKTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3439,22 +3446,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSI8JT1fVVJMKCd1c2VyL215aW5mb3JtYXRpb24nKTslPiI+PC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCUgaWYocmVxdWVzdC5wYXRoID1+ICIvXEFcL3VzZXJcL215aW5mb3JtYXRpb24vIikgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICB9LCAxMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDw/LzwlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>month</last-search>
+      <last-search>form_now_course_id_clone</last-search>
       <last-offset />
-      <last-pattern>month</last-pattern>
+      <last-pattern>form_now_course_id_clone</last-pattern>
       <last-replace encoding="base64">PCU=</last-replace>
       <last-substitute encoding="base64">XDw/</last-substitute>
       <last-dir>1</last-dir>
@@ -3462,8 +3469,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XFw8XFw/</entry>
-        <entry encoding="base64">XFw8Pw==</entry>
         <entry encoding="base64">XDxcPw==</entry>
         <entry encoding="base64">XDxcXD8=</entry>
         <entry encoding="base64">XDw/</entry>
@@ -3482,6 +3487,8 @@
         <entry>attribute</entry>
         <entry>year</entry>
         <entry>month</entry>
+        <entry>course</entry>
+        <entry>form_now_course_id_clone</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
