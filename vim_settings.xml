@@ -174,8 +174,8 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" timestamp="1482116430187">
-        <mark key="'" line="142" column="12" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" timestamp="1482119075899">
+        <mark key="'" line="92" column="0" />
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
@@ -408,11 +408,12 @@
         <mark key="^" line="69" column="7" />
         <mark key="." line="69" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" timestamp="1482118158465">
-        <mark key="[" line="92" column="10" />
-        <mark key="]" line="92" column="11" />
-        <mark key="^" line="92" column="11" />
-        <mark key="." line="92" column="11" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" timestamp="1482119111822">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="94" column="11" />
+        <mark key="." line="26" column="14" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" timestamp="1481195588626">
         <mark key="[" line="118" column="59" />
@@ -431,9 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="225" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="227" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="229" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="231" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="233" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
@@ -531,6 +529,9 @@
       <jump line="176" column="12" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
       <jump line="142" column="12" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
+      <jump line="92" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
+      <jump line="75" column="7" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3183,7 +3184,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>番線</text>
+        <text>グループ</text>
       </register>
       <register name="0" type="4">
         <text>background-position: 0 -92px;</text>
@@ -3439,9 +3440,9 @@
       </register>
     </registers>
     <search>
-      <last-search>番線</last-search>
+      <last-search>グループ</last-search>
       <last-offset />
-      <last-pattern>番線</last-pattern>
+      <last-pattern>グループ</last-pattern>
       <last-replace encoding="base64">PCU=</last-replace>
       <last-substitute encoding="base64">XDw/</last-substitute>
       <last-dir>1</last-dir>
@@ -3449,8 +3450,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;r</entry>
-        <entry>'r</entry>
         <entry>uri</entry>
         <entry>stat</entry>
         <entry>status</entry>
@@ -3469,6 +3468,8 @@
         <entry>受注経路</entry>
         <entry>販促</entry>
         <entry>番線</entry>
+        <entry>グループ名</entry>
+        <entry>グループ</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
