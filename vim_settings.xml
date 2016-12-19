@@ -84,12 +84,12 @@
         <mark key="." line="20" column="4" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1482151697707">
+      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1482158121704">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="296" column="18" />
-        <mark key="]" line="296" column="22" />
-        <mark key="^" line="296" column="22" />
-        <mark key="." line="296" column="22" />
+        <mark key="[" line="217" column="20" />
+        <mark key="]" line="217" column="22" />
+        <mark key="." line="217" column="22" />
+        <mark key="^" line="217" column="22" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/store_daily_orders_controller.rb" timestamp="1481201042594">
         <mark key="'" line="155" column="27" />
@@ -301,11 +301,11 @@
         <mark key="." line="19" column="109" />
         <mark key="^" line="19" column="109" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1482151710491">
-        <mark key="[" line="80" column="39" />
-        <mark key="]" line="80" column="44" />
-        <mark key="." line="80" column="44" />
-        <mark key="^" line="80" column="44" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1482158127382">
+        <mark key="[" line="83" column="32" />
+        <mark key="]" line="83" column="34" />
+        <mark key="." line="83" column="34" />
+        <mark key="^" line="83" column="34" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_head.html.erb" timestamp="1481707896473">
         <mark key="'" line="81" column="0" />
@@ -3177,31 +3177,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>不正</text>
+        <text>mass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKDpkZWxpdmVyX3R5cGVfaWQsICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWxpdmVyX3R5cGU6IOWHuuiNt+WxnuaApwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxpdmVyX3R5cGU6IOWHuuiNt+WxnuaApwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PDogKmRhaWx5b3JkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3423,22 +3423,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDw/LzwlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>不正</last-search>
+      <last-search>mass</last-search>
       <last-offset />
-      <last-pattern>不正</last-pattern>
+      <last-pattern>mass</last-pattern>
       <last-replace encoding="base64">PCU=</last-replace>
       <last-substitute encoding="base64">XDw/</last-substitute>
       <last-dir>1</last-dir>
@@ -3446,8 +3446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>partner_data</entry>
         <entry>is_d</entry>
         <entry>pg</entry>
         <entry>attribute</entry>
@@ -3466,6 +3464,8 @@
         <entry>グループ</entry>
         <entry>toritsugi_type_id</entry>
         <entry>不正</entry>
+        <entry>mass_i</entry>
+        <entry>mass</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
