@@ -415,7 +415,7 @@
         <mark key="^" line="69" column="7" />
         <mark key="." line="69" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" timestamp="1482119111822">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" timestamp="1482123914006">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="14" />
@@ -439,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="231" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="233" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="235" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
@@ -538,6 +537,7 @@
       <jump line="142" column="12" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
       <jump line="92" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
       <jump line="75" column="7" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" />
+      <jump line="52" column="17" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_show_info.erb" />
     </jumps>
     <registers>
@@ -3191,7 +3191,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>グループ</text>
+        <text>group</text>
       </register>
       <register name="0" type="4">
         <text>background-position: 0 -92px;</text>
@@ -3447,9 +3447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>グループ</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>グループ</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace encoding="base64">PCU=</last-replace>
       <last-substitute encoding="base64">XDw/</last-substitute>
       <last-dir>1</last-dir>
@@ -3457,7 +3457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uri</entry>
         <entry>stat</entry>
         <entry>status</entry>
         <entry>data</entry>
@@ -3477,6 +3476,7 @@
         <entry>番線</entry>
         <entry>グループ名</entry>
         <entry>グループ</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
