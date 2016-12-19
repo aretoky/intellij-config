@@ -84,8 +84,8 @@
         <mark key="." line="20" column="4" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1481198178668">
-        <mark key="'" line="283" column="4" />
+      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1482151697707">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="296" column="18" />
         <mark key="]" line="296" column="22" />
         <mark key="^" line="296" column="22" />
@@ -119,6 +119,9 @@
         <mark key="]" line="176" column="13" />
         <mark key="." line="176" column="13" />
         <mark key="^" line="176" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" timestamp="1482150739274">
+        <mark key="'" line="96" column="95" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/dailyorder_csv_records_controller.rb" timestamp="1481560916249">
         <mark key="'" line="23" column="49" />
@@ -163,9 +166,6 @@
         <mark key="]" line="65" column="29" />
         <mark key="." line="65" column="29" />
         <mark key="^" line="65" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/index.html.erb" timestamp="1481773146412">
-        <mark key="[" line="31" column="102" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" timestamp="1481715296167">
         <mark key="[" line="6" column="0" />
@@ -225,9 +225,6 @@
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_listup_list.erb" timestamp="1481530818888">
         <mark key="'" line="69" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/index.html.erb" timestamp="1481773153340">
-        <mark key="[" line="27" column="104" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bill/common.js" timestamp="1481079626741">
         <mark key="'" line="939" column="8" />
@@ -304,6 +301,12 @@
         <mark key="." line="19" column="109" />
         <mark key="^" line="19" column="109" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1482151710491">
+        <mark key="[" line="80" column="39" />
+        <mark key="]" line="80" column="44" />
+        <mark key="." line="80" column="44" />
+        <mark key="^" line="80" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_head.html.erb" timestamp="1481707896473">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="86" column="18" />
@@ -363,9 +366,6 @@
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1481711489218">
         <mark key="'" line="213" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1481212269980">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1482123087490">
         <mark key="'" line="0" column="0" />
@@ -428,13 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="239" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="241" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="243" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="245" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="247" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="249" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="251" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="253" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="254" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
@@ -528,6 +521,13 @@
       <jump line="0" column="1" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
       <jump line="165" column="94" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
       <jump line="184" column="13" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
+      <jump line="92" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" />
+      <jump line="66" column="63" filename="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" />
+      <jump line="0" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" />
+      <jump line="96" column="95" filename="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" />
+      <jump line="150" column="12" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3180,16 +3180,16 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>グループ</text>
+        <text>不正</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBkYWlseW9yZGVycyA9IEBkYWlseW9yZGVycy53aGVyZSg6aWQgPT4gbmlsKQo=</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKDpkZWxpdmVyX3R5cGVfaWQsICIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3423,22 +3423,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDw/LzwlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>グループ</last-search>
+      <last-search>不正</last-search>
       <last-offset />
-      <last-pattern>グループ</last-pattern>
+      <last-pattern>不正</last-pattern>
       <last-replace encoding="base64">PCU=</last-replace>
       <last-substitute encoding="base64">XDw/</last-substitute>
       <last-dir>1</last-dir>
@@ -3446,8 +3446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stat</entry>
-        <entry>status</entry>
         <entry>data</entry>
         <entry>partner_data</entry>
         <entry>is_d</entry>
@@ -3466,6 +3464,8 @@
         <entry>グループ名</entry>
         <entry>group</entry>
         <entry>グループ</entry>
+        <entry>toritsugi_type_id</entry>
+        <entry>不正</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
