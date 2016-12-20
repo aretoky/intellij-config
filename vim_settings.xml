@@ -109,11 +109,11 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/info.rb" timestamp="1482223886322">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="17" column="1" />
+      <file name="$USER_HOME$/projects/cplus/app/models/info.rb" timestamp="1482232441147">
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="67" column="47" />
+        <mark key="." line="67" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1479280965625">
         <mark key="[" line="59" column="0" />
@@ -178,6 +178,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_requests/index.html.slim" timestamp="1482231060706">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="83" />
+        <mark key="." line="3" column="83" />
+        <mark key="^" line="3" column="83" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/settings/production.yml" timestamp="1477408455462">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -188,10 +194,22 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/profiles/_tel_mplan_fields.html.slim" timestamp="1482230423757">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="42" />
+        <mark key="^" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_new_bitem_fields.html.slim" timestamp="1480867319265">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/tel_mplans_to_transfer_tels_change_request_mailer.rb" timestamp="1482230532546">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="32" column="45" />
+        <mark key="^" line="32" column="45" />
+        <mark key="." line="32" column="45" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" timestamp="1481715296167">
         <mark key="[" line="6" column="0" />
@@ -213,8 +231,8 @@
         <mark key="[" line="58" column="4" />
         <mark key="]" line="58" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/client/tel_mplans_to_transfer_tels_change_request_mailer.rb" timestamp="1482229369809">
-        <mark key="[" line="8" column="50" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/client/tel_mplans_to_transfer_tels_change_request_mailer.rb" timestamp="1482230516891">
+        <mark key="[" line="7" column="6" />
         <mark key="]" line="9" column="45" />
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
@@ -251,11 +269,15 @@
         <mark key="[" line="2" column="2" />
         <mark key="]" line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/initializers/action_mailer.rb" timestamp="1482229077468">
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/tel_mplans_to_transfer_tels_change_requests_controller.rb" timestamp="1482230282771">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="77" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/action_mailer.rb" timestamp="1482231365945">
         <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="54" />
-        <mark key="." line="2" column="54" />
-        <mark key="^" line="2" column="54" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+        <mark key="^" line="2" column="58" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/views/books/_book.json.jbuilder" timestamp="1480302335030">
         <mark key="[" line="0" column="39" />
@@ -268,22 +290,16 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile.lock" timestamp="1482217680928">
-        <mark key="'" line="666" column="0" />
-        <mark key="[" line="666" column="0" />
-        <mark key="]" line="666" column="0" />
-        <mark key="." line="666" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/tel_mplans_to_transfer_tels_change_requests_controller_spec.rb" timestamp="1482217743452">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/creating_info_observer.rb" timestamp="1482229405598">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/creating_info_observer.rb" timestamp="1482232930229">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481683397969">
         <mark key="'" line="308" column="19" />
@@ -319,6 +335,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_requests/new.html.slim" timestamp="1482231090382">
+        <mark key="[" line="3" column="80" />
+        <mark key="]" line="3" column="81" />
+        <mark key="." line="3" column="81" />
+        <mark key="^" line="3" column="81" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/views/book_monthly_records/_scaffold_index.html.slim" timestamp="1480559913086">
         <mark key="[" line="24" column="0" />
@@ -407,6 +429,12 @@
         <mark key="]" line="5" column="116" />
         <mark key="^" line="5" column="116" />
         <mark key="." line="5" column="116" />
+      </file>
+      <file name="/Ruby Console" timestamp="1482232758049">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/stylesheets/common/flexselect.css" timestamp="1477658591212">
         <mark key="[" line="15" column="0" />
@@ -510,7 +538,7 @@
         <mark key="]" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/a.regexp" timestamp="1482221179864">
+      <file name="/a.regexp" timestamp="1482231841263">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3306,31 +3334,33 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>message[:no_cust].value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>enum_</text>
       </register>
       <register name="0" type="4">
-        <text>@change_request</text>
+        <text>no_cust: @change_request.no_cust,
+      no_person: @change_request.current_no_person,
+      info_cont: render_to_string(layout: nil)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWN0aW9uTWFpbGVyOjpCYXNlLnJlZ2lzdGVyX29ic2VydmVyKDo6RW1haWxMb2dPYnNlcnZlci5uZXcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiBtZXNzYWdlWzpub19jdXN0XS52YWx1ZS5ibGFuaz8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3552,13 +3582,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgY3JlYXRlX2luZm8K</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZiBtZXNzYWdlWzpub19jdXN0XS52YWx1ZS5ibGFuaz8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vX3NtYWlsID0gbWVzc2FnZVs6bm9fc21haWxdLnZhbHVlCg==</text>
+        <text encoding="base64">ICBkZWYgY3JlYXRlX2luZm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNkX2h1ID0gbWVzc2FnZVs6Y2RfaHVdLnZhbHVlIHx8IDAK</text>
+        <text encoding="base64">ICAgIG5vX3NtYWlsID0gbWVzc2FnZVs6bm9fc21haWxdLnZhbHVlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDw/LzwlL2c=</text>
