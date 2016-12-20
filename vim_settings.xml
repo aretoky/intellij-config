@@ -205,11 +205,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/tel_mplans_to_transfer_tels_change_request_mailer.rb" timestamp="1482235022457">
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="32" column="45" />
-        <mark key="^" line="32" column="45" />
-        <mark key="." line="32" column="45" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/tel_mplans_to_transfer_tels_change_request_mailer.rb" timestamp="1482237602013">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="54" column="4" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="2" column="62" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" timestamp="1481715296167">
         <mark key="[" line="6" column="0" />
@@ -231,11 +231,11 @@
         <mark key="[" line="58" column="4" />
         <mark key="]" line="58" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/client/tel_mplans_to_transfer_tels_change_request_mailer.rb" timestamp="1482235052934">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="45" />
-        <mark key="^" line="9" column="45" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/client/tel_mplans_to_transfer_tels_change_request_mailer.rb" timestamp="1482237639200">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/models/csv_file.rb" timestamp="1480305113116">
         <mark key="[" line="13" column="0" />
@@ -295,11 +295,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/mailers/creating_info_observer.rb" timestamp="1482232930229">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/projects/cplus/app/mailers/creating_info_observer.rb" timestamp="1482237539503">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481683397969">
         <mark key="'" line="308" column="19" />
@@ -3334,33 +3334,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>enum_</text>
       </register>
       <register name="0" type="4">
-        <text>no_cust: @change_request.no_cust,
+        <text>private
+
+  def set_info_data
+    @_message.instance_variable_set(:@_info_data, {
+      no_cust: @change_request.no_cust,
       no_person: @change_request.current_no_person,
-      info_cont: render_to_string(layout: nil)</text>
+      cont: render_to_string(layout: nil)
+    })
+  end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWN0aW9uTWFpbGVyOjpCYXNlLnJlZ2lzdGVyX29ic2VydmVyKDo6RW1haWxMb2dPYnNlcnZlci5uZXcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICBlbmQK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbWVzc2FnZVs6aW5mb19jb250XS52YWx1ZS5ibGFuaz8K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VbOm5vX2N1c3RdLnZhbHVlLmJsYW5rPyB8fAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcmVqZWN0PyhtZXNzYWdlKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3582,13 +3588,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiBtZXNzYWdlWzpub19jdXN0XS52YWx1ZS5ibGFuaz8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgY3JlYXRlX2luZm8K</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vX3NtYWlsID0gbWVzc2FnZVs6bm9fc21haWxdLnZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvXDw/LzwlL2c=</text>
