@@ -520,11 +520,11 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/tel_mplans_to_transfer_tels_change_request_saving_service_spec.rb" timestamp="1482239768190">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="39" />
-        <mark key="^" line="35" column="39" />
-        <mark key="." line="35" column="39" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/tel_mplans_to_transfer_tels_change_request_saving_service_spec.rb" timestamp="1482240328475">
+        <mark key="[" line="93" column="8" />
+        <mark key="]" line="95" column="11" />
+        <mark key="^" line="93" column="7" />
+        <mark key="." line="93" column="8" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/daily_order_shipping_lists.js.coffee" timestamp="1481783632394">
         <mark key="[" line="58" column="36" />
@@ -3339,15 +3339,15 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TelMplansToTransferTelsChangeRequest</text>
+        <text>Info, :count</text>
       </register>
       <register name="/" type="4">
         <text>mail</text>
       </register>
       <register name="0" type="4">
-        <text>it &quot;リクエストレコードが1増えていること&quot; do
-        expect{ subject }.to change(TelMplansToTransferTelsChangeRequest, :count).by(1)
-      end</text>
+        <text>it &quot;Infoレコードが1増えていること&quot; do
+          expect{ subject }.to change{ cust.infos.count }.by(1)
+        end</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGEK</text>
