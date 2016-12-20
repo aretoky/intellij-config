@@ -139,8 +139,8 @@
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/store_daily_orders_controller.rb" timestamp="1481201042594">
         <mark key="'" line="155" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1481868645898">
-        <mark key="'" line="11" column="7" />
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1482213605250">
+        <mark key="'" line="36" column="12" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1481090316843">
         <mark key="'" line="2" column="2" />
@@ -174,6 +174,10 @@
         <mark key="]" line="176" column="13" />
         <mark key="." line="176" column="13" />
         <mark key="^" line="176" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/layouts/application.html.slim" timestamp="1481707883977">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" timestamp="1482150739274">
         <mark key="'" line="96" column="95" />
@@ -278,6 +282,10 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/rails_helper.rb" timestamp="1482213866185">
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/pos-analytics/app/models/csv_file.rb" timestamp="1480305113116">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -369,12 +377,6 @@
         <mark key="]" line="8" column="46" />
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_add_child_dailyorders_search.html.erb" timestamp="1481785380540">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="15" column="103" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/rails_helper.rb" timestamp="1479661782866">
         <mark key="[" line="44" column="23" />
@@ -601,7 +603,7 @@
         <mark key="]" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="/a.regexp" timestamp="1481874965297">
+      <file name="/a.regexp" timestamp="1482213868077">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -653,7 +655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="253" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="254" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="256" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
@@ -753,6 +754,7 @@
       <jump line="96" column="95" filename="$USER_HOME$/projects/pos-calc/app/controllers/loading_date_mass_inputs_controller.rb" />
       <jump line="150" column="12" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
+      <jump line="36" column="12" filename="$USER_HOME$/projects/value_press/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3405,10 +3407,10 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>mass</text>
+        <text>database</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxpdmVyX3R5cGU6IOWHuuiNt+WxnuaApwo=</text>
+      <register name="0" type="4">
+        <text>DatabaseRewinder.strategy = :truncation</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWxpdmVyX3R5cGU6IOWHuuiNt+WxnuaApwo=</text>
@@ -3661,9 +3663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mass</last-search>
+      <last-search>database</last-search>
       <last-offset />
-      <last-pattern>mass</last-pattern>
+      <last-pattern>database</last-pattern>
       <last-replace encoding="base64">PCU=</last-replace>
       <last-substitute encoding="base64">XDw/</last-substitute>
       <last-dir>1</last-dir>
@@ -3671,7 +3673,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_d</entry>
         <entry>pg</entry>
         <entry>attribute</entry>
         <entry>year</entry>
@@ -3691,6 +3692,7 @@
         <entry>不正</entry>
         <entry>mass_i</entry>
         <entry>mass</entry>
+        <entry>database</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9zci4vc3RvcmUuL2c=</entry>
