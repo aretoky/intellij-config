@@ -341,8 +341,8 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1482305020192">
-        <mark key="'" line="53" column="15" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1482313488735">
+        <mark key="'" line="464" column="51" />
         <mark key="[" line="174" column="8" />
         <mark key="]" line="174" column="20" />
       </file>
@@ -404,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="2" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="119" column="7" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="11" column="7" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="124" column="12" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" />
@@ -504,6 +502,8 @@
       <jump line="113" column="0" filename="$USER_HOME$/projects/cplus/db/schema.rb.old" />
       <jump line="0" column="12" filename="$USER_HOME$/projects/value_press/app/helpers/medium/sessions_helper.rb" />
       <jump line="0" column="10" filename="$USER_HOME$/projects/value_press/app/helpers/user/sessions_helper.rb" />
+      <jump line="116" column="8" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
+      <jump line="464" column="51" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3156,7 +3156,7 @@
         <text>Partners</text>
       </register>
       <register name="/" type="4">
-        <text>partner</text>
+        <text>info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBnZXQgImluZm9ybWF0aW9uX2ZpcnN0IiA9PiAic3RhdGljX3BhZ2VzI2luZm9ybWF0aW9uX2ZpcnN0Igo=</text>
@@ -3412,9 +3412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>partner</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>partner</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>partner</last-substitute>
       <last-dir>1</last-dir>
@@ -3422,7 +3422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enum_</entry>
         <entry>CreatingInfoObserver</entry>
         <entry>mail</entry>
         <entry>tool</entry>
@@ -3442,6 +3441,7 @@
         <entry>admin</entry>
         <entry>default</entry>
         <entry>partner</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFxcPy88JS9n</entry>
