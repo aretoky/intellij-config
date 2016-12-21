@@ -25,11 +25,6 @@
         <mark key="^" line="41" column="124" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/tel_mplans_to_transfer_tels_change_requests/show.html.slim" timestamp="1482242063981">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/application.rb" timestamp="1482228708931">
         <mark key="'" line="20" column="59" />
         <mark key="[" line="35" column="145" />
@@ -124,6 +119,13 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/helpers/partner/sessions_helper.rb" timestamp="1482305770452">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="42" column="2" />
+        <mark key="." line="42" column="2" />
+        <mark key="^" line="42" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/client/tel_mplans_to_transfer_tels_change_request_mailer.rb" timestamp="1482240160498">
         <mark key="'" line="17" column="26" />
         <mark key="[" line="9" column="0" />
@@ -156,6 +158,9 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/db/schema.rb.old" timestamp="1482306221707">
+        <mark key="'" line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481683397969">
         <mark key="'" line="308" column="19" />
         <mark key="[" line="391" column="25" />
@@ -182,8 +187,8 @@
         <mark key="^" line="6" column="187" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" timestamp="1482302563415">
-        <mark key="'" line="31" column="73" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" timestamp="1482305149386">
+        <mark key="'" line="27" column="33" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/head/_social_meta_tags.html.erb" timestamp="1482296931921">
         <mark key="[" line="57" column="74" />
@@ -375,11 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="9" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="10" column="23" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
-      <jump line="91" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
-      <jump line="207" column="26" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="208" column="150" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="228" column="19" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="4" column="2" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
@@ -459,7 +459,6 @@
       <jump line="269" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="298" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="325" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
-      <jump line="0" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="48" column="12" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="49" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="0" column="13" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
@@ -475,6 +474,12 @@
       <jump line="52" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="53" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="0" column="11" filename="$USER_HOME$/projects/value_press/app/helpers/soho/sessions_helper.rb" />
+      <jump line="0" column="13" filename="$USER_HOME$/projects/value_press/app/helpers/partner/sessions_helper.rb" />
+      <jump line="121" column="23" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
+      <jump line="10" column="12" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
+      <jump line="27" column="33" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
+      <jump line="113" column="0" filename="$USER_HOME$/projects/cplus/db/schema.rb.old" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3124,10 +3129,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>migrate</text>
+        <text>Staff</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>default</text>
       </register>
       <register name="0" type="4">
         <text>partner/login</text>
@@ -3379,22 +3384,20 @@
         <text encoding="base64">JT4K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/admin/soho/g</text>
+        <text>%s/admin/partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
-      <last-replace>soho</last-replace>
+      <last-pattern>default</last-pattern>
+      <last-replace>partner</last-replace>
       <last-substitute>admin</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>database</entry>
-        <entry>tel</entry>
         <entry>enum_</entry>
         <entry>CreatingInfoObserver</entry>
         <entry>mail</entry>
@@ -3413,10 +3416,10 @@
         <entry>soho</entry>
         <entry>staff</entry>
         <entry>admin</entry>
+        <entry>partner</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/emp/staff/g</entry>
-        <entry>%s/requiest/request/g</entry>
         <entry>q</entry>
         <entry encoding="base64">JXMvPFw/LzwlL2c=</entry>
         <entry encoding="base64">JXMvPFxcPy88JS9n</entry>
@@ -3435,6 +3438,8 @@
         <entry encoding="base64">JXMvXDw/LzwlL2c=</entry>
         <entry>%s/staff/soho/g</entry>
         <entry>%s/admin/soho/g</entry>
+        <entry>%s/staff/partner/g</entry>
+        <entry>%s/admin/partner/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
