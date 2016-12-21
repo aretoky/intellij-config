@@ -15,9 +15,6 @@
         <mark key="^" line="2" column="89" />
         <mark key="." line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/doc/user_map.md" timestamp="1482295578391">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/header/_my_page_navigation.html.erb" timestamp="1482295693484">
         <mark key="'" line="42" column="9" />
         <mark key="[" line="21" column="0" />
@@ -68,6 +65,13 @@
         <mark key="]" line="67" column="18" />
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/helpers/medium/sessions_helper.rb" timestamp="1482306742206">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/show.html.slim" timestamp="1481353632611">
         <mark key="[" line="148" column="41" />
@@ -158,8 +162,9 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/db/schema.rb.old" timestamp="1482306221707">
+      <file name="$USER_HOME$/projects/cplus/db/schema.rb.old" timestamp="1482306688787">
         <mark key="'" line="113" column="0" />
+        <mark key="[" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1481683397969">
         <mark key="'" line="308" column="19" />
@@ -168,11 +173,11 @@
         <mark key="^" line="391" column="37" />
         <mark key="." line="391" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/helpers/dynamic_account_object_helper.rb" timestamp="1482303492598">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/projects/value_press/app/helpers/dynamic_account_object_helper.rb" timestamp="1482306835833">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" timestamp="1482298508600">
         <mark key="'" line="11" column="99" />
@@ -380,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="150" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="228" column="19" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="4" column="2" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
@@ -480,6 +484,7 @@
       <jump line="10" column="12" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="27" column="33" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/cplus/db/schema.rb.old" />
+      <jump line="0" column="12" filename="$USER_HOME$/projects/value_press/app/helpers/medium/sessions_helper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3129,13 +3134,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Staff</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>partner</text>
       </register>
-      <register name="0" type="4">
-        <text>partner/login</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpbmNsdWRlIFVzZXI6OlNlc3Npb25zSGVscGVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3384,15 +3389,15 @@
         <text encoding="base64">JT4K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/admin/partner/g</text>
+        <text>%s/partner/medium/g</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>partner</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
-      <last-replace>partner</last-replace>
-      <last-substitute>admin</last-substitute>
+      <last-pattern>partner</last-pattern>
+      <last-replace>medium</last-replace>
+      <last-substitute>partner</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -3416,11 +3421,10 @@
         <entry>soho</entry>
         <entry>staff</entry>
         <entry>admin</entry>
-        <entry>partner</entry>
         <entry>default</entry>
+        <entry>partner</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry encoding="base64">JXMvPFw/LzwlL2c=</entry>
         <entry encoding="base64">JXMvPFxcPy88JS9n</entry>
         <entry encoding="base64">JXMvPFw/PS88JT0vZw==</entry>
@@ -3440,6 +3444,7 @@
         <entry>%s/admin/soho/g</entry>
         <entry>%s/staff/partner/g</entry>
         <entry>%s/admin/partner/g</entry>
+        <entry>%s/partner/medium/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
