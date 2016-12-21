@@ -312,8 +312,10 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1482303415220">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1482305020192">
         <mark key="'" line="53" column="15" />
+        <mark key="[" line="174" column="8" />
+        <mark key="]" line="174" column="20" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1482123087490">
         <mark key="'" line="0" column="0" />
@@ -3127,8 +3129,8 @@
       <register name="/" type="4">
         <text>admin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEFkbWluOjpTZXNzaW9uc0hlbHBlcgo=</text>
+      <register name="0" type="4">
+        <text>partner/login</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
