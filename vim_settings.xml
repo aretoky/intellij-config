@@ -386,7 +386,7 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="/a.regexp" timestamp="1482330592416">
+      <file name="/a.regexp" timestamp="1482331592919">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -416,6 +416,11 @@
         <mark key="]" line="122" column="26" />
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/user_account/support_default_values.rb" timestamp="1482332235853">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/static_information_pages_controller.rb" timestamp="1482317665855">
         <mark key="[" line="28" column="0" />
@@ -3217,26 +3222,26 @@
       <register name="/" type="4">
         <text>vpush</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgY3NzL29lbXBhcnRuZXIK</text>
+      <register name="0" type="4">
+        <text>ActiveSupport::Concern</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiDmqJnmupbjga5sYXlvdXTjg5XjgqHjgqTjg6vjgpLkvZzmiJDjgZnjgosK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOmFydGljbGVzLCBvbmx5OiAlKHNob3cpLCBwYXRoOiAncHJlc3NyZWxlYXNlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiDmqJnmupbjga5sYXlvdXTjg5XjgqHjgqTjg6vjgpLkvZzmiJDjgZnjgosK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXQgInNpdGVtYXAiID0+ICJzdGF0aWNfcGFnZXMjc2l0ZW1hcCIK</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOmFydGljbGVzLCBvbmx5OiAlKHNob3cpLCBwYXRoOiAncHJlc3NyZWxlYXNlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnZXQgImluZm9ybWF0aW9uX2ZpcnN0IiA9PiAic3RhdGljX3BhZ2VzI2luZm9ybWF0aW9uX2ZpcnN0Igo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICBnZXQgInNpdGVtYXAiID0+ICJzdGF0aWNfcGFnZXMjc2l0ZW1hcCIK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3458,13 +3463,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXF1aXJlX3RyZWUgLgo=</text>
+        <text encoding="base64">ICBnZXQgImluZm9ybWF0aW9uX2ZpcnN0IiA9PiAic3RhdGljX3BhZ2VzI2luZm9ybWF0aW9uX2ZpcnN0Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCUgYSAlPgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IHJlcXVpcmUgZm91bmRhdGlvbi1pY29ucwo=</text>
+        <text encoding="base64">ICByZXF1aXJlX3RyZWUgLgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/partner/user/g</text>
