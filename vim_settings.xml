@@ -136,8 +136,8 @@
         <mark key="." line="58" column="49" />
         <mark key="^" line="55" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1482377591421">
-        <mark key="'" line="117" column="25" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1482389398496">
+        <mark key="'" line="437" column="11" />
         <mark key="[" line="136" column="57" />
         <mark key="]" line="136" column="69" />
         <mark key="^" line="136" column="69" />
@@ -392,7 +392,7 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/user/analytics_controller.rb" timestamp="1482333949877" />
       <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1482385429079" />
-      <file name="/a.regexp" timestamp="1482377770145">
+      <file name="/a.regexp" timestamp="1482389422730">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -480,11 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1498" column="2" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
-      <jump line="11" column="99" filename="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" />
-      <jump line="12" column="40" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="185" column="14" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="184" column="14" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="23" column="38" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="188" column="20" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
@@ -580,6 +575,11 @@
       <jump line="62" column="47" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="114" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="117" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="234" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="253" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="370" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="372" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="437" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3232,7 +3232,7 @@
         <text>run</text>
       </register>
       <register name="/" type="4">
-        <text>t_syoten_cd</text>
+        <text>ordera01</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBib29rOiDmm7jnsY0K</text>
@@ -3488,9 +3488,9 @@
       </register>
     </registers>
     <search>
-      <last-search>t_syoten_cd</last-search>
+      <last-search>ordera01</last-search>
       <last-offset />
-      <last-pattern>t_syoten_cd</last-pattern>
+      <last-pattern>ordera01</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>partner</last-substitute>
       <last-dir>1</last-dir>
@@ -3498,8 +3498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pressrel</entry>
-        <entry>pressro</entry>
         <entry>price</entry>
         <entry>r</entry>
         <entry>reader</entry>
@@ -3518,6 +3516,8 @@
         <entry>voice</entry>
         <entry>vpush</entry>
         <entry>t_syoten_cd</entry>
+        <entry>ship_type</entry>
+        <entry>ordera01</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFxcPy88JS9n</entry>
