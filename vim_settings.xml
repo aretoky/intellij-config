@@ -136,6 +136,12 @@
         <mark key="." line="58" column="49" />
         <mark key="^" line="55" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1482376737210">
+        <mark key="[" line="136" column="57" />
+        <mark key="]" line="136" column="69" />
+        <mark key="^" line="136" column="69" />
+        <mark key="." line="136" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_dailyorder.html.erb" timestamp="1481773279653">
         <mark key="'" line="170" column="21" />
         <mark key="[" line="177" column="155" />
@@ -199,6 +205,12 @@
         <mark key="]" line="5" column="33" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1482376573573">
+        <mark key="[" line="215" column="12" />
+        <mark key="]" line="215" column="14" />
+        <mark key="." line="215" column="14" />
+        <mark key="^" line="215" column="14" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/info.rb" timestamp="1482232441147">
         <mark key="[" line="67" column="18" />
@@ -268,11 +280,11 @@
         <mark key="^" line="80" column="26" />
         <mark key="." line="80" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1482373070353">
-        <mark key="[" line="79" column="29" />
-        <mark key="]" line="83" column="34" />
-        <mark key="." line="83" column="34" />
-        <mark key="^" line="83" column="34" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1482376382616">
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="10" />
+        <mark key="^" line="61" column="10" />
+        <mark key="." line="61" column="10" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/circle.yml" timestamp="1481203212000">
         <mark key="[" line="28" column="0" />
@@ -338,11 +350,6 @@
         <mark key="]" line="14" column="3" />
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1482326336289">
-        <mark key="'" line="46" column="23" />
-        <mark key="[" line="65" column="20" />
-        <mark key="]" line="65" column="26" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1482123087490">
         <mark key="'" line="0" column="0" />
@@ -443,6 +450,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/validators/toritsugi_type_id_and_deliver_type_id_validator.rb" timestamp="1482376215222">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="49" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="6" column="49" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_edit_dailyorder_numbers_form.html.erb" timestamp="1481195588626">
         <mark key="[" line="118" column="59" />
@@ -3214,31 +3227,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
         <text>vpush</text>
       </register>
-      <register name="0" type="4">
-        <text>ActiveSupport::Concern</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBib29rOiDmm7jnsY0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhZnRlcl92YWxpZGF0aW9uIDp2YWxpZF90b3JpdHN1Z2lfdHlwZV9pZF9hbmRfZGVsaXZlcl90eXBlX2lkPwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiDmqJnmupbjga5sYXlvdXTjg5XjgqHjgqTjg6vjgpLkvZzmiJDjgZnjgosK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOmFydGljbGVzLCBvbmx5OiAlKHNob3cpLCBwYXRoOiAncHJlc3NyZWxlYXNlJwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVmIHZhbGlkX3Rvcml0c3VnaV90eXBlX2lkX2FuZF9kZWxpdmVyX3R5cGVfaWQ/CiAgICBpZiBbMiwgM10uaW5jbHVkZT8oZGVsaXZlcl90eXBlX2lkKQogICAgICBpZiBkZWxpdmVyX3R5cGVfaWQgPT0gMyAmJiB0b3JpdHN1Z2lfdHlwZV9pZCAhPSAxCiAgICAgICAgZXJyb3JzLmFkZCg6ZGVsaXZlcl90eXBlX2lkLCA6aW52YWxpZCkKICAgICAgICByZXR1cm4gZmFsc2UKICAgICAgZWxzaWYgZGVsaXZlcl90eXBlX2lkID09IDIgJiYgdG9yaXRzdWdpX3R5cGVfaWQgIT0gMgogICAgICAgIGVycm9ycy5hZGQoOmRlbGl2ZXJfdHlwZV9pZCwgOmludmFsaWQpCiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgIGVuZAogICAgZW5kCiAgICB0cnVlCiAgZW5k</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnZXQgInNpdGVtYXAiID0+ICJzdGF0aWNfcGFnZXMjc2l0ZW1hcCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3460,13 +3473,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXQgImluZm9ybWF0aW9uX2ZpcnN0IiA9PiAic3RhdGljX3BhZ2VzI2luZm9ybWF0aW9uX2ZpcnN0Igo=</text>
+        <text encoding="base64">Pj4+Pj4+PiDmqJnmupbjga5sYXlvdXTjg5XjgqHjgqTjg6vjgpLkvZzmiJDjgZnjgosK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOmFydGljbGVzLCBvbmx5OiAlKHNob3cpLCBwYXRoOiAncHJlc3NyZWxlYXNlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXF1aXJlX3RyZWUgLgo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/partner/user/g</text>
