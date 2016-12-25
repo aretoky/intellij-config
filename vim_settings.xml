@@ -178,11 +178,11 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/sessions_controller.rb" timestamp="1482665126115">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/sessions_controller.rb" timestamp="1482671977504">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="13" column="88" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" timestamp="1482327707193">
         <mark key="'" line="35" column="57" />
@@ -345,8 +345,10 @@
         <mark key="^" line="6" column="187" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" timestamp="1482661191743">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/User.php" timestamp="1482671624752">
         <mark key="'" line="27" column="33" />
+        <mark key="[" line="206" column="27" />
+        <mark key="]" line="206" column="206" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/head/_social_meta_tags.html.erb" timestamp="1482296931921">
         <mark key="[" line="57" column="74" />
@@ -430,12 +432,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_session.rb" timestamp="1482669692899">
+      <file name="$USER_HOME$/projects/value_press/app/models/user_session.rb" timestamp="1482671389464">
         <mark key="'" line="3" column="13" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="16" column="30" />
-        <mark key="." line="16" column="30" />
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="42" column="18" />
+        <mark key="^" line="42" column="18" />
+        <mark key="." line="42" column="18" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1482666473693">
         <mark key="'" line="47" column="20" />
@@ -539,6 +541,11 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" timestamp="1482326336289">
+        <mark key="'" line="46" column="23" />
+        <mark key="[" line="65" column="20" />
+        <mark key="]" line="65" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/config/schedule.rb" timestamp="1482123087490">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="16" />
@@ -605,6 +612,9 @@
         <mark key="." line="1" column="2" />
         <mark key="^" line="1" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/doc/admin_map.md" timestamp="1482671694669">
+        <mark key="'" line="3" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1482411016018">
         <mark key="[" line="42" column="7" />
         <mark key="]" line="42" column="7" />
@@ -656,7 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="24" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="52" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="53" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="0" column="11" filename="$USER_HOME$/projects/value_press/app/helpers/soho/sessions_helper.rb" />
@@ -756,6 +765,7 @@
       <jump line="23" column="61" filename="$USER_HOME$/projects/value_press/doc/user_map.md" />
       <jump line="59" column="22" filename="$USER_HOME$/projects/value_press/doc/user_map.md" />
       <jump line="47" column="20" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="3" column="52" filename="$USER_HOME$/projects/value_press/doc/admin_map.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3405,31 +3415,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>recover</text>
+        <text>company</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IDwgQWN0aXZlVHlwZTo6UmVjb3JkW1VzZXJBY2NvdW50XQ==</text>
+        <text encoding="base64">JzxhIGhyZWY9IicgLiBfVVJMKCdhZG1pbi9jb21wYW55X21hbmFnZXIvJyAuICR0aGlzLT5kYXRhLT51c2VyX2FjY291bnRfaWQpIC4gJyI+JyAuIGgoJGRhdGEtPm5hbWUpIC4gJzwvYT7mp5goJyAuIGgoJHRoaXMtPl9DSS0+aW5wdXQtPnNlcnZlcignUkVNT1RFX0FERFInKSkgLiAnKeOBjOODpuODvOOCtueuoeeQhueUu+mdouOBq+ODreOCsOOCpOODs+OBl+OBvuOBl+OBn+OAgic=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJfYWNjb3VudCA9IG5pbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZDog44OR44K544Ov44O844OJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbDog44Oh44O844Or44Ki44OJ44Os44K5Cg==</text>
+        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXNlcl9zZXNzaW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZDog44OR44K544Ov44O844OJCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3651,22 +3661,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbDog44Oh44O844Or44Ki44OJ44Os44K5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhY3RpdmVtb2RlbDoK</text>
+        <text encoding="base64">ICAgICAgdXNlcl9zZXNzaW9uOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/username/email/g</text>
       </register>
     </registers>
     <search>
-      <last-search>recover</last-search>
+      <last-search>company</last-search>
       <last-offset />
-      <last-pattern>recover</last-pattern>
+      <last-pattern>company</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -3674,7 +3684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>swiper</entry>
         <entry>tab</entry>
         <entry>term</entry>
         <entry>three</entry>
@@ -3694,6 +3703,7 @@
         <entry>session</entry>
         <entry>login</entry>
         <entry>recover</entry>
+        <entry>company</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFw/PS88JT0vZw==</entry>
