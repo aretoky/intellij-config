@@ -357,12 +357,12 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1482393075563">
-        <mark key="'" line="308" column="19" />
-        <mark key="[" line="27" column="86" />
-        <mark key="]" line="27" column="87" />
-        <mark key="^" line="27" column="87" />
-        <mark key="." line="27" column="87" />
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1482738399153">
+        <mark key="'" line="414" column="25" />
+        <mark key="[" line="481" column="45" />
+        <mark key="]" line="482" column="9" />
+        <mark key="^" line="482" column="9" />
+        <mark key="." line="482" column="9" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/helpers/dynamic_account_object_helper.rb" timestamp="1482659430865">
         <mark key="[" line="18" column="4" />
@@ -717,16 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="22" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
-      <jump line="289" column="10" filename="$USER_HOME$/projects/value_press/app/views/application/_footer_detail_search.html.erb" />
-      <jump line="77" column="1" filename="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" />
-      <jump line="52" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="59" column="33" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="62" column="47" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="114" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="117" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="234" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="253" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="370" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="372" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -817,6 +807,16 @@
       <jump line="168" column="17" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="209" column="4" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="108" column="31" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="468" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="143" column="21" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="478" column="43" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="479" column="10" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="144" column="45" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="245" column="45" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="310" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="342" column="19" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="394" column="43" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
+      <jump line="414" column="25" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3466,10 +3466,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.reorder(:id)</text>
       </register>
       <register name="/" type="4">
-        <text>filterResults</text>
+        <text>update_all</text>
       </register>
       <register name="0" type="4">
         <text>this.text.substring(10, 12)</text>
@@ -3725,9 +3725,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filterResults</last-search>
+      <last-search>update_all</last-search>
       <last-offset />
-      <last-pattern>filterResults</last-pattern>
+      <last-pattern>update_all</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -3735,7 +3735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>username</entry>
         <entry>session</entry>
         <entry>login</entry>
         <entry>recover</entry>
@@ -3755,6 +3754,7 @@
         <entry>indexOf</entry>
         <entry>keyup</entry>
         <entry>filterResults</entry>
+        <entry>update_all</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFw/PS88JT0vZw==</entry>
