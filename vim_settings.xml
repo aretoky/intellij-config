@@ -47,8 +47,8 @@
       <file name="$USER_HOME$/projects/value_press/doc/user_map.md" timestamp="1482662690014">
         <mark key="'" line="59" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" timestamp="1482726671532">
-        <mark key="'" line="142" column="33" />
+      <file name="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" timestamp="1482728173534">
+        <mark key="'" line="108" column="31" />
         <mark key="[" line="219" column="69" />
         <mark key="]" line="219" column="69" />
         <mark key="^" line="219" column="69" />
@@ -717,13 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="16" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
-      <jump line="44" column="21" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
-      <jump line="42" column="12" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
-      <jump line="17" column="19" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
-      <jump line="18" column="16" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
-      <jump line="49" column="16" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
-      <jump line="7" column="23" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
       <jump line="47" column="22" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
       <jump line="289" column="10" filename="$USER_HOME$/projects/value_press/app/views/application/_footer_detail_search.html.erb" />
@@ -809,14 +802,21 @@
       <jump line="75" column="39" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="141" column="33" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="354" column="6" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="16" column="54" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="55" column="0" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="58" column="37" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="64" column="71" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="76" column="11" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
       <jump line="129" column="33" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
-      <jump line="142" column="33" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="3" column="1" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="223" column="21" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="142" column="8" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="155" column="17" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="168" column="17" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="209" column="4" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
+      <jump line="108" column="31" filename="$USER_HOME$/projects/pos-calc/app/assets/javascripts/common/jquery.flexselect.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3469,7 +3469,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>filterResults</text>
       </register>
       <register name="0" type="4">
         <text>this.text.substring(10, 12)</text>
@@ -3725,9 +3725,9 @@
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>filterResults</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>filterResults</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -3735,11 +3735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>order_type</entry>
-        <entry>.field_with_errors</entry>
-        <entry>views</entry>
-        <entry>user</entry>
-        <entry>login_user</entry>
         <entry>username</entry>
         <entry>session</entry>
         <entry>login</entry>
@@ -3755,6 +3750,11 @@
         <entry>listup</entry>
         <entry>-1</entry>
         <entry>index</entry>
+        <entry>event</entry>
+        <entry>indexof</entry>
+        <entry>indexOf</entry>
+        <entry>keyup</entry>
+        <entry>filterResults</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFw/PS88JT0vZw==</entry>
