@@ -373,12 +373,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_session.rb" timestamp="1482684190083">
+      <file name="$USER_HOME$/projects/value_press/app/models/user_session.rb" timestamp="1482762380103">
         <mark key="'" line="3" column="13" />
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="39" column="6" />
-        <mark key="^" line="39" column="6" />
-        <mark key="." line="39" column="6" />
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="61" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1482687928237">
         <mark key="[" line="96" column="58" />
@@ -452,6 +452,9 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1482762442931">
+        <mark key="'" line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/bills_controller_spec.rb" timestamp="1482681792722" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" timestamp="1482753466828">
         <mark key="[" line="35" column="0" />
@@ -484,6 +487,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/partner_session.rb" timestamp="1482762462584">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/tel_mplans_to_transfer_tels_change_request_saving_service_spec.rb" timestamp="1482240328475">
         <mark key="[" line="93" column="8" />
@@ -3351,31 +3360,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>user_account_id</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IGYuZGF0ZV9maWVsZCA6c2hpcF9kYXRlLCA6Y2xhc3MgPT4nZm9ybS1jb250cm9sIGlucHV0LXNtJyAlPgo=</text>
+      <register name="0" type="4">
+        <text>password_hash: @password_hash</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlhcwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVzZXJBY2NvdW50LndpdGhvdXRfY29udHJhY3Rfc3RhdHVzKDpvZW1fcGFydG5lcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgc2NvcGVfb2ZfdXNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3597,13 +3606,27 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVfdmFsaWRhdGlvbiBkbwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>if mode == 'user_account_id_action'
+      self.user_account = scope_of_user.
+          where(id: email, password_hash: @password_hash).
+          first
+    else
+      if email =~ /\A\d+\z/
+        self.user_account = scope_of_user.
+          where(user_id2: email, password_hash: @password_hash).
+          first
+      else
+        self.user_account = scope_of_user.
+          where(username: email, password_hash: @password_hash).
+          first
+      end
+    end</text>
       </register>
       <register name=":" type="4">
         <text>%s/username/email/g</text>
