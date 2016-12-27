@@ -228,11 +228,11 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/inputs/visit_input.rb" timestamp="1482774523517">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="70" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/inputs/visit_input.rb" timestamp="1482816026318">
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="40" column="50" />
+        <mark key="^" line="41" column="15" />
+        <mark key="." line="41" column="15" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" timestamp="1481715296167">
         <mark key="[" line="6" column="0" />
@@ -336,6 +336,12 @@
         <mark key="]" line="20" column="18" />
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/concerns/ymdable.rb" timestamp="1482816200978">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="77" column="4" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_head_social_meta_tags.html.erb" timestamp="1482297997593">
         <mark key="[" line="58" column="49" />
@@ -453,6 +459,11 @@
         <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/visitor/oempartner_view.php" timestamp="1482769085211" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1482814639633">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="35" />
+      </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/payment_credit.php" timestamp="1481260766618">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="13" />
@@ -516,7 +527,13 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
-      <file name="/a.regexp" timestamp="1482772035224">
+      <file name="$USER_HOME$/projects/cplus/app/models/concerns/temp_ymdable.rb" timestamp="1482816063160">
+        <mark key="[" line="89" column="5" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1482814920464">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -542,6 +559,11 @@
         <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/partner/partner_login_view.php" timestamp="1482768291297" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cntrymd.rb" timestamp="1482815612495">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/validators/or_presence_validator.rb" timestamp="1482745321678">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="6" column="7" />
@@ -592,8 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="19" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="35" column="17" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="3" column="13" filename="$USER_HOME$/projects/value_press/app/models/user_session.rb" />
       <jump line="5" column="14" filename="$USER_HOME$/projects/value_press/doc/user_map.md" />
       <jump line="22" column="59" filename="$USER_HOME$/projects/value_press/doc/user_map.md" />
@@ -692,6 +712,8 @@
       <jump line="8" column="74" filename="$USER_HOME$/projects/cplus/app/views/client/postals/_form.html.slim" />
       <jump line="7" column="29" filename="$USER_HOME$/projects/cplus/app/views/client/postals/_form.html.slim" />
       <jump line="180" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="132" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3341,34 +3363,32 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>visit</text>
+        <text>time</text>
       </register>
       <register name="0" type="4">
-        <text>subject.no_visit = 2
-          subject.dt_visit = Date.yesterday.to_s(:dt)
-          subject.hour_visit = 10
-          expect(subject).to be_invalid</text>
+        <text>TempCntrymd.
+        build_in_days(16, no_visit_selected_object)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBGYWN0b3J5R2lybDo6U3ludGF4OjpNZXRob2RzCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgZGVmIGJ1c3NpbmVzc19kYXRlX2Zyb21fbm93PwogICAgcmVzdD8gPT0gZmFsc2UgJiYKICAgICAgKERhdGUudG9kYXkudG9fcyg6ZHQpICE9IGR0X3ltZCB8fCBUaW1lLm5vdy5ob3VyIDw9IDE4KQogIGVuZAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAjIEZhY3RvcnlHaXJsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGRvIHx0fAogICAgICAgICAgdC5yZXN0PyA9PSBmYWxzZSAmJgogICAgICAgICAgICAoRGF0ZS50b2RheS50b19zKDpkdCkgIT0gdC5kdF95bWQgfHwgVGltZS5ub3cuaG91ciA8PSAxOCkKICAgICAgICBlbmQ=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVc2Vyczo6U2Vzc2lvbnNDb250cm9sbGVy44OG44K544OICg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIGJ1c3NpbmVzc19kYXRlX2Zyb21fbm93PwogICAgcmVzdD8gPT0gZmFsc2UgJiYKICAgICAgKERhdGUudG9kYXkudG9fcyg6ZHQpICE9IGR0X3ltZCB8fCBUaW1lLm5vdy5ob3VyIDw9IDE4KQogIGVuZA==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3589,23 +3609,23 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECkZhY3RvcnlHaXJsLmRlZmluZSBkbwogIGZhY3RvcnkgOnVzZXJfYWNjb3VudCBkbwogICAgdXNlcl9hY2NvdW50X2lkIDEKICAgIHVzZXJuYW1lICdrb3RlcmFAdmFsdWUtcHJlc3MuY29tJwogICAgbmFtZSAn5bCP5a+6JwogICAgcmVzcG9uc2libGVfbmFtZSAn5bCP5a+6IOijleiytCcKICAgIHRyYW5zY3JpcHRpb24gJ+agquW8j+S8muekvuODkOODquODpeODvOODl+ODrOOCuScKICAgIHBhc3N3b3JkX2NoYW5nZSAncGFzc3dvcmQxMjM0JwogICAgc3RhdHVzICdhY3RpdmUnCj09PT09PT0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBGYWN0b3J5R2lybDo6U3ludGF4OjpNZXRob2RzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>visit</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>visit</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3613,7 +3633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>indexof</entry>
         <entry>indexOf</entry>
         <entry>keyup</entry>
         <entry>filterResults</entry>
@@ -3633,6 +3652,7 @@
         <entry>hint</entry>
         <entry>hin</entry>
         <entry>visit</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
