@@ -379,6 +379,12 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/base_input.rb" timestamp="1482773662699" />
+      <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1482814592895">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="60" column="9" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/concerns/date_editable.rb" timestamp="1482745785805">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="3" />
@@ -3340,26 +3346,29 @@
       <register name="/" type="4">
         <text>visit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGVtcGxhdGUuY29uY2F0IGhvdXJfdmlzaXRfaW5wdXQK</text>
+      <register name="0" type="4">
+        <text>subject.no_visit = 2
+          subject.dt_visit = Date.yesterday.to_s(:dt)
+          subject.hour_visit = 10
+          expect(subject).to be_invalid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBGYWN0b3J5R2lybDo6U3ludGF4OjpNZXRob2RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIEZhY3RvcnlHaXJsCg==</text>
+        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBGYWN0b3J5R2lybDo6U3ludGF4OjpNZXRob2RzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIEZhY3RvcnlHaXJsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVc2Vyczo6U2Vzc2lvbnNDb250cm9sbGVy44OG44K544OICg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECkZhY3RvcnlHaXJsLmRlZmluZSBkbwogIGZhY3RvcnkgOnVzZXJfYWNjb3VudCBkbwogICAgdXNlcl9hY2NvdW50X2lkIDEKICAgIHVzZXJuYW1lICdrb3RlcmFAdmFsdWUtcHJlc3MuY29tJwogICAgbmFtZSAn5bCP5a+6JwogICAgcmVzcG9uc2libGVfbmFtZSAn5bCP5a+6IOijleiytCcKICAgIHRyYW5zY3JpcHRpb24gJ+agquW8j+S8muekvuODkOODquODpeODvOODl+ODrOOCuScKICAgIHBhc3N3b3JkX2NoYW5nZSAncGFzc3dvcmQxMjM0JwogICAgc3RhdHVzICdhY3RpdmUnCj09PT09PT0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBVc2Vyczo6U2Vzc2lvbnNDb250cm9sbGVy44OG44K544OICg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3580,8 +3589,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECkZhY3RvcnlHaXJsLmRlZmluZSBkbwogIGZhY3RvcnkgOnVzZXJfYWNjb3VudCBkbwogICAgdXNlcl9hY2NvdW50X2lkIDEKICAgIHVzZXJuYW1lICdrb3RlcmFAdmFsdWUtcHJlc3MuY29tJwogICAgbmFtZSAn5bCP5a+6JwogICAgcmVzcG9uc2libGVfbmFtZSAn5bCP5a+6IOijleiytCcKICAgIHRyYW5zY3JpcHRpb24gJ+agquW8j+S8muekvuODkOODquODpeODvOODl+ODrOOCuScKICAgIHBhc3N3b3JkX2NoYW5nZSAncGFzc3dvcmQxMjM0JwogICAgc3RhdHVzICdhY3RpdmUnCj09PT09PT0=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
