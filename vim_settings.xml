@@ -166,7 +166,7 @@
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" timestamp="1482890192414">
+      <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" timestamp="1482987473978">
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="39" />
         <mark key="^" line="27" column="39" />
@@ -219,13 +219,6 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/password_recover_mail.rb" timestamp="1482984909087">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="37" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="24" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/environments/staging.rb" timestamp="1482982763285">
         <mark key="[" line="29" column="2" />
         <mark key="]" line="33" column="2" />
@@ -236,10 +229,11 @@
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery.rb" timestamp="1482987113884">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery.rb" timestamp="1482988049272">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/mailer.text.erb" timestamp="1482905483533">
         <mark key="[" line="0" column="12" />
@@ -301,10 +295,10 @@
         <mark key="." line="235" column="33" />
         <mark key="^" line="235" column="33" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" timestamp="1482984854804">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" timestamp="1482987665649">
         <mark key="'" line="84" column="60" />
-        <mark key="[" line="84" column="52" />
-        <mark key="]" line="84" column="72" />
+        <mark key="[" line="115" column="173" />
+        <mark key="]" line="115" column="188" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/static_information_pages_controller.rb" timestamp="1482317665855">
         <mark key="[" line="28" column="0" />
@@ -366,9 +360,9 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_partner_login_creator.rb" timestamp="1482890179948">
-        <mark key="[" line="27" column="98" />
-        <mark key="]" line="27" column="98" />
+      <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_partner_login_creator.rb" timestamp="1482987415297">
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="27" column="132" />
         <mark key="^" line="25" column="28" />
         <mark key="." line="27" column="98" />
       </file>
@@ -426,6 +420,7 @@
         <mark key="^" line="26" column="60" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_password_recovery_mail_creator.rb" timestamp="1482987326389" />
       <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_requests/new.html.slim" timestamp="1482231090382">
         <mark key="[" line="3" column="80" />
         <mark key="]" line="3" column="81" />
@@ -515,6 +510,12 @@
         <mark key="^" line="60" column="9" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_password_recovery_creator.rb" timestamp="1482987500482">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/concerns/date_editable.rb" timestamp="1482745785805">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="3" />
@@ -532,13 +533,6 @@
         <mark key="]" line="109" column="50" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_session.rb" timestamp="1482827697398">
-        <mark key="'" line="2" column="6" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1482985852981">
         <mark key="'" line="54" column="19" />
@@ -3528,31 +3522,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>hash</text>
       </register>
       <register name="/" type="4">
         <text>get_per</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dGUgOnBhc3N3b3JkLCA6c3RyaW5nCg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOmhhc2gsIHByZXNlbmNlOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOnVzZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIGxldCg6dXNlcl9hY2NvdW50X2VuY3J5cHRlZF9pZCkgeyAneDliYWh2U0ZQJyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQoOnVzZXJfYWNjb3VudF9lbmNyeXB0ZWRfaWQpIHsgJ3g5YmFodlNGUCcgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQHVzZXJfYWNjb3VudF9wZXJzb24gPSBjcmVhdGUoOnVzZXJfYWNjb3VudF9wZXJzb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJ0bmVyOiBwYXJ0bmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQHVzZXJfYWNjb3VudCA9IGNyZWF0ZSg6dXNlcl9hY2NvdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFmZjogc3RhZmYsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3774,25 +3768,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgRGF0YWJhc2VSZXdpbmRlci5jbGVhbl93aXRoIDphbnlfYXJnX3RoYXRfd291bGRfYmVfYWN0dWFsbHlfaWdub3JlZF9hbnl3YXkK</text>
+        <text encoding="base64">ICAjIGxldCg6dXNlcl9hY2NvdW50X2VuY3J5cHRlZF9pZCkgeyAneDliYWh2U0ZQJyB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text># DatabaseCleaner
-  config.before(:suite) do
-    DatabaseRewinder.strategy = :transaction
-    DatabaseRewinder.clean_with :truncation
-  end
-  config.around(:each) do |example|
-    DatabaseRewinder.cleaning do
-      example.run
-    end
-  end
-  config.after(:each) do
-    DatabaseRewinder.clean
-  end</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBsZXQoOnVzZXJfYWNjb3VudF9lbmNyeXB0ZWRfaWQpIHsgJ3g5YmFodlNGUCcgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
