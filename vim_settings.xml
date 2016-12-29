@@ -93,6 +93,7 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/password_recover.rb" timestamp="1482985135075" />
       <file name="$USER_HOME$/projects/value_press/app/controllers/user/static_pages_controller.rb" timestamp="1481263318656">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="11" column="0" />
@@ -116,6 +117,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/api/persons_controller.rb" timestamp="1482986457104">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/application.html.erb" timestamp="1482658411217">
         <mark key="[" line="20" column="16" />
@@ -178,6 +185,12 @@
         <mark key="^" line="87" column="29" />
         <mark key="." line="87" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/password_recovery_mailer/create_email.text.erb" timestamp="1482985287274">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/show.html.slim" timestamp="1481353632611">
         <mark key="[" line="148" column="41" />
         <mark key="]" line="148" column="40" />
@@ -222,6 +235,11 @@
         <mark key="]" line="3" column="83" />
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery.rb" timestamp="1482987113884">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/mailer.text.erb" timestamp="1482905483533">
         <mark key="[" line="0" column="12" />
@@ -305,6 +323,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/spec/mailers/password_recover_spec.rb" timestamp="1482985593602">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/partners/static_pages_controller.rb" timestamp="1482799992544">
         <mark key="[" line="1" column="32" />
@@ -415,6 +438,12 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/api/persons_controller_spec.rb" timestamp="1482986907584">
+        <mark key="[" line="10" column="116" />
+        <mark key="]" line="10" column="116" />
+        <mark key="^" line="10" column="114" />
+        <mark key="." line="10" column="116" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/environments/development.rb" timestamp="1482982742419" />
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/ymdable.rb" timestamp="1482816200978">
         <mark key="[" line="73" column="0" />
@@ -469,6 +498,17 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/factories/user_accounts.rb" timestamp="1482805076351">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/api/application_controller.rb" timestamp="1482985683218">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1482984573805">
         <mark key="[" line="106" column="31" />
         <mark key="]" line="106" column="80" />
@@ -500,12 +540,18 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1482907703178">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="90" />
-        <mark key="]" line="39" column="116" />
-        <mark key="." line="39" column="116" />
-        <mark key="^" line="39" column="116" />
+      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1482985852981">
+        <mark key="'" line="54" column="19" />
+        <mark key="[" line="55" column="30" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+        <mark key="^" line="55" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/password_recovery_mails_controller.rb" timestamp="1482985256510">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_creator.rb" timestamp="1482680219979">
         <mark key="[" line="25" column="19" />
@@ -513,11 +559,11 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" timestamp="1482983975117">
+      <file name="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" timestamp="1482985799916">
         <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="30" />
+        <mark key="]" line="27" column="26" />
         <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="30" />
+        <mark key="." line="27" column="26" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/show.json.jbuilder" timestamp="1481194654070">
         <mark key="[" line="5" column="110" />
@@ -555,6 +601,10 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery_mail.rb" timestamp="1482986953504">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/payment_credit.php" timestamp="1481260766618">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="13" />
@@ -568,11 +618,23 @@
         <mark key="." line="92" column="34" />
         <mark key="^" line="92" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/users/password_recovery_mails/new.html.erb" timestamp="1482985354285">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" timestamp="1482753466828">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="36" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/password_recoveries_controller.rb" timestamp="1482985226164">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/application_controller.rb" timestamp="1481355675291">
         <mark key="[" line="14" column="67" />
@@ -592,9 +654,6 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482907648244">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/tel_mplans_to_transfer_tels_change_request_saving_service_spec.rb" timestamp="1482240328475">
         <mark key="[" line="93" column="8" />
         <mark key="]" line="95" column="11" />
@@ -612,6 +671,12 @@
         <mark key="]" line="59" column="37" />
         <mark key="^" line="59" column="37" />
         <mark key="." line="59" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/mailers/password_recovery_mailer.rb" timestamp="1482985455118">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_number_input.rb" timestamp="1482410499714">
         <mark key="[" line="23" column="529" />
@@ -631,10 +696,10 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1482983620331">
+      <file name="/a.regexp" timestamp="1482985145104">
         <mark key="i" line="0" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/mailers/application_mailer.rb" timestamp="1482229042306">
@@ -658,6 +723,11 @@
         <mark key="]" line="9" column="70" />
         <mark key="." line="9" column="70" />
         <mark key="^" line="9" column="70" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cntrymd.rb" timestamp="1482815612495">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/validators/or_presence_validator.rb" timestamp="1482745321678">
         <mark key="[" line="5" column="7" />
@@ -709,9 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="185" column="11" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="186" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="356" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="473" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="533" column="198" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -771,7 +838,6 @@
       <jump line="180" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="132" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="255" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_model.php" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_model.php" />
       <jump line="55" column="20" filename="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_model.php" />
@@ -809,6 +875,10 @@
       <jump line="84" column="60" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="9" column="21" filename="$USER_HOME$/projects/value_press/Gemfile" />
+      <jump line="0" column="26" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="7" column="39" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="8" column="40" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="54" column="19" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3458,45 +3528,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>database</text>
+        <text>get_per</text>
       </register>
-      <register name="0" type="4">
-        <text>it &quot;メールが送信されること&quot; do
-        expect { subject }.to change{ ActionMailer::Base.deliveries.size }.by(1)
-      end</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOnBhc3N3b3JkLCA6c3RyaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgb3IK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgRGF0YWJhc2VSZXdpbmRlci5jbGVhbl93aXRoIDphbnlfYXJnX3RoYXRfd291bGRfYmVfYWN0dWFsbHlfaWdub3JlZF9hbnl3YXkK</text>
-      </register>
-      <register name="3" type="4">
-        <text># DatabaseCleaner
-  config.before(:suite) do
-    DatabaseRewinder.strategy = :transaction
-    DatabaseRewinder.clean_with :truncation
-  end
-  config.around(:each) do |example|
-    DatabaseRewinder.cleaning do
-      example.run
-    end
-  end
-  config.after(:each) do
-    DatabaseRewinder.clean
-  end</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEB1c2VyX2FjY291bnQgPSBwYXNzd29yZF9yZWNvdmVyX21haWxlci51c2VyX2FjY291bnQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAjIGxldCg6dXNlcl9hY2NvdW50X2VuY3J5cHRlZF9pZCkgeyAneDliYWh2U0ZQJyB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsZXQoOnVzZXJfYWNjb3VudF9lbmNyeXB0ZWRfaWQpIHsgJ3g5YmFodlNGUCcgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgQHVzZXJfYWNjb3VudF9wZXJzb24gPSBjcmVhdGUoOnVzZXJfYWNjb3VudF9wZXJzb24pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgQHVzZXJfYWNjb3VudCA9IGNyZWF0ZSg6dXNlcl9hY2NvdW50KQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIje1ZhbHVlUHJlc3M6OlN0cmluZ0VzY2FwZVV0aWwubnVtX3RvX3N0cih0LCA3NzcpfS8je0RpZ2VzdDo6U0hBMS5oZXhkaWdlc3QodXNlcl9hY2NvdW50LnVzZXJuYW1lICsgdC50b19zKX0iCg==</text>
+        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3718,22 +3774,34 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVybF9oZWxwZXJzID0gUmFpbHMuYXBwbGljYXRpb24ucm91dGVzLnVybF9oZWxwZXJzCg==</text>
+        <text encoding="base64">ICAgICMgb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgRGF0YWJhc2VSZXdpbmRlci5jbGVhbl93aXRoIDphbnlfYXJnX3RoYXRfd291bGRfYmVfYWN0dWFsbHlfaWdub3JlZF9hbnl3YXkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text># DatabaseCleaner
+  config.before(:suite) do
+    DatabaseRewinder.strategy = :transaction
+    DatabaseRewinder.clean_with :truncation
+  end
+  config.around(:each) do |example|
+    DatabaseRewinder.cleaning do
+      example.run
+    end
+  end
+  config.after(:each) do
+    DatabaseRewinder.clean
+  end</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>database</last-search>
+      <last-search>get_per</last-search>
       <last-offset />
-      <last-pattern>database</last-pattern>
+      <last-pattern>get_per</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3741,8 +3809,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
-        <entry>request</entry>
         <entry>user</entry>
         <entry>User</entry>
         <entry>oempartner</entry>
@@ -3761,6 +3827,8 @@
         <entry>do_hash</entry>
         <entry>mail_confirm</entry>
         <entry>database</entry>
+        <entry>reco</entry>
+        <entry>get_per</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
