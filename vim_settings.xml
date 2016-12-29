@@ -206,12 +206,12 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/password_recover_mail.rb" timestamp="1482984010147">
+      <file name="$USER_HOME$/projects/value_press/app/models/password_recover_mail.rb" timestamp="1482984909087">
         <mark key="'" line="10" column="17" />
-        <mark key="[" line="26" column="67" />
-        <mark key="]" line="27" column="23" />
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="37" />
         <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="23" />
+        <mark key="." line="24" column="37" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/environments/staging.rb" timestamp="1482982763285">
         <mark key="[" line="29" column="2" />
@@ -241,11 +241,11 @@
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/models/password_recover_mail_spec.rb" timestamp="1482983440144">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="56" />
-        <mark key="^" line="5" column="56" />
-        <mark key="." line="5" column="56" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/models/password_recover_mail_spec.rb" timestamp="1482984602703">
+        <mark key="[" line="36" column="78" />
+        <mark key="]" line="36" column="79" />
+        <mark key="^" line="35" column="19" />
+        <mark key="." line="36" column="79" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/password_recover_mails/new.html.erb" timestamp="1482890296786">
         <mark key="[" line="54" column="5" />
@@ -283,7 +283,7 @@
         <mark key="." line="235" column="33" />
         <mark key="^" line="235" column="33" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" timestamp="1482982484445">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" timestamp="1482984854804">
         <mark key="'" line="84" column="60" />
         <mark key="[" line="84" column="52" />
         <mark key="]" line="84" column="72" />
@@ -311,6 +311,12 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/password_recovers_controller.rb" timestamp="1482984811630">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/partners/sessions_controller_spec.rb" timestamp="1482802591056">
         <mark key="[" line="12" column="9" />
@@ -444,11 +450,11 @@
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/rails_helper.rb" timestamp="1482984212232">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="64" column="4" />
+      <file name="$USER_HOME$/projects/value_press/spec/rails_helper.rb" timestamp="1482984496772">
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="63" column="41" />
+        <mark key="." line="63" column="41" />
+        <mark key="^" line="63" column="41" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/visitor/recover_view.php" timestamp="1482827772735" />
       <file name="$USER_HOME$/projects/value_press/app/helpers/user_account_helper.rb" timestamp="1482327568010">
@@ -463,9 +469,9 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1482814592895">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1482984573805">
+        <mark key="[" line="106" column="31" />
+        <mark key="]" line="106" column="80" />
         <mark key="^" line="60" column="9" />
         <mark key="." line="64" column="0" />
       </file>
@@ -647,7 +653,7 @@
         <mark key="^" line="143" column="31" />
         <mark key="." line="143" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/password_recover_mails_controller.rb" timestamp="1482906761415">
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/password_recover_mails_controller.rb" timestamp="1482984711136">
         <mark key="[" line="9" column="55" />
         <mark key="]" line="9" column="70" />
         <mark key="." line="9" column="70" />
@@ -3452,13 +3458,15 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
       <register name="0" type="4">
-        <text>ActionController::TestRequest.new</text>
+        <text>it &quot;メールが送信されること&quot; do
+        expect { subject }.to change{ ActionMailer::Base.deliveries.size }.by(1)
+      end</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgb3IK</text>
