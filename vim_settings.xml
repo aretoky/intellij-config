@@ -76,12 +76,6 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sessions_controller_spec.rb" timestamp="1482767339656">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="31" column="81" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form.rb" timestamp="1482772561137">
         <mark key="'" line="15" column="0" />
       </file>
@@ -264,11 +258,11 @@
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/password_recoveris_controller_spec.rb" timestamp="1482998359430">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/password_recoveris_controller_spec.rb" timestamp="1482999148884">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="56" />
+        <mark key="." line="13" column="56" />
+        <mark key="^" line="13" column="56" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/partners/registrations_controller.rb" timestamp="1482799976225">
         <mark key="[" line="1" column="34" />
@@ -460,11 +454,11 @@
         <mark key="." line="10" column="116" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/environments/development.rb" timestamp="1482982742419" />
-      <file name="$USER_HOME$/projects/value_press/app/views/users/password_recoveries/new.html.erb" timestamp="1482990977219">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="77" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/password_recoveries/new.html.erb" timestamp="1482999177433">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="16" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/concerns/ymdable.rb" timestamp="1482816200978">
         <mark key="[" line="73" column="0" />
@@ -640,10 +634,10 @@
         <mark key="." line="92" column="34" />
         <mark key="^" line="92" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/models/password_recovery_spec.rb" timestamp="1482998112900">
+      <file name="$USER_HOME$/projects/value_press/spec/models/password_recovery_spec.rb" timestamp="1482998986407">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="96" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="66" />
         <mark key="^" line="79" column="13" />
         <mark key="." line="62" column="10" />
       </file>
@@ -3551,37 +3545,35 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>requ</text>
       </register>
-      <register name="0" type="4">
-        <text>password_recover</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBsZXQoOnVzZXJfYWNjb3VudCkgeyBjcmVhdGUoOnVzZXJfYWNjb3VudCkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Zvcm0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>let(:password_recovery_attributes) do
+    {
+      password: user_account.password_change
+    }
+  end</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQoOnBhc3N3b3JkX3JlY292ZXJ5X21haWwpIHsgY3JlYXRlKDp1c2VyX2FjY291bnQpIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>let(:user_account) { create(:user_account) }
-    let(:user_session_attributes) do
-      {
-        email: user_account.username,
-        password: user_account.password_change
-      }
-    end</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IHVzZXJfYWNjb3VudC51c2VybmFtZSwK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3803,13 +3795,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJfYWNjb3VudC5wYXNzd29yZF9oYXNoID0gRGlnZXN0OjpNRDUuaGV4ZGlnZXN0KHBhc3N3b3JkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCg6b2xkX3Bhc3N3b3JkX2hhc2gpIHsgdXNlcl9hY2NvdW50LnBhc3N3b3JkX2hhc2ggfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
