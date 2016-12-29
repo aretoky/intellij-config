@@ -245,12 +245,12 @@
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery.rb" timestamp="1482995627582">
+      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery.rb" timestamp="1482997488357">
         <mark key="'" line="16" column="13" />
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="14" />
-        <mark key="." line="48" column="14" />
-        <mark key="^" line="48" column="14" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="59" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/mailer.text.erb" timestamp="1482905483533">
         <mark key="[" line="0" column="12" />
@@ -263,6 +263,12 @@
         <mark key="]" line="35" column="11" />
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/password_recoveris_controller_spec.rb" timestamp="1482998359430">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/partners/registrations_controller.rb" timestamp="1482799976225">
         <mark key="[" line="1" column="34" />
@@ -528,12 +534,6 @@
         <mark key="^" line="60" column="9" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_password_recovery_creator.rb" timestamp="1482987500482">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/concerns/date_editable.rb" timestamp="1482745785805">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="3" />
@@ -621,11 +621,11 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery_mail.rb" timestamp="1482994441801">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="25" />
-        <mark key="^" line="32" column="51" />
-        <mark key="." line="32" column="51" />
+      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery_mail.rb" timestamp="1482997694495">
+        <mark key="[" line="38" column="58" />
+        <mark key="]" line="40" column="6" />
+        <mark key="^" line="40" column="6" />
+        <mark key="." line="40" column="6" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/payment_credit.php" timestamp="1481260766618">
         <mark key="[" line="5" column="14" />
@@ -640,12 +640,12 @@
         <mark key="." line="92" column="34" />
         <mark key="^" line="92" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/models/password_recovery_spec.rb" timestamp="1482997050225">
+      <file name="$USER_HOME$/projects/value_press/spec/models/password_recovery_spec.rb" timestamp="1482998112900">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="36" />
-        <mark key="]" line="65" column="68" />
-        <mark key="^" line="63" column="27" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="96" />
+        <mark key="^" line="79" column="13" />
+        <mark key="." line="62" column="10" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/password_recovery_mails/new.html.erb" timestamp="1482992868166">
         <mark key="[" line="32" column="39" />
@@ -3551,31 +3551,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>requ</text>
       </register>
       <register name="0" type="4">
-        <text>Digest::MD5.hexdigest(&quot;aaaaa&quot;)</text>
+        <text>password_recover</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCg6b2xkX3Bhc3N3b3JkX2hhc2gpIHsgdXNlcl9hY2NvdW50LnBhc3N3b3JkX2hhc2ggfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOm9sZF9wYXNzd29yZF9oYXNoKSB7IHVzZXJfYWNjb3VudC5wYXNzd29yZF9oYXNoIH0K</text>
+        <text encoding="base64">ICBsZXQoOnBhc3N3b3JkX3JlY292ZXJ5X21haWwpIHsgY3JlYXRlKDp1c2VyX2FjY291bnQpIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>let(:user_account) { create(:user_account) }
+    let(:user_session_attributes) do
+      {
+        email: user_account.username,
+        password: user_account.password_change
+      }
+    end</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3797,13 +3803,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJfYWNjb3VudC5wYXNzd29yZF9oYXNoID0gRGlnZXN0OjpNRDUuaGV4ZGlnZXN0KHBhc3N3b3JkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QgeyBzdWJqZWN0IH0udG8gY2hhbmdleyBBY3Rpb25NYWlsZXI6OkJhc2UuZGVsaXZlcmllcy5zaXplIH0uYnkoMCkK</text>
+        <text encoding="base64">ICAgIGxldCg6b2xkX3Bhc3N3b3JkX2hhc2gpIHsgdXNlcl9hY2NvdW50LnBhc3N3b3JkX2hhc2ggfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
