@@ -183,8 +183,8 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1482983591011">
-        <mark key="'" line="9" column="21" />
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1483060238077">
+        <mark key="'" line="16" column="46" />
         <mark key="[" line="90" column="36" />
         <mark key="]" line="90" column="49" />
         <mark key="." line="90" column="49" />
@@ -657,11 +657,11 @@
         <mark key="^" line="79" column="13" />
         <mark key="." line="62" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/password_recovery_mails/new.html.erb" timestamp="1482999631007">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="26" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="32" column="26" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/password_recovery_mails/new.html.erb" timestamp="1483059690336">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="12" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" timestamp="1482753466828">
         <mark key="[" line="35" column="0" />
@@ -812,9 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="32" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
-      <jump line="64" column="0" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
-      <jump line="65" column="18" filename="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_mass_inputs_controller.rb" />
       <jump line="72" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
       <jump line="64" column="18" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/value_press/spec/controllers/users/sessions_controller_spec.rb" />
@@ -912,6 +909,9 @@
       <jump line="1047" column="0" filename="$USER_HOME$/projects/value_press/public/static/css/column3.css" />
       <jump line="3181" column="0" filename="$USER_HOME$/projects/value_press/public/static/css/column3.css" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/column3.css.scss" />
+      <jump line="13" column="19" filename="$USER_HOME$/projects/value_press/Gemfile" />
+      <jump line="18" column="33" filename="$USER_HOME$/projects/value_press/Gemfile" />
+      <jump line="16" column="46" filename="$USER_HOME$/projects/value_press/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3564,7 +3564,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text>set</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PG1ldGEgbmFtZT0iZ29vZ2xlLXNpdGUtdmVyaWZpY2F0aW9uIiBjb250ZW50PSJycjNObkh4OUY5aXBLRG5TRDlyMWVuNl9jU3N3V3h6ZkpUY1lsWFktZHZjIiAvPg==</text>
@@ -3824,9 +3824,9 @@
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3834,7 +3834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hin</entry>
         <entry>visit</entry>
         <entry>time</entry>
         <entry>recover</entry>
@@ -3854,6 +3853,7 @@
         <entry>password_recovery_mail_attributes</entry>
         <entry>reco</entry>
         <entry>css</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
