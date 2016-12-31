@@ -401,7 +401,8 @@
         <mark key="^" line="41" column="15" />
         <mark key="." line="41" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" timestamp="1481715296167">
+      <file name="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" timestamp="1483181901208">
+        <mark key="'" line="25" column="36" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="17" column="3" />
@@ -837,7 +838,7 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1483181009634">
+      <file name="/a.regexp" timestamp="1483182529705">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -925,10 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" />
-      <jump line="188" column="34" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" />
-      <jump line="84" column="60" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" />
-      <jump line="54" column="19" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="28" column="71" filename="$USER_HOME$/sandbox/vp_main_system/application/views/visitor/recover_view.php" />
       <jump line="90" column="33" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" />
@@ -1025,6 +1022,10 @@
       <jump line="476" column="4" filename="$USER_HOME$/projects/value_press/Gemfile.lock" />
       <jump line="479" column="6" filename="$USER_HOME$/projects/value_press/Gemfile.lock" />
       <jump line="0" column="13" filename="$USER_HOME$/projects/value_press/Gemfile" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
+      <jump line="21" column="37" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
+      <jump line="23" column="22" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
+      <jump line="25" column="36" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3677,7 +3678,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sass</text>
+        <text>ref</text>
       </register>
       <register name="0" type="4">
         <text>@font-face</text>
@@ -3953,9 +3954,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sass</last-search>
+      <last-search>ref</last-search>
       <last-offset />
-      <last-pattern>sass</last-pattern>
+      <last-pattern>ref</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3963,7 +3964,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remote</entry>
         <entry>requ</entry>
         <entry>password_recovery_mail_attributes</entry>
         <entry>reco</entry>
@@ -3983,6 +3983,7 @@
         <entry>therubyracer</entry>
         <entry>sprockets</entry>
         <entry>sass</entry>
+        <entry>ref</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
