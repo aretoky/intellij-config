@@ -15,12 +15,11 @@
         <mark key="^" line="124" column="20" />
         <mark key="." line="124" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" timestamp="1483251839920">
-        <mark key="'" line="348" column="9" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="176" column="46" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" timestamp="1483253944488">
+        <mark key="'" line="200" column="87" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" timestamp="1481434439097">
         <mark key="[" line="70" column="7" />
@@ -376,7 +375,7 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1483250197714">
+      <file name="/a.regexp" timestamp="1483252603728">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -805,6 +804,12 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1483176241482">
+        <mark key="'" line="135" column="27" />
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_creator.rb" timestamp="1482680219979">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="24" column="21" />
@@ -940,7 +945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="22" filename="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" />
       <jump line="28" column="35" filename="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" />
       <jump line="49" column="20" filename="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" />
       <jump line="51" column="77" filename="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" />
@@ -1040,6 +1044,7 @@
       <jump line="361" column="9" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="22" column="33" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/vp_html_helper.php" />
       <jump line="21" column="16" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/vp_html_helper.php" />
+      <jump line="200" column="87" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3689,31 +3694,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>telephone</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>form_error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPCU9IGYuZXJyb3JzWzp0ZWxlcGhvbmVdID8gZi5lcnJvcl9tZXNzYWdlWzp0ZWxlcGhvbmVdLmZpcnN0IDogIiIgJT4K</text>
+        <text encoding="base64">ICAgICAgICA8JT0gZi5lcnJvcnNbOmxvZ29fbmFtZV0gPyBmLmVycm9yX21lc3NhZ2VbOmxvZ29fbmFtZV0uZmlyc3QgOiAiIiAlPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPD89IGZvcm1fZXJyb3IoJ3VzZXJfYWNjb3VudFt1cmxdJykgPz4K</text>
+        <text encoding="base64">ICAgICAgICA8Pz0gZm9ybV9lcnJvcigndXNlcl9hY2NvdW50X3BlcnNvbltldmVudF9pbmZvcm1hdGlvbl9mbGddJykgPz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFt1cmxdIiBzaXplPSI1MCIgY2xhc3M9InZhbGlkYXRlW3JlcXVpcmVkXSIgdHlwZT0idGV4dCIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W3VybF0nLCAkdXNlcl9hY2NvdW50Wyd1cmwnXSk7ID8+IiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFt1cmxdIiBzaXplPSI1MCIgY2xhc3M9InZhbGlkYXRlW3JlcXVpcmVkXSIgdHlwZT0idGV4dCIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W3VybF0nLCAkdXNlcl9hY2NvdW50Wyd1cmwnXSk7ID8+IiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PCEtLQkJCQkJCTxkbCBjbGFzcz0ibGlzdDAxIj4KICA8ZHQ+RkFYPC9kdD4KICA8ZGQgY2xhc3M9Ijw/PSBnZXRfZXJyb3Jib3hfY2xhc3MoJ3VzZXJfYWNjb3VudFtmYXhdJykgPz4iPgogICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFtmYXhdIiBzaXplPSIyMCIgdHlwZT0idGV4dCIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W2ZheF0nLCAkdXNlcl9hY2NvdW50WydmYXgnXSk7ID8+IiAvPgogICAgPHNwYW4gY2xhc3M9InRleHRfZ3JlZW4gbWwxMCI+5L6L77yJPC9zcGFuPjAzLTY4MDUtMzQ5NTxiciAvPgogICAgPHNwYW4gY2xhc3M9InRleHRfZ2xheSB0ZXh0X3NtYWxsIj7ljYrop5Loi7HmlbDlrZfjgaflhaXlipvjgZfjgabjgY/jgaDjgZXjgYQ8L3NwYW4+CiAgICA8Pz0gZm9ybV9lcnJvcigndXNlcl9hY2NvdW50W2ZheF0nKSA/PgogIDwvZGQ+CiAgPC9kbD4tLT4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0naGlkZGVuJyBuYW1lPSd1c2VyX2FjY291bnRbbG9nb19uYW1lXScgdmFsdWU9Ijw/PWgoJHVzZXJfYWNjb3VudFsnbG9nb19uYW1lJ10pOz8+IiBpZD0iZHJhZnRfaGlkZGVuX3BpY19uYW1lMSIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyBzcmM9Jzw/PSAkdGhpcy0+dnBfczMtPmZsKGgoJHVzZXJfYWNjb3VudFsnbG9nb19uYW1lJ10pKTsgPz4nIC8+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3935,13 +3940,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPD89IGZvcm1fZXJyb3IoJ3VzZXJfYWNjb3VudFt0ZWxlcGhvbmVdJykgPz4K</text>
+        <text encoding="base64">ICAgICAgPD89IGZvcm1fZXJyb3IoJ2xvZ29fbmFtZScpID8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFt0ZWxlcGhvbmVdIiBzaXplPSIyMCIgY2xhc3M9InZhbGlkYXRlW3JlcXVpcmVkLG1pblNpemVbMTBdLG1heFNpemVbMTVdLGN1c3RvbVtvbmx5TnVtYmVyU3BdXSIgdHlwZT0idGV4dCIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W3RlbGVwaG9uZV0nLCAkdXNlcl9hY2NvdW50Wyd0ZWxlcGhvbmUnXSk7ID8+IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDw/PSBmb3JtX2Vycm9yKCd1c2VyX2FjY291bnRbZGVzY3JpcHRpb25dJykgPz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFt0ZWxlcGhvbmVdIiBzaXplPSIyMCIgY2xhc3M9InZhbGlkYXRlW3JlcXVpcmVkLG1pblNpemVbMTBdLG1heFNpemVbMTVdLGN1c3RvbVtvbmx5TnVtYmVyU3BdXSIgdHlwZT0idGV4dCIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W3RlbGVwaG9uZV0nLCAkdXNlcl9hY2NvdW50Wyd0ZWxlcGhvbmUnXSk7ID8+IiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
