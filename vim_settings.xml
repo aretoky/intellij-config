@@ -15,7 +15,7 @@
         <mark key="^" line="124" column="20" />
         <mark key="." line="124" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" timestamp="1483281652611">
+      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" timestamp="1483282769936">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="63" column="27" />
         <mark key="]" line="63" column="27" />
@@ -287,11 +287,11 @@
         <mark key="^" line="39" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/support_mass_production_site.rb" timestamp="1483260816663" />
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483279563424">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="61" />
-        <mark key="^" line="5" column="61" />
-        <mark key="." line="5" column="61" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483282421594">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="57" />
+        <mark key="^" line="6" column="57" />
+        <mark key="." line="6" column="57" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/visitor/recover_view.php" timestamp="1482992712202">
         <mark key="'" line="28" column="71" />
@@ -828,8 +828,8 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" timestamp="1483278612388">
-        <mark key="'" line="197" column="32" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" timestamp="1483281705218">
+        <mark key="'" line="215" column="56" />
         <mark key="[" line="107" column="37" />
         <mark key="]" line="107" column="49" />
         <mark key="^" line="100" column="7" />
@@ -916,15 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="37" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
-      <jump line="23" column="22" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
-      <jump line="25" column="36" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
-      <jump line="2" column="115" filename="$USER_HOME$/projects/value_press/vendor/bundle/gems/ref-2.0.0/README.md" />
-      <jump line="372" column="93" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
-      <jump line="179" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="344" column="214" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
-      <jump line="347" column="6" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
-      <jump line="99" column="12" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="107" column="12" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="361" column="9" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="22" column="33" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/vp_html_helper.php" />
@@ -1015,6 +1006,15 @@
       <jump line="127" column="149" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="129" column="29" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="122" column="63" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
+      <jump line="62" column="68" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
+      <jump line="148" column="38" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
+      <jump line="149" column="82" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
+      <jump line="153" column="58" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
+      <jump line="780" column="33" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
+      <jump line="164" column="45" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
+      <jump line="215" column="56" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
+      <jump line="124" column="20" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
     </jumps>
     <registers>
@@ -3665,10 +3665,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>errors</text>
+        <text>select</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PCUgaWYgKGYub2JqZWN0LmxvZ29fbmFtZS5wcmVzZW50PykgJT4=</text>
@@ -3924,9 +3924,9 @@
       </register>
     </registers>
     <search>
-      <last-search>errors</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>errors</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3934,8 +3934,6 @@
     </search>
     <history>
       <history-search>
-        <entry>therubyracer</entry>
-        <entry>sprockets</entry>
         <entry>sass</entry>
         <entry>ref</entry>
         <entry>issue</entry>
@@ -3954,6 +3952,8 @@
         <entry>form</entry>
         <entry>(</entry>
         <entry>errors</entry>
+        <entry>street</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
