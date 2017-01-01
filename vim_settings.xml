@@ -15,8 +15,11 @@
         <mark key="^" line="124" column="20" />
         <mark key="." line="124" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" timestamp="1483179415732">
-        <mark key="'" line="481" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" timestamp="1483245637219">
+        <mark key="'" line="372" column="93" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" timestamp="1481434439097">
         <mark key="[" line="70" column="7" />
@@ -948,7 +951,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="33" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/recover.php" />
       <jump line="19" column="17" filename="$USER_HOME$/projects/value_press/app/models/password_recovery.rb" />
       <jump line="13" column="24" filename="$USER_HOME$/projects/value_press/app/models/password_recovery.rb" />
@@ -1048,6 +1050,7 @@
       <jump line="23" column="22" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
       <jump line="25" column="36" filename="$USER_HOME$/projects/value_press/app/models/effect_measurement_record.rb" />
       <jump line="2" column="115" filename="$USER_HOME$/projects/value_press/vendor/bundle/gems/ref-2.0.0/README.md" />
+      <jump line="372" column="93" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3706,42 +3709,22 @@
         <text>@font-face</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2VtICdzcHJvY2tldHMnCg==</text>
+        <text encoding="base64">ICAgICAgICA8JT0gZm9ybV9mb3IgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VtICdzYXNzJwo=</text>
+        <text encoding="base64">Z2VtICdzcHJvY2tldHMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdzYXNzJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2VtICd0aGVydWJ5cmFjZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>@font-face {
-    font-family: CONDENSEicon;
-    src: url(&quot;CONDENSEicon.eot&quot;);
-  }
-
-  @font-face {
-    font-family: 'CONDENSEicon';
-    src: url('CONDENSEicon.woff') format('woff'),
-    url('CONDENSEicon.otf') format('opentype');
-  }
-
-  @font-face {
-    font-family: 'fontello';
-    src: url('fontello.eot?9566259');
-    src: url('fontello.eot?9566259#iefix') format('embedded-opentype'),
-    url('fontello.woff?9566259') format('woff'),
-    url('fontello.ttf?9566259') format('truetype'),
-    url('fontello.svg?9566259#fontello') format('svg');
-    font-weight: normal;
-    font-style: normal;
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Z2VtICd0aGVydWJ5cmFjZXInCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3962,11 +3945,31 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PSByZW5kZXIgInNjYWZmb2xkX25ldyIK</text>
+      <register name="7" type="4">
+        <text>@font-face {
+    font-family: CONDENSEicon;
+    src: url(&quot;CONDENSEicon.eot&quot;);
+  }
+
+  @font-face {
+    font-family: 'CONDENSEicon';
+    src: url('CONDENSEicon.woff') format('woff'),
+    url('CONDENSEicon.otf') format('opentype');
+  }
+
+  @font-face {
+    font-family: 'fontello';
+    src: url('fontello.eot?9566259');
+    src: url('fontello.eot?9566259#iefix') format('embedded-opentype'),
+    url('fontello.woff?9566259') format('woff'),
+    url('fontello.ttf?9566259') format('truetype'),
+    url('fontello.svg?9566259#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PSByZW5kZXIgInNjYWZmb2xkX25ldyIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
