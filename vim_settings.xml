@@ -510,12 +510,6 @@
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1483181083096">
-        <mark key="'" line="0" column="13" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/vendor/bundle/gems/ref-2.0.0/lib/ref/reference.rb" timestamp="1483183771103" />
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/column3.css.scss" timestamp="1483179979992">
         <mark key="'" line="771" column="4" />
@@ -817,14 +811,15 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" timestamp="1483246738425">
-        <mark key="'" line="179" column="13" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" timestamp="1483274449636">
+        <mark key="'" line="197" column="32" />
         <mark key="[" line="107" column="37" />
         <mark key="]" line="107" column="49" />
         <mark key="^" line="100" column="7" />
         <mark key="." line="100" column="7" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/mail_magazine.rb" timestamp="1483161841005" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account_person.rb" timestamp="1483274559766" />
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/registration_emails_controller.rb" timestamp="1483165091914">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -904,9 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="13" filename="$USER_HOME$/projects/value_press/app/models/password_recovery.rb" />
-      <jump line="698" column="2" filename="$USER_HOME$/projects/value_press/vendor/bundle/gems/actionpack-5.0.1/lib/action_controller/test_case.rb" />
-      <jump line="262" column="13" filename="$USER_HOME$/projects/value_press/vendor/bundle/gems/actionpack-5.0.1/lib/action_controller/test_case.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/spec/models/password_recovery_spec.rb" />
       <jump line="5" column="95" filename="$USER_HOME$/projects/value_press/spec/controllers/users/password_recovery_mail_controller_spec.rb" />
       <jump line="14" column="7" filename="$USER_HOME$/projects/value_press/spec/controllers/users/password_recovery_mail_controller_spec.rb" />
@@ -1004,6 +996,9 @@
       <jump line="79" column="22" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="81" column="10" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="115" column="38" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="101" column="35" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
+      <jump line="166" column="92" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
+      <jump line="197" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3656,7 +3651,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>service_information_flg</text>
+        <text>_set_form_validation</text>
       </register>
       <register name="0" type="4">
         <text>service_information_flg</text>
@@ -3912,9 +3907,9 @@
       </register>
     </registers>
     <search>
-      <last-search>service_information_flg</last-search>
+      <last-search>_set_form_validation</last-search>
       <last-offset />
-      <last-pattern>service_information_flg</last-pattern>
+      <last-pattern>_set_form_validation</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3922,8 +3917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>公式</entry>
-        <entry>seli</entry>
         <entry>php</entry>
         <entry>sended_description</entry>
         <entry>#sended_description</entry>
@@ -3942,6 +3935,8 @@
         <entry>flog</entry>
         <entry>flg</entry>
         <entry>service_information_flg</entry>
+        <entry>mail_magazine_flg</entry>
+        <entry>_set_form_validation</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
