@@ -826,8 +826,8 @@
         <mark key="^" line="9" column="63" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1483254579404">
-        <mark key="'" line="115" column="38" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1483277021513">
+        <mark key="'" line="69" column="11" />
         <mark key="[" line="92" column="27" />
         <mark key="]" line="92" column="34" />
         <mark key="." line="92" column="34" />
@@ -899,7 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/spec/models/password_recovery_spec.rb" />
       <jump line="5" column="95" filename="$USER_HOME$/projects/value_press/spec/controllers/users/password_recovery_mail_controller_spec.rb" />
       <jump line="14" column="7" filename="$USER_HOME$/projects/value_press/spec/controllers/users/password_recovery_mail_controller_spec.rb" />
       <jump line="27" column="75" filename="$USER_HOME$/projects/value_press/spec/controllers/users/password_recovery_mail_controller_spec.rb" />
@@ -987,7 +986,6 @@
       <jump line="21" column="16" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/vp_html_helper.php" />
       <jump line="200" column="87" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="189" column="9" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="23" column="16" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="35" column="20" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="62" column="15" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -999,6 +997,8 @@
       <jump line="101" column="35" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="166" column="92" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="197" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
+      <jump line="0" column="8" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="69" column="11" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3651,7 +3651,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>_set_form_validation</text>
+        <text>person</text>
       </register>
       <register name="0" type="4">
         <text>service_information_flg</text>
@@ -3907,9 +3907,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_set_form_validation</last-search>
+      <last-search>person</last-search>
       <last-offset />
-      <last-pattern>_set_form_validation</last-pattern>
+      <last-pattern>person</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3917,7 +3917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>php</entry>
         <entry>sended_description</entry>
         <entry>#sended_description</entry>
         <entry>letter</entry>
@@ -3937,6 +3936,7 @@
         <entry>service_information_flg</entry>
         <entry>mail_magazine_flg</entry>
         <entry>_set_form_validation</entry>
+        <entry>person</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
