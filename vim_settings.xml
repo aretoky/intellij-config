@@ -160,6 +160,12 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/reference_site_sessions_manageable.rb" timestamp="1483367746763">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="43" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" timestamp="1483361819781">
         <mark key="[" line="280" column="0" />
         <mark key="]" line="280" column="60" />
@@ -778,11 +784,11 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/registrations_controller.rb" timestamp="1483365695205">
-        <mark key="[" line="70" column="52" />
-        <mark key="]" line="64" column="32" />
-        <mark key="^" line="64" column="32" />
-        <mark key="." line="64" column="32" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/registrations_controller.rb" timestamp="1483367669290">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1482984573805">
         <mark key="[" line="106" column="31" />
@@ -864,7 +870,7 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" timestamp="1483365253059">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" timestamp="1483367854210">
         <mark key="'" line="211" column="12" />
         <mark key="[" line="107" column="37" />
         <mark key="]" line="107" column="49" />
@@ -3701,13 +3707,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>contract_status</text>
       </register>
-      <register name="0" type="4">
-        <text>reference_site_information_on_session</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2Vzc2lvbi5kZWxldGUoOnRmZikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3719,13 +3725,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlX3ZhbGlkYXRpb24gOnNldF9hZGRfZW1wbm8K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3947,13 +3953,51 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXR0cl9hY2Nlc3NvciA6Y3VycmVudF91c2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVkIGRvCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZSwgc2VydmljZV9pZCA9IG5pbAoK</text>
+      <register name="9" type="4">
+        <text>def set_reference_site_information_on_session
+      session[:base_id] = params['b']   if params['b']
+      session[:readyfor] = params['r']   if params['r']
+      session[:campfire_id] = params['c']   if params['c']
+      session[:motion_gallery_id] = params['m']   if params['m']
+      session[:bizer] = params['bz']   if params['bz']
+      session[:faavo] = params['f']   if params['f']
+      session[:tff] = params['t']   if params['t']
+      session[:dmm_starter] = params['ds']   if params['ds']
+    end
+
+    def get_reference_site_information_on_session
+      service, service_id = nil
+      if session[:base_id]
+        service = 'base'
+        service_id = ValuePress::StringEscapeUtil.str_to_num(session[:base_id])
+      elsif session[:readyfor]
+        service = 'readyfor', service_id = 0
+      elsif session[:campfire_id]
+        service = 'campfire_id'
+        service_id = ValuePress::StringEscapeUtil.str_to_num(session[:campfire_id])
+      elsif session[:motion_gallery_id]
+        service = 'motion_gallery'
+        service_id = ValuePress::StringEscapeUtil.str_to_num(session[:motion_gallery_id])
+      elsif sessiony[:bizer]
+        service = 'bizer', service_id = 0
+      elsif session[:faavo]
+        service = 'faavo',service_id = 0
+      elsif session[:tff]
+        service = 'tff', service_id = 0
+      elsif session[:dmm_starter]
+        service = 'dmm_starter', service_id = 0
+      end
+      { associated_service: service, associated_service_id: service_id }
+    end
+
+    def delete_reference_site_information_on_session
+
+    end</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
