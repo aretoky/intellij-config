@@ -15,12 +15,12 @@
         <mark key="^" line="124" column="20" />
         <mark key="." line="124" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" timestamp="1483348485240">
-        <mark key="'" line="28" column="84" />
-        <mark key="[" line="135" column="48" />
-        <mark key="]" line="135" column="48" />
-        <mark key="^" line="135" column="48" />
-        <mark key="." line="135" column="48" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" timestamp="1483349891880">
+        <mark key="'" line="46" column="96" />
+        <mark key="[" line="243" column="28" />
+        <mark key="]" line="243" column="40" />
+        <mark key="^" line="243" column="40" />
+        <mark key="." line="243" column="40" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" timestamp="1481434439097">
         <mark key="[" line="70" column="7" />
@@ -906,8 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="20" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="62" column="15" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="70" column="15" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="74" column="18" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="79" column="22" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -1006,6 +1004,8 @@
       <jump line="19" column="8" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="27" column="19" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="28" column="84" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
+      <jump line="39" column="14" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
+      <jump line="46" column="96" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3661,7 +3661,7 @@
         <text>form</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCUgaWYgKGYub2JqZWN0LmxvZ29fbmFtZS5wcmVzZW50PykgJT4=</text>
+        <text>user_account_</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
