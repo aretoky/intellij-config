@@ -149,11 +149,6 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="24" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" timestamp="1483354753176">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" timestamp="1483178873315">
         <mark key="[" line="63" column="1" />
         <mark key="]" line="64" column="0" />
@@ -296,11 +291,11 @@
         <mark key="^" line="39" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/support_mass_production_site.rb" timestamp="1483260816663" />
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483371503297">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="10" />
-        <mark key="^" line="17" column="10" />
-        <mark key="." line="17" column="10" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483373252821">
+        <mark key="[" line="48" column="46" />
+        <mark key="]" line="48" column="50" />
+        <mark key="^" line="48" column="50" />
+        <mark key="." line="48" column="50" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/_confirmation.html.erb" timestamp="1483362005014">
         <mark key="[" line="148" column="82" />
@@ -503,11 +498,6 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sessions_controller_spec.rb" timestamp="1483354796873">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form.rb" timestamp="1482772561137">
         <mark key="'" line="15" column="0" />
       </file>
@@ -661,7 +651,7 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_creator.rb" timestamp="1483356370822">
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_creator.rb" timestamp="1483371607357">
         <mark key="'" line="76" column="3" />
         <mark key="[" line="108" column="83" />
         <mark key="]" line="108" column="83" />
@@ -722,11 +712,6 @@
         <mark key="^" line="6" column="187" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/confirmable.rb" timestamp="1483361365855">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="52" />
-        <mark key="." line="4" column="52" />
-      </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/visitor/join_set_view.php" timestamp="1483179365463" />
       <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_password_recovery_mail_creator.rb" timestamp="1482987326389" />
       <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_requests/new.html.slim" timestamp="1482231090382">
@@ -754,9 +739,9 @@
         <mark key="^" line="22" column="85" />
         <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/ad_traffic_cookie_manageable.rb" timestamp="1483370030871">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="29" column="5" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/ad_traffic_cookie_manageable.rb" timestamp="1483373083113">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="24" column="76" />
         <mark key="." line="29" column="5" />
         <mark key="^" line="29" column="5" />
       </file>
@@ -799,11 +784,11 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/registrations_controller.rb" timestamp="1483370911550">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="39" />
-        <mark key="^" line="33" column="39" />
-        <mark key="." line="33" column="39" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/registrations_controller.rb" timestamp="1483372736282">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1482984573805">
         <mark key="[" line="106" column="31" />
@@ -3734,31 +3719,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>params[:pl]</text>
       </register>
       <register name="/" type="4">
         <text>payment</text>
       </register>
       <register name="0" type="4">
-        <text>user_account_</text>
+        <text encoding="base64">cmV0dXJuIHVubGVzcyBjb29raWVzWzp0cmZdLm5pbD8gJiYgKHBhcmFtc1s6bWRdIHx8IHBhcmFtc1s6ZHZdIHx8IHBhcmFtc1s6a3ddIHx8IHBhcmFtc1s6cGxdKQoKICAgICAgbWVkaWEgPSBuaWwKICAgICAgaWYgcGFyYW1zWzptZF0ucHJlc2VudD8KICAgICAgICBtZWRpYSA9IGNhc2UgcGFyYW1zWzptZF0KICAgICAgICB3aGVuICdzJyB0aGVuICAnZ19wYXJ0bmVyJwogICAgICAgIHdoZW4gJ2QnIHRoZW4gJ2dfZGlzcGxheScKICAgICAgICB3aGVuICdnJyB0aGVuICdnX3BwYycKICAgICAgICBlbHNlIHBhcmFtc1s6bWRdCiAgICAgICAgZW5kCiAgICAgIGVuZAogICAgICB0cmFmZmljX3NlcmlhbGl6ZSA9IFBIUC5zZXJpYWxpemUoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWQnOiBtZWRpYSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2R2JzogcGFyYW1zWzpkdl0ucHJlc2VuY2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdrdyc6IHBhcmFtc1s6a3ddLnByZXNlbmNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncGwnOiBwYXJhbXNbOnBsXS5wcmVzZW5jZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgY29va2llc1s6dHJmXSA9IHsgdmFsdWU6IHRyYWZmaWNfc2VyaWFsaXplLCBleHBpcmVzOiAzMC5kYXlzLmZyb21fbm93IH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIG1lZGlhID0gbmlsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3979,14 +3964,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">UmVmZXJlbmNlU2l0ZVNlc3Npb25zTWFuYWdlYWJsZQogIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlX3ZhbGlkYXRpb24gOnNldF9hZGRfZW1wbm8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">UmVmZXJlbmNlU2l0ZVNlc3Npb25zTWFuYWdlYWJsZQogIA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
