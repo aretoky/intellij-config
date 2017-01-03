@@ -291,6 +291,11 @@
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/user_account_registration_mailer/create_email.text.erb" timestamp="1483428035213">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/reference_site_sessions_manageable.rb" timestamp="1483373765088">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -616,11 +621,10 @@
         <mark key="." line="63" column="41" />
         <mark key="^" line="63" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483426337125">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="34" />
-        <mark key="^" line="28" column="34" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483427895773">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/_confirmation.html.erb" timestamp="1483362005014">
         <mark key="[" line="148" column="82" />
@@ -976,7 +980,7 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/mailers/user_account_registration_mailer.rb" timestamp="1483383490001">
+      <file name="$USER_HOME$/projects/value_press/app/mailers/user_account_registration_mailer.rb" timestamp="1483428008602">
         <mark key="[" line="11" column="36" />
         <mark key="]" line="12" column="55" />
         <mark key="." line="12" column="55" />
@@ -3747,20 +3751,20 @@
       <register name="0" type="4">
         <text>user_account_registration</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">44GT44Gu44Gf44Gz44Gv44CBVmFsdWVQcmVzcyHjga7nhKHmlpnkvJrlk6HnmbvpjLLjgavjgYrnlLPjgZfovrzjgb/jgYTjgZ/jgaDjgY3jgIEK6Kqg44Gr44GC44KK44GM44Go44GG44GU44GW44GE44G+44GZ44CCCgrkvJrlk6HnmbvpjLLjga/jgb7jgaDlrozkuobjgZfjgabjgYrjgorjgb7jgZvjgpPjgIIK5Lul5LiL44GuVVJM44KS44Kv44Oq44OD44Kv44GX44CB44GK5a6i44GV44G+5oOF5aCx44Gu44GU55m76Yyy44KS44GK6aGY44GE44GX44G+44GZ44CCCgrilrznhKHmlpnkvJrlk6HnmbvpjLIg6KqN6Ki8VVJMCjwlPSBAcmVnaXN0cmF0aW9uX2VtYWlsLmFjdGl2YXRlX3VybCAlPgoK4oC75LiK6KiYVVJM44Gu5pyJ5Yq55pyf6ZmQ44Gv44CB5pys44Oh44O844Or6YCB5L+h44GL44KJMjTmmYLplpPku6XlhoXjgafjgZnjgIIKCgrjgZPjga7jg6Hjg7zjg6vjga/oh6rli5XpgIHkv6HjgafjgZnjgIIK44GU5LiN5piO54K544Gq44Gp44GU44GW44GE44G+44GX44Gf44KJ44CB44K144Od44O844OI44OH44K544Kv44G+44Gn44GK5ZWP44GE5ZCI44KP44Gb44GP44Gg44GV44GE44CCCgrilYvilIHjgJBWYWx1ZVByZXNzISDjgrXjg53jg7zjg4jjg4fjgrnjgq/jgJHilIHilIHilIHilIHilIHilYsKCuOAgFRlbO+8mjAzLTY4MDMtNTE3Me+8iOW5s+aXpTEw772eMTjmmYLvvIkK44CARS1NYWls77yac3VwcG9ydEB2YWx1ZXByZXNzLmNvLmpwCgrilYvilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilYsKCgrkvZXljZLjgojjgo3jgZfjgY/jgYrpoZjjgYTnlLPjgZfkuIrjgZLjgb7jgZnjgII=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhZnRlcl9zYXZlIDpzZW5kX21haWxzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3988,10 +3992,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOmNvb2tpZXMsIHByZXNlbmNlOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnNlc3Npb24sIHByZXNlbmNlOiB0cnVlCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
