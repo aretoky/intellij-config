@@ -373,7 +373,7 @@
         <mark key="." line="27" column="26" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/email/join/finished_tff.php" timestamp="1483433715147" />
-      <file name="/Ruby Console" timestamp="1483456684534">
+      <file name="/Ruby Console" timestamp="1483466924473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -553,6 +553,11 @@
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/email/join/finished_base.php" timestamp="1483433113070" />
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/email/join/finished_campfire.php" timestamp="1483433318353" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sessions_controller_spec.rb" timestamp="1483467049700">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1481352111602">
         <mark key="[" line="289" column="0" />
         <mark key="]" line="289" column="0" />
@@ -664,7 +669,8 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/password_recoveris_controller_spec.rb" timestamp="1483354781560">
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/password_recoveris_controller_spec.rb" timestamp="1483467041661">
+        <mark key="'" line="40" column="15" />
         <mark key="[" line="16" column="47" />
         <mark key="]" line="16" column="47" />
         <mark key="." line="16" column="47" />
@@ -780,11 +786,11 @@
         <mark key="^" line="10" column="114" />
         <mark key="." line="10" column="116" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_spec.rb" timestamp="1483288819608">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_spec.rb" timestamp="1483467170987">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="34" column="15" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/password_recoveries/new.html.erb" timestamp="1483068981298">
         <mark key="[" line="22" column="32" />
@@ -823,9 +829,9 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration_email.rb" timestamp="1483465449702">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="86" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration_email.rb" timestamp="1483466526563">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="53" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="11" column="0" />
       </file>
@@ -847,11 +853,11 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/registrations_controller.rb" timestamp="1483465540138">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="27" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/registrations_controller.rb" timestamp="1483466915495">
+        <mark key="[" line="27" column="77" />
+        <mark key="]" line="27" column="81" />
+        <mark key="." line="27" column="81" />
+        <mark key="^" line="27" column="81" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1482984573805">
         <mark key="[" line="106" column="31" />
@@ -1032,7 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="780" column="33" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="164" column="45" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="215" column="56" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="124" column="20" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
@@ -1132,6 +1137,7 @@
       <jump line="417" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Mailer.php" />
       <jump line="304" column="40" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
+      <jump line="40" column="15" filename="$USER_HOME$/projects/value_press/spec/controllers/users/password_recoveris_controller_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3781,19 +3787,21 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DateTime.current.strftime(&quot;%Y%m%d%H%M%S&quot;)</text>
+        <text>認</text>
       </register>
       <register name="/" type="4">
-        <text>tel</text>
+        <text>redi</text>
       </register>
       <register name="0" type="4">
-        <text>ValuePress::StringEscapeUtil::num_to_str(DateTime.current.strftime(&quot;%Y%m%d%H%M%S&quot;))</text>
+        <text>describe &quot;確認画面&quot; do
+      
+    end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3805,7 +3813,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCBwYXJhbXMK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4027,22 +4035,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpwYXNzd29yZCkgeyAiI3t1c2VyX2FjY291bnQucGFzc3dvcmRfY2hhbmdlfWFhYWEiIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZnRlcl9pbml0aWFsaXplIDpzZXRfYWRfdHJhZmZpY19jb29raWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>tel</last-search>
+      <last-search>redi</last-search>
       <last-offset />
-      <last-pattern>tel</last-pattern>
+      <last-pattern>redi</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4050,7 +4058,6 @@
     </search>
     <history>
       <history-search>
-        <entry>foundation_date</entry>
         <entry>contract_status</entry>
         <entry>trf</entry>
         <entry>cookie</entry>
@@ -4070,6 +4077,7 @@
         <entry>database</entry>
         <entry>telpho</entry>
         <entry>tel</entry>
+        <entry>redi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
