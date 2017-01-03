@@ -323,10 +323,10 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483463245133">
-        <mark key="[" line="37" column="73" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483464945096">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="36" column="22" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/_confirmation.html.erb" timestamp="1483362005014">
@@ -578,11 +578,11 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/models/user_account_registration_spec.rb" timestamp="1483455456875">
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="26" />
-        <mark key="^" line="33" column="26" />
+      <file name="$USER_HOME$/projects/value_press/spec/models/user_account_registration_spec.rb" timestamp="1483464066312">
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="34" column="48" />
+        <mark key="." line="34" column="48" />
+        <mark key="^" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/multiple_postals/edit.html.slim" timestamp="1482772043195">
         <mark key="[" line="30" column="15" />
@@ -634,7 +634,7 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/sessions_controller.rb" timestamp="1483246687999">
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/sessions_controller.rb" timestamp="1483464422179">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="61" />
         <mark key="^" line="2" column="35" />
@@ -823,9 +823,9 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration_email.rb" timestamp="1483463713774">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration_email.rb" timestamp="1483465449702">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="86" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="11" column="0" />
       </file>
@@ -847,11 +847,11 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/registrations_controller.rb" timestamp="1483381714765">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="3" column="47" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/registrations_controller.rb" timestamp="1483465540138">
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/forms/multiple_postals_updating_form_spec.rb" timestamp="1482984573805">
         <mark key="[" line="106" column="31" />
@@ -933,7 +933,7 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" timestamp="1483463240946">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" timestamp="1483464301452">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="323" column="23" />
         <mark key="]" line="323" column="178" />
@@ -3781,31 +3781,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>岩田裕貴</text>
+        <text>DateTime.current.strftime(&quot;%Y%m%d%H%M%S&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>tel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNpYmxlX25hbWUgIuWyqeeUsOijleiytCIK</text>
+      <register name="0" type="4">
+        <text>ValuePress::StringEscapeUtil::num_to_str(DateTime.current.strftime(&quot;%Y%m%d%H%M%S&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhZnRlcl9pbml0aWFsaXplIDpzZXRfYWRfdHJhZmZpY19jb29raWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhZnRlcl9pbml0aWFsaXplIDpzZXRfcmVmZXJlbmNlX3NpdGVfaW5mb3JtYXRpb25fb25fc2Vzc2lvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnppcF9jb2RlMSwgcHJlc2VuY2U6IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4027,13 +4027,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0KDpwYXNzd29yZCkgeyAiI3t1c2VyX2FjY291bnQucGFzc3dvcmRfY2hhbmdlfWFhYWEiIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZnRlcl9pbml0aWFsaXplIDpzZXRfYWRfdHJhZmZpY19jb29raWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
