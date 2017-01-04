@@ -415,12 +415,11 @@
         <mark key="." line="235" column="33" />
         <mark key="^" line="235" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/user_account/reference_site_sessions_manageable.rb" timestamp="1483506861795">
-        <mark key="'" line="31" column="26" />
-        <mark key="[" line="32" column="78" />
-        <mark key="]" line="33" column="22" />
-        <mark key="^" line="33" column="22" />
-        <mark key="." line="33" column="22" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/user_account/reference_site_sessions_manageable.rb" timestamp="1483507660966">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="32" />
+        <mark key="^" line="31" column="64" />
+        <mark key="." line="30" column="32" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/visit_input.rb" timestamp="1482816026318">
         <mark key="[" line="39" column="25" />
@@ -441,12 +440,12 @@
         <mark key="^" line="140" column="19" />
         <mark key="." line="140" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_creator.rb" timestamp="1483506018827">
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_creator.rb" timestamp="1483507708584">
         <mark key="'" line="76" column="3" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="117" column="36" />
+        <mark key="[" line="99" column="41" />
+        <mark key="]" line="99" column="46" />
+        <mark key="." line="99" column="46" />
+        <mark key="^" line="99" column="46" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/user_account_registration_mailer/base.text.erb" timestamp="1483432793771">
         <mark key="[" line="11" column="41" />
@@ -652,7 +651,8 @@
         <mark key="." line="63" column="41" />
         <mark key="^" line="63" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483506868974">
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" timestamp="1483507755809">
+        <mark key="'" line="83" column="31" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="35" column="22" />
@@ -761,7 +761,7 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="/Ruby Console" timestamp="1483506543259">
+      <file name="/Ruby Console" timestamp="1483507659561">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -1020,11 +1020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
-      <jump line="19" column="8" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
-      <jump line="27" column="19" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
-      <jump line="28" column="84" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
-      <jump line="39" column="14" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="46" column="96" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/new.html.erb" />
       <jump line="10" column="26" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="200" column="125" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
@@ -1120,6 +1115,11 @@
       <jump line="43" column="13" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
       <jump line="8" column="13" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
       <jump line="31" column="26" filename="$USER_HOME$/projects/value_press/app/models/concerns/user_account/reference_site_sessions_manageable.rb" />
+      <jump line="3" column="34" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
+      <jump line="15" column="13" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
+      <jump line="41" column="13" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
+      <jump line="79" column="18" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
+      <jump line="83" column="31" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3772,28 +3772,86 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICBhdHRyaWJ1dGUgOmNvb2tpZXMgIA==</text>
+        <text>service</text>
       </register>
-      <register name="0" type="4">
-        <text>request.remote_ip</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRfdmFsdWVfZm9yIDphc3NvY2lhdGVkX3NlcnZpY2UsICIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dGUgOmNvb2tpZXMKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc29jaWF0ZWRfc2VydmljZSAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>def set_associated_service
+        return if session.nil? || session[:associated_service].blank?
+
+        service, service_id = nil
+        {
+          b: &quot;base&quot;,
+          r: &quot;readyfor&quot;,
+          c: &quot;campfire&quot;,
+          m: &quot;motion_gallery&quot;,
+          bz: &quot;bizer&quot;,
+          f: &quot;faavo&quot;,
+          t: &quot;tff&quot;,
+          ds: &quot;dmm_starter&quot;
+        }.each do |k, v|
+          if params[k]
+            service = v
+            service_id = params[k]
+            break
+          end
+        end
+        self.associated_service = service
+        self.associated_service_id = service_id
+      end
+
+      def associated_service
+        r = session ? session[:associated_service] : self[:associated_service]
+        r.nil? ? &quot;&quot; : r
+      end
+
+      def associated_service=(val)
+        if session
+          session[:associated_service] = val
+        else
+          self[:associated_service] = val
+        end
+      end
+
+      def associated_service_id
+        if session
+          case session[:associated_service]
+          when 'base', 'campfire', 'motion_gallery'
+            ValuePress::StringEscapeUtil.str_to_num(session[:associated_service_id])
+          when 'faavo', 'bizer', 'readyfor', 'tff', 'dmm_starter'
+            0
+          else
+            nil
+          end
+        else
+          self[:associated_service_id]
+        end
+      end
+
+      def associated_service_id=(val)
+        if session
+          session[:associated_service_id] = val
+        else
+          self[:associated_service_id] = val
+        end
+      end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOmNvb2tpZXMKCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGRlZiBzZXRfYXNzb2NpYXRlZF9zZXJ2aWNlCiAgICAgIHJldHVybiBpZiBzZXNzaW9uLm5pbD8gfHwgc2Vzc2lvbls6YXNzb2NpYXRlZF9zZXJ2aWNlXS5ibGFuaz8KCiAgICAgIHNlcnZpY2UsIHNlcnZpY2VfaWQgPSBuaWwKICAgICAgewogICAgICAgIGI6ICJiYXNlIiwKICAgICAgICByOiAicmVhZHlmb3IiLAogICAgICAgIGM6ICJjYW1wZmlyZSIsCiAgICAgICAgbTogIm1vdGlvbl9nYWxsZXJ5IiwKICAgICAgICBiejogImJpemVyIiwKICAgICAgICBmOiAiZmFhdm8iLAogICAgICAgIHQ6ICJ0ZmYiLAogICAgICAgIGRzOiAiZG1tX3N0YXJ0ZXIiCiAgICAgIH0uZWFjaCBkbyB8aywgdnwKICAgICAgICBpZiBwYXJhbXNba10KICAgICAgICAgIHNlcnZpY2UgPSB2CiAgICAgICAgICBzZXJ2aWNlX2lkID0gcGFyYW1zW2tdCiAgICAgICAgICBicmVhawogICAgICAgIGVuZAogICAgICBlbmQKICAgICAgc2VsZi5hc3NvY2lhdGVkX3NlcnZpY2UgPSBzZXJ2aWNlCiAgICAgIHNlbGYuYXNzb2NpYXRlZF9zZXJ2aWNlX2lkID0gc2VydmljZV9pZAogICAgZW5kCgogICAgZGVmIGFzc29jaWF0ZWRfc2VydmljZQogICAgICBzZXNzaW9uID8gc2Vzc2lvbls6YXNzb2NpYXRlZF9zZXJ2aWNlXSA6IHNlbGZbOmFzc29jaWF0ZWRfc2VydmljZV0KICAgIGVuZAoKICAgIGRlZiBhc3NvY2lhdGVkX3NlcnZpY2U9KHZhbCkKICAgICAgaWYgc2Vzc2lvbgogICAgICAgIHNlc3Npb25bOmFzc29jaWF0ZWRfc2VydmljZV0gPSB2YWwKICAgICAgZWxzZQogICAgICAgIHNlbGZbOmFzc29jaWF0ZWRfc2VydmljZV0gPSB2YWwKICAgICAgZW5kCiAgICBlbmQKCiAgICBkZWYgYXNzb2NpYXRlZF9zZXJ2aWNlX2lkCiAgICAgIGlmIHNlc3Npb24KICAgICAgICBjYXNlIHNlc3Npb25bOmFzc29jaWF0ZWRfc2VydmljZV0KICAgICAgICB3aGVuICdiYXNlJywgJ2NhbXBmaXJlJywgJ21vdGlvbl9nYWxsZXJ5JwogICAgICAgICAgVmFsdWVQcmVzczo6U3RyaW5nRXNjYXBlVXRpbC5zdHJfdG9fbnVtKHNlc3Npb25bOmFzc29jaWF0ZWRfc2VydmljZV9pZF0pCiAgICAgICAgd2hlbiAnZmFhdm8nLCAnYml6ZXInLCAncmVhZHlmb3InLCAndGZmJywgJ2RtbV9zdGFydGVyJwogICAgICAgICAgMAogICAgICAgIGVsc2UKICAgICAgICAgIG5pbAogICAgICAgIGVuZAogICAgICBlbHNlCiAgICAgICAgc2VsZls6YXNzb2NpYXRlZF9zZXJ2aWNlX2lkXQogICAgICBlbmQKICAgIGVuZAoKICAgIGRlZiBhc3NvY2lhdGVkX3NlcnZpY2VfaWQ9KHZhbCkKICAgICAgaWYgc2Vzc2lvbgogICAgICAgIHNlc3Npb25bOmFzc29jaWF0ZWRfc2VydmljZV9pZF0gPSB2YWwKICAgICAgZWxzZQogICAgICAgIHNlbGZbOmFzc29jaWF0ZWRfc2VydmljZV9pZF0gPSB2YWwKICAgICAgZW5kCiAgICBlbmQ=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzc29jaWF0ZWRfc2VydmljZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgci5uaWw/ID8gIiIgOiByCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4017,20 +4075,20 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGRlZiBzZXRfYXNzb2NpYXRlZF9zZXJ2aWNlCiAgICAgIHJldHVybiBpZiBzZXNzaW9uLm5pbD8gfHwgc2Vzc2lvbls6YXNzb2NpYXRlZF9zZXJ2aWNlXS5ibGFuaz8KCiAgICAgIHNlcnZpY2UsIHNlcnZpY2VfaWQgPSBuaWwKICAgICAgewogICAgICAgIGI6ICJiYXNlIiwKICAgICAgICByOiAicmVhZHlmb3IiLAogICAgICAgIGM6ICJjYW1wZmlyZSIsCiAgICAgICAgbTogIm1vdGlvbl9nYWxsZXJ5IiwKICAgICAgICBiejogImJpemVyIiwKICAgICAgICBmOiAiZmFhdm8iLAogICAgICAgIHQ6ICJ0ZmYiLAogICAgICAgIGRzOiAiZG1tX3N0YXJ0ZXIiCiAgICAgIH0uZWFjaCBkbyB8aywgdnwKICAgICAgICBpZiBwYXJhbXNba10KICAgICAgICAgIHNlcnZpY2UgPSB2CiAgICAgICAgICBzZXJ2aWNlX2lkID0gcGFyYW1zW2tdCiAgICAgICAgICBicmVhawogICAgICAgIGVuZAogICAgICBlbmQKICAgICAgc2VsZi5hc3NvY2lhdGVkX3NlcnZpY2UgPSBzZXJ2aWNlCiAgICAgIHNlbGYuYXNzb2NpYXRlZF9zZXJ2aWNlX2lkID0gc2VydmljZV9pZAogICAgZW5kCgogICAgZGVmIGFzc29jaWF0ZWRfc2VydmljZQogICAgICBzZXNzaW9uID8gc2Vzc2lvbls6YXNzb2NpYXRlZF9zZXJ2aWNlXSA6IHNlbGZbOmFzc29jaWF0ZWRfc2VydmljZV0KICAgIGVuZAoKICAgIGRlZiBhc3NvY2lhdGVkX3NlcnZpY2U9KHZhbCkKICAgICAgaWYgc2Vzc2lvbgogICAgICAgIHNlc3Npb25bOmFzc29jaWF0ZWRfc2VydmljZV0gPSB2YWwKICAgICAgZWxzZQogICAgICAgIHNlbGZbOmFzc29jaWF0ZWRfc2VydmljZV0gPSB2YWwKICAgICAgZW5kCiAgICBlbmQKCiAgICBkZWYgYXNzb2NpYXRlZF9zZXJ2aWNlX2lkCiAgICAgIGlmIHNlc3Npb24KICAgICAgICBjYXNlIHNlc3Npb25bOmFzc29jaWF0ZWRfc2VydmljZV0KICAgICAgICB3aGVuICdiYXNlJywgJ2NhbXBmaXJlJywgJ21vdGlvbl9nYWxsZXJ5JwogICAgICAgICAgVmFsdWVQcmVzczo6U3RyaW5nRXNjYXBlVXRpbC5zdHJfdG9fbnVtKHNlc3Npb25bOmFzc29jaWF0ZWRfc2VydmljZV9pZF0pCiAgICAgICAgd2hlbiAnZmFhdm8nLCAnYml6ZXInLCAncmVhZHlmb3InLCAndGZmJywgJ2RtbV9zdGFydGVyJwogICAgICAgICAgMAogICAgICAgIGVsc2UKICAgICAgICAgIG5pbAogICAgICAgIGVuZAogICAgICBlbHNlCiAgICAgICAgc2VsZls6YXNzb2NpYXRlZF9zZXJ2aWNlX2lkXQogICAgICBlbmQKICAgIGVuZAoKICAgIGRlZiBhc3NvY2lhdGVkX3NlcnZpY2VfaWQ9KHZhbCkKICAgICAgaWYgc2Vzc2lvbgogICAgICAgIHNlc3Npb25bOmFzc29jaWF0ZWRfc2VydmljZV9pZF0gPSB2YWwKICAgICAgZWxzZQogICAgICAgIHNlbGZbOmFzc29jaWF0ZWRfc2VydmljZV9pZF0gPSB2YWwKICAgICAgZW5kCiAgICBlbmQ=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dGUgOnJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgci5uaWw/ID8gIiIgOiByCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ICBhdHRyaWJ1dGUgOmNvb2tpZXMgIA==</last-search>
+      <last-search>service</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICBhdHRyaWJ1dGUgOmNvb2tpZXMgIA==</last-pattern>
+      <last-pattern>service</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4038,7 +4096,6 @@
     </search>
     <history>
       <history-search>
-        <entry>campfire</entry>
         <entry>media</entry>
         <entry>device</entry>
         <entry>base</entry>
@@ -4058,6 +4115,7 @@
         <entry>request</entry>
         <entry>remote_ip</entry>
         <entry encoding="base64">ICBhdHRyaWJ1dGUgOmNvb2tpZXMgIA==</entry>
+        <entry>service</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
