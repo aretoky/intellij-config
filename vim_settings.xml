@@ -105,6 +105,7 @@
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form.rb" timestamp="1483541596137" />
       <file name="$USER_HOME$/projects/value_press/app/helpers/partners/sessions_helper.rb" timestamp="1482307275864">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -340,8 +341,8 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" timestamp="1483536074793">
-        <mark key="'" line="144" column="18" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" timestamp="1483541208004">
+        <mark key="'" line="442" column="34" />
         <mark key="[" line="179" column="43" />
         <mark key="]" line="179" column="51" />
         <mark key="^" line="179" column="51" />
@@ -991,7 +992,7 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="36" />
       </file>
-      <file name="/a.regexp" timestamp="1483532619136">
+      <file name="/a.regexp" timestamp="1483541528278">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -1027,6 +1028,7 @@
         <mark key="^" line="143" column="31" />
         <mark key="." line="143" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/config/initializers/monkey_patches/action_view.rb" timestamp="1483542132694" />
       <file name="$USER_HOME$/projects/pos-calc/app/validators/or_presence_validator.rb" timestamp="1482745321678">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="6" column="7" />
@@ -1083,12 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="25" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="332" column="48" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="526" column="43" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="527" column="74" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="528" column="44" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="174" column="50" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="226" column="105" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="7" column="15" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
       <jump line="259" column="24" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
@@ -1183,6 +1179,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/config/locales/default/ja.yml" />
       <jump line="144" column="18" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
+      <jump line="280" column="62" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
+      <jump line="296" column="56" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
+      <jump line="444" column="31" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
+      <jump line="274" column="91" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
+      <jump line="311" column="24" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
+      <jump line="442" column="34" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3835,7 +3837,7 @@
         <text>を</text>
       </register>
       <register name="/" type="4">
-        <text>genre_id</text>
+        <text>icon_</text>
       </register>
       <register name="0" type="4">
         <text>if account_role != :visitor</text>
@@ -4091,9 +4093,9 @@
       </register>
     </registers>
     <search>
-      <last-search>genre_id</last-search>
+      <last-search>icon_</last-search>
       <last-offset />
-      <last-pattern>genre_id</last-pattern>
+      <last-pattern>icon_</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4101,10 +4103,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry>remote_ip</entry>
-        <entry encoding="base64">ICBhdHRyaWJ1dGUgOmNvb2tpZXMgIA==</entry>
-        <entry>service</entry>
         <entry>explain</entry>
         <entry>user_account_params</entry>
         <entry>f.error</entry>
@@ -4121,6 +4119,10 @@
         <entry>full_</entry>
         <entry>error</entry>
         <entry>genre_id</entry>
+        <entry>submit</entry>
+        <entry>input_application</entry>
+        <entry>click</entry>
+        <entry>icon_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
