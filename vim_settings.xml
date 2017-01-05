@@ -284,6 +284,9 @@
         <mark key="." line="148" column="40" />
         <mark key="^" line="148" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1483617700050">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/README.md" timestamp="1482303630693">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="80" column="26" />
@@ -1118,8 +1121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="14" filename="$USER_HOME$/projects/value_press/app/views/user_account_registration_mailer/create_email.text.erb" />
-      <jump line="182" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="69" column="11" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="153" column="29" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -1218,6 +1219,8 @@
       <jump line="0" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="24" column="14" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
       <jump line="203" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
+      <jump line="169" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3870,7 +3873,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>update_single_store_sales_ranking</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">MjQwMjk0CjI2MDI3My0yNjA3MzAKMjYxOTE0LTI2MjAwMQoyNjIxNTMtMjYyMTY1IAoyNjI2NDEtMjYyNjg5CjI2MjgxMi0yNjI4MTUKMjYzMzEyLTI2MzM1NAoyNjQxMDMtMjY0MjEzCjI2NDQ0OS0yNjQ2NzEgCjI2NjQ2Ny0yNjY1MzMgCjI2ODAzMS0yNjgwMzkgCjI2ODA2Ni0yNjgwNzAgCjI2ODI2OC0yNjg0MTkgCjI2OTM2Mi0yNjkzNjQgCg==</text>
@@ -4126,9 +4129,9 @@
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search>update_single_store_sales_ranking</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern>update_single_store_sales_ranking</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4136,7 +4139,6 @@
     </search>
     <history>
       <history-search>
-        <entry>infor</entry>
         <entry>inform</entry>
         <entry>payment</entry>
         <entry>controler</entry>
@@ -4156,6 +4158,7 @@
         <entry>delete</entry>
         <entry>取次書店コード</entry>
         <entry>*</entry>
+        <entry>update_single_store_sales_ranking</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
