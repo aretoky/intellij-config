@@ -503,6 +503,12 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" timestamp="1483616164954">
+        <mark key="'" line="203" column="8" />
+        <mark key="[" line="90" column="27" />
+        <mark key="]" line="90" column="27" />
+        <mark key="." line="90" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/partners/sessions_controller_spec.rb" timestamp="1483354771759">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="34" />
@@ -1112,8 +1118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="7" filename="$USER_HOME$/projects/value_press/Gemfile" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="0" column="14" filename="$USER_HOME$/projects/value_press/app/views/user_account_registration_mailer/create_email.text.erb" />
       <jump line="182" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -1212,6 +1216,8 @@
       <jump line="397" column="27" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="416" column="24" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
       <jump line="0" column="18" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="24" column="14" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
+      <jump line="203" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_editform.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3861,10 +3867,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-271362</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>*</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">MjQwMjk0CjI2MDI3My0yNjA3MzAKMjYxOTE0LTI2MjAwMQoyNjIxNTMtMjYyMTY1IAoyNjI2NDEtMjYyNjg5CjI2MjgxMi0yNjI4MTUKMjYzMzEyLTI2MzM1NAoyNjQxMDMtMjY0MjEzCjI2NDQ0OS0yNjQ2NzEgCjI2NjQ2Ny0yNjY1MzMgCjI2ODAzMS0yNjgwMzkgCjI2ODA2Ni0yNjgwNzAgCjI2ODI2OC0yNjg0MTkgCjI2OTM2Mi0yNjkzNjQgCg==</text>
@@ -4120,9 +4126,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>*</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>*</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4130,8 +4136,6 @@
     </search>
     <history>
       <history-search>
-        <entry>span</entry>
-        <entry>cookie</entry>
         <entry>infor</entry>
         <entry>inform</entry>
         <entry>payment</entry>
@@ -4150,6 +4154,8 @@
         <entry>password</entry>
         <entry>ass</entry>
         <entry>delete</entry>
+        <entry>取次書店コード</entry>
+        <entry>*</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
