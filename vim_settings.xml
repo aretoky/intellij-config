@@ -42,7 +42,8 @@
         <mark key="^" line="70" column="6" />
         <mark key="." line="70" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/Gemfile" timestamp="1482750135792">
+      <file name="$USER_HOME$/projects/pos-calc/Gemfile" timestamp="1483590708484">
+        <mark key="'" line="80" column="12" />
         <mark key="[" line="82" column="12" />
         <mark key="]" line="83" column="20" />
         <mark key="^" line="83" column="20" />
@@ -101,7 +102,6 @@
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form.rb" timestamp="1483541596137" />
       <file name="$USER_HOME$/projects/value_press/app/helpers/partners/sessions_helper.rb" timestamp="1482307275864">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -271,7 +271,6 @@
         <mark key="." line="148" column="40" />
         <mark key="^" line="148" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/layouts/application.html.slim" timestamp="1483533679093" />
       <file name="$USER_HOME$/projects/value_press/README.md" timestamp="1482303630693">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="80" column="26" />
@@ -696,6 +695,9 @@
         <mark key="^" line="124" column="36" />
         <mark key="." line="124" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" timestamp="1483590764494">
+        <mark key="'" line="416" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/_confirmation.html.erb" timestamp="1483362005014">
         <mark key="[" line="148" column="82" />
         <mark key="]" line="148" column="83" />
@@ -1005,7 +1007,7 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="36" />
       </file>
-      <file name="/a.regexp" timestamp="1483544861172">
+      <file name="/a.regexp" timestamp="1483591036221">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -1041,7 +1043,6 @@
         <mark key="^" line="143" column="31" />
         <mark key="." line="143" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/initializers/monkey_patches/action_view.rb" timestamp="1483542132694" />
       <file name="$USER_HOME$/projects/pos-calc/app/validators/or_presence_validator.rb" timestamp="1482745321678">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="6" column="7" />
@@ -1098,12 +1099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="60" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="128" column="39" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="140" column="58" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="166" column="92" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="199" column="128" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
-      <jump line="229" column="63" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="236" column="95" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="107" column="7" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -1198,6 +1193,12 @@
       <jump line="191" column="29" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
       <jump line="193" column="27" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
       <jump line="13" column="27" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
+      <jump line="80" column="12" filename="$USER_HOME$/projects/pos-calc/Gemfile" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="292" column="25" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="322" column="37" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="397" column="27" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
+      <jump line="416" column="24" filename="$USER_HOME$/projects/pos-calc/config/Schemafile.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3850,7 +3851,7 @@
         <text>電話番号</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>ass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0ZWxlcGhvbmU6IOmbu+ipseeVquWPtwo=</text>
@@ -4106,9 +4107,9 @@
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search>ass</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>ass</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4116,7 +4117,6 @@
     </search>
     <history>
       <history-search>
-        <entry>f.error</entry>
         <entry>small</entry>
         <entry>span</entry>
         <entry>cookie</entry>
@@ -4136,6 +4136,7 @@
         <entry>error</entry>
         <entry>logo_name</entry>
         <entry>password</entry>
+        <entry>ass</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
