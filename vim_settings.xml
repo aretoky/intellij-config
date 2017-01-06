@@ -427,12 +427,6 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/settings/development.yml" timestamp="1483638344026">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/password_recover_mails/new.html.erb" timestamp="1482890296786">
         <mark key="[" line="54" column="5" />
         <mark key="]" line="54" column="15" />
@@ -965,12 +959,12 @@
         <mark key="^" line="79" column="13" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1483455968012">
-        <mark key="'" line="153" column="29" />
-        <mark key="[" line="206" column="21" />
-        <mark key="]" line="207" column="49" />
-        <mark key="." line="207" column="49" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1483666575404">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
         <mark key="^" line="207" column="49" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/password_recovery_mails/new.html.erb" timestamp="1483067382337">
         <mark key="'" line="22" column="60" />
@@ -1143,7 +1137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
       <jump line="40" column="15" filename="$USER_HOME$/projects/value_press/spec/controllers/users/password_recoveris_controller_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/controllers/admin/user_accounts_controller.rb" />
       <jump line="256" column="16" filename="$USER_HOME$/projects/value_press/app/controllers/admin/user_accounts_controller.rb" />
@@ -1243,6 +1236,7 @@
       <jump line="129" column="0" filename="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/value_press/config/environments/staging.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3901,22 +3895,22 @@
         <text>#{ENV['HEROKU_APP_NAME']}.herokuapp.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhOiAiI3tFTlZbJ0RFTElWRVJZX01FVEhPRCddfSIK</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnBhc3N3b3JkX2NoYW5nZSwgbGVuZ3RoOiB7IGluOiA0Li4yMDAgfSwgYWxwaGFfbnVtZXJpYzogdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPD89aCgkdXNlcl9hY2NvdW50WydhZGRyZXNzJ10pOz8+Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08aW5wdXQgbmFtZT0idXNlcl9hY2NvdW50W3Jlc3BvbnNpYmxlX25hbWVdIiBpZD0icmVzcG9uc2libGVuYW1lIiBzaXplPSIzMCIgY2xhc3M9InZhbGlkYXRlW3JlcXVpcmVkLG1pblNpemVbM10sbWF4U2l6ZVsyMDBdXSIgdHlwZT0idGV4dCIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W3Jlc3BvbnNpYmxlX25hbWVdJywgJHVzZXJfYWNjb3VudFsncmVzcG9uc2libGVfbmFtZSddKTsgPz4iIC8+LS0+Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBVc2VyQWNjb3VudCNwYXNzd29yZF9jaGFuZ2Xjga9QSFDniYjjgafjga/lhajjgY/liKnnlKjjgZXjgozjgabjgYTjgIIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MjcxMzYyIAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JT0gICU+Cg==</text>
+        <text encoding="base64">ICBhOiAiI3tFTlZbJ0RFTElWRVJZX01FVEhPRCddfSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCU9IGYuZXJyb3IoOnNlcnZpY2VfaW5mb3JtYXRpb25fZmxnKSA/IGYuZXJyb3JfbWVzc2FnZVs6c2VydmljZV9pbmZvcm1hdGlvbl9mbGddLmZpcnN0IDogIiIgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPD89aCgkdXNlcl9hY2NvdW50WydhZGRyZXNzJ10pOz8+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4138,13 +4132,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCU9IGYuZXJyb3IoOm1haWxfbWFnYXppbmVfZmxnKSA/IGYuZXJyb3JfbWVzc2FnZVs6bWFpbF9tYWdhemluZV9mbGddLmZpcnN0IDogIiIgJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08aW5wdXQgbmFtZT0idXNlcl9hY2NvdW50W3Jlc3BvbnNpYmxlX25hbWVdIiBpZD0icmVzcG9uc2libGVuYW1lIiBzaXplPSIzMCIgY2xhc3M9InZhbGlkYXRlW3JlcXVpcmVkLG1pblNpemVbM10sbWF4U2l6ZVsyMDBdXSIgdHlwZT0idGV4dCIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W3Jlc3BvbnNpYmxlX25hbWVdJywgJHVzZXJfYWNjb3VudFsncmVzcG9uc2libGVfbmFtZSddKTsgPz4iIC8+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCU9IGYuZXJyb3IoOmV2ZW50X2luZm9ybWF0aW9uX2ZsZykgPyBmLmVycm9yX21lc3NhZ2VbOmV2ZW50X2luZm9ybWF0aW9uX2ZsZ10uZmlyc3QgOiAiIiAlPgo=</text>
+        <text encoding="base64">MjcxMzYyIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPCU9IGYuZXJyb3IoOmxvZ29fbmFtZSkgPyBmLmVycm9yX21lc3NhZ2VbOmxvZ29fbmFtZV0uZmlyc3QgOiAiIiAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JT0gICU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
