@@ -103,11 +103,6 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sessions_controller_spec.rb" timestamp="1483467049700">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/helpers/partners/sessions_helper.rb" timestamp="1482307275864">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -254,12 +249,12 @@
         <mark key="^" line="67" column="47" />
         <mark key="." line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1483533611984">
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1483682554380">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-        <mark key="^" line="25" column="0" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/column3.css.scss" timestamp="1483179979992">
         <mark key="'" line="771" column="4" />
@@ -311,11 +306,6 @@
         <mark key="]" line="30" column="6" />
         <mark key="." line="30" column="6" />
         <mark key="^" line="4" column="51" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/assets/javascripts/application.js" timestamp="1483532774862">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/password_recover_mail.rb" timestamp="1482984909087">
         <mark key="'" line="10" column="17" />
@@ -908,11 +898,6 @@
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/password_recovery_mail.rb" timestamp="1483542878124">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-      </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/payment_credit.php" timestamp="1481260766618">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="13" />
@@ -1137,7 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="15" filename="$USER_HOME$/projects/value_press/spec/controllers/users/password_recoveris_controller_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/controllers/admin/user_accounts_controller.rb" />
       <jump line="256" column="16" filename="$USER_HOME$/projects/value_press/app/controllers/admin/user_accounts_controller.rb" />
       <jump line="11" column="12" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/join.php" />
@@ -1199,7 +1183,6 @@
       <jump line="40" column="63" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="41" column="21" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="36" column="9" filename="$USER_HOME$/projects/value_press/app/views/application/_header_my_page_navigation.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/config/locales/default/ja.yml" />
       <jump line="144" column="18" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
       <jump line="296" column="56" filename="$USER_HOME$/projects/value_press/app/views/users/registrations/_new.html.erb" />
@@ -1237,6 +1220,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/lib/value_press/string_escape_util.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/value_press/config/environments/staging.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="24" column="17" filename="$USER_HOME$/projects/value_press/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3889,7 +3874,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>Setting</text>
+        <text>cancan</text>
       </register>
       <register name="0" type="4">
         <text>#{ENV['HEROKU_APP_NAME']}.herokuapp.com</text>
@@ -4145,9 +4130,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Setting</last-search>
+      <last-search>cancan</last-search>
       <last-offset />
-      <last-pattern>Setting</last-pattern>
+      <last-pattern>cancan</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4155,7 +4140,6 @@
     </search>
     <history>
       <history-search>
-        <entry>controler</entry>
         <entry>profile</entry>
         <entry>user</entry>
         <entry>jquery</entry>
@@ -4175,6 +4159,7 @@
         <entry>update_single_store_sales_ranking</entry>
         <entry encoding="base64">PD8=</entry>
         <entry>Setting</entry>
+        <entry>cancan</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
