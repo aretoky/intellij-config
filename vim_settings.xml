@@ -138,7 +138,7 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1483811742891" />
+      <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1484032586739" />
       <file name="$USER_HOME$/projects/value_press/config/environments/production.rb" timestamp="1482982800307">
         <mark key="[" line="87" column="11" />
         <mark key="]" line="87" column="29" />
@@ -357,6 +357,12 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/ymds_spec.rb" timestamp="1484032822688">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
+        <mark key="^" line="22" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registration_emails_spec.rb" timestamp="1483288860050">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="32" />
@@ -438,7 +444,7 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1484017461054">
+      <file name="/a.regexp" timestamp="1484032826803">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -505,6 +511,12 @@
         <mark key="." line="44" column="4" />
         <mark key="^" line="44" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/db/fixtures/010_ymd.rb" timestamp="1484033329789">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/mailers/user_account_registration_mailer.rb" timestamp="1483438361713">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="26" />
@@ -549,6 +561,11 @@
         <mark key="]" line="19" column="13" />
         <mark key="." line="19" column="13" />
         <mark key="^" line="17" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/roomymds_spec.rb" timestamp="1484032704507">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/password_recover_mailer/create_email.text.erb" timestamp="1482982901041">
         <mark key="[" line="7" column="40" />
@@ -863,6 +880,11 @@
         <mark key="]" line="23" column="53" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/placeymds_spec.rb" timestamp="1484032801895">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/rails_helper.rb" timestamp="1482984496772">
         <mark key="[" line="63" column="26" />
@@ -3835,7 +3857,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>2016</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JT4=</text>
@@ -4091,9 +4113,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>2016</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>2016</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4101,7 +4123,6 @@
     </search>
     <history>
       <history-search>
-        <entry>*</entry>
         <entry>update_single_store_sales_ranking</entry>
         <entry encoding="base64">PD8=</entry>
         <entry>Setting</entry>
@@ -4121,6 +4142,7 @@
         <entry>my_agent</entry>
         <entry>myag</entry>
         <entry>login</entry>
+        <entry>2016</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
