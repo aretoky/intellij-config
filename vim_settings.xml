@@ -1032,11 +1032,12 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/routes/rss.rb" timestamp="1484129341864">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="29" column="4" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/projects/value_press/config/routes/rss.rb" timestamp="1484134227932">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/tel_mplans_to_transfer_tels_change_requests/new.html.slim" timestamp="1482231090382">
         <mark key="[" line="3" column="80" />
@@ -1353,8 +1354,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" timestamp="1484127146508">
-        <mark key="'" line="338" column="18" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" timestamp="1484133664271">
+        <mark key="'" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/lib/tasks/sync_sf.rake" timestamp="1481528803760">
         <mark key="[" line="5" column="5" />
@@ -1370,10 +1371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
-      <jump line="1025" column="16" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
-      <jump line="24" column="16" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
-      <jump line="51" column="16" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
       <jump line="59" column="16" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
       <jump line="73" column="16" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
       <jump line="84" column="16" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
@@ -1470,6 +1467,10 @@
       <jump line="288" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
       <jump line="289" column="72" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
       <jump line="338" column="18" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
+      <jump line="23" column="45" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
+      <jump line="22" column="9" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
+      <jump line="24" column="96" filename="$USER_HOME$/projects/value_press/config/routes/rss.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/config/routes/rss.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4119,31 +4120,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>movie</text>
+        <text>rss_goo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JXcoCiAgICAgIGN1cmF0ZWRfbWVkaWEgbWFya2V6aW5lIGVudGVycHJpc2V6aW5lIG1hcGlvbiBjbmV0IGJsYXN0X2hkIHNvdW11bm9tb3JpIGtldGNoYXBwIHN0YXJ0dXAgamFwYW5pbnRlcm5ldGNvbSBlbnRhYmUgcHJfdG9kYXkgcHJfdG9kYXlfcmFua2luZyB2ZnIgbWF5c2VlIG1vYmlsZW5hdmkgdmFsdWVwcmVzcyBzaGlyb3lhZ2kgdHJhbmRzb2tlbiBkbW0gY3dzYnJhaW5zIG1henJpY2EKICAgICkuZWFjaCBkbyB8bWVkaWF8CiAgICBnZXQgIiN7bWVkaWF9X2luZGV4IiA9PiAiYWxsYW5jZV9tZWRpYV9mZWVkcyMje21lZGlhfSIKICBlbmQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdldCAiaW5kZXgiID0+ICJhbGxhbmNlX21lZGlhX2ZlZWRzI3ByZXNzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldCBtZWRpYSA9PiAiYWxsYW5jZV9tZWRpYV9mZWVkcyNiYXNpYzAzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAldyggcmVsZWFzZV9zY29yZSApLmVhY2ggZG8gfG1lZGlhfAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXQgInJzc19zbnNfdGVzdC5waHAiID0+ICJhbGxhbmNlX21lZGlhX2ZlZWRzI2dvb21vYmlsZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2V0ICJnb29nbGVfbmV3c19pbmRleCIgPT4gImFsbGFuY2VfbWVkaWFfZmVlZHMjZ29vZ2xlX25ld3NfaW5kZXgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2V0ICJnb29nbGVfaW5kZXgiID0+ICJhbGxhbmNlX21lZGlhX2ZlZWRzI2dvb2dsZV9pbmRleCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4365,10 +4366,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2V0ICJnb29nbGVfc2l0ZW1hcCIgPT4gImFsbGFuY2VfbWVkaWFfZmVlZHMjZ29vZ2xlX3NpdGVtYXAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -4378,9 +4379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>movie</last-search>
+      <last-search>rss_goo</last-search>
       <last-offset />
-      <last-pattern>movie</last-pattern>
+      <last-pattern>rss_goo</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4388,8 +4389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cancel</entry>
-        <entry>address</entry>
         <entry>auto</entry>
         <entry>layout</entry>
         <entry>basic</entry>
@@ -4408,6 +4407,8 @@
         <entry>rss</entry>
         <entry>keyword</entry>
         <entry>movie</entry>
+        <entry>mail_magazine</entry>
+        <entry>rss_goo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
