@@ -967,11 +967,10 @@
         <mark key="^" line="120" column="5" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/static_information_pages/first.html.erb" timestamp="1484288014193" />
-      <file name="$USER_HOME$/projects/value_press/app/controllers/s/static_pages_controller.rb" timestamp="1484300212878">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="17" column="4" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/s/static_pages_controller.rb" timestamp="1484300872481">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/client/multiple_postals/edit.html.slim" timestamp="1484100487682">
         <mark key="[" line="30" column="15" />
@@ -1266,6 +1265,11 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/decorators/concerns/article_decorator/link_countable_decorator.rb" timestamp="1484242611713">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/admin_memo.rb" timestamp="1484273237175">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
@@ -1479,12 +1483,12 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1484298038253">
+      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1484301047417">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="59" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="20" column="50" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/action_log/attribute_creator.rb" timestamp="1482680219979">
         <mark key="[" line="25" column="19" />
@@ -4441,22 +4445,22 @@
         <text encoding="base64">ICByZXNvdXJjZXMgOmFydGljbGVzLCBvbmx5OiAldyhzaG93KSwgcGF0aDogJ3ByZXNzcmVsZWFzZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkZWYgaW5mb3JtYXRpb25fZmlyc3QKICAgICMg44Gv44GY44KB44Gm44Gu5pa544G4CiAgZW5kCgogIGRlZiBwcmljZWxpc3QKICAgICMg5paZ6YeR44Oa44O844K4CiAgZW5kCgogIGRlZiBtZWRpYWxpc3QKICAgICMg6YWN5L+h5YWI44Oh44OH44Kj44Ki5LiA6KanCiAgZW5kCgogIGRlZiBzaXRlbWFwCiAgICAjIOOCteOCpOODiOODnuODg+ODlwogIGVuZAoKICBkZWYgcl90b3AKICBlbmQKCiAgZGVmIHJfYWJvdXQKICBlbmQKCiAgZGVmIGV2ZW50bGlzdAogIGVuZAoKICBkZWYgcHJpY2VsaXN0CiAgZW5kCgogIGRlZiBvZW1wYXJ0bmVy</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOmFydGljbGVzLCBvbmx5OiAldyhpbmRleCBzaG93KQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBkZWYgaW5mb3JtYXRpb25fZmlyc3QKICAgICMg44Gv44GY44KB44Gm44Gu5pa544G4CiAgZW5kCgogIGRlZiBwcmljZWxpc3QKICAgICMg5paZ6YeR44Oa44O844K4CiAgZW5kCgogIGRlZiBtZWRpYWxpc3QKICAgICMg6YWN5L+h5YWI44Oh44OH44Kj44Ki5LiA6KanCiAgZW5kCgogIGRlZiBzaXRlbWFwCiAgICAjIOOCteOCpOODiOODnuODg+ODlwogIGVuZAoKICBkZWYgcl90b3AKICBlbmQKCiAgZGVmIHJfYWJvdXQKICBlbmQKCiAgZGVmIGV2ZW50bGlzdAogIGVuZAoKICBkZWYgcHJpY2VsaXN0CiAgZW5kCgogIGRlZiBvZW1wYXJ0bmVy</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4678,13 +4682,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAsIHBhdGg6ICdwcmVzc3JlbGVhc2UnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNraXBfYmVmb3JlX2FjdGlvbiA6c2lnbmVkX2luX3VzZXIK</text>
+        <text encoding="base64">ICByZXNvdXJjZXMgOmFydGljbGVzLCBvbmx5OiAldyhpbmRleCBzaG93KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAsIHBhdGg6ICdwcmVzc3JlbGVhc2UnCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
