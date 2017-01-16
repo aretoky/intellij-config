@@ -135,7 +135,7 @@
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/setting_view.php" timestamp="1484367764096" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/setting_view.php" timestamp="1484373651543" />
       <file name="$USER_HOME$/projects/value_press/app/controllers/api/persons_controller.rb" timestamp="1482986457104">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="6" />
@@ -515,6 +515,11 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater_with_user.rb" timestamp="1484373922060">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/cplus_url_helper.rb" timestamp="1481356100575">
         <mark key="[" line="20" column="16" />
@@ -1638,7 +1643,8 @@
         <mark key="^" line="5" column="116" />
         <mark key="." line="5" column="116" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater.rb" timestamp="1483496630618">
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater.rb" timestamp="1484373626101">
+        <mark key="'" line="96" column="15" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
         <mark key="^" line="123" column="18" />
@@ -1809,8 +1815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/doc/user_map.md" />
-      <jump line="64" column="19" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="13" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_model.php" />
       <jump line="330" column="17" filename="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_model.php" />
       <jump line="66" column="12" filename="$USER_HOME$/projects/value_press/app/views/users/application/_left_sidebar.html.erb" />
@@ -1909,6 +1913,8 @@
       <jump line="27" column="14" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="101" column="13" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="6" column="6" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
+      <jump line="95" column="34" filename="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater.rb" />
+      <jump line="96" column="15" filename="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4561,28 +4567,28 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>before_money</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDwlPSBjb250ZW50X2Zvcj8oOmNvbnRlbnQpID8geWllbGQoOmNvbnRlbnQpIDogeWllbGQgJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9mb3JtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxmb3JtIGFjdGlvbj0iIiBtZXRob2Q9InBvc3QiIGFjY2VwdC1jaGFyc2V0PSJ1dGYtOCI+Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPD8gfSA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PSByZW5kZXIgInNjYWZmb2xkX2VkaXQiCg==</text>
+        <text encoding="base64">PC9mb3JtPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc2V0Xwo=</text>
+        <text encoding="base64">ICAgIDxmb3JtIGFjdGlvbj0iIiBtZXRob2Q9InBvc3QiIGFjY2VwdC1jaGFyc2V0PSJ1dGYtOCI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgPD8gfSA/Pgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4804,22 +4810,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0geWllbGQgJT4K</text>
+        <text encoding="base64">PSByZW5kZXIgInNjYWZmb2xkX2VkaXQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8JT0geWllbGQgJT4K</text>
+        <text encoding="base64">ICBkZWYgc2V0Xwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>before_money</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>before_money</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4827,7 +4833,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send_date</entry>
         <entry>basic</entry>
         <entry>genre</entry>
         <entry>genre_id</entry>
@@ -4847,6 +4852,7 @@
         <entry>job</entry>
         <entry>samples</entry>
         <entry>}</entry>
+        <entry>before_money</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
