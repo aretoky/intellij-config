@@ -184,7 +184,15 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1482376573573">
+      <file name="$USER_HOME$/projects/pos-calc/app/validators/order_type_id_and_sale_person_id_validator.rb" timestamp="1484557590794">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" timestamp="1484556881500">
+        <mark key="'" line="10" column="17" />
         <mark key="[" line="215" column="12" />
         <mark key="]" line="215" column="14" />
         <mark key="." line="215" column="14" />
@@ -622,10 +630,6 @@
         <mark key="^" line="42" column="20" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/factories/user_accounts.rb" timestamp="1484365499960">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/api/application_controller.rb" timestamp="1482985683218">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="21" />
@@ -789,7 +793,7 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1484532380131">
+      <file name="/a.regexp" timestamp="1484557658206">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1019,11 +1023,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1484550354285">
-        <mark key="[" line="538" column="52" />
-        <mark key="]" line="538" column="52" />
-        <mark key="." line="538" column="52" />
-        <mark key="^" line="549" column="9" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1484556470384">
+        <mark key="'" line="348" column="24" />
+        <mark key="[" line="140" column="17" />
+        <mark key="]" line="140" column="52" />
+        <mark key="." line="140" column="52" />
+        <mark key="^" line="140" column="52" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/user_account_registration_decorator.rb" timestamp="1483250690899">
         <mark key="[" line="5" column="0" />
@@ -1368,10 +1373,6 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/article_data_set_helper.php" timestamp="1484240263612">
-        <mark key="[" line="276" column="16" />
-        <mark key="]" line="292" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/models/user_session_spec.rb" timestamp="1482889455623">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1495,10 +1496,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/main_menu.php" timestamp="1484288367747">
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="97" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_listup_list.erb" timestamp="1484553202246">
         <mark key="'" line="73" column="16" />
@@ -1668,11 +1665,11 @@
         <mark key="^" line="123" column="18" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1482749858144">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="28" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="31" column="32" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1484557676081">
+        <mark key="[" line="65" column="2" />
+        <mark key="]" line="65" column="16" />
+        <mark key="^" line="65" column="16" />
+        <mark key="." line="65" column="16" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/ui.tabs.css" timestamp="1482330097784">
         <mark key="[" line="21" column="4" />
@@ -1843,19 +1840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="72" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
-      <jump line="338" column="18" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
-      <jump line="23" column="45" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
-      <jump line="22" column="9" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
-      <jump line="24" column="96" filename="$USER_HOME$/projects/value_press/config/routes/rss.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/config/routes/rss.rb" />
-      <jump line="24" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
-      <jump line="1298" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
-      <jump line="78" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="729" column="25" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
-      <jump line="41" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Link_counter.php" />
-      <jump line="163" column="17" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="114" column="2" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="98" column="27" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -1943,6 +1927,19 @@
       <jump line="9" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="26" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="73" column="16" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_listup_list.erb" />
+      <jump line="133" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="229" column="14" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
+      <jump line="216" column="8" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
+      <jump line="78" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="128" column="13" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="297" column="70" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="301" column="72" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="345" column="4" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="346" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="347" column="24" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="218" column="8" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
+      <jump line="10" column="17" filename="$USER_HOME$/projects/pos-calc/config/locales/ja.yml" />
+      <jump line="0" column="6" filename="$USER_HOME$/projects/pos-calc/app/validators/order_type_id_and_sale_person_id_validator.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4592,31 +4589,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>reset</text>
+        <text>OrderTypeIdAndSalesPersonIdValidator</text>
       </register>
       <register name="0" type="4">
-        <text>btn btn-large btn-default</text>
+        <text>.include?(record.order_type_id)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8JT0gc3VibWl0X3RhZyAi5qSc57Si5p2h5Lu244KS44Oq44K744OD44OIIiwgOnR5cGUgPT4gJ3Jlc2V0JyAsIDpuYW1lID0+IG5pbCAsIDpjbGFzcyA9PiAnYnRuIGJ0bi1sYXJnZSBidG4tZGVmYXVsdCclPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgcmVjb3JkLmRlbGl2ZXJfdHlwZV9pZCA9PSAzICYmIHJlY29yZC50b3JpdHN1Z2lfdHlwZV9pZCAhPSAxCiAgICAgICAgcmVjb3JkLmVycm9ycy5hZGQoOmRlbGl2ZXJfdHlwZV9pZCwgOmludmFsaWQpCiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgIGVsc2lmIHJlY29yZC5kZWxpdmVyX3R5cGVfaWQgPT0gMiAmJiByZWNvcmQudG9yaXRzdWdpX3R5cGVfaWQgIT0gMgogICAgICAgIHJlY29yZC5lcnJvcnMuYWRkKDpkZWxpdmVyX3R5cGVfaWQsIDppbnZhbGlkKQogICAgICAgIHJldHVybiBmYWxzZQogICAgICBlbmQ=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjc3ZfcmVjb3Jkc1trZXldLnN0b3JlX25hbWVfa2FuamkgIT0gZGFpbHlvcmRlci50cnkoOnN0b3JlX25hbWVfa2FuamkpCg==</text>
+        <text encoding="base64">ICA8JT0gc3VibWl0X3RhZyAi5qSc57Si5p2h5Lu244KS44Oq44K744OD44OIIiwgOnR5cGUgPT4gJ3Jlc2V0JyAsIDpuYW1lID0+IG5pbCAsIDpjbGFzcyA9PiAnYnRuIGJ0bi1sYXJnZSBidG4tZGVmYXVsdCclPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4838,22 +4835,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjc3ZfcmVjb3Jkc1trZXldLnN0b3JlX25hbWVfa2FuamkgIT0gZGFpbHlvcmRlci50cnkoOnN0b3JlX25hbWVfa2FuamkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>reset</last-search>
+      <last-search>OrderTypeIdAndSalesPersonIdValidator</last-search>
       <last-offset />
-      <last-pattern>reset</last-pattern>
+      <last-pattern>OrderTypeIdAndSalesPersonIdValidator</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4861,11 +4858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cate</entry>
-        <entry>category_id</entry>
-        <entry>default_url_options</entry>
-        <entry>S3_FILES_DOMAIN</entry>
-        <entry>basi</entry>
         <entry>wave</entry>
         <entry>basic02</entry>
         <entry>pg</entry>
@@ -4881,6 +4873,11 @@
         <entry>store</entry>
         <entry>name</entry>
         <entry>reset</entry>
+        <entry>sales_man_must</entry>
+        <entry>route</entry>
+        <entry>order_type</entry>
+        <entry>invalid</entry>
+        <entry>OrderTypeIdAndSalesPersonIdValidator</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
