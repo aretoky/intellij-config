@@ -466,6 +466,12 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/application/_listup_search.erb" timestamp="1484554182017">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="192" column="70" />
+        <mark key="." line="192" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/action_mailer.rb" timestamp="1482231365945">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="58" />
@@ -1494,6 +1500,9 @@
         <mark key="[" line="40" column="39" />
         <mark key="]" line="40" column="97" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_listup_list.erb" timestamp="1484553202246">
+        <mark key="'" line="73" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_head_social_meta_tags.html.erb" timestamp="1482297997593">
         <mark key="[" line="58" column="49" />
         <mark key="]" line="58" column="49" />
@@ -1834,7 +1843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
       <jump line="289" column="72" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
       <jump line="338" column="18" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
       <jump line="23" column="45" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
@@ -1934,6 +1942,7 @@
       <jump line="8" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="9" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="26" column="27" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
+      <jump line="73" column="16" filename="$USER_HOME$/projects/pos-calc/app/views/dailyorders/_listup_list.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4586,25 +4595,25 @@
         <text>%</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>reset</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QGRhaWx5b3JkZXJzID0gQGRhaWx5b3JkZXJzCiAgICAgICAgICAud2hlcmUgeyBzdG9yZV9pZC5pbihTdG9yZS5zZWxlY3QoOmlkKS53aGVyZSB7IChuYW1lID1+ICIlI3twfSUiKSB8IChuYW1lX2Z1cmlnYW5hID1+ICIlI3twfSUiKSB8ICgocF9waG9uZSAhPSBuaWwpICYgKChwaG9uZSA9fiAiJSN7cF9waG9uZX0lIikgfCAoZmF4ID1+ICIlI3twX3Bob25lfSUiKSkpIH0pIHwgKCBzdG9yZV9uYW1lX2thbmppID1+ICIlI3twfSUiKSB8IHRvcml0c3VnaV9pZC5pbihUb3JpdHN1Z2kuc2VsZWN0KDppZCkud2hlcmUgeyB0b3JpdHN1Z2lfdmFuX25hbWUgPX4gIiUje3B9JSJ9ICkgfQ==</text>
+        <text>btn btn-large btn-default</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICA8JT0gc3VibWl0X3RhZyAi5qSc57Si5p2h5Lu244KS44Oq44K744OD44OIIiwgOnR5cGUgPT4gJ3Jlc2V0JyAsIDpuYW1lID0+IG5pbCAsIDpjbGFzcyA9PiAnYnRuIGJ0bi1sYXJnZSBidG4tZGVmYXVsdCclPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjc3ZfcmVjb3Jkc1trZXldLnN0b3JlX25hbWVfa2FuamkgIT0gZGFpbHlvcmRlci50cnkoOnN0b3JlX25hbWVfa2FuamkpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjc3ZfcmVjb3Jkc1trZXldLnN0b3JlX25hbWVfa2FuamkgIT0gZGFpbHlvcmRlci50cnkoOnN0b3JlX25hbWVfa2FuamkpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4829,22 +4838,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgOgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaWYgOgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9mb3JtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>reset</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>reset</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4852,7 +4861,6 @@
     </search>
     <history>
       <history-search>
-        <entry>categoryt</entry>
         <entry>cate</entry>
         <entry>category_id</entry>
         <entry>default_url_options</entry>
@@ -4872,6 +4880,7 @@
         <entry>store_name</entry>
         <entry>store</entry>
         <entry>name</entry>
+        <entry>reset</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
