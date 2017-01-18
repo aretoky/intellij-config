@@ -100,6 +100,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postal_custs_controllerable.rb" timestamp="1484725675763">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="14" />
+        <mark key="^" line="68" column="14" />
+        <mark key="." line="68" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/helpers/partners/sessions_helper.rb" timestamp="1482307275864">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -230,11 +236,11 @@
         <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1484367573733" />
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/show.html.slim" timestamp="1481353632611">
-        <mark key="[" line="148" column="41" />
-        <mark key="]" line="148" column="40" />
-        <mark key="." line="148" column="40" />
-        <mark key="^" line="148" column="40" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/show.html.slim" timestamp="1484726196125">
+        <mark key="[" line="104" column="21" />
+        <mark key="]" line="104" column="31" />
+        <mark key="." line="104" column="31" />
+        <mark key="^" line="104" column="31" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/validators/dt_visit_and_hour_validator.rb" timestamp="1484098965731">
         <mark key="[" line="2" column="6" />
@@ -297,6 +303,9 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" timestamp="1484725882122">
+        <mark key="'" line="10" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/mediacontact_act_status.rb" timestamp="1484038870566">
         <mark key="[" line="33" column="47" />
         <mark key="]" line="35" column="0" />
@@ -347,6 +356,12 @@
         <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/routes/users.rb" timestamp="1484297553597" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/_form.html.slim" timestamp="1484726358479">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/partners/sessions/new.html.erb" timestamp="1482768776687">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="29" />
@@ -923,6 +938,9 @@
         <mark key="]" line="3" column="39" />
         <mark key="^" line="3" column="53" />
         <mark key="." line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form.rb" timestamp="1484725873807">
+        <mark key="'" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1481352111602">
         <mark key="[" line="289" column="0" />
@@ -1724,11 +1742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="40" filename="$USER_HOME$/projects/value_press/config/routes/rss.rb" />
-      <jump line="12" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="110" column="21" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="11" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="15" column="10" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/unkokanji/.gitignore" />
       <jump line="10" column="11" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -1824,6 +1837,11 @@
       <jump line="50" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="135" column="7" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/initializers/simple_form.rb" />
+      <jump line="8" column="28" filename="$USER_HOME$/projects/cplus/config/initializers/simple_form.rb" />
+      <jump line="43" column="51" filename="$USER_HOME$/projects/cplus/config/initializers/simple_form.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" />
+      <jump line="10" column="42" filename="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4473,13 +4491,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">cm93czogMTAsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>rails-footnotes</text>
+        <text>hint</text>
       </register>
       <register name="0" type="4">
-        <text>admin@valuepress.co.jp</text>
+        <text>, as: :text</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBnZW0gJ3JhaWxzLWZvb3Rub3RlcycK</text>
@@ -4732,9 +4750,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rails-footnotes</last-search>
+      <last-search>hint</last-search>
       <last-offset />
-      <last-pattern>rails-footnotes</last-pattern>
+      <last-pattern>hint</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4742,7 +4760,6 @@
     </search>
     <history>
       <history-search>
-        <entry>top</entry>
         <entry>user_account</entry>
         <entry>event</entry>
         <entry>job</entry>
@@ -4762,6 +4779,7 @@
         <entry>better</entry>
         <entry>better_errors</entry>
         <entry>rails-footnotes</entry>
+        <entry>hint</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
