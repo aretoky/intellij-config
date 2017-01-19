@@ -1212,11 +1212,11 @@
         <mark key="^" line="54" column="15" />
         <mark key="." line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/assets/stylesheets/daily_order_number_inputs.css.scss" timestamp="1484821804606">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="47" />
-        <mark key="^" line="8" column="47" />
-        <mark key="." line="8" column="47" />
+      <file name="$USER_HOME$/projects/pos-calc/app/assets/stylesheets/daily_order_number_inputs.css.scss" timestamp="1484827624051">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/doc/visitor_map.md" timestamp="1482664278142">
         <mark key="[" line="9" column="2" />
@@ -1739,12 +1739,12 @@
         <mark key="^" line="143" column="31" />
         <mark key="." line="143" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1484822322714">
-        <mark key="'" line="13" column="7" />
-        <mark key="[" line="267" column="42" />
-        <mark key="]" line="267" column="42" />
-        <mark key="." line="267" column="42" />
-        <mark key="^" line="267" column="42" />
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1484827613184">
+        <mark key="'" line="75" column="17" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="68" column="54" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/initializers/routes_reloader.rb" timestamp="1484114140723">
         <mark key="[" line="0" column="184" />
@@ -1780,7 +1780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
       <jump line="450" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
       <jump line="502" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/value_press/config/environments/development.rb" />
@@ -1880,6 +1879,7 @@
       <jump line="53" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="60" column="33" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="65" column="47" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="75" column="17" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4529,31 +4529,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGFpbHlvcmRlci50X3N5b3Rlbl9jZC50b19pICE9IDAgJiYg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>t_syoten_cd</text>
+        <text>book</text>
       </register>
       <register name="0" type="4">
-        <text>#{dailyorder.try(:store_name_kanji)}</text>
+        <text>book-id-td</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYSBpZiAn5pel6LKp5Zuz5pu46aSo44K144O844OT44K56auY5qmL5qeY77yQ77yQ77yV77yU77yTJyA9PSBkYWlseW9yZGVyLnRyeSg6c3RvcmVfbmFtZV9rYW5qaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGV2ZWxvcG1lbnQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PHN0eWxlIHR5cGU9InRleHQvY3NzIj4KZGl2LmNvbnRhaW5lcnsgCgltYXJnaW4tbGVmdDozMHB4Owp9OwoKCTwvc3R5bGU+</text>
+        <text encoding="base64">Cjx0YWJsZSBjbGFzcz0idGFibGUgdGFibGUtc3RyaXBlZCB0YWJsZS1ib3JkZXJlZCI+CiAgPHRoZWFkPgogICAgPHRyPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWE8L3RkPgogICAgICA8dGQ+YWRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkYTwvdGQ+CiAgICAgIDx0ZD5hYTwvdGQ+CiAgICA8L3RyPgogIDwvdGhlYWQ+CiAgPHRib2R5PgogICAgPHRyIGNsYXNzPSJuZXN0ZWQtZmllbGRzIj4KICAgICAgPHRkPmJiYmRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkPC90ZD4KICAgICAgPHRkPmNjYzwvdGQ+CiAgICAgIDx0ZD48aW5wdXQgdHlwZT0ndGV4dCcgc3R5bGU9J3dpZHRoOjEwMCU7JyAvPjwvdGQ+CiAgICAgIDx0ZD5jY2M8L3RkPgogICAgICA8dGQ+Y2NjZ2dnZ2dnZ2dnZ2dnZ2dnZzwvdGQ+CiAgICAgIDx0ZD5jY2M8L3RkPgogICAgICA8dGQ+Y2NjPC90ZD4KICAgICAgPHRkPmNjZWVlZWVlZWVlZWVlZWVlYzwvdGQ+CiAgICAgIDx0ZD5jY2M8L3RkPgogICAgICA8dGQ+Y2NjPC90ZD4KICAgICAgPHRkPmNjY3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dzwvdGQ+CiAgICAgIDx0ZD5jY2M8L3RkPgogICAgICA8dGQ+Y2NjPC90ZD4KICAgICAgPHRkPmNjYzwvdGQ+CiAgICA8L3RyPgogIDwvdGJvZHk+CjwvdGFibGU+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4778,19 +4778,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYSBpZiAn5pel6LKp5Zuz5pu46aSo44K144O844OT44K56auY5qmL5qeY77yQ77yQ77yV77yU77yTJyA9PSBkYWlseW9yZGVyLnRyeSg6c3RvcmVfbmFtZV9rYW5qaSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>t_syoten_cd</last-search>
+      <last-search>book</last-search>
       <last-offset />
-      <last-pattern>t_syoten_cd</last-pattern>
+      <last-pattern>book</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4798,7 +4798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>store_name</entry>
         <entry>store</entry>
         <entry>name</entry>
         <entry>reset</entry>
@@ -4818,6 +4817,7 @@
         <entry>dt_</entry>
         <entry>dt_next</entry>
         <entry>t_syoten_cd</entry>
+        <entry>book</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
