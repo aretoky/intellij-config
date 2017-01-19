@@ -683,12 +683,6 @@
         <mark key="^" line="44" column="21" />
         <mark key="." line="44" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" timestamp="1484738920158">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="124" column="16" />
-        <mark key="]" line="124" column="17" />
-        <mark key="." line="124" column="17" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/category.rb" timestamp="1484240305529">
         <mark key="[" line="232" column="0" />
         <mark key="]" line="232" column="2" />
@@ -978,12 +972,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1484559027819">
-        <mark key="'" line="348" column="24" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="91" />
-        <mark key="." line="140" column="52" />
-        <mark key="^" line="140" column="52" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1484825075605">
+        <mark key="'" line="65" column="47" />
+        <mark key="[" line="118" column="38" />
+        <mark key="]" line="118" column="41" />
+        <mark key="." line="118" column="41" />
+        <mark key="^" line="118" column="41" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/user_account_registration_decorator.rb" timestamp="1483250690899">
         <mark key="[" line="5" column="0" />
@@ -1759,12 +1753,12 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1484741927117" />
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1484823082239">
-        <mark key="'" line="45" column="79" />
-        <mark key="[" line="45" column="65" />
-        <mark key="]" line="45" column="65" />
-        <mark key="^" line="47" column="47" />
-        <mark key="." line="45" column="65" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1484825956366">
+        <mark key="'" line="47" column="79" />
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="45" column="49" />
+        <mark key="^" line="45" column="49" />
       </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/option_mediacontact.rb" timestamp="1484273451285">
         <mark key="[" line="0" column="29" />
@@ -1786,11 +1780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
-      <jump line="190" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
-      <jump line="242" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
-      <jump line="294" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
-      <jump line="346" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
       <jump line="398" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
       <jump line="450" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
       <jump line="502" column="37" filename="$USER_HOME$/projects/value_press/db/seeds/article.rb" />
@@ -1886,6 +1875,11 @@
       <jump line="41" column="15" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
       <jump line="13" column="7" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="140" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="7" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="53" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="60" column="33" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
+      <jump line="65" column="47" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4535,31 +4529,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ZGFpbHlvcmRlci50X3N5b3Rlbl9jZC50b19pICE9IDAgJiYg</text>
       </register>
       <register name="/" type="4">
-        <text>dt_next</text>
+        <text>t_syoten_cd</text>
       </register>
       <register name="0" type="4">
-        <text>body.daily_order_number_inputs .container {</text>
+        <text>#{dailyorder.try(:store_name_kanji)}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGV2ZWxvcG1lbnQ6Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHN0eWxlIHR5cGU9InRleHQvY3NzIj4KZGl2LmNvbnRhaW5lcnsgCgltYXJnaW4tbGVmdDozMHB4Owp9OwoKCTwvc3R5bGU+</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYSBpZiAn5pel6LKp5Zuz5pu46aSo44K144O844OT44K56auY5qmL5qeY77yQ77yQ77yV77yU77yTJyA9PSBkYWlseW9yZGVyLnRyeSg6c3RvcmVfbmFtZV9rYW5qaSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGV2ZWxvcG1lbnQ6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PHN0eWxlIHR5cGU9InRleHQvY3NzIj4KZGl2LmNvbnRhaW5lcnsgCgltYXJnaW4tbGVmdDozMHB4Owp9OwoKCTwvc3R5bGU+</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4784,7 +4778,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYWlsKAo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -4794,9 +4788,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dt_next</last-search>
+      <last-search>t_syoten_cd</last-search>
       <last-offset />
-      <last-pattern>dt_next</last-pattern>
+      <last-pattern>t_syoten_cd</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4804,7 +4798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>before_money</entry>
         <entry>store_name</entry>
         <entry>store</entry>
         <entry>name</entry>
@@ -4824,6 +4817,7 @@
         <entry>shortcust_button_group_tag</entry>
         <entry>dt_</entry>
         <entry>dt_next</entry>
+        <entry>t_syoten_cd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
