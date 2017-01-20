@@ -131,10 +131,11 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/config/routes/users.rb" timestamp="1484297553597" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/_form.html.slim" timestamp="1484726358479" />
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/article_attached_file_uploader.rb" timestamp="1484885207294">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/article_attached_file_uploader.rb" timestamp="1484887988379">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/my_tel_input.rb" timestamp="1484738698638" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" timestamp="1484368073147">
@@ -433,6 +434,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" timestamp="1484887927811">
+        <mark key="'" line="801" column="48" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/topics/selections_controller.rb" timestamp="1484301581623">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="38" />
@@ -530,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/projects/value_press/config/routes/rss.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="160" column="54" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" />
       <jump line="11" column="7" filename="$USER_HOME$/projects/value_press/Gemfile" />
@@ -630,6 +635,7 @@
       <jump line="0" column="11" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="28" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="115" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="801" column="48" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3285,25 +3291,25 @@
         <text>logo_</text>
       </register>
       <register name="0" type="4">
-        <text>ENV['AWS_S3_ENDPOINT']</text>
+        <text>vp.files</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ICA9PiAnWU9VUkFXU1NFQ1JFVCcsICAgICMgcmVxdWlyZWQK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXdzX2FjY2Vzc19rZXlfaWQ6ICAgICAgPT4gJ1lPVVJBV1NLRVlJRCcsICAgICAjIHJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ICA9PiAnWU9VUkFXU1NFQ1JFVCcsICAgICMgcmVxdWlyZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJvdmlkZXI6ICAgICAgICAgICAgICAgPT4gJ0FXUycsICAgICAgICAgICAgICAjIHJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgYXdzX2FjY2Vzc19rZXlfaWQ6ICAgICAgPT4gJ1lPVVJBV1NLRVlJRCcsICAgICAjIHJlcXVpcmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZm9nX2NyZWRlbnRpYWxzID0gewo=</text>
+        <text encoding="base64">ICAgICAgcHJvdmlkZXI6ICAgICAgICAgICAgICAgPT4gJ0FXUycsICAgICAgICAgICAgICAjIHJlcXVpcmVkCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3525,13 +3531,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIHN0b3JhZ2UgOmZvZwo=</text>
+        <text encoding="base64">ICAgIHNlbGYuZm9nX2NyZWRlbnRpYWxzID0gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdG9yYWdlIDpmaWxlCg==</text>
+        <text encoding="base64">ICAjIHN0b3JhZ2UgOmZvZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdG9yYWdlIDpmaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
