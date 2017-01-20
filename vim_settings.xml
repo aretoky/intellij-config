@@ -131,11 +131,11 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/config/routes/users.rb" timestamp="1484297553597" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/_form.html.slim" timestamp="1484726358479" />
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/article_attached_file_uploader.rb" timestamp="1484887988379">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="6" column="54" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/article_attached_file_uploader.rb" timestamp="1484888625151">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="23" column="5" />
+        <mark key="^" line="23" column="5" />
+        <mark key="." line="23" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/my_tel_input.rb" timestamp="1484738698638" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" timestamp="1484368073147">
@@ -3285,7 +3285,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text encoding="base64">InNvbWV0aGluZy5qcGciIA==</text>
       </register>
       <register name="/" type="4">
         <text>logo_</text>
@@ -3297,19 +3297,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text># Provide a default URL as a default if there hasn't been a file uploaded:
+  # def default_url
+  #   # For Rails 3.1+ asset pipeline compatibility:
+  #   # ActionController::Base.helpers.asset_path(&quot;fallback/&quot; + [version_name, &quot;default.png&quot;].compact.join('_'))
+  #
+  #   &quot;/images/fallback/&quot; + [version_name, &quot;default.png&quot;].compact.join('_')
+  # end
+
+  # Process files as they are uploaded:
+  # process scale: [200, 300]
+  #
+  # def scale(width, height)
+  #   # do something
+  # end</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXdzX3NlY3JldF9hY2Nlc3Nfa2V5ICA9PiAnWU9VUkFXU1NFQ1JFVCcsICAgICMgcmVxdWlyZWQK</text>
+        <text encoding="base64">ICAjIEF2b2lkIHVzaW5nIG1vZGVsLmlkIG9yIHZlcnNpb25fbmFtZSBoZXJlLCBzZWUgdXBsb2FkZXIvc3RvcmUucmIgZm9yIGRldGFpbHMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXdzX2FjY2Vzc19rZXlfaWQ6ICAgICAgPT4gJ1lPVVJBV1NLRVlJRCcsICAgICAjIHJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAjIE92ZXJyaWRlIHRoZSBmaWxlbmFtZSBvZiB0aGUgdXBsb2FkZWQgZmlsZXM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJvdmlkZXI6ICAgICAgICAgICAgICAgPT4gJ0FXUycsICAgICAgICAgICAgICAjIHJlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAjIEZvciBpbWFnZXMgeW91IG1pZ2h0IHVzZSBzb21ldGhpbmcgbGlrZSB0aGlzOgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3531,13 +3544,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZm9nX2NyZWRlbnRpYWxzID0gewo=</text>
+        <text encoding="base64">ICAjIEFkZCBhIHdoaXRlIGxpc3Qgb2YgZXh0ZW5zaW9ucyB3aGljaCBhcmUgYWxsb3dlZCB0byBiZSB1cGxvYWRlZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIHN0b3JhZ2UgOmZvZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdG9yYWdlIDpmaWxlCg==</text>
+        <text encoding="base64">ICAjIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
