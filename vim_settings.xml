@@ -438,12 +438,15 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1485141989038">
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" timestamp="1485150005378">
+        <mark key="'" line="59" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" timestamp="1485150418134">
         <mark key="'" line="43" column="13" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="9" />
-        <mark key="." line="16" column="10" />
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/initializers/carrierwave.rb" timestamp="1484884618910">
         <mark key="[" line="20" column="40" />
@@ -562,7 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="726" column="60" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="2" column="8" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="8" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="9" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
@@ -662,6 +664,7 @@
       <jump line="43" column="13" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_novalidate_form.html.erb" />
       <jump line="11" column="8" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
       <jump line="25" column="25" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
+      <jump line="59" column="27" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/_form.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3311,31 +3314,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJvb2staWQtdGQ=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>book-</text>
       </register>
       <register name="0" type="4">
-        <text>book-id-th</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYWN0aW9ucyI+CiAgICA8JT0gZi5zdWJtaXQgJ+WFpeWKm+eiuuiqjScsICA6Y2xhc3MgPT4nYnRuIGJ0bi1sYXJnZSBidG4tcHJpbWFyeScgLCA6bmFtZSA9PiAnZ29fcHJldmlldycgJT4KICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjc3ZfcmVjb3Jkc1trZXldLnN0b3JlX25hbWVfa2FuamkgKz0gIu+8jyN7ZGFpbHlvcmRlci50cnkoOnN0b3JlX25hbWVfa2FuamkpfSIK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwlPSBmLmhpZGRlbl9maWVsZCA6Y29uZmlybWluZyAlPgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBjc3ZfcmVjb3Jkc1trZXldLnN0b3JlX25hbWVfa2FuamkgKz0gIu+8jyN7ZGFpbHlvcmRlci50cnkoOnN0b3JlX25hbWVfa2FuamkpfSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAiI3tkYWlseW9yZGVyLnRvcml0c3VnaV9pZH0sI3tkYWlseW9yZGVyLnRfc3lvdGVuX2NkfSIK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgZGFpbHlvcmRlci50X3N5b3Rlbl9jZC50b19pICE9IDAK</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3557,13 +3560,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBhIGlmICfml6Xosqnlm7Pmm7jppKjjgrXjg7zjg5Pjgrnpq5jmqYvmp5jvvJDvvJDvvJXvvJTvvJMnID09IGRhaWx5b3JkZXIudHJ5KDpzdG9yZV9uYW1lX2thbmppKQo=</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPSAiI3tkYWlseW9yZGVyLnRvcml0c3VnaV9pZH0sI3tkYWlseW9yZGVyLnRfc3lvdGVuX2NkfSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGR0X2JpbGwgeyBEYXRlLnRvZGF5LnRvX2R0IH0K</text>
+        <text encoding="base64">ICAgICAgaWYgZGFpbHlvcmRlci50X3N5b3Rlbl9jZC50b19pICE9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgICAgIyBhIGlmICfml6Xosqnlm7Pmm7jppKjjgrXjg7zjg5Pjgrnpq5jmqYvmp5jvvJDvvJDvvJXvvJTvvJMnID09IGRhaWx5b3JkZXIudHJ5KDpzdG9yZV9uYW1lX2thbmppKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
