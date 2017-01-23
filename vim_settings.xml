@@ -16,7 +16,7 @@
         <mark key="^" line="83" column="20" />
         <mark key="." line="83" column="20" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/models/article_model.php" timestamp="1484883194457">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/models/article_model.php" timestamp="1485136534492">
         <mark key="'" line="1119" column="252" />
         <mark key="[" line="676" column="37" />
         <mark key="]" line="676" column="57" />
@@ -577,12 +577,12 @@
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" timestamp="1484286655610">
         <mark key="'" line="160" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1484825956366">
-        <mark key="'" line="47" column="79" />
-        <mark key="[" line="45" column="41" />
-        <mark key="]" line="45" column="49" />
-        <mark key="." line="45" column="49" />
-        <mark key="^" line="45" column="49" />
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" timestamp="1485137239507">
+        <mark key="'" line="48" column="71" />
+        <mark key="[" line="63" column="84" />
+        <mark key="]" line="63" column="84" />
+        <mark key="^" line="63" column="84" />
+        <mark key="." line="63" column="84" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/sessions/new.html.erb" timestamp="1484288282063">
         <mark key="[" line="1" column="59" />
@@ -598,13 +598,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="46" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
-      <jump line="27" column="14" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
-      <jump line="101" column="13" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="6" column="6" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="95" column="34" filename="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater.rb" />
       <jump line="96" column="15" filename="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater.rb" />
-      <jump line="45" column="79" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
       <jump line="589" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="12" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
@@ -698,6 +694,10 @@
       <jump line="231" column="18" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="18" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="35" column="22" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
+      <jump line="44" column="35" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
+      <jump line="45" column="31" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
+      <jump line="46" column="90" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
+      <jump line="48" column="71" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3347,33 +3347,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>inamt</text>
+        <text>name_ka</text>
       </register>
       <register name="0" type="4">
-        <text>it &quot;正しく入力すれば成功すること&quot; do
-          expect(subject).to be_valid
-        end</text>
+        <text>.tr('０-９ａ-ｚＡ-Ｚ', '0-9a-zA-Z')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGR0X2JpbGwgeyBEYXRlLnRvZGF5LnRvX2R0IH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgY3VzdG9tX3F1ZXJ5Wzpjb250cm9sbGVyXSA9PSAiYmF0Y2hiaWxscyIK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZWxzZQogICAgICAgIHVybF9mb3IoCiAgICAgICAgICB7IGFjdGlvbjogOmluZGV4IH0uCiAgICAgICAgICAgIG1lcmdlKGN1c3RvbV9xdWVyeSkuCiAgICAgICAgICAgIG1lcmdlKGxhc3Rfc2VhcmNoX3F1ZXJ5KGN1c3RvbV9xdWVyeVs6Y29udHJvbGxlcl0pKQogICAgICAgICkKICAgICAgZW5kCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBrZXkgPSAiI3tkYWlseW9yZGVyLnRvcml0c3VnaV9pZH0sI3tkYWlseW9yZGVyLnRfc3lvdGVuX2NkfSIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgZGFpbHlvcmRlci50X3N5b3Rlbl9jZC50b19pICE9IDAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIyBhIGlmICfml6Xosqnlm7Pmm7jppKjjgrXjg7zjg5Pjgrnpq5jmqYvmp5jvvJDvvJDvvJXvvJTvvJMnID09IGRhaWx5b3JkZXIudHJ5KDpzdG9yZV9uYW1lX2thbmppKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3595,22 +3593,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgIGR0X2JpbGwgeyBEYXRlLnRvZGF5LnRvX2R0IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyZ2UobGFzdF9zZWFyY2hfcXVlcnkoY3VzdG9tX3F1ZXJ5Wzpjb250cm9sbGVyXSkpCg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>inamt</last-search>
+      <last-search>name_ka</last-search>
       <last-offset />
-      <last-pattern>inamt</last-pattern>
+      <last-pattern>name_ka</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3618,7 +3616,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OrderTypeIdAndSalesPersonIdValidator</entry>
         <entry>出荷</entry>
         <entry>better</entry>
         <entry>better_errors</entry>
@@ -3638,6 +3635,7 @@
         <entry>cntr</entry>
         <entry>yn_fix</entry>
         <entry>inamt</entry>
+        <entry>name_ka</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
