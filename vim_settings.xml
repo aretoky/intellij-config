@@ -136,6 +136,12 @@
         <mark key="^" line="91" column="3" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/bill.ja.yml" timestamp="1485187906798">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/s/articles_controller.rb" timestamp="1484297905477">
         <mark key="[" line="71" column="13" />
         <mark key="]" line="72" column="5" />
@@ -163,6 +169,12 @@
         <mark key="]" line="3" column="5" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/inamt.rb" timestamp="1485187660010">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="26" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/validators/without_mark_for_destruction_length_validator.rb" timestamp="1485173690409">
         <mark key="[" line="4" column="16" />
@@ -565,7 +577,7 @@
         <mark key="^" line="60" column="21" />
         <mark key="." line="60" column="21" />
       </file>
-      <file name="/a.regexp" timestamp="1485180335030">
+      <file name="/a.regexp" timestamp="1485187378474">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -612,14 +624,11 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1485187808603">
+        <mark key="'" line="119" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="86" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
-      <jump line="41" column="15" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
-      <jump line="13" column="7" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" />
-      <jump line="140" column="25" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
-      <jump line="7" column="6" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="53" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="60" column="33" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="65" column="47" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -714,6 +723,12 @@
       <jump line="8" column="9" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_extra_creator.rb" />
       <jump line="16" column="9" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_extra_creator.rb" />
       <jump line="198" column="6" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="42" column="6" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="43" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="44" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="103" column="14" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
+      <jump line="119" column="11" filename="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3363,10 +3378,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>る</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>amtax_inamts_sum</text>
+        <text>bill</text>
       </register>
       <register name="0" type="4">
         <text>it &quot;amtax_inamtが@amtax_inamts_sum分増える&quot; do
@@ -3624,9 +3639,9 @@
       </register>
     </registers>
     <search>
-      <last-search>amtax_inamts_sum</last-search>
+      <last-search>bill</last-search>
       <last-offset />
-      <last-pattern>amtax_inamts_sum</last-pattern>
+      <last-pattern>bill</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3634,7 +3649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_</entry>
         <entry>dt_next</entry>
         <entry>t_syoten_cd</entry>
         <entry>logo_name</entry>
@@ -3654,6 +3668,7 @@
         <entry>nm_cust</entry>
         <entry>inamt</entry>
         <entry>amtax_inamts_sum</entry>
+        <entry>bill</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
