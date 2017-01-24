@@ -285,12 +285,12 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" timestamp="1485257624752">
+      <file name="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" timestamp="1485258039683">
         <mark key="'" line="7" column="12" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="122" column="58" />
-        <mark key="." line="122" column="0" />
+        <mark key="[" line="150" column="92" />
+        <mark key="]" line="150" column="92" />
+        <mark key="^" line="150" column="124" />
+        <mark key="." line="150" column="92" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/static_information_pages/flow.html.erb" timestamp="1484288370121">
         <mark key="[" line="2" column="12" />
@@ -3365,31 +3365,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWQ6ICJyZXNwb25zaWJsZW5hbWVfa2FuYSIsIA==</text>
+        <text>, :city_pid, :address</text>
       </register>
       <register name="/" type="4">
         <text>oem_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPCU9IGYudGV4dF9maWVsZCA6bmFtZSwgaWQ6ICJjb21wYW55bmFtZSIsIHNpemU6IDUwICU+Cg==</text>
+        <text encoding="base64">ICAgIDx0ZCB3aWR0aD0iMTYwIiByb3dzcGFuPSI0IiBjbGFzcz0iPD89KGZvcm1fZXJyb3IoJ3VzZXJfYWNjb3VudFt6aXBfY29kZTFdJykgfHwgZm9ybV9lcnJvcigndXNlcl9hY2NvdW50W3ppcF9jb2RlMl0nKSAgfHwgZm9ybV9lcnJvcigndXNlcl9hY2NvdW50W2NpdHlfcGlkXScpIHx8IGZvcm1fZXJyb3IoJ3VzZXJfYWNjb3VudFthZGRyZXNzXScpKSA/ICdlcnJvcl8nIDogJyc7Pz5ib3hfdGV4dGNhcCI+5L2P5omAPHNwYW4gY2xhc3M9ImxhYmVsX3JlZCByaWdodCI+5b+F6aCIPC9zcGFuPjwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0ZCB3aWR0aD0iMTYwIiByb3dzcGFuPSI0IiBjbGFzcz0iPD89KGZvcm1fZXJyb3IoJ3VzZXJfYWNjb3VudFt6aXBfY29kZTFdJykgfHwgZm9ybV9lcnJvcigndXNlcl9hY2NvdW50W3ppcF9jb2RlMl0nKSAgfHwgZm9ybV9lcnJvcigndXNlcl9hY2NvdW50W2NpdHlfcGlkXScpIHx8IGZvcm1fZXJyb3IoJ3VzZXJfYWNjb3VudFthZGRyZXNzXScpKSA/ICdlcnJvcl8nIDogJyc7Pz5ib3hfdGV4dGNhcCI+5L2P5omAPHNwYW4gY2xhc3M9ImxhYmVsX3JlZCByaWdodCI+5b+F6aCIPC9zcGFuPjwvdGQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFt0cmFuc2NyaXB0aW9uXSIgdHlwZT0idGV4dCIgaWQ9ImNvbXBhbnluYW1lX2thbmEiIHZhbHVlPSI8Pz1zZXRfdmFsdWUoJ3VzZXJfYWNjb3VudFt0cmFuc2NyaXB0aW9uXScsICR1c2VyX2FjY291bnRbJ3RyYW5zY3JpcHRpb24nXSk7ID8+IiAgc2l6ZT0iNTAiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgbmFtZT0idXNlcl9hY2NvdW50W2RlbGVnYXRlX3RyYW5zXSIgdHlwZT0idGV4dCIgaWQ9IiIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W2RlbGVnYXRlX3RyYW5zXScsICR1c2VyX2FjY291bnRbJ2RlbGVnYXRlX3RyYW5zJ10pOyA/PiIgc2l6ZT0iMzAiIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPD89Zm9ybV9lcnJvcigndXNlcl9hY2NvdW50W3RyYW5zY3JpcHRpb25dJyk7Pz4K</text>
+        <text encoding="base64">ICAgICAgICA8Pz1mb3JtX2Vycm9yKCd1c2VyX2FjY291bnRbZGVsZWdhdGVfdHJhbnNdJyk7Pz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFtuYW1lXSIgdHlwZT0idGV4dCIgaWQ9ImNvbXBhbnluYW1lIiB2YWx1ZT0iPD89c2V0X3ZhbHVlKCd1c2VyX2FjY291bnRbbmFtZV0nLCAkdXNlcl9hY2NvdW50WyduYW1lJ10pOyA/PiIgc2l6ZT0iNTAiLz4K</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFtkZWxlZ2F0ZV9uYW1lXSIgdHlwZT0idGV4dCIgaWQ9IiIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W2RlbGVnYXRlX25hbWVdJywgJHVzZXJfYWNjb3VudFsnZGVsZWdhdGVfbmFtZSddKTsgPz4iIHNpemU9IjMwIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFtuYW1lXSIgdHlwZT0idGV4dCIgaWQ9ImNvbXBhbnluYW1lIiB2YWx1ZT0iPD89c2V0X3ZhbHVlKCd1c2VyX2FjY291bnRbbmFtZV0nLCAkdXNlcl9hY2NvdW50WyduYW1lJ10pOyA/PiIgc2l6ZT0iNTAiLz4K</text>
+        <text encoding="base64">ICAgICAgPD89Zm9ybV9lcnJvcigndXNlcl9hY2NvdW50W2RlbGVnYXRlX25hbWVdJyk7Pz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPD89Zm9ybV9lcnJvcigndXNlcl9hY2NvdW50W25hbWVdJyk7Pz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3611,13 +3611,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFtyZXNwb25zaWJsZV9wb3N0XSIgdHlwZT0idGV4dCIgaWQ9IiIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W3Jlc3BvbnNpYmxlX3Bvc3RdJywgJHVzZXJfYWNjb3VudFsncmVzcG9uc2libGVfcG9zdCddKTsgPz4iIHNpemU9IjMwIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFt0cmFuc2NyaXB0aW9uXSIgdHlwZT0idGV4dCIgaWQ9ImNvbXBhbnluYW1lX2thbmEiIHZhbHVlPSI8Pz1zZXRfdmFsdWUoJ3VzZXJfYWNjb3VudFt0cmFuc2NyaXB0aW9uXScsICR1c2VyX2FjY291bnRbJ3RyYW5zY3JpcHRpb24nXSk7ID8+IiAgc2l6ZT0iNTAiIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPD89Zm9ybV9lcnJvcigndXNlcl9hY2NvdW50W3Jlc3BvbnNpYmxlX3Bvc3RdJyk7Pz4K</text>
+        <text encoding="base64">ICAgICAgPD89Zm9ybV9lcnJvcigndXNlcl9hY2NvdW50W3RyYW5zY3JpcHRpb25dJyk7Pz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFtyZXNwb25zaWJsZV9zZWN0aW9uXSIgdHlwZT0idGV4dCIgaWQ9IiIgdmFsdWU9Ijw/PXNldF92YWx1ZSgndXNlcl9hY2NvdW50W3Jlc3BvbnNpYmxlX3NlY3Rpb25dJywgJHVzZXJfYWNjb3VudFsncmVzcG9uc2libGVfc2VjdGlvbiddKTsgPz4iIHNpemU9IjMwIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9InVzZXJfYWNjb3VudFtuYW1lXSIgdHlwZT0idGV4dCIgaWQ9ImNvbXBhbnluYW1lIiB2YWx1ZT0iPD89c2V0X3ZhbHVlKCd1c2VyX2FjY291bnRbbmFtZV0nLCAkdXNlcl9hY2NvdW50WyduYW1lJ10pOyA/PiIgc2l6ZT0iNTAiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
