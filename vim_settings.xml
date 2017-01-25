@@ -79,6 +79,12 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1485326734830">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/staff.rb" timestamp="1485221865487">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="64" />
@@ -406,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="672" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="674" column="17" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="676" column="55" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="677" column="20" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
@@ -506,6 +511,7 @@
       <jump line="320" column="25" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="445" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/setting.php" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/setting.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3158,7 +3164,7 @@
         <text>BitemCreator</text>
       </register>
       <register name="/" type="4">
-        <text>check_foundation_date</text>
+        <text>rspec</text>
       </register>
       <register name="0" type="4">
         <text>ifon@valuepress.co.jp</text>
@@ -3167,12 +3173,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYK</text>
+        <text encoding="base64">Z2VtICdyc3BlY19qdW5pdF9mb3JtYXR0ZXInLCAnMC4yLjInICNmb3IgY2lyY2xlY2kK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>let(:user_account) { create(:user_account) }
     let(:user_session_attributes) do
       {
@@ -3197,12 +3209,6 @@
 
       it { expect(subject).to render_template :new }
     end</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Oz8+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gJzxkaXYgc3R5bGU9ImNvbG9yOnJlZDsgZm9udC13ZWlnaHQ6Ym9sZDsiPuato+OBl+OBhOaXpeS7mOOBp+OBr+OBguOCiuOBvuOBm+OCkzwvZGl2Pic7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3424,22 +3430,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8P2lmKGlzc2V0KCRjaGVja19mb3VuZGF0aW9uX2RhdGUpICYmICRjaGVja19mb3VuZGF0aW9uX2RhdGUgPT0gMSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Oz8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gZi5zZWxlY3QgOmZvdW5kYXRpb25fZGF0ZV9tb250aCwgWzEuLjEyXSAlPuaciAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gJzxkaXYgc3R5bGU9ImNvbG9yOnJlZDsgZm9udC13ZWlnaHQ6Ym9sZDsiPuato+OBl+OBhOaXpeS7mOOBp+OBr+OBguOCiuOBvuOBm+OCkzwvZGl2Pic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gZi5zZWxlY3QgOmZvdW5kYXRpb25fZGF0ZV95ZWFyLCBbMTcwMC4uRGF0ZS5jdXJyZW50LnllYXJdICU+5bm0Cg==</text>
+        <text encoding="base64">ICAgICAgICA8P2lmKGlzc2V0KCRjaGVja19mb3VuZGF0aW9uX2RhdGUpICYmICRjaGVja19mb3VuZGF0aW9uX2RhdGUgPT0gMSl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>check_foundation_date</last-search>
+      <last-search>rspec</last-search>
       <last-offset />
-      <last-pattern>check_foundation_date</last-pattern>
+      <last-pattern>rspec</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3447,7 +3453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>book-</entry>
         <entry>sales</entry>
         <entry>camp</entry>
         <entry>nm_cust</entry>
@@ -3467,6 +3472,7 @@
         <entry>release_inquiry</entry>
         <entry>release</entry>
         <entry>check_foundation_date</entry>
+        <entry>rspec</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
