@@ -129,12 +129,6 @@
         <mark key="." line="215" column="14" />
         <mark key="^" line="215" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1485332953294">
-        <mark key="'" line="121" column="7" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/staff.rb" timestamp="1485221865487">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="64" />
@@ -374,11 +368,11 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater_with_user.rb" timestamp="1485341425531">
-        <mark key="[" line="107" column="56" />
-        <mark key="]" line="107" column="59" />
-        <mark key="." line="107" column="59" />
-        <mark key="^" line="107" column="59" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater_with_user.rb" timestamp="1485341760247">
+        <mark key="[" line="110" column="46" />
+        <mark key="]" line="110" column="53" />
+        <mark key="." line="110" column="53" />
+        <mark key="^" line="110" column="53" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/cplus_url_helper.rb" timestamp="1484899405814">
         <mark key="[" line="3" column="34" />
@@ -525,14 +519,14 @@
       <file name="/Ruby Console" timestamp="1485334983599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater.rb" timestamp="1484373626101">
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater.rb" timestamp="1485341702339">
         <mark key="'" line="96" column="15" />
         <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
+        <mark key="]" line="104" column="46" />
         <mark key="^" line="123" column="18" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/setting.php" timestamp="1485341323393">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/setting.php" timestamp="1485341654467">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1485332940826">
@@ -623,6 +617,12 @@
         <mark key="]" line="38" column="6" />
         <mark key="^" line="38" column="6" />
         <mark key="." line="38" column="6" />
+      </file>
+      <file name="/a.regexp" timestamp="1485341473767">
+        <mark key="i" line="0" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/user_account/password_savable.rb" timestamp="1485338542970">
         <mark key="[" line="14" column="80" />
@@ -3434,31 +3434,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>city_pid</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6ZmF4LCBwcmVzZW5jZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6Zm91bmRhdGlvbl9kYXRlLCBwcmVzZW5jZTogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6emlwX2NvZGUyLCBwcmVzZW5jZTogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6emlwX2NvZGUyLCBwcmVzZW5jZTogdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5mZXRjaCg6dXNlcl9hY2NvdW50LCB7fSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhcmFtcy5mZXRjaCg6dXNlcl9hY2NvdW50LCB7fSkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgc2lnbl9pbl91c2VyKEB1c2VyX2FjY291bnRfcmVnaXN0cmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3680,13 +3680,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgc2lnbl9pbl91c2VyKEB1c2VyX2FjY291bnRfcmVnaXN0cmF0aW9uKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnBhc3N3b3JkX2hhc2gsIHByZXNlbmNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfdmFsdWVfZm9yIDpwYXNzd29yZF9oYXNoCg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnBhc3N3b3JkX2hhc2gsIHByZXNlbmNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
