@@ -22,7 +22,12 @@
         <mark key="'" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1485345020237" />
-      <file name="$USER_HOME$/projects/pos-calc/config/secrets.yml" timestamp="1485352651470" />
+      <file name="$USER_HOME$/projects/pos-calc/config/secrets.yml" timestamp="1485355744544">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="40" />
+        <mark key="." line="48" column="40" />
+        <mark key="^" line="48" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/models/store.rb" timestamp="1484532746194">
         <mark key="'" line="26" column="27" />
       </file>
@@ -118,6 +123,9 @@
         <mark key="]" line="14" column="69" />
         <mark key="." line="14" column="69" />
         <mark key="^" line="14" column="90" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_form.html.erb" timestamp="1485158566593">
+        <mark key="'" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/alliance_media_rss.php" timestamp="1484286655610">
         <mark key="'" line="160" column="54" />
@@ -2885,7 +2893,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(:password)</text>
+        <text encoding="base64">cHI0UTUqcmFkckFQNGV2RXhheUFzVEV6JjJhdEhnRGdpd2FDZHhydjY4UnczUU1BSDlMZlc=</text>
       </register>
       <register name="/" type="4">
         <text>:name</text>
@@ -2894,22 +2902,22 @@
         <text>@user_account</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgOmNvbXBhbnluYW1lLAo=</text>
+        <text encoding="base64">ICBzZmRjUGFzc3dvcmQ6IHByNFE1KnJhZHJBUDRldkV4YXlBc1RFeiYyYXRIZ0RnaXdhQ2R4cnY2OFJ3M1FNQUg5TGZXCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgOmNvbXBhbnluYW1lLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9ImlucHV0X2J0bl9iZyBtcjMwIiB0eXBlPSJzdWJtaXQiIG5hbWU9Im1vZGUiIHZhbHVlPSJiYWNrIj7miLvjgos8L2J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9ImlucHV0X2J0bl9iZyBtbDMwIiB0eXBlPSJzdWJtaXQiIG5hbWU9Im1vZGUiIHZhbHVlPSJzdWJtaXQiPuWkieabtOWGheWuueOCkuS/neWtmOOBmeOCizwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9ImlucHV0X2J0bl9iZyBtcjMwIiB0eXBlPSJzdWJtaXQiIG5hbWU9Im1vZGUiIHZhbHVlPSJiYWNrIj7miLvjgos8L2J1dHRvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9ImlucHV0X2J0bl9iZyBtbDMwIiB0eXBlPSJzdWJtaXQiIG5hbWU9Im1vZGUiIHZhbHVlPSJzdWJtaXQiPuWkieabtOWGheWuueOCkuS/neWtmOOBmeOCizwvYnV0dG9uPgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3131,13 +3139,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybV9idG5fYm94Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGJ1dHRvbiBjbGFzcz0iaW5wdXRfYnRuX2JnIG1yMzAiIHR5cGU9InN1Ym1pdCIgbmFtZT0ibW9kZSIgdmFsdWU9ImJhY2siPuaIu+OCizwvYnV0dG9uPgogIDxidXR0b24gY2xhc3M9ImlucHV0X2J0bl9iZyBtbDMwIiB0eXBlPSJzdWJtaXQiIG5hbWU9Im1vZGUiIHZhbHVlPSJzdWJtaXQiPuWkieabtOWGheWuueOCkuS/neWtmOOBmeOCizwvYnV0dG9uPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybV9idG5fYm94Ij4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
