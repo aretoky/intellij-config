@@ -239,8 +239,8 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1485247355364">
-        <mark key="'" line="7" column="7" />
+      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1485513775138">
+        <mark key="'" line="24" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="1" />
         <mark key="^" line="13" column="1" />
@@ -374,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="12" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="95" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="114" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="161" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -474,6 +473,7 @@
       <jump line="103" column="27" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="35" column="25" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="180" column="26" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/setting.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3126,7 +3126,7 @@
         <text>:responsible_trans,</text>
       </register>
       <register name="/" type="4">
-        <text>building</text>
+        <text>event</text>
       </register>
       <register name="0" type="4">
         <text>:responsible_name</text>
@@ -3396,9 +3396,9 @@
       </register>
     </registers>
     <search>
-      <last-search>building</last-search>
+      <last-search>event</last-search>
       <last-offset />
-      <last-pattern>building</last-pattern>
+      <last-pattern>event</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3406,7 +3406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>release_inquiry</entry>
         <entry>release</entry>
         <entry>check_foundation_date</entry>
         <entry>rspec</entry>
@@ -3426,6 +3425,7 @@
         <entry>:name</entry>
         <entry>respo</entry>
         <entry>building</entry>
+        <entry>event</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
