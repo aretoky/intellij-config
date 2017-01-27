@@ -127,6 +127,11 @@
         <mark key="." line="59" column="30" />
         <mark key="^" line="59" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" timestamp="1485515667614">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/user_account_registration_mailer/create_email.text.erb" timestamp="1483438242423">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="0" column="36" />
@@ -155,8 +160,8 @@
         <mark key="^" line="13" column="56" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/user_account/reference_site_sessions_manageable.rb" timestamp="1485338138480" />
-      <file name="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" timestamp="1485501547168">
-        <mark key="'" line="35" column="25" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" timestamp="1485515740571">
+        <mark key="'" line="78" column="0" />
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="32" />
         <mark key="." line="1" column="32" />
@@ -367,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="114" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="161" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="120" column="24" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -467,6 +471,7 @@
       <jump line="35" column="25" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="180" column="26" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/setting.php" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="78" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3119,28 +3124,28 @@
         <text>:responsible_trans,</text>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>設立</text>
       </register>
-      <register name="0" type="4">
-        <text>:responsible_name</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkaXMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QgeyBzdWJqZWN0IH0udG8gY2hhbmdlKEFjdGlvbkxvZywgOmNvdW50KS5ieSgwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXQgIkFjdGlvbkxvZ+OBjOWil+OBiOOBquOBhOOBk+OBqCIgZG8K</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3362,36 +3367,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QgeyBzdWJqZWN0IH0udG8gY2hhbmdlKEFjdGlvbkxvZywgOmNvdW50KS5ieSgwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXQgIkFjdGlvbkxvZ+OBjOWil+OBiOOBquOBhOOBk+OBqCIgZG8K</text>
       </register>
-      <register name="9" type="4">
-        <text>it &quot;ActionLogが増えること&quot; do
-        expect { subject }.to change(ActionLog, :count).by(1)
-      end
-
-      it &quot;UserAccountが増えること&quot; do
-        expect { subject }.to change(UserAccount, :count).by(1)
-      end
-
-      it &quot;UserAccountPersonが増えること&quot; do
-        expect { subject }.to change(UserAccountPerson, :count).by(1)
-      end
-
-      it &quot;メールが2通送信されること&quot; do
-        expect { subject }.to change { ActionMailer::Base.deliveries.size }.by(2)
-      end</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>event</last-search>
+      <last-search>設立</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>設立</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3399,7 +3390,6 @@
     </search>
     <history>
       <history-search>
-        <entry>release</entry>
         <entry>check_foundation_date</entry>
         <entry>rspec</entry>
         <entry>spring</entry>
@@ -3419,6 +3409,7 @@
         <entry>respo</entry>
         <entry>building</entry>
         <entry>event</entry>
+        <entry>設立</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
