@@ -30,10 +30,10 @@
         <mark key="." line="94" column="30" />
         <mark key="^" line="94" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/user_accounts_controller_spec.rb" timestamp="1485503027462">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="57" />
-        <mark key="." line="5" column="57" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/user_accounts_controller_spec.rb" timestamp="1485505993394">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
         <mark key="^" line="5" column="57" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/setting_confirm_view.php" timestamp="1485346749720" />
@@ -3420,22 +3420,22 @@
         <text>:responsible_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QgeyBzdWJqZWN0IH0udG8gY2hhbmdlKEFjdGlvbkxvZywgOmNvdW50KS5ieSgwKQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXQgIkFjdGlvbkxvZ+OBjOWil+OBiOOBquOBhOOBk+OBqCIgZG8K</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QgeyBzdWJqZWN0IH0udG8gY2hhbmdlKEFjdGlvbkxvZywgOmNvdW50KS5ieSgwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaXQgIkFjdGlvbkxvZ+OBjOWil+OBiOOBquOBhOOBk+OBqCIgZG8K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3657,9 +3657,12 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>it &quot;ActionLogが増えること&quot; do
         expect { subject }.to change(ActionLog, :count).by(1)
       end
@@ -3675,9 +3678,6 @@
       it &quot;メールが2通送信されること&quot; do
         expect { subject }.to change { ActionMailer::Base.deliveries.size }.by(2)
       end</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
