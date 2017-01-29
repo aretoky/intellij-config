@@ -43,7 +43,7 @@
         <mark key="^" line="5" column="57" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/setting_confirm_view.php" timestamp="1485346749720" />
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/user_accounts_controller.rb" timestamp="1485503403375">
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/user_accounts_controller.rb" timestamp="1485695602650">
         <mark key="[" line="26" column="36" />
         <mark key="]" line="26" column="41" />
         <mark key="." line="26" column="41" />
@@ -82,6 +82,7 @@
         <mark key="." line="140" column="17" />
         <mark key="^" line="140" column="17" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1485697291526" />
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_do_processing_date_form.html.erb" timestamp="1485143360889">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="36" />
@@ -306,6 +307,9 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="53" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1485697248829">
+        <mark key="'" line="60" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/inamts.rb" timestamp="1485175307490">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="4" column="16" />
@@ -337,11 +341,11 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/economy_course_articles_controller.rb" timestamp="1485694863411">
-        <mark key="[" line="0" column="75" />
-        <mark key="]" line="0" column="74" />
-        <mark key="^" line="0" column="74" />
-        <mark key="." line="0" column="74" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/economy_course_articles_controller.rb" timestamp="1485695689021">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/rails_helper.rb" timestamp="1485334612864" />
       <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_creator.rb" timestamp="1485338571629">
@@ -424,11 +428,11 @@
         <mark key="^" line="57" column="45" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article/economy_course_article.rb" timestamp="1485695038432">
-        <mark key="[" line="1" column="58" />
-        <mark key="]" line="1" column="57" />
-        <mark key="^" line="1" column="57" />
-        <mark key="." line="1" column="57" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article/economy_course_article.rb" timestamp="1485697321239">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="59" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="99" column="58" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article_decorator.rb" timestamp="1484735076433">
         <mark key="[" line="39" column="0" />
@@ -700,11 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="161" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="120" column="24" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="130" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="131" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="44" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="194" column="2" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="139" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -800,6 +799,11 @@
       <jump line="180" column="26" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/setting.php" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
+      <jump line="380" column="6" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="14" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="59" column="32" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="60" column="32" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3449,28 +3453,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_name</text>
       </register>
       <register name="/" type="4">
-        <text>anna</text>
+        <text>mediaonly</text>
       </register>
-      <register name="0" type="4">
-        <text>foundation_date.to_date</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsaWRhdGVzIDpvcmlnaW5hbF9saXN0X3NpZ25hdHVyZV9pZCwgcHJlc2VuY2U6IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICByZXR1cm4gbmlsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZW5zdXJlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFsaWRhdGVzIDphdHRhY2htZW50X3VwZGF0ZSwgcHJlc2VuY2U6IHRydWUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdmFsaWRhdGVzIDp0aXRsZQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSAic3RyaW5nX3V0aWxzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmOiAtPiB7IGNvdXJzZV9pZC5zZW5kX29yaWdpbmFsX2xpc3Q/ID09IGZhbHNlIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3695,22 +3699,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAic3RyaW5nX3V0aWxzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgIGRlZiBlYXN5Pwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>anna</last-search>
+      <last-search>mediaonly</last-search>
       <last-offset />
-      <last-pattern>anna</last-pattern>
+      <last-pattern>mediaonly</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3718,8 +3722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spring</entry>
-        <entry>simple_form</entry>
         <entry>citry</entry>
         <entry>city_pid</entry>
         <entry>city</entry>
@@ -3738,6 +3740,8 @@
         <entry>設立</entry>
         <entry>datetime</entry>
         <entry>anna</entry>
+        <entry>course</entry>
+        <entry>mediaonly</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
