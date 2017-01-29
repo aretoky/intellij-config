@@ -162,11 +162,12 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" timestamp="1485701403022">
-        <mark key="'" line="1047" column="20" />
-        <mark key="[" line="400" column="0" />
-        <mark key="]" line="400" column="0" />
-        <mark key="." line="400" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" timestamp="1485702471441">
+        <mark key="'" line="1051" column="20" />
+        <mark key="[" line="339" column="111" />
+        <mark key="]" line="339" column="110" />
+        <mark key="^" line="339" column="110" />
+        <mark key="." line="339" column="110" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/initializers/simple_form_cplus_design.rb" timestamp="1484725882122">
         <mark key="'" line="10" column="42" />
@@ -377,6 +378,7 @@
         <mark key="^" line="100" column="7" />
         <mark key="." line="100" column="7" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" timestamp="1485701691726" />
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/setting_finish_view.php" timestamp="1485496205390" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/registrations/create.html.erb" timestamp="1483361934309">
         <mark key="'" line="26" column="10" />
@@ -430,7 +432,7 @@
         <mark key="^" line="38" column="6" />
         <mark key="." line="38" column="6" />
       </file>
-      <file name="/a.regexp" timestamp="1485700282233">
+      <file name="/a.regexp" timestamp="1485701693459">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3233,13 +3235,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$article['course_id'] === 2</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>showMedia</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDw/IGVsc2VpZiAoJGFydGljbGVbJ2NvdXJzZV9pZCddID09PSAyKTogLy8g44Ko44Kz44OO44Of44O8ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlPSBmLmNoZWNrYm94IDptZWRpdW1fZ2VucmVfaWQsIHZhbHVlOiBtZWRpdW1fZ2VucmUuaWQgJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8JSBlbHNlICU+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3248,16 +3250,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8Pz0gZm9ybV9lcnJvcignYXJ0aWNsZVttZWRpdW1fZ2VucmVfaWRdW10nKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPD8gZW5kaWY7ID8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8JT0gICAgICAgICAgICAgICAgICAgICAgICAgICA8JT0gZi5mdWxsX2Vycm9yIDpnZW5yZV9pZCAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8JSBlbmQgJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDw/IGVsc2VpZiAoJGFydGljbGVbJ2NvdXJzZV9pZCddID09PSAyKTogLy8g44Ko44Kz44OO44Of44O8ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDw/IGVuZGlmOyA/Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDw/IGVsc2VpZiAoJGFydGljbGVbJ2NvdXJzZV9pZCddID09PSAzKTogLy8g5o+Q5pC65aqS5L2TID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8PyBlbmRmb3JlYWNoID8+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3478,14 +3480,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDw/IGlmICgkYXJ0aWNsZVsnY291cnNlX2lkJ10gPT09IDEpOiAvLyDjg5Xjg6rjg7zjgrPjg7zjgrkgPz4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8PyAkZGlzYWJsZWQgPSBpbl9hcnJheSgkYXJ0aWNsZVsnY291cnNlX2lkJ10sIGFycmF5KDEsIDMpKSA/ICdkaXNhYmxlZCcgOiAnJzsgPz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD8gJGNoZWNrZWQgPSBzZXRfY2hlY2tib3goJ2FydGljbGVbbWVkaXVtX2dlbnJlX2lkXVtdJywgJGlkLCAoaW5fYXJyYXkoJGlkLCAkYXJ0aWNsZVsnbWVkaXVtX2dlbnJlX2lkJ10pKSk7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0iYXJ0aWNsZVttZWRpdW1fZ2VucmVfaWRdW10iIHZhbHVlPSI8Pz0gJGlkID8+IiA8Pz0gJGRpc2FibGVkID8+IDw/PSAkY2hlY2tlZCA/Pj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD89ICRfbWVkaXVtID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD8gZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD8gaWYgKCRhcnRpY2xlWydjb3Vyc2VfaWQnXSA9PT0gMik6ID8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
