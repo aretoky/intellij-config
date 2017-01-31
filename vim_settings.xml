@@ -65,8 +65,8 @@
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/setting_view.php" timestamp="1485337506165">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1485857211201">
-        <mark key="'" line="412" column="23" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1485861610628">
+        <mark key="'" line="410" column="17" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/original_list.rb" timestamp="1485859846507">
         <mark key="[" line="17" column="19" />
@@ -221,7 +221,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_media_settings_fields.html.erb" timestamp="1485859960578">
+      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_media_settings_fields.html.erb" timestamp="1485861714228">
+        <mark key="'" line="136" column="82" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
@@ -492,9 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="6" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
-      <jump line="529" column="6" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
-      <jump line="530" column="4" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="532" column="6" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="533" column="4" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="64" column="23" filename="$USER_HOME$/projects/cplus/Gemfile" />
@@ -576,7 +574,6 @@
       <jump line="101" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/entry_view.php" />
       <jump line="493" column="24" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" />
       <jump line="1269" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
-      <jump line="405" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="412" column="23" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="102" column="46" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="107" column="9" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -592,6 +589,10 @@
       <jump line="48" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="49" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/value_press/public/static/datamigration/original_list_signature.php" />
+      <jump line="405" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
+      <jump line="409" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
+      <jump line="410" column="17" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
+      <jump line="136" column="82" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_media_settings_fields.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3244,7 +3245,7 @@
         <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>original</text>
+        <text>$_signature</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhbGlhc19hdHRyaWJ1dGUgOmlkLCA6dXNlcl9hY2NvdW50X2lkCg==</text>
@@ -3500,9 +3501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>original</last-search>
+      <last-search>$_signature</last-search>
       <last-offset />
-      <last-pattern>original</last-pattern>
+      <last-pattern>$_signature</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3510,8 +3511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>event</entry>
-        <entry>設立</entry>
         <entry>datetime</entry>
         <entry>anna</entry>
         <entry>course</entry>
@@ -3530,6 +3529,8 @@
         <entry>配信先</entry>
         <entry>showOrigi</entry>
         <entry>original</entry>
+        <entry>originalListSignature</entry>
+        <entry>$_signature</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
