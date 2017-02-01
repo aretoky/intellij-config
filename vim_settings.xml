@@ -241,8 +241,8 @@
         <mark key="." line="240" column="16" />
         <mark key="^" line="239" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1485878074129">
-        <mark key="'" line="94" column="14" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1485911606830">
+        <mark key="'" line="36" column="3" />
         <mark key="[" line="78" column="26" />
         <mark key="]" line="79" column="31" />
         <mark key="^" line="79" column="31" />
@@ -530,8 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="107" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
-      <jump line="157" column="140" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="200" column="40" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="378" column="55" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
       <jump line="218" column="15" filename="$USER_HOME$/projects/value_press/app/views/users/user_accounts/edit.html.erb" />
@@ -630,6 +628,8 @@
       <jump line="97" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="98" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="94" column="14" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="36" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3282,7 +3282,7 @@
         <text>$article['set_password'] !== 1</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>catego</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNob3dfcGFzc3dvcmQiIDw/PSAoJGFydGljbGVbJ3NldF9wYXNzd29yZCddICE9PSAxKSA/ICdzdHlsZT0iZGlzcGxheTpub25lOyInIDogJycgPz4+Cg==</text>
@@ -3538,9 +3538,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>catego</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern>catego</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3548,7 +3548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>meta</entry>
         <entry>showMedia</entry>
         <entry>pra</entry>
         <entry>オリジナルリスト</entry>
@@ -3568,6 +3567,7 @@
         <entry>password</entry>
         <entry>set_pass</entry>
         <entry>pass</entry>
+        <entry>catego</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
