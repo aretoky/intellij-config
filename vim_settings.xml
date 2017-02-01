@@ -53,6 +53,12 @@
         <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_email_fields.html.slim" timestamp="1485941929115" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/medium_genre_id_manageable.rb" timestamp="1485975754139">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_depo_fields.html.slim" timestamp="1485941952554">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -128,12 +134,12 @@
         <mark key="^" line="67" column="36" />
         <mark key="." line="67" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" timestamp="1485973996564">
-        <mark key="'" line="128" column="35" />
-        <mark key="[" line="294" column="39" />
-        <mark key="]" line="294" column="36" />
-        <mark key="." line="293" column="27" />
-        <mark key="^" line="293" column="27" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" timestamp="1485975956272">
+        <mark key="'" line="151" column="67" />
+        <mark key="[" line="272" column="1" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/guide.html.erb" timestamp="1485420123292">
         <mark key="[" line="108" column="14" />
@@ -142,35 +148,41 @@
         <mark key="^" line="210" column="7" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/medium_genre.rb" timestamp="1485974606390" />
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/original_list_send_list_manageable.rb" timestamp="1485974375118">
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="59" />
-        <mark key="." line="17" column="59" />
-        <mark key="^" line="17" column="59" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/original_list_send_list_manageable.rb" timestamp="1485975740276">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1485682398826">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_media_settings_fields.html.erb" timestamp="1485966466299">
+      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_media_settings_fields.html.erb" timestamp="1485975993719">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="208" column="29" />
-        <mark key="]" line="208" column="29" />
-        <mark key="." line="208" column="29" />
-        <mark key="^" line="208" column="29" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="110" column="73" />
+        <mark key="." line="110" column="73" />
+        <mark key="^" line="110" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1485974508904">
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1485975765079">
         <mark key="'" line="60" column="33" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="96" column="20" />
-        <mark key="." line="130" column="0" />
+        <mark key="[" line="79" column="40" />
+        <mark key="]" line="80" column="32" />
+        <mark key="^" line="80" column="32" />
+        <mark key="." line="80" column="32" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/boot.rb" timestamp="1485683212746">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/economy_course_articles_controller.rb" timestamp="1485974874801">
+        <mark key="[" line="48" column="45" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/registration_emails.html.erb" timestamp="1485968546139">
         <mark key="[" line="4" column="16" />
@@ -302,7 +314,7 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="/a.regexp" timestamp="1485974567877">
+      <file name="/a.regexp" timestamp="1485975934249">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -356,11 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="11" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index.php" />
-      <jump line="193" column="3" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index.php" />
-      <jump line="195" column="54" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index.php" />
-      <jump line="196" column="20" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index.php" />
-      <jump line="198" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index.php" />
       <jump line="201" column="17" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index.php" />
       <jump line="204" column="33" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index.php" />
       <jump line="34" column="16" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
@@ -456,6 +463,11 @@
       <jump line="109" column="36" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" />
       <jump line="128" column="35" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" />
       <jump line="60" column="33" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="10" column="12" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" />
+      <jump line="31" column="39" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" />
+      <jump line="46" column="37" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" />
+      <jump line="67" column="37" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" />
+      <jump line="151" column="67" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/new.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3105,13 +3117,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>クラス</text>
       </register>
       <register name="/" type="4">
-        <text>medium</text>
+        <text>required_title</text>
       </register>
       <register name="0" type="4">
-        <text>CKEDITOR.replace</text>
+        <text>モジュール</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBiZWxvbmdzX3RvIDptZWRpdW1fZ2VucmUK</text>
@@ -3364,9 +3376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>medium</last-search>
+      <last-search>required_title</last-search>
       <last-offset />
-      <last-pattern>medium</last-pattern>
+      <last-pattern>required_title</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3374,7 +3386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>content</entry>
         <entry>save</entry>
         <entry>release_content</entry>
         <entry>inq</entry>
@@ -3394,6 +3405,7 @@
         <entry>rich_</entry>
         <entry>rich_content</entry>
         <entry>medium</entry>
+        <entry>required_title</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
