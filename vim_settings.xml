@@ -136,11 +136,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/users/registrations_controller.rb" timestamp="1486376252667">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="52" column="3" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/users/registrations_controller.rb" timestamp="1486379529539">
+        <mark key="[" line="52" column="10" />
+        <mark key="]" line="52" column="13" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="52" column="13" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/custs_controllerable.rb" timestamp="1486313458058">
         <mark key="'" line="1" column="14" />
@@ -285,6 +285,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/controllers/users/static_pages_controller.rb" timestamp="1486379348746">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/_new_notice.html.erb" timestamp="1486345834512" />
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css" timestamp="1485977495703">
         <mark key="'" line="1385" column="41" />
@@ -300,11 +306,10 @@
         <mark key="^" line="11" column="69" />
         <mark key="." line="11" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/routes.rb" timestamp="1486371240344">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
+      <file name="$USER_HOME$/projects/umareso/config/routes.rb" timestamp="1486379493594">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1486372011244">
         <mark key="[" line="10" column="39" />
@@ -3444,31 +3449,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>attribute</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>slim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgID0gZi5pbnB1dCA6ZW1haWwsIHJlcXVpcmVkOiB0cnVlLCBhdXRvZm9jdXM6IHRydWUK</text>
+        <text encoding="base64">ICByb290IHRvOiAic3RhdGljX3BhZ2VzI3RvcCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHJlc291cmNlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHJlc291cmNlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgID0gZi5pbnB1dCA6ZW1haWwsIHJlcXVpcmVkOiB0cnVlLCBhdXRvZm9jdXM6IHRydWUK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKHJlc291cmNlKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOm5hbWUsIG5pbDogZmFsc2UsIGRlZmF1bHQ6ICIiCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKHJlc291cmNlKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3690,13 +3695,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyDjgqrjg6rjgrjjg4rjg6sK</text>
+        <text encoding="base64">ICAgIHN1cGVyKHJlc291cmNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGVuZAo=</text>
+        <text encoding="base64">ICAgID0gZi5pbnB1dCA6ZW1haWwsIHJlcXVpcmVkOiB0cnVlLCBhdXRvZm9jdXM6IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjICAgcmVzb3VyY2UgOnNlc3Npb24sIG9ubHk6ICV3KG5ldyBjcmVhdGUgZGVzdHJveSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
