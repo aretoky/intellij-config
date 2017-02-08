@@ -288,6 +288,13 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="147" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_confirmation.html.erb" timestamp="1486547468857">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/factories/user_accounts.rb" timestamp="1485858135411">
         <mark key="'" line="28" column="24" />
         <mark key="[" line="31" column="6" />
@@ -764,12 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="10" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="113" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="115" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="133" column="197" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="149" column="49" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
-      <jump line="652" column="9" filename="$USER_HOME$/projects/pos-calc/app/models/store.rb" />
       <jump line="133" column="9" filename="$USER_HOME$/projects/pos-calc/lib/tel_splitter.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
       <jump line="1" column="12" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder_csv_record.rb" />
@@ -864,6 +865,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_form.html.erb" />
       <jump line="191" column="28" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_form.html.erb" />
       <jump line="196" column="34" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_form.html.erb" />
+      <jump line="34" column="13" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_confirmation.html.erb" />
+      <jump line="36" column="31" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_confirmation.html.erb" />
+      <jump line="40" column="31" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_confirmation.html.erb" />
+      <jump line="44" column="31" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_confirmation.html.erb" />
+      <jump line="185" column="73" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_confirmation.html.erb" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_confirmation.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3513,31 +3520,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>confirmation</text>
+        <text>set_course_name($article)</text>
       </register>
       <register name="/" type="4">
-        <text>confir</text>
+        <text encoding="base64">XDxmb3Jt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8JT0gcmVuZGVyICdjb25maXJtYXRpb24nICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkIGNsYXNzPSJib3hfdGV4dGZvcm0iPjw/PSBzZXRfY291cnNlX25hbWUoJGFydGljbGUpID8+PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkIGNsYXNzPSJib3hfdGV4dGZvcm0iPjw/PSBzZXRfY291cnNlX25hbWUoJGFydGljbGUpID8+PC90ZD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCU9IHJlbmRlciAnJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCU9IHJlbmRlciAnJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">QGFydGljbGUuYXR0cmlidXRlcyA9IGVjb25vbXlfY291cnNlX2FydGljbGVfcGFyYW1zCiAgICBpZiBwYXJhbXNbOmJhY2tdLm5pbD8gJiYgQGFydGljbGUuc2F2ZQogICAgZWxzZQogICAgICBAYXJ0aWNsZS5jb25maXJtaW5nID0gbmlsIGlmIHBhcmFtc1s6YmFja10KICAgICAgcmVuZGVyIDplZGl0CiAgICBlbmQ=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3758,23 +3765,23 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">QGFydGljbGUuYXR0cmlidXRlcyA9IGVjb25vbXlfY291cnNlX2FydGljbGVfcGFyYW1zCiAgICBpZiBwYXJhbXNbOmJhY2tdLm5pbD8gJiYgQGFydGljbGUuc2F2ZQogICAgZWxzZQogICAgICBAYXJ0aWNsZS5jb25maXJtaW5nID0gbmlsIGlmIHBhcmFtc1s6YmFja10KICAgICAgcmVuZGVyIDplZGl0CiAgICBlbmQ=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9vcl91cGRhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9vcl91cGRhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>confir</last-search>
+      <last-search encoding="base64">XDxmb3Jt</last-search>
       <last-offset />
-      <last-pattern>confir</last-pattern>
+      <last-pattern encoding="base64">XDxmb3Jt</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3782,8 +3789,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
-        <entry>message</entry>
         <entry>release_inquiry</entry>
         <entry>service_mediacontact_flg</entry>
         <entry>attachment_update</entry>
@@ -3802,6 +3807,8 @@
         <entry>save</entry>
         <entry>window.histroy.pushState</entry>
         <entry>confir</entry>
+        <entry>form</entry>
+        <entry encoding="base64">XDxmb3Jt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
