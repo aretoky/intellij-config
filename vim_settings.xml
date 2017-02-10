@@ -83,11 +83,11 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article_meta.rb" timestamp="1486723004886">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article_meta.rb" timestamp="1486742132867">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="22" column="55" />
+        <mark key="." line="22" column="55" />
+        <mark key="^" line="22" column="55" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/create_or_update.html.erb" timestamp="1486546318702">
         <mark key="[" line="5" column="14" />
@@ -109,7 +109,7 @@
         <mark key="." line="255" column="90" />
         <mark key="^" line="254" column="10" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1486739690403">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1486741760869">
         <mark key="'" line="594" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/mplan.rb" timestamp="1486314126976">
@@ -302,11 +302,11 @@
         <mark key="." line="45" column="45" />
         <mark key="^" line="45" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1486741416953">
-        <mark key="[" line="113" column="76" />
-        <mark key="]" line="113" column="76" />
-        <mark key="." line="113" column="76" />
-        <mark key="^" line="114" column="21" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1486742034716">
+        <mark key="[" line="114" column="20" />
+        <mark key="]" line="114" column="20" />
+        <mark key="^" line="114" column="18" />
+        <mark key="." line="114" column="20" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/static_pages_controller.rb" timestamp="1486620420885">
         <mark key="[" line="1" column="32" />
@@ -640,8 +640,8 @@
         <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/creditcard.rb" timestamp="1486717481662" />
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1486740313248">
-        <mark key="'" line="17" column="27" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1486741745731">
+        <mark key="'" line="16" column="31" />
         <mark key="[" line="154" column="19" />
         <mark key="]" line="154" column="31" />
         <mark key="^" line="154" column="31" />
@@ -671,7 +671,7 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/models/article_meta_model.php" timestamp="1486722739681" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/models/article_meta_model.php" timestamp="1486742116842" />
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" timestamp="1486310166834">
         <mark key="[" line="89" column="27" />
         <mark key="]" line="89" column="27" />
@@ -702,7 +702,7 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="/a.regexp" timestamp="1486739975837">
+      <file name="/a.regexp" timestamp="1486741878062">
         <mark key="i" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -780,7 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="64" filename="$USER_HOME$/projects/value_press/config/initializers/simple_form.rb" />
       <jump line="7" column="28" filename="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/_form.html.erb" />
       <jump line="14" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="353" column="51" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
@@ -880,6 +879,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="6" column="10" filename="$USER_HOME$/projects/value_press/app/models/option_premium.rb" />
       <jump line="157" column="7" filename="$USER_HOME$/sandbox/vp_main_system/application/models/option_premium_model.php" />
+      <jump line="16" column="31" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3529,18 +3529,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.close!</text>
+        <text encoding="base64">cGFzc3dvcmQ6IA==</text>
       </register>
       <register name="/" type="4">
-        <text>close_</text>
+        <text>lock</text>
       </register>
-      <register name="0" type="4">
-        <text>def close!(article_id)
-    update!(article_id: article_id)
-  end</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZGVmYXVsdF92YWx1ZV9mb3IgOnNldF9wYXNzd29yZCwgZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -3549,7 +3547,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIE9wdGlvblByZW1pdW0uZmluZChvcHRpb25faWQpLmNsb3NlIQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -3777,7 +3775,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9wdGlvblByZW1pdW0uZmluZChvcHRpb25faWQpLmNsb3NlIQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -3790,9 +3788,9 @@
       </register>
     </registers>
     <search>
-      <last-search>close_</last-search>
+      <last-search>lock</last-search>
       <last-offset />
-      <last-pattern>close_</last-pattern>
+      <last-pattern>lock</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3800,7 +3798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>release_inquiry</entry>
         <entry>fou</entry>
         <entry>boo</entry>
         <entry>ransack</entry>
@@ -3820,6 +3817,7 @@
         <entry>option_pre</entry>
         <entry>media</entry>
         <entry>close_</entry>
+        <entry>lock</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
