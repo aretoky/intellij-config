@@ -9,10 +9,10 @@
         <mark key="." line="10" column="52" />
         <mark key="^" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/locales/views/articles/ja.yml" timestamp="1486749199581">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/projects/value_press/config/locales/views/articles/ja.yml" timestamp="1486776725740">
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="8" />
+        <mark key="." line="492" column="8" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/user_accounts_controller_spec.rb" timestamp="1485505993394">
         <mark key="[" line="45" column="0" />
@@ -3449,27 +3449,19 @@
         <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXQgJ3NlbGVjdGluZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXQgJ3NlbGVjdGluZycK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>resources :economy_course_articles, only: %w(new create edit update) do
-    collection do
-      match :save_draft, via: %w(post patch)
-    end
-    member do
-      get :confirm
-      patch :finish
-    end
-  end</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3693,11 +3685,19 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>resources :economy_course_articles, only: %w(new create edit update) do
+    collection do
+      match :save_draft, via: %w(post patch)
+    end
+    member do
+      get :confirm
+      patch :finish
+    end
+  end</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
