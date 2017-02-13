@@ -118,11 +118,6 @@
         <mark key="." line="311" column="44" />
         <mark key="^" line="311" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1486909334859">
-        <mark key="'" line="377" column="51" />
-        <mark key="[" line="952" column="30" />
-        <mark key="]" line="952" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170206083930_add_omniauth_columns_to_users.rb" timestamp="1486370406633">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="6" column="52" />
@@ -153,6 +148,12 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="87" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_magagine.json.jbuilder" timestamp="1486964483338">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="1" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/free_course_articles_controller.rb" timestamp="1486907192410">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="8" column="40" />
@@ -170,6 +171,12 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/layouts/application.html.slim" timestamp="1486964999195">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/registrations_controller.rb" timestamp="1486379529539">
         <mark key="[" line="52" column="10" />
@@ -297,6 +304,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_magazine.json.jbuilder" timestamp="1486964499652">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/update.html.erb" timestamp="1486554804787">
         <mark key="[" line="1" column="23" />
@@ -588,11 +600,11 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/locales/models/ja.yml" timestamp="1486623386734">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="6" />
-        <mark key="^" line="24" column="30" />
-        <mark key="." line="25" column="6" />
+      <file name="$USER_HOME$/projects/umareso/config/locales/models/ja.yml" timestamp="1486964695234">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="10" />
+        <mark key="^" line="29" column="10" />
+        <mark key="." line="29" column="10" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1486372498769">
         <mark key="[" line="6" column="35" />
@@ -3525,13 +3537,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>magazines</text>
+        <text>Umareso</text>
       </register>
       <register name="/" type="4">
         <text>release_inquiry</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;#{resource.singularize}_id</text>
+        <text>magazine:
+      publish_status:
+        draft: 下書き
+        published: 公開</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhCg==</text>
