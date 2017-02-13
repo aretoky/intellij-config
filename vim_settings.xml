@@ -126,10 +126,10 @@
         <mark key="." line="311" column="44" />
         <mark key="^" line="311" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1487006496599">
-        <mark key="'" line="969" column="21" />
-        <mark key="[" line="1133" column="92" />
-        <mark key="]" line="1133" column="113" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1487009622025">
+        <mark key="'" line="1143" column="32" />
+        <mark key="[" line="1190" column="48" />
+        <mark key="]" line="1190" column="56" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170206083930_add_omniauth_columns_to_users.rb" timestamp="1486370406633">
         <mark key="[" line="1" column="12" />
@@ -172,6 +172,12 @@
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/mediacontact_act.rb" timestamp="1487009558152">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="123" column="35" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209041023_create_stories.rb" timestamp="1486619229049">
         <mark key="[" line="7" column="28" />
@@ -316,12 +322,6 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1487007105255">
-        <mark key="[" line="123" column="49" />
-        <mark key="]" line="123" column="61" />
-        <mark key="^" line="123" column="61" />
-        <mark key="." line="123" column="61" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/static_pages_controller.rb" timestamp="1486620420885">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="6" column="0" />
@@ -353,11 +353,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" timestamp="1487007215749">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" timestamp="1487009805092">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="34" column="39" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/application_controller.rb" timestamp="1486986510922">
         <mark key="[" line="10" column="0" />
@@ -371,12 +371,12 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1487003493701">
-        <mark key="'" line="24" column="3" />
-        <mark key="[" line="141" column="25" />
-        <mark key="]" line="142" column="23" />
-        <mark key="^" line="142" column="23" />
-        <mark key="." line="142" column="23" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1487009139971">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="145" column="31" />
+        <mark key="]" line="146" column="28" />
+        <mark key="^" line="146" column="28" />
+        <mark key="." line="146" column="28" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1486372011244">
         <mark key="[" line="10" column="39" />
@@ -693,6 +693,9 @@
         <mark key="^" line="7" column="57" />
         <mark key="." line="7" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1487008585201">
+        <mark key="'" line="106" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/magagines_controller.rb" timestamp="1486621370826">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="13" />
@@ -774,7 +777,7 @@
         <mark key="." line="14" column="69" />
         <mark key="^" line="14" column="90" />
       </file>
-      <file name="/a.regexp" timestamp="1487006585656">
+      <file name="/a.regexp" timestamp="1487009101306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -843,19 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="15" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="103" column="82" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="115" column="0" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="7" column="28" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="109" column="10" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="136" column="8" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="91" column="17" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="0" column="11" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="36" column="8" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="38" column="8" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="64" column="67" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="440" column="48" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
-      <jump line="11" column="9" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
       <jump line="6" column="21" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="325" column="51" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="377" column="51" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
@@ -929,7 +919,6 @@
       <jump line="117" column="5" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="149" column="21" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="150" column="21" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="23" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="24" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="235" column="42" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="969" column="21" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
@@ -943,6 +932,20 @@
       <jump line="158" column="8" filename="$USER_HOME$/projects/value_press/config/locales/default/ja.yml" />
       <jump line="166" column="6" filename="$USER_HOME$/projects/value_press/config/locales/default/ja.yml" />
       <jump line="172" column="8" filename="$USER_HOME$/projects/value_press/config/locales/default/ja.yml" />
+      <jump line="1053" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
+      <jump line="114" column="10" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="143" column="20" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="151" column="28" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="23" column="10" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="97" column="19" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="100" column="29" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="1148" column="31" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
+      <jump line="6" column="8" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="77" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="106" column="18" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="9" column="4" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="25" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="1143" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3592,31 +3595,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@article.update_ready</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>format</text>
+        <text>_add_mediacontact_act</text>
       </register>
       <register name="0" type="4">
-        <text>article.user_account.id</text>
+        <text>'service'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gIiN7Y3VycmVudF9zdGFmZi5zdGFmZl9uYW1lfeOBleOCk+OBjOODquODquODvOOCueOAjCN7YXJ0aWNsZS50aXRsZX3jgI0oI3thcnRpY2xlLnNob3dfc2VuZF9kYXRlfemFjeS/oeS6iOWuminjgpLmib/oqo3jgZfjgb7jgZfjgZ/jgIIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PCU9IEBtYWlsX2luZm8ubWVkaXVtX25hbWUgJT4KPCU9IEBtYWlsX2luZm8ubWVkaXVtX3BlcnNvbiAlPiDmp5gKCgrjgYTjgaTjgoJWYWx1ZVByZXNzIeOBruODl+ODrOOCueODquODquODvOOCueOCkuOBlOimp+mgguOBjeOAgQrjgYLjgorjgYzjgajjgYbjgZTjgZbjgYTjgb7jgZnjgIIKCuaYqOaXpeOBruODl+ODrOOCueODquODquODvOOCueOCkgrjg4DjgqTjgrjjgqfjgrnjg4jlvaLlvI/jgafjgYrpgIHjgorjgZfjgb7jgZnjgIIKCgrilqHilqDilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIEK44CA44CA44CA44CA44CA44CQVmFsdWVQcmVzcyHjg4DjgqTjgrjjgqfjgrnjg4jjgIA8JT0gQG1haWxfaW5mby5kYXRlXzIgJT7jgJEK44CA44CA44CA772e5pio5pel44Gu44OX44Os44K544Oq44Oq44O844K544KS44OA44Kk44K444Kn44K544OI5b2i5byP44Gn44GK5bGK44GR772eCuKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKWoOKWoQoKPCU9IEBtYWlsX2luZm8uY29udGVudHMgJT4KCuKUgSBWYWx1ZVByZXNzIeOBi+OCieOBruODl+ODrOOCueODquODquODvOOCueOBq+OBpOOBhOOBpiDilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIEKClZhbHVlUHJlc3Mh44Gn44Gv44CB44GU55m76Yyy5pmC44Gr6YG45oqe44GV44KM44Gf5pa55rOV44Gn44OX44Os44K544Oq44Oq44O844K544KS44GK6YCB44KK44GX44Gm44GE44G+44GZ44CCCuWPl+OBkeWPluOCiuOBn+OBhOODquODquODvOOCueOBruioreWumuOBquOBqeOBr+S4i+iomFVSTOOCiOOCiuWkieabtOWPr+iDveOBp+OBmeOAggo8JT0gQG1haWxfaW5mby5yZWFkZXJfdXJsICU+</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBtYWlsX2luZm8gPSBtYWlsX2luZm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3838,7 +3841,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -3851,9 +3854,9 @@
       </register>
     </registers>
     <search>
-      <last-search>format</last-search>
+      <last-search>_add_mediacontact_act</last-search>
       <last-offset />
-      <last-pattern>format</last-pattern>
+      <last-pattern>_add_mediacontact_act</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3861,12 +3864,6 @@
     </search>
     <history>
       <history-search>
-        <entry>medium_genre_id</entry>
-        <entry>original_list_signature_id</entry>
-        <entry>article</entry>
-        <entry>option_name</entry>
-        <entry>method</entry>
-        <entry>new</entry>
         <entry>release_inquiry</entry>
         <entry>last</entry>
         <entry>default</entry>
@@ -3881,6 +3878,12 @@
         <entry>_get_price_info</entry>
         <entry>date</entry>
         <entry>format</entry>
+        <entry>_add_article</entry>
+        <entry>mediacontact</entry>
+        <entry>get_mediacontact_act_data_by_article_id</entry>
+        <entry>oem_pa</entry>
+        <entry>service_mediacontact_flg</entry>
+        <entry>_add_mediacontact_act</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
