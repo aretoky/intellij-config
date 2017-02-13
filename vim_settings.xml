@@ -8,8 +8,8 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1487003598928">
-        <mark key="'" line="973" column="13" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1487004273572">
+        <mark key="'" line="969" column="21" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
@@ -22,11 +22,11 @@
         <mark key="]" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1487003146545">
-        <mark key="[" line="133" column="15" />
-        <mark key="]" line="133" column="29" />
-        <mark key="^" line="133" column="29" />
-        <mark key="." line="133" column="29" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1487004351283">
+        <mark key="[" line="124" column="10" />
+        <mark key="]" line="124" column="15" />
+        <mark key="." line="124" column="15" />
+        <mark key="^" line="124" column="15" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/city.rb" timestamp="1487001121735" />
       <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/application.js" timestamp="1486984227432">
@@ -138,8 +138,6 @@
       <file name="$USER_HOME$/projects/value_press/app/controllers/admin/option_mediacontacts_controller.rb" timestamp="1487000236550" />
     </filemarks>
     <jumps>
-      <jump line="216" column="8" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
       <jump line="47" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="174" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_form.html.erb" />
       <jump line="762" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/entry_view.php" />
@@ -238,6 +236,8 @@
       <jump line="150" column="21" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="23" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="24" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="235" column="42" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
+      <jump line="969" column="21" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2887,19 +2887,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OptionMediacontact.progress_by_article_id(id)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>option_media</text>
+        <text>_get_price_info</text>
       </register>
-      <register name="0" type="4">
-        <text>commodity_price.price</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBDb21tb2RpdHlQcmljZS5nZXQoJ2Vjb25vbXknKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhdGUgPSA4Cg==</text>
+        <text encoding="base64">ICAgICAgY291cnNlLnByaWNlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2911,7 +2911,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpY2UgPQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3133,7 +3133,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGlzX2ludGF4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -3146,9 +3146,9 @@
       </register>
     </registers>
     <search>
-      <last-search>option_media</last-search>
+      <last-search>_get_price_info</last-search>
       <last-offset />
-      <last-pattern>option_media</last-pattern>
+      <last-pattern>_get_price_info</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3156,7 +3156,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user_account</entry>
         <entry>article_class</entry>
         <entry encoding="base64">IGFjdGlvbg==</entry>
         <entry>medium_genre_id</entry>
@@ -3176,6 +3175,7 @@
         <entry>update_mone</entry>
         <entry>unpaid_mediacontact</entry>
         <entry>option_media</entry>
+        <entry>_get_price_info</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
