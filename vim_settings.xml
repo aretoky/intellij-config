@@ -513,11 +513,11 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/helpers/application_helper.rb" timestamp="1486975042267">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="15" />
+      <file name="$USER_HOME$/projects/umareso/app/helpers/application_helper.rb" timestamp="1486977059383">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/send_date_supportable.rb" timestamp="1486718315832">
         <mark key="[" line="34" column="74" />
@@ -3583,7 +3583,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
@@ -3601,13 +3601,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uZmlnLndyYXBwZXJzIDpjZF9iaywgdGFnOiAic3BhbiIsIGVycm9yX2NsYXNzOiAiaGFzLWVycm9yIiBkbyB8YnwKICAgIGIudXNlIDpodG1sNQogICAgYi51c2UgOnBsYWNlaG9sZGVyCgogICAgYi51c2UgOmxhYmVsX2lucHV0LCBhdXRvY29tcGxldGU6ICJvZmYiCiAgICBiLnVzZSA6ZXJyb3IsIHdyYXBfd2l0aDogeyB0YWc6ICJzcGFuIiwgY2xhc3M6ICJoZWxwLWJsb2NrIiB9CiAgICBiLnVzZSA6aGludCwgIHdyYXBfd2l0aDogeyB0YWc6ICJwIiwgY2xhc3M6ICJoZWxwLWJsb2NrIiB9CiAgZW5kCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3828,7 +3828,13 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uZmlnLndyYXBwZXJzIDpjZF9iaywgdGFnOiAic3BhbiIsIGVycm9yX2NsYXNzOiAiaGFzLWVycm9yIiBkbyB8YnwKICAgIGIudXNlIDpodG1sNQogICAgYi51c2UgOnBsYWNlaG9sZGVyCgogICAgYi51c2UgOmxhYmVsX2lucHV0LCBhdXRvY29tcGxldGU6ICJvZmYiCiAgICBiLnVzZSA6ZXJyb3IsIHdyYXBfd2l0aDogeyB0YWc6ICJzcGFuIiwgY2xhc3M6ICJoZWxwLWJsb2NrIiB9CiAgICBiLnVzZSA6aGludCwgIHdyYXBfd2l0aDogeyB0YWc6ICJwIiwgY2xhc3M6ICJoZWxwLWJsb2NrIiB9CiAgZW5kCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>config.wrappers :horizontal_cd_bk, tag: &quot;span&quot;, error_class: &quot;has-error&quot; do |b|
     b.use :html5
     b.use :placeholder
@@ -3837,12 +3843,6 @@
     b.use :error, wrap_with: { tag: &quot;span&quot;, class: &quot;help-block&quot; }
     b.use :hint,  wrap_with: { tag: &quot;p&quot;, class: &quot;help-block&quot; }
   end</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAuZm9ybS1pbnB1dHMucm93Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">LmZvcm0uY29sdW1ucy5tZWRpdW0tNgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
