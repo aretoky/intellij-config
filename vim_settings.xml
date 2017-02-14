@@ -268,6 +268,12 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="29" column="137" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/models/article/economy_course_article_spec.rb" timestamp="1487036386563">
+        <mark key="[" line="73" column="46" />
+        <mark key="]" line="73" column="45" />
+        <mark key="^" line="73" column="45" />
+        <mark key="." line="73" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" timestamp="1486577090509">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -384,6 +390,7 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/user_account/support_default_values.rb" timestamp="1487036080453" />
       <file name="$USER_HOME$/projects/umareso/app/models/story_text.rb" timestamp="1486985313911">
         <mark key="[" line="22" column="69" />
         <mark key="]" line="22" column="72" />
@@ -448,6 +455,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="107" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/models/article/api_relation_spec.rb" timestamp="1487036380943" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_media_settings_fields.html.erb" timestamp="1486909095446">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -632,6 +640,12 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/factories/article.rb" timestamp="1487036879529">
+        <mark key="[" line="76" column="90" />
+        <mark key="]" line="76" column="94" />
+        <mark key="^" line="76" column="94" />
+        <mark key="." line="76" column="94" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/ar_innodb_row_format.rb" timestamp="1486370740196">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="45" />
@@ -693,7 +707,7 @@
         <mark key="^" line="7" column="57" />
         <mark key="." line="7" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1487008585201">
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1487035451932">
         <mark key="'" line="106" column="18" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/magagines_controller.rb" timestamp="1486621370826">
@@ -777,7 +791,7 @@
         <mark key="." line="14" column="69" />
         <mark key="^" line="14" column="90" />
       </file>
-      <file name="/a.regexp" timestamp="1487009101306">
+      <file name="/a.regexp" timestamp="1487035557389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -3603,8 +3617,44 @@
       <register name="0" type="4">
         <text>'service'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>describe &quot;#by_id&quot; do
+    let(:article) do
+      create(:article,
+             article_id: 99_999,
+             pr_today_article_id: 1,
+             pr_press_article_id: 2)
+    end
+    let(:serach_article_id) { article.article_id }
+    let(:publish_only) { true }
+    let(:pr_today_flg) { false }
+    let(:pr_press_flg) { false }
+    subject { Article.by_id(serach_article_id, publish_only, pr_today_flg, pr_press_flg) }
+    context 'article_idで検索する場合' do
+      it 'データが取得できること' do
+        expect(subject).to eq(article)
+      end
+    end
+
+    context 'pr_today_article_idで検索する場合' do
+      let(:serach_article_id) { article.pr_today_article_id }
+      let(:pr_today_flg) { true }
+      it 'データが取得できること' do
+        expect(subject).to eq(article)
+      end
+    end
+
+    context 'pr_press_article_idで検索する場合' do
+      let(:serach_article_id) { article.pr_press_article_id }
+      let(:pr_press_flg) { true }
+      it 'データが取得できること' do
+        expect(subject).to eq(article)
+      end
+    end
+  end
+
+  #
+  it_behaves_like 'support_mass_production_site'</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -3841,10 +3891,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
