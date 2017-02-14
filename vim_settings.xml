@@ -130,9 +130,9 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" timestamp="1487082203838">
-        <mark key="[" line="57" column="105" />
-        <mark key="]" line="57" column="106" />
+      <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" timestamp="1487082539822">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="129" />
         <mark key="^" line="57" column="106" />
         <mark key="." line="57" column="106" />
       </file>
@@ -146,6 +146,9 @@
         <mark key="]" line="126" column="61" />
         <mark key="^" line="126" column="61" />
         <mark key="." line="126" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/firstpayment.php" timestamp="1487082842047">
+        <mark key="'" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/models/article_spec.rb" timestamp="1487039806614" />
       <file name="$USER_HOME$/projects/value_press/app/models/commodity_price.rb" timestamp="1487002656922">
@@ -176,7 +179,6 @@
       <file name="$USER_HOME$/projects/value_press/app/controllers/admin/option_mediacontacts_controller.rb" timestamp="1487000236550" />
     </filemarks>
     <jumps>
-      <jump line="6" column="21" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="325" column="51" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="377" column="51" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/confirm.html.erb" />
@@ -276,6 +278,7 @@
       <jump line="9" column="4" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="25" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="1143" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
+      <jump line="12" column="7" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/firstpayment.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2928,10 +2931,10 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>_add_mediacontact_act</text>
+        <text>company</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHVzZXItPmNvbXBhbnlfbmFtZQ==</text>
+        <text encoding="base64">bWJfc3RybGVuKCR1c2VyLT5jb21wYW55X25hbWUpID4gMTggPyBtYl9zdWJzdHIoJHVzZXItPmNvbXBhbnlfbmFtZSwgMCwgMTgpIDogJHVzZXItPmNvbXBhbnlfbmFtZQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3184,9 +3187,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_add_mediacontact_act</last-search>
+      <last-search>company</last-search>
       <last-offset />
-      <last-pattern>_add_mediacontact_act</last-pattern>
+      <last-pattern>company</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3194,7 +3197,6 @@
     </search>
     <history>
       <history-search>
-        <entry>release_inquiry</entry>
         <entry>last</entry>
         <entry>default</entry>
         <entry>optional</entry>
@@ -3214,6 +3216,7 @@
         <entry>oem_pa</entry>
         <entry>service_mediacontact_flg</entry>
         <entry>_add_mediacontact_act</entry>
+        <entry>company</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
