@@ -38,11 +38,11 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="29" column="137" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/models/article/economy_course_article_spec.rb" timestamp="1487040130609">
-        <mark key="[" line="89" column="19" />
-        <mark key="]" line="89" column="19" />
-        <mark key="^" line="106" column="8" />
-        <mark key="." line="89" column="19" />
+      <file name="$USER_HOME$/projects/value_press/spec/models/article/economy_course_article_spec.rb" timestamp="1487085926082">
+        <mark key="[" line="74" column="61" />
+        <mark key="]" line="74" column="61" />
+        <mark key="^" line="74" column="78" />
+        <mark key="." line="74" column="61" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1487040089380" />
       <file name="$USER_HOME$/projects/value_press/app/models/city.rb" timestamp="1487001121735" />
@@ -88,7 +88,7 @@
         <mark key="^" line="33" column="24" />
         <mark key="." line="31" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/models/article/api_relation_spec.rb" timestamp="1487036380943" />
+      <file name="$USER_HOME$/projects/value_press/spec/models/article/api_relation_spec.rb" timestamp="1487086141853" />
       <file name="$USER_HOME$/projects/umareso/app/views/writers/application/_navigation.html.slim" timestamp="1486986259944">
         <mark key="[" line="12" column="52" />
         <mark key="]" line="12" column="52" />
@@ -113,6 +113,12 @@
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/language/japanese/release_lang.php" timestamp="1486720834146">
         <mark key="'" line="89" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/article/economy_course_article.rb" timestamp="1487086470858">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="80" column="10" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/models/option_premium_model.php" timestamp="1486741088490">
         <mark key="'" line="157" column="7" />
@@ -141,11 +147,11 @@
         <mark key="[" line="12" column="4" />
         <mark key="]" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/factories/article.rb" timestamp="1487039571121">
-        <mark key="[" line="126" column="54" />
-        <mark key="]" line="126" column="61" />
+      <file name="$USER_HOME$/projects/value_press/spec/factories/article.rb" timestamp="1487085043509">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
         <mark key="^" line="126" column="61" />
-        <mark key="." line="126" column="61" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/firstpayment.php" timestamp="1487082842047">
         <mark key="'" line="12" column="7" />
@@ -158,8 +164,8 @@
         <mark key="^" line="56" column="40" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" timestamp="1487002126346" />
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1487035451932">
-        <mark key="'" line="106" column="18" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1487085076431">
+        <mark key="'" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/mailers/setting_press_release_mailer.rb" timestamp="1487005806426">
         <mark key="[" line="4" column="16" />
@@ -170,7 +176,7 @@
       <file name="$USER_HOME$/sandbox/vp_main_system/application/models/user_account_model.php" timestamp="1486998606123">
         <mark key="'" line="15" column="12" />
       </file>
-      <file name="/a.regexp" timestamp="1487039808417">
+      <file name="/a.regexp" timestamp="1487086209269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/entry_view.php" timestamp="1486905225811">
@@ -179,7 +185,6 @@
       <file name="$USER_HOME$/projects/value_press/app/controllers/admin/option_mediacontacts_controller.rb" timestamp="1487000236550" />
     </filemarks>
     <jumps>
-      <jump line="325" column="51" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="377" column="51" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/confirm.html.erb" />
       <jump line="27" column="42" filename="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/confirm.html.erb" />
@@ -279,6 +284,7 @@
       <jump line="25" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="1143" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="12" column="7" filename="$USER_HOME$/projects/payment.ginza-plus.net/app/classes/controller/firstpayment.php" />
+      <jump line="18" column="23" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2928,31 +2934,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>return nil unless</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>build</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bWJfc3RybGVuKCR1c2VyLT5jb21wYW55X25hbWUpID4gMTggPyBtYl9zdWJzdHIoJHVzZXItPmNvbXBhbnlfbmFtZSwgMCwgMTgpIDogJHVzZXItPmNvbXBhbnlfbmFtZQ==</text>
+        <text>article.user_account</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFmdGVyX2luaXRpYWxpemUgOmluaXRpYWxpemVfb3JpZ2luYWxfbGlzdF9zaWduYXR1cmVfaWQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCB7IHN1YmplY3QgfS50byBjaGFuZ2UoQWN0aW9uTG9nLCA6Y291bnQpLmJ5KDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdCAiQWN0aW9uTG9n44GM5aKX44GI44KL44GT44GoIiBkbwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3174,10 +3180,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVubGVzcyBuZXdfcmVjb3JkPwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplX29yaWdpbmFsX2xpc3Rfc2lnbmF0dXJlX2lkCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3187,9 +3193,9 @@
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3197,8 +3203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>last</entry>
-        <entry>default</entry>
         <entry>optional</entry>
         <entry>form</entry>
         <entry>boots</entry>
@@ -3217,6 +3221,8 @@
         <entry>service_mediacontact_flg</entry>
         <entry>_add_mediacontact_act</entry>
         <entry>company</entry>
+        <entry>original_list_signatures</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
