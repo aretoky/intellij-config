@@ -204,8 +204,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1487160338092">
-        <mark key="'" line="146" column="12" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1487160875553">
+        <mark key="'" line="388" column="6" />
         <mark key="[" line="389" column="0" />
         <mark key="]" line="389" column="0" />
         <mark key="." line="389" column="0" />
@@ -295,7 +295,12 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/articles/show.html.erb" timestamp="1487160147776" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/articles/show.html.erb" timestamp="1487161048874">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="52" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater_with_user.rb" timestamp="1485502605676">
         <mark key="[" line="103" column="55" />
         <mark key="]" line="103" column="73" />
@@ -537,11 +542,11 @@
         <mark key="^" line="38" column="17" />
         <mark key="." line="38" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/decorators/article/detail_decorator.rb" timestamp="1487160550438">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="6" column="7" />
+      <file name="$USER_HOME$/projects/value_press/app/decorators/article/detail_decorator.rb" timestamp="1487161265562">
+        <mark key="[" line="43" column="75" />
+        <mark key="]" line="43" column="75" />
+        <mark key="." line="43" column="75" />
+        <mark key="^" line="43" column="79" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209035436_create_writers.rb" timestamp="1486618904952">
         <mark key="[" line="6" column="34" />
@@ -919,7 +924,7 @@
         <mark key="." line="89" column="27" />
         <mark key="^" line="89" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/pr_detail_analytics_view.php" timestamp="1487160524179" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/pr_detail_analytics_view.php" timestamp="1487160893906" />
       <file name="$USER_HOME$/projects/value_press/app/validators/alpha_dash_or_empty_validator.rb" timestamp="1486572318260">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="38" />
@@ -970,9 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="11" column="8" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
-      <jump line="12" column="14" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
       <jump line="20" column="14" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
       <jump line="28" column="6" filename="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" />
       <jump line="81" column="2" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -1048,7 +1050,6 @@
       <jump line="1557" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/articles/analytic.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
       <jump line="359" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="71" column="20" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="115" column="33" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
@@ -1070,6 +1071,10 @@
       <jump line="254" column="6" filename="$USER_HOME$/sandbox/vp_main_system/application/models/app_notification_model.php" />
       <jump line="29" column="12" filename="$USER_HOME$/sandbox/vp_main_system/application/models/app_notification_model.php" />
       <jump line="152" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="116" column="15" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="148" column="12" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="388" column="6" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3719,31 +3724,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>analytics</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>num_send</text>
+        <text>view_co</text>
       </register>
       <register name="0" type="4">
-        <text>num_send</text>
+        <text>hours.ago</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CmVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZ2V0IDphbmFseXRpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3968,20 +3973,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbmFseXRpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>redirect_to root_path if @article.blank? || @article.status == :unlisted
-      @article = ActiveType.cast(Article::Detail, @article)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>num_send</last-search>
+      <last-search>view_co</last-search>
       <last-offset />
-      <last-pattern>num_send</last-pattern>
+      <last-pattern>view_co</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3989,7 +3993,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inamt</entry>
         <entry>view_c</entry>
         <entry>view</entry>
         <entry>view_count</entry>
@@ -4009,6 +4012,7 @@
         <entry>read_no</entry>
         <entry>read_arti</entry>
         <entry>num_send</entry>
+        <entry>view_co</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
