@@ -72,6 +72,7 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/lib/value_press/effect_measurement_util.rb" timestamp="1487158467992" />
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/original_list_managable.rb" timestamp="1485858727589">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
@@ -156,11 +157,11 @@
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article/detail.rb" timestamp="1487155771507">
-        <mark key="[" line="48" column="25" />
-        <mark key="]" line="50" column="7" />
-        <mark key="^" line="50" column="7" />
-        <mark key="." line="50" column="7" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article/detail.rb" timestamp="1487158499218">
+        <mark key="[" line="59" column="77" />
+        <mark key="]" line="59" column="89" />
+        <mark key="." line="59" column="77" />
+        <mark key="^" line="69" column="54" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/analytic.rb" timestamp="1487143138750">
         <mark key="[" line="1" column="8" />
@@ -173,6 +174,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_article.php" timestamp="1487158459020">
+        <mark key="[" line="235" column="30" />
+        <mark key="]" line="235" column="41" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/routes/users.rb" timestamp="1487135916842">
         <mark key="[" line="15" column="11" />
@@ -425,7 +430,7 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="/a.regexp" timestamp="1487155877393">
+      <file name="/a.regexp" timestamp="1487158537077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -590,12 +595,12 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/mediacontact_act.rb" timestamp="1487156217380">
+      <file name="$USER_HOME$/projects/value_press/app/models/mediacontact_act.rb" timestamp="1487157561619">
         <mark key="'" line="27" column="18" />
-        <mark key="[" line="85" column="52" />
-        <mark key="]" line="85" column="51" />
-        <mark key="." line="85" column="51" />
-        <mark key="^" line="85" column="51" />
+        <mark key="[" line="85" column="113" />
+        <mark key="]" line="85" column="139" />
+        <mark key="." line="85" column="139" />
+        <mark key="^" line="85" column="139" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209041023_create_stories.rb" timestamp="1486619229049">
         <mark key="[" line="7" column="28" />
@@ -836,6 +841,13 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1487158232029">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/send_original_list_course_articles_controller.rb" timestamp="1486748516212">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="30" />
@@ -941,7 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="11" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
       <jump line="122" column="18" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
       <jump line="123" column="17" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
       <jump line="125" column="17" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
@@ -1041,6 +1052,7 @@
       <jump line="60" column="32" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="117" column="19" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="146" column="12" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3690,25 +3702,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdHVzLnB1Ymxpc2g/ICYmIGNvdXJzZV9pZC5zZW5kX29yaWdpbmFsX2xpc3Q/ID09IGZhbHNlICYmIGNvdXJzZV9pZC5zZW5kX3dyaXRlcl9vbmx5PyA9PSBmYWxzZQ==</text>
+        <text>salt</text>
       </register>
       <register name="/" type="4">
-        <text>mediacontact_act</text>
+        <text>press</text>
       </register>
       <register name="0" type="4">
-        <text>mediacontact_act</text>
+        <text>preview_hash</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbmlsCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -3936,22 +3948,23 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text># application/libraries/Vp_article.php[247]
+    # get_share_preview_url</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>mediacontact_act</last-search>
+      <last-search>press</last-search>
       <last-offset />
-      <last-pattern>mediacontact_act</last-pattern>
+      <last-pattern>press</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3959,7 +3972,6 @@
     </search>
     <history>
       <history-search>
-        <entry>option_name</entry>
         <entry>money</entry>
         <entry>build</entry>
         <entry>option_mediacontact_id</entry>
@@ -3979,6 +3991,7 @@
         <entry>koala</entry>
         <entry>course_id</entry>
         <entry>mediacontact_act</entry>
+        <entry>press</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
