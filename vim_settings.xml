@@ -153,11 +153,11 @@
         <mark key="." line="108" column="22" />
         <mark key="^" line="210" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article/detail.rb" timestamp="1487151025802">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="56" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article/detail.rb" timestamp="1487155055669">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/analytic.rb" timestamp="1487143138750">
         <mark key="[" line="1" column="8" />
@@ -266,6 +266,13 @@
         <mark key="]" line="34" column="78" />
         <mark key="." line="34" column="78" />
         <mark key="^" line="34" column="78" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/setting_press_release_mailer/create_mail.text.erb" timestamp="1487093595694">
+        <mark key="'" line="108" column="18" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/economy_course_articles.html.erb" timestamp="1486574084620">
         <mark key="[" line="0" column="54" />
@@ -588,6 +595,13 @@
         <mark key="]" line="7" column="40" />
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1487154640352">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="99" column="5" />
+        <mark key="]" line="99" column="7" />
+        <mark key="." line="99" column="7" />
+        <mark key="^" line="99" column="7" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/registrations_controller.rb" timestamp="1486379529539">
         <mark key="[" line="52" column="10" />
@@ -932,7 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="48" filename="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/confirm.html.erb" />
       <jump line="204" column="50" filename="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/confirm.html.erb" />
       <jump line="0" column="31" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
       <jump line="24" column="25" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
@@ -1032,6 +1045,7 @@
       <jump line="169" column="42" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="210" column="12" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="22" column="6" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3681,19 +3695,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.present</text>
+        <text>@facebook_like_count</text>
       </register>
       <register name="/" type="4">
-        <text>hfix</text>
+        <text>koala</text>
       </register>
       <register name="0" type="4">
-        <text>@facebook_like_count</text>
+        <text>response[0][&quot;fql_result_set&quot;][0][&quot;total_count&quot;]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3702,10 +3716,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3927,22 +3941,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>hfix</last-search>
+      <last-search>koala</last-search>
       <last-offset />
-      <last-pattern>hfix</last-pattern>
+      <last-pattern>koala</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3950,8 +3964,6 @@
     </search>
     <history>
       <history-search>
-        <entry>original_list_signatures</entry>
-        <entry>category</entry>
         <entry>original_s</entry>
         <entry>release_inquiry</entry>
         <entry>option_name</entry>
@@ -3970,6 +3982,8 @@
         <entry>movie</entry>
         <entry>sq_hfix</entry>
         <entry>hfix</entry>
+        <entry>fql</entry>
+        <entry>koala</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
