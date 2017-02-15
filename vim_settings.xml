@@ -127,7 +127,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487135351360" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487136204413" />
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_course_article_decorator.rb" timestamp="1486785172151">
         <mark key="[" line="70" column="16" />
         <mark key="]" line="70" column="23" />
@@ -406,6 +406,13 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1487136420716">
+        <mark key="'" line="47" column="13" />
+        <mark key="[" line="153" column="29" />
+        <mark key="]" line="153" column="29" />
+        <mark key="^" line="153" column="29" />
+        <mark key="." line="153" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1486372011244">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="39" />
@@ -562,11 +569,11 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles_controller.rb" timestamp="1487135900787">
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="24" column="5" />
-        <mark key="^" line="24" column="5" />
-        <mark key="." line="24" column="5" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles_controller.rb" timestamp="1487136131611">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="64" />
+        <mark key="^" line="35" column="64" />
+        <mark key="." line="35" column="64" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/economy_course_articles.html.erb" timestamp="1486574084620">
         <mark key="[" line="0" column="54" />
@@ -818,9 +825,6 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
-      </file>
-      <file name="/a.regexp" timestamp="1487097301979">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/user_account/password_savable.rb" timestamp="1485346162825">
         <mark key="[" line="14" column="69" />
@@ -3639,31 +3643,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>analytic</text>
+        <text>vp_access_logs</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>article_result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZ2V0IDphbmFseXRpYwo=</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6dnBfYWNjZXNzX2xvZ3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6dmlld19jb3VudHMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwZXJtaXRfcGFzc3dvcmQhCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgQXJ0aWNsZU1hbmFnZXJhYmxlCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwZXJtaXRfcGFzc3dvcmQhCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3887,20 +3891,20 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIHBlcm1pdF9wYXNzd29yZCEKICAgICAgaWYgQGFydGljbGUuc2V0X3Bhc3N3b3JkCiAgICAgICAgdW5sZXNzIHNlc3Npb25bOmFydGljbGVfYXV0aF9hcnJheV0gJiYgc2Vzc2lvbls6YXJ0aWNsZV9hdXRoX2FycmF5XS5pbmNsdWRlPyhAYXJ0aWNsZS5pZCkKICAgICAgICAgIHJlZGlyZWN0X3RvIHVybF9mb3IoYWN0aW9uOiA6YXV0aCwgaWQ6IEBhcnRpY2xlLmlkKSAmJiByZXR1cm4KICAgICAgICBlbmQKICAgICAgZW5kCiAgICBlbmQK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGluY2x1ZGUgQXJ0aWNsZU1hbmFnZXJhYmxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>article_result</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>article_result</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -3908,7 +3912,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oem_pa</entry>
         <entry>service_mediacontact_flg</entry>
         <entry>_add_mediacontact_act</entry>
         <entry>company</entry>
@@ -3928,6 +3931,7 @@
         <entry>view</entry>
         <entry>view_count</entry>
         <entry>auth</entry>
+        <entry>article_result</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
