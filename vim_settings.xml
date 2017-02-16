@@ -123,6 +123,9 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/db/schema.rb" timestamp="1487262793867">
+        <mark key="'" line="690" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1486624221611">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="48" column="11" />
@@ -136,11 +139,6 @@
         <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/index.html.erb" timestamp="1487212522822" />
-      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1487236153223">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
         <mark key="]" line="77" column="64" />
@@ -535,7 +533,7 @@
         <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/services/postal_saving_service_spec.rb" timestamp="1487250006429" />
-      <file name="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" timestamp="1487212575769" />
+      <file name="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" timestamp="1487262776527" />
       <file name="$USER_HOME$/projects/umareso/app/views/users/shared/_links.html.slim" timestamp="1487211208721">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1136,8 +1134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="23" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="63" column="8" filename="$USER_HOME$/projects/value_press/spec/factories/article.rb" />
       <jump line="154" column="12" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="80" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="26" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -1236,6 +1232,8 @@
       <jump line="76" column="14" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
       <jump line="18" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
+      <jump line="15" column="77" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
+      <jump line="690" column="24" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3888,7 +3886,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>yn_ok</text>
+        <text>image</text>
       </register>
       <register name="0" type="4">
         <text>add_next_days</text>
@@ -4144,9 +4142,9 @@
       </register>
     </registers>
     <search>
-      <last-search>yn_ok</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>yn_ok</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4154,9 +4152,6 @@
     </search>
     <history>
       <history-search>
-        <entry>read_arti</entry>
-        <entry>num_send</entry>
-        <entry>view_co</entry>
         <entry>company_name</entry>
         <entry>course</entry>
         <entry>report</entry>
@@ -4174,6 +4169,9 @@
         <entry>amtax_inamt</entry>
         <entry>yn_fix</entry>
         <entry>yn_ok</entry>
+        <entry>img</entry>
+        <entry>imaga</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
