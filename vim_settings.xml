@@ -52,11 +52,10 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1487149032616">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1487253610135">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/create_or_update.html.erb" timestamp="1486546318702">
         <mark key="[" line="5" column="14" />
@@ -520,7 +519,7 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="/a.regexp" timestamp="1487249460197">
+      <file name="/a.regexp" timestamp="1487253499765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -724,6 +723,12 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/.gitignore" timestamp="1487253725151">
+        <mark key="[" line="88" column="9" />
+        <mark key="]" line="88" column="11" />
+        <mark key="." line="88" column="11" />
+        <mark key="^" line="88" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/economy_course_article_decorator.rb" timestamp="1486784640072">
         <mark key="[" line="72" column="10" />
         <mark key="]" line="72" column="27" />
@@ -846,10 +851,11 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/bill_saving_service_spec.rb" timestamp="1487250974344">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/bill_saving_service_spec.rb" timestamp="1487253183364">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="49" column="8" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/economy_course_articles_controller.rb" timestamp="1486908005081">
         <mark key="[" line="7" column="17" />
@@ -959,10 +965,10 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/bill/attribute_updater_spec.rb" timestamp="1487250522390">
+      <file name="$USER_HOME$/projects/cplus/spec/models/bill/attribute_updater_spec.rb" timestamp="1487252636034">
         <mark key="'" line="39" column="61" />
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="81" />
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="75" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/sessions_controller.rb" timestamp="1485956509412">
         <mark key="[" line="12" column="18" />
@@ -3873,31 +3879,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>create(:bill, cust: cust)</text>
+        <text>ublic</text>
       </register>
       <register name="/" type="4">
         <text>yn_fix</text>
       </register>
-      <register name="0" type="4">
-        <text>ActiveType.cast(create(:bill, cust: cust), Bill::AttributeUpdater)</text>
+      <register name="0" type="2">
+        <text encoding="base64">L3B1YmxpYy9wdWJsaWMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwIGJpbGwK</text>
+        <text encoding="base64">ICAgIEBoZml4IHx8PSBiaWxsLmhmaXhlcy5maXJzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBiaWxsID0gQWN0aXZlVHlwZS5jYXN0KGJpbGwsIEJpbGw6OkF0dHJpYnV0ZVVwZGF0ZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1c3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVtcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHluX21haWxfc2VuZDogIjEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4119,96 +4125,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBwIGJpbGwK</text>
       </register>
-      <register name="8" type="4">
-        <text>context &quot;新規作成の場合&quot; do
-      it &quot;trueを返す&quot; do
-        expect(subject).to eq(true)
-      end
-
-      it &quot;メールは送信されない&quot; do
-        expect{ subject }.to change{ ActionMailer::Base.deliveries.size }.by(0)
-      end
-    end
-
-    context &quot;更新の場合&quot; do
-      before do
-        PostalSavingService.new(postal: postal).save
-      end
-
-      context &quot;何かひつとでも変更した場合&quot; do
-        context &quot;処理依頼修正の場合&quot; do
-          before do
-            postal.cd_ur = 51
-            postal.cd_dt = 99
-            # nilと&quot;&quot;の変更チェック。
-            postal.remarks = &quot;&quot;
-          end
-
-          it &quot;trueを返す&quot; do
-            expect(subject).to eq(true)
-          end
-
-          it &quot;メールは送信される&quot; do
-            expect{ subject }.to change{ ActionMailer::Base.deliveries.size }.by(1)
-          end
-
-          describe &quot;送信されたメールチェック&quot; do
-            let(:mailer){ ActionMailer::Base.deliveries.last  }
-            before do
-              subject
-            end
-
-            it &quot;タイトル中に【通常着払い】が入っていること&quot; do
-              expect(mailer.subject).to include(&quot;【通常着払い】&quot;)
-            end
-            it &quot;タイトル中に【コメント】が入っていないこと&quot; do
-              expect(mailer.subject).not_to include(&quot;【コメント】&quot;)
-            end
-          end
-        end
-
-        context &quot;コメント修正の場合&quot; do
-          before do
-            postal.remarks = &quot;コメント修正です&quot;
-          end
-
-          it &quot;trueを返す&quot; do
-            expect(subject).to eq(true)
-          end
-
-          it &quot;メールは送信される&quot; do
-            expect{ subject }.to change{ ActionMailer::Base.deliveries.size }.by(1)
-          end
-
-          describe &quot;送信されたメールチェック&quot; do
-            let(:mailer){ ActionMailer::Base.deliveries.last  }
-            before do
-              subject
-            end
-
-            it &quot;タイトル中に【通常着払い】が入っていないこと&quot; do
-              expect(mailer.subject).not_to include(&quot;【通常着払い】&quot;)
-            end
-            it &quot;タイトル中に【コメント】が入っていること&quot; do
-              expect(mailer.subject).to include(&quot;【コメント】&quot;)
-            end
-          end
-        end
-      end
-
-      context &quot;何も変更してない場合&quot; do
-        it &quot;trueを返す&quot; do
-          expect(subject).to eq(true)
-        end
-        it &quot;メールは送信されない&quot; do
-          expect{ subject }.to change{ ActionMailer::Base.deliveries.size }.by(0)
-        end
-      end</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
