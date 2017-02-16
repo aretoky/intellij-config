@@ -116,11 +116,10 @@
         <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/index.html.erb" timestamp="1487212522822" />
-      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1487233471755">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1487236153223">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
@@ -399,17 +398,17 @@
         <mark key="^" line="219" column="49" />
         <mark key="." line="219" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_thumbnail_magazine.html.slim" timestamp="1487230037278">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_thumbnail_magazine.html.slim" timestamp="1487236250375">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1487227624234">
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-        <mark key="^" line="25" column="44" />
+      <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1487235240372">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_header_my_page_navigation.html.erb" timestamp="1486781070300">
         <mark key="[" line="7" column="58" />
@@ -630,10 +629,10 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/db/migrate/20170209041023_create_stories.rb" timestamp="1487230207834">
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="14" column="63" />
-        <mark key="." line="14" column="63" />
+      <file name="$USER_HOME$/projects/umareso/db/migrate/20170209041023_create_stories.rb" timestamp="1487235938846">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
         <mark key="^" line="14" column="63" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/registrations_controller.rb" timestamp="1486379529539">
@@ -684,11 +683,11 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/static_pages_controller.rb" timestamp="1487227382769">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="2" column="34" />
-        <mark key="^" line="2" column="34" />
-        <mark key="." line="2" column="34" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/static_pages_controller.rb" timestamp="1487236366953">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="2" column="61" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_confirm_shortage.html.erb" timestamp="1486910593593">
         <mark key="[" line="7" column="16" />
@@ -3737,35 +3736,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>「</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>form-control</text>
       </register>
       <register name="0" type="4">
-        <text>set_sort_id</text>
+        <text>self.sort_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjDkuJbntIDmnIDlpKfjga7nmbrmmI7lk4Hjga7vvJHjgaTjgajjgYTjgo/jgozjgovjga7jgYzjgrPjg7Pjg4bjg4rjgILjgrPjg7Pjg4bjg4rjga7mtbfkuIrovLjpgIHjgYzlp4vjgb7jgaPjgZ/jga7jga8xOTU25bm0M+aciOOBruOBk+OBqOOBoOOAguOCouODoeODquOCq+OBrumZuOmBi+alreiAheODnuODq+OCs+ODoOODu+ODnuOCr+ODquODvOODs+OBr+OAgeOCs+OCueODiOWJiua4m+OBqOS6pOmAmua4i+a7nuWbnumBv+OBruOBn+OCgemBi+izg+OBruWuieOBhOayv+WyuOiIqui3r+OBq+ebruOCkuOBpOOBkeOAgeODiOODqeODg+OCr+OBi+OCieOAjOeuseOAjeOBoOOBkeWIh+OCiumbouOBl+OBpuiIueOBq+i8ieOBm+OCi+OCouOCpOODh+OCouOCkuaAneOBhOOBpOOBj+OAggo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">77yI44GC44KL5aCx5ZGK44Gr44KI44KM44Gw77yJ5rW35LiK6LKo54mp6Ly46YCB44Gr44GL44GL44KL57WM6LK744GuNjAl772eNzUl44Gv44CB6LKo54mp6Ii544GM5rW35LiK44Gr44GC44KL5pyf6ZaT44Gn44Gv44Gq44GP44CB5riv44Gn5YGc5rOK44GX44Gm44GE44KL5pyf6ZaT44Gr55m655Sf44GX44Gm44GE44GfCg==</text>
+        <text encoding="base64">ICAgICA9IF9tYXggfHwgMAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>イチローくんはな、他の選手が先に帰っても、ずっと残ってグラブみがいてんのや。
-彼はな、小学生の頃からそうしとんのや。
-『神聖な商売道具を粗末に扱うことは考えられない』言うてな。
-そういう仕事に対するまっすぐな姿勢があるから、メジャーでずっとトップ取れてるんやで」</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>200万部を突破したベストセラー。「成功法則書を読んでも人が成功しないのはなぜか?」この疑問に対する1つの解答を用意したのが本書です。
-主人公は「人生を変えよう」と思っているけど、何も変えられない普通のサラリーマン。そこへある日突然、ガネーシャというゾウの姿をした神様が現れ、主人公の家にニートとして住みつき、ゲームをしては寝るだけの怠惰極まりない生活を始めます。</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">MjDkuJbntIDmnIDlpKfjga7nmbrmmI7lk4Hjga7vvJHjgaTjgajjgYTjgo/jgozjgovjga7jgYzjgrPjg7Pjg4bjg4rjgILjgrPjg7Pjg4bjg4rjga7mtbfkuIrovLjpgIHjgYzlp4vjgb7jgaPjgZ/jga7jga8xOTU25bm0M+aciOOBruOBk+OBqOOBoOOAguOCouODoeODquOCq+OBrumZuOmBi+alreiAheODnuODq+OCs+ODoOODu+ODnuOCr+ODquODvOODs+OBr+OAgeOCs+OCueODiOWJiua4m+OBqOS6pOmAmua4i+a7nuWbnumBv+OBruOBn+OCgemBi+izg+OBruWuieOBhOayv+WyuOiIqui3r+OBq+ebruOCkuOBpOOBkeOAgeODiOODqeODg+OCr+OBi+OCieOAjOeuseOAjeOBoOOBkeWIh+OCiumbouOBl+OBpuiIueOBq+i8ieOBm+OCi+OCouOCpOODh+OCouOCkuaAneOBhOOBpOOBj+OAggo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3987,14 +3982,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">77yI44GC44KL5aCx5ZGK44Gr44KI44KM44Gw77yJ5rW35LiK6LKo54mp6Ly46YCB44Gr44GL44GL44KL57WM6LK744GuNjAl772eNzUl44Gv44CB6LKo54mp6Ii544GM5rW35LiK44Gr44GC44KL5pyf6ZaT44Gn44Gv44Gq44GP44CB5riv44Gn5YGc5rOK44GX44Gm44GE44KL5pyf6ZaT44Gr55m655Sf44GX44Gm44GE44GfCg==</text>
+      </register>
       <register name="9" type="4">
-        <text>しかしガネーシャは自信満々にこう言います。「今からワシが出す簡単な課題さえこなしていけば、お前は確実に成功する――」。
-主人公とガネーシャの漫才のような掛け合いで、「成功するためにはどうしたらいいか?」「そもそも成功とは?」という自己啓発書のメインテーマを説いていきます。</text>
+        <text>イチローくんはな、他の選手が先に帰っても、ずっと残ってグラブみがいてんのや。
+彼はな、小学生の頃からそうしとんのや。
+『神聖な商売道具を粗末に扱うことは考えられない』言うてな。
+そういう仕事に対するまっすぐな姿勢があるから、メジャーでずっとトップ取れてるんやで」</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
