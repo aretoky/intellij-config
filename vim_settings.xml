@@ -251,10 +251,10 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/vp_legacy_file_mountable.rb" timestamp="1487298016915">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/vp_legacy_file_mountable.rb" timestamp="1487299245444">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/stories_controller.rb" timestamp="1486982982613">
         <mark key="[" line="31" column="43" />
@@ -974,6 +974,9 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/my_agent.rb" timestamp="1487299230145">
+        <mark key="'" line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/application_controller.rb" timestamp="1486986447388">
         <mark key="[" line="1" column="55" />
         <mark key="]" line="3" column="0" />
@@ -1155,7 +1158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="26" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="54" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="0" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -1255,6 +1257,7 @@
       <jump line="15" column="77" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
       <jump line="690" column="24" filename="$USER_HOME$/projects/value_press/db/schema.rb" />
       <jump line="1895" column="8" filename="/usr/local/var/rbenv/versions/2.3.1/lib/ruby/2.3.0/optparse.rb" />
+      <jump line="0" column="2" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3904,31 +3907,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>合</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>admin_file</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bW91bnRfdXBsb2FkZXIoY29sdW1uLCB1cGxvYWRlcj1uaWwsIG9wdGlvbnM9e30sICZibG9jayk=</text>
+        <text>#{column}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdF92YWx1ZV9mb3IgOiN7Y29sdW1ufSwgJycK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbmNsdWRlZCBkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4150,22 +4153,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmNsdWRlZCBkbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>admin_file</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>admin_file</last-pattern>
       <last-replace>Partner</last-replace>
       <last-substitute>User</last-substitute>
       <last-dir>1</last-dir>
@@ -4173,7 +4176,6 @@
     </search>
     <history>
       <history-search>
-        <entry>company_name</entry>
         <entry>course</entry>
         <entry>report</entry>
         <entry>share</entry>
@@ -4193,6 +4195,7 @@
         <entry>img</entry>
         <entry>imaga</entry>
         <entry>image</entry>
+        <entry>admin_file</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1w+LyU+L2c=</entry>
