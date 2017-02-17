@@ -144,6 +144,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1487236153223">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
         <mark key="]" line="77" column="64" />
@@ -227,10 +232,6 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1487290524905">
         <mark key="'" line="60" column="32" />
-        <mark key="[" line="147" column="4" />
-        <mark key="]" line="147" column="20" />
-        <mark key="." line="147" column="20" />
-        <mark key="^" line="147" column="20" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/environments/development.rb" timestamp="1486364205105">
         <mark key="[" line="63" column="57" />
@@ -250,11 +251,10 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/vp_legacy_file_mountable.rb" timestamp="1487292723071">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="19" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/vp_legacy_file_mountable.rb" timestamp="1487298016915">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/stories_controller.rb" timestamp="1486982982613">
         <mark key="[" line="31" column="43" />
@@ -379,9 +379,6 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/application_record.rb" timestamp="1487292736662">
         <mark key="[" line="4" column="29" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="30" />
-        <mark key="^" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/show.html.slim" timestamp="1486978761389">
         <mark key="[" line="7" column="40" />
@@ -743,6 +740,9 @@
         <mark key="]" line="39" column="18" />
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/models/app_notification_model.php" timestamp="1487159389599">
+        <mark key="'" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/projects/cplus/.gitignore" timestamp="1487253725151">
         <mark key="[" line="88" column="9" />
@@ -1128,9 +1128,6 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/logical_deletable.rb" timestamp="1487292500746">
         <mark key="[" line="24" column="5" />
-        <mark key="]" line="28" column="4" />
-        <mark key="^" line="28" column="4" />
-        <mark key="." line="28" column="4" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/original_list_signature_decorator.rb" timestamp="1486560811828">
         <mark key="[" line="7" column="7" />
@@ -1152,6 +1149,9 @@
         <mark key="]" line="28" column="15" />
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/config/initializers/simple_form_bootstrap.rb" timestamp="1487210403599">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -3916,19 +3916,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbmNsdWRlZCBkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmNsdWRlZCBkbwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4150,15 +4150,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>def restore!
-    update!(cancel_flg: false)
-  end</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGEgIT0gJycgPyBhIDogbmlsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/User/Partner/g</text>
