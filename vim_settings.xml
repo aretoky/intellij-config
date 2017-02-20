@@ -448,6 +448,12 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/application/_month_calender.html.slim" timestamp="1487570630716">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_media_feed_decorator.rb" timestamp="1487134705979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -490,7 +496,7 @@
         <mark key="^" line="219" column="49" />
         <mark key="." line="219" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_thumbnail_magazine.html.slim" timestamp="1487236250375">
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_thumbnail_magazine.html.slim" timestamp="1487570729848">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="42" />
         <mark key="." line="14" column="42" />
@@ -769,11 +775,11 @@
         <mark key="." line="14" column="56" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_calender_area.html.slim" timestamp="1487238328404">
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="1" column="44" />
-        <mark key="^" line="1" column="44" />
-        <mark key="." line="1" column="44" />
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_calender_area.html.slim" timestamp="1487570737072">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="4" column="2" />
       </file>
       <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1487154640352">
         <mark key="'" line="32" column="0" />
@@ -3993,19 +3999,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@article.destroy</text>
+        <text>Date.today</text>
       </register>
       <register name="/" type="4">
         <text>arti</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXJscyA8PCBzcHJpbnRmKCclcy8lcycsIGJhc2VfdXJsKCdwcmVzc3JlbGVhc2UnKSwgYXJ0aWNsZS5pZCkK</text>
+      <register name="0" type="4">
+        <text>current_date.day</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBhcnRpY2xlID0gCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheS5wcmV2TW9udGhEYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMjkKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5LnByZXZNb250aERheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAzMAogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXkucHJldk1vbnRoRGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDMxCiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAxCiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAyCiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAzCiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCA0CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCA1CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCA2CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCA3CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCA4CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCA5CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAxMAogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMTEKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDEyCiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAxMwogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMTQKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDE1CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheS50b2RheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAxNgogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMTcKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDE4CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAxOQogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMjAKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDIxCiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAyMgogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMjMKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDI0CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAyNQogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMjYKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDI3CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAyOAogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXkubmV4dE1vbnRoRGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDEKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5Lm5leHRNb250aERheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCAyCiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheS5uZXh0TW9udGhEYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMwogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXkubmV4dE1vbnRoRGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDQKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5Lm5leHRNb250aERheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCA1CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheS5uZXh0TW9udGhEYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgNgogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXkubmV4dE1vbnRoRGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDcKICAgICAgICAvc3Bhbi5mbGF0cGlja3ItZGF5Lm5leHRNb250aERheVt0YWJpbmRleD0iMCJdCiAgICAgICAgLyAgfCA4CiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheS5uZXh0TW9udGhEYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgOQogICAgICAgIC9zcGFuLmZsYXRwaWNrci1kYXkubmV4dE1vbnRoRGF5W3RhYmluZGV4PSIwIl0KICAgICAgICAvICB8IDEwCiAgICAgICAgL3NwYW4uZmxhdHBpY2tyLWRheS5uZXh0TW9udGhEYXlbdGFiaW5kZXg9IjAiXQogICAgICAgIC8gIHwgMTE=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -4242,7 +4248,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
