@@ -1351,8 +1351,8 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1487601681661">
-        <mark key="'" line="40" column="3" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1487610330906">
+        <mark key="'" line="103" column="5" />
         <mark key="[" line="157" column="30" />
         <mark key="]" line="158" column="10" />
         <mark key="^" line="158" column="10" />
@@ -1452,13 +1452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="25" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
-      <jump line="8" column="17" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" />
-      <jump line="67" column="11" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/history.php" />
-      <jump line="136" column="40" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="6" column="26" filename="$USER_HOME$/projects/value_press/config/routes/users.rb" />
-      <jump line="16" column="20" filename="$USER_HOME$/projects/value_press/config/routes/users.rb" />
-      <jump line="23" column="20" filename="$USER_HOME$/projects/value_press/config/routes/users.rb" />
       <jump line="114" column="22" filename="$USER_HOME$/projects/value_press/app/views/users/articles/index.html.erb" />
       <jump line="93" column="5" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_article_history.html.erb" />
       <jump line="476" column="18" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -1552,6 +1545,13 @@
       <jump line="841" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="848" column="28" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="230" column="73" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="122" column="2" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="108" column="5" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="112" column="5" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="116" column="5" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="168" column="2" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="182" column="2" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="103" column="5" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4204,7 +4204,7 @@
         <text>ViewTime</text>
       </register>
       <register name="/" type="4">
-        <text>get_access</text>
+        <text>scope</text>
       </register>
       <register name="0" type="4">
         <text>/**
@@ -4466,9 +4466,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_access</last-search>
+      <last-search>scope</last-search>
       <last-offset />
-      <last-pattern>get_access</last-pattern>
+      <last-pattern>scope</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4476,7 +4476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>history</entry>
         <entry>column_history</entry>
         <entry>ko</entry>
         <entry>karte</entry>
@@ -4496,6 +4495,7 @@
         <entry>$release_information_data</entry>
         <entry>access</entry>
         <entry>get_access</entry>
+        <entry>scope</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
