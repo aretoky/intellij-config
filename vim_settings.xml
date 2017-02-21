@@ -87,7 +87,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487637531571">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487638676065">
         <mark key="'" line="230" column="73" />
         <mark key="[" line="1007" column="4" />
         <mark key="]" line="1013" column="6" />
@@ -234,11 +234,11 @@
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/vp_access_log/graph_data.rb" timestamp="1487637907125">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="19" column="12" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/models/vp_access_log/graph_data.rb" timestamp="1487638392007">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/detail.rb" timestamp="1487598034156">
         <mark key="'" line="6" column="6" />
@@ -448,6 +448,9 @@
         <mark key="]" line="16" column="51" />
         <mark key="." line="16" column="26" />
         <mark key="^" line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/access_analytics_datas_controller.rb" timestamp="1487638499227">
+        <mark key="[" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/ArticleCourse.rb" timestamp="1486557935709">
         <mark key="[" line="0" column="16" />
@@ -682,7 +685,7 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="/a.regexp" timestamp="1487637209095">
+      <file name="/a.regexp" timestamp="1487638442545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -1254,11 +1257,11 @@
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/access_analytics_data.rb" timestamp="1487608409348">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/projects/value_press/app/models/access_analytics_data.rb" timestamp="1487638814138">
+        <mark key="[" line="10" column="97" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="51" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/sessions_controller.rb" timestamp="1485956509412">
         <mark key="[" line="12" column="18" />
@@ -4201,16 +4204,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>from + (term - 1)</text>
+        <text>from = '2012-04-21'</text>
       </register>
       <register name="/" type="4">
         <text>scope</text>
       </register>
       <register name="0" type="4">
-        <text>2012-04-21</text>
+        <text>#{date.month}/#{date.day</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIGRhdGUgPT0gdnBfYWNjZXNzX2xvZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -4219,10 +4222,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4453,7 +4456,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
