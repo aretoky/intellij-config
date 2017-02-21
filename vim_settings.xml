@@ -27,6 +27,11 @@
         <mark key="." line="0" column="65" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1487130587753" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/cheers_controller.rb" timestamp="1487669059520">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/user_accounts_controller_spec.rb" timestamp="1485505993394">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -81,10 +86,10 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487667072556">
-        <mark key="'" line="165" column="74" />
-        <mark key="[" line="651" column="19" />
-        <mark key="]" line="651" column="49" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487669056071">
+        <mark key="'" line="268" column="24" />
+        <mark key="[" line="485" column="0" />
+        <mark key="]" line="485" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/temp_ymdroom_factory.rb" timestamp="1487255895623">
         <mark key="[" line="17" column="51" />
@@ -449,11 +454,11 @@
         <mark key="." line="16" column="26" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/access_analytics_datas_controller.rb" timestamp="1487667084312">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="57" />
-        <mark key="^" line="6" column="57" />
-        <mark key="." line="6" column="57" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/access_analytics_datas_controller.rb" timestamp="1487668929559">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/ArticleCourse.rb" timestamp="1486557935709">
         <mark key="[" line="0" column="16" />
@@ -688,7 +693,7 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="/a.regexp" timestamp="1487666298093">
+      <file name="/a.regexp" timestamp="1487669180962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -1455,7 +1460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="912" column="9" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css" />
       <jump line="963" column="16" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css" />
       <jump line="2001" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
@@ -1555,6 +1559,7 @@
       <jump line="148" column="43" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="165" column="74" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="268" column="24" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4204,19 +4209,29 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eturn_data[medium.medium_genre_id][number[medium.medium_genre_id]]</text>
+        <text>AccessAnalyticsData</text>
       </register>
       <register name="/" type="4">
-        <text>analytics_da</text>
+        <text>cheer</text>
       </register>
-      <register name="0" type="4">
-        <text>result[:access_date]</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSAqIOW/nOaPtOaDheWgseOCkuWPluW+l+OBl+OBvuOBmQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text># application/controllers/user/pr_detail_analytics.php
+    # get_access_analytics_data
+    def show
+      @access_analytics_data = AccessAnalyticsData.
+        create_by_article_and_start_date(@article, Date.parase(params[:start_date]))
+      respond_to do |format|
+        format.json do
+          render json: @access_analytics_data
+        end
+      end
+    end</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -4225,7 +4240,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4450,22 +4465,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>analytics_da</last-search>
+      <last-search>cheer</last-search>
       <last-offset />
-      <last-pattern>analytics_da</last-pattern>
+      <last-pattern>cheer</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4473,7 +4488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asso</entry>
         <entry>associated_service</entry>
         <entry>graph</entry>
         <entry>report</entry>
@@ -4493,6 +4507,7 @@
         <entry>make_list_without_site_genre</entry>
         <entry>article_result</entry>
         <entry>analytics_da</entry>
+        <entry>cheer</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
