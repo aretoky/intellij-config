@@ -73,10 +73,10 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487662253586">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487663895533">
         <mark key="'" line="984" column="21" />
-        <mark key="[" line="1004" column="16" />
-        <mark key="]" line="1004" column="25" />
+        <mark key="[" line="628" column="7" />
+        <mark key="]" line="629" column="32" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/temp_ymdroom_factory.rb" timestamp="1487255895623">
         <mark key="[" line="17" column="51" />
@@ -224,11 +224,12 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article/detail.rb" timestamp="1487662528611">
+      <file name="$USER_HOME$/projects/value_press/app/models/article/detail.rb" timestamp="1487662925087">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="86" column="27" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/analytic.rb" timestamp="1487143138750">
         <mark key="[" line="1" column="8" />
@@ -654,7 +655,7 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="/a.regexp" timestamp="1487661527670">
+      <file name="/a.regexp" timestamp="1487663197859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -1019,11 +1020,11 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/article_prints_controller.rb" timestamp="1487660823239">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/article_prints_controller.rb" timestamp="1487663860077">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/update.html.erb" timestamp="1486554804787">
         <mark key="[" line="1" column="23" />
@@ -1189,12 +1190,12 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article_print.rb" timestamp="1487662208667">
-        <mark key="'" line="147" column="58" />
-        <mark key="[" line="58" column="9" />
-        <mark key="]" line="59" column="15" />
-        <mark key="." line="59" column="15" />
-        <mark key="^" line="59" column="15" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article_print.rb" timestamp="1487663977887">
+        <mark key="'" line="159" column="58" />
+        <mark key="[" line="47" column="43" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/economy_course_article.rb" timestamp="1487600118122" />
       <file name="$USER_HOME$/projects/value_press/vendor/bundle/gems/carrierwave-1.0.0/lib/carrierwave/uploader/proxy.rb" timestamp="1487339883579" />
@@ -4158,13 +4159,14 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">KiA=</text>
       </register>
       <register name="/" type="4">
         <text>_get_coverage_media_list</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lZGlhX2xpc3RbbWVkaXVtX2dlbnJlLmlkXSA9IGFsbGlhbmNlW21lZGl1bV9nZW5yZS5pZF0K</text>
+      <register name="0" type="4">
+        <text>ジャンルがなく、
+     * 記事化されている媒体が優先して表示されるリストを作成</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4173,13 +4175,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcnlvdXNhbl9wcmludF9udW0gPSBAYXJ0aWNsZS5tYXNzX3Byb2R1Y3Rpb25fc2l0ZV9wcmludF9jb3VudAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4404,13 +4406,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBsaXN0X3dpdGhvdXRfc2l0ZV9nZW5yZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lZGlhX2xpc3RbbWVkaXVtX2dlbnJlLmlkXSA9IGFsbGlhbmNlW21lZGl1bV9nZW5yZS5pZF0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
