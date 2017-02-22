@@ -92,8 +92,8 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487756178735">
-        <mark key="'" line="275" column="63" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487765062401">
+        <mark key="'" line="193" column="56" />
         <mark key="[" line="329" column="38" />
         <mark key="]" line="329" column="58" />
       </file>
@@ -440,12 +440,12 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/sns_log.rb" timestamp="1487747328919">
+      <file name="$USER_HOME$/projects/value_press/app/models/sns_log.rb" timestamp="1487764800701">
         <mark key="'" line="12" column="36" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="60" column="5" />
+        <mark key="[" line="59" column="9" />
+        <mark key="]" line="59" column="9" />
         <mark key="^" line="81" column="15" />
-        <mark key="." line="60" column="5" />
+        <mark key="." line="59" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/room_mailtpl.rb" timestamp="1487403972379" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/show.html.erb" timestamp="1487755482726">
@@ -690,7 +690,7 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="/a.regexp" timestamp="1487762697950">
+      <file name="/a.regexp" timestamp="1487764763969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -1080,10 +1080,10 @@
         <mark key="^" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/alliance_media_feed.rb" timestamp="1487134570024" />
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/article_prints_controller.rb" timestamp="1487742150500">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/article_prints_controller.rb" timestamp="1487764667509">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/update.html.erb" timestamp="1486554804787">
         <mark key="[" line="1" column="23" />
@@ -1224,11 +1224,11 @@
         <mark key="." line="20" column="2" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/article_informations_controller.rb" timestamp="1487658789292">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="57" />
-        <mark key="." line="6" column="57" />
-        <mark key="^" line="6" column="57" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/article_informations_controller.rb" timestamp="1487765051557">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/original_list_manageable.rb" timestamp="1485859363241">
         <mark key="[" line="1" column="21" />
@@ -1262,12 +1262,12 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article_print.rb" timestamp="1487741819260">
-        <mark key="'" line="176" column="58" />
-        <mark key="[" line="172" column="31" />
-        <mark key="]" line="173" column="10" />
-        <mark key="." line="173" column="10" />
-        <mark key="^" line="173" column="10" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article_print.rb" timestamp="1487762956008">
+        <mark key="'" line="177" column="58" />
+        <mark key="[" line="171" column="45" />
+        <mark key="]" line="172" column="21" />
+        <mark key="." line="172" column="21" />
+        <mark key="^" line="172" column="21" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/economy_course_article.rb" timestamp="1487600118122" />
       <file name="$USER_HOME$/projects/value_press/vendor/bundle/gems/carrierwave-1.0.0/lib/carrierwave/uploader/proxy.rb" timestamp="1487339883579" />
@@ -1475,6 +1475,9 @@
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/logical_deletable.rb" timestamp="1487292500746">
+        <mark key="[" line="24" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/original_list_signature_decorator.rb" timestamp="1486560811828">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="7" />
@@ -1521,7 +1524,6 @@
       <jump line="987" column="34" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="65" column="35" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="90" column="35" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
-      <jump line="193" column="35" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="158" column="25" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="14" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -1601,6 +1603,7 @@
       <jump line="186" column="20" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_show_footer_js.html.erb" />
       <jump line="0" column="2" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="81" column="15" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
+      <jump line="193" column="56" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4250,10 +4253,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>medium_access_date</text>
+        <text>get_release_information_data</text>
       </register>
       <register name="0" type="4">
         <text>return_data[medium.medium_genre_id][number[medium.medium_genre_id]]</text>
@@ -4509,9 +4512,9 @@
       </register>
     </registers>
     <search>
-      <last-search>medium_access_date</last-search>
+      <last-search>get_release_information_data</last-search>
       <last-offset />
-      <last-pattern>medium_access_date</last-pattern>
+      <last-pattern>get_release_information_data</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4519,7 +4522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
         <entry>formats</entry>
         <entry>sns_type</entry>
         <entry>text</entry>
@@ -4539,6 +4541,7 @@
         <entry>return_data</entry>
         <entry>category</entry>
         <entry>medium_access_date</entry>
+        <entry>get_release_information_data</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
