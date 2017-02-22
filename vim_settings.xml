@@ -366,6 +366,7 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registration_emails_controller_spec.rb" timestamp="1487740318544" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/user_accounts/update.html.erb" timestamp="1485496311435">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
@@ -961,6 +962,13 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/Gemfile" timestamp="1487740539148">
+        <mark key="'" line="123" column="7" />
+        <mark key="[" line="139" column="52" />
+        <mark key="]" line="140" column="24" />
+        <mark key="." line="140" column="24" />
+        <mark key="^" line="140" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/registrations_controller.rb" timestamp="1486379529539">
         <mark key="[" line="52" column="10" />
         <mark key="]" line="52" column="13" />
@@ -1356,10 +1364,11 @@
         <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/models/article_spec.rb" timestamp="1487723950833" />
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/article_prints_controller_spec.rb" timestamp="1487737971617">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/article_prints_controller_spec.rb" timestamp="1487740633163">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1486372498769">
         <mark key="[" line="6" column="35" />
@@ -1512,9 +1521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="16" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="48" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="49" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="115" column="9" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="153" column="12" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="346" column="14" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -1612,6 +1618,9 @@
       <jump line="559" column="47" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="15" column="6" filename="$USER_HOME$/projects/value_press/app/models/useraccess.rb" />
       <jump line="0" column="22" filename="$USER_HOME$/projects/value_press/app/models/useraccess.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
+      <jump line="65" column="23" filename="$USER_HOME$/projects/value_press/Gemfile" />
+      <jump line="123" column="7" filename="$USER_HOME$/projects/value_press/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4261,10 +4270,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>last_view</text>
+        <text>rspec</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cmVxdWlyZSAicmFpbHNfaGVscGVyIgoKZGVzY3JpYmUgVXNlcnM6OlJlZ2lzdHJhdGlvbnNDb250cm9sbGVyLCB0eXBlOiA6Y29udHJvbGxlciBkbwogIHJlbmRlcl92aWV3cwo=</text>
@@ -4520,9 +4529,9 @@
       </register>
     </registers>
     <search>
-      <last-search>last_view</last-search>
+      <last-search>rspec</last-search>
       <last-offset />
-      <last-pattern>last_view</last-pattern>
+      <last-pattern>rspec</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4530,7 +4539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>report</entry>
         <entry>media_reading</entry>
         <entry>medium_result</entry>
         <entry>get_release_information_data</entry>
@@ -4550,6 +4558,7 @@
         <entry>cheer</entry>
         <entry>sns</entry>
         <entry>last_view</entry>
+        <entry>rspec</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
