@@ -22,10 +22,10 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/db/seeds/sns_log.rb" timestamp="1487745981928">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
+      <file name="$USER_HOME$/projects/value_press/db/seeds/sns_log.rb" timestamp="1487746770050">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/new_select_course.html.erb" timestamp="1486783745292">
@@ -80,10 +80,10 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487745713228">
-        <mark key="'" line="393" column="19" />
-        <mark key="[" line="428" column="29" />
-        <mark key="]" line="428" column="40" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1487748201072">
+        <mark key="'" line="388" column="17" />
+        <mark key="[" line="454" column="18" />
+        <mark key="]" line="454" column="24" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/temp_ymdroom_factory.rb" timestamp="1487255895623">
         <mark key="[" line="17" column="51" />
@@ -128,6 +128,7 @@
         <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/projects/value_press/lib/value_press/effect_measurement_util.rb" timestamp="1487158467992" />
+      <file name="$USER_HOME$/projects/value_press/app/models/soho/info.rb" timestamp="1487746666587" />
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/original_list_managable.rb" timestamp="1485858727589">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
@@ -433,12 +434,12 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/sns_log.rb" timestamp="1487746054760">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="112" column="15" />
-        <mark key="^" line="112" column="15" />
-        <mark key="." line="112" column="15" />
+      <file name="$USER_HOME$/projects/value_press/app/models/sns_log.rb" timestamp="1487747328919">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="5" />
+        <mark key="^" line="81" column="15" />
+        <mark key="." line="60" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/room_mailtpl.rb" timestamp="1487403972379" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/show.html.erb" timestamp="1487598719342">
@@ -694,7 +695,7 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="/a.regexp" timestamp="1487745968496">
+      <file name="/a.regexp" timestamp="1487746619078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -948,6 +949,12 @@
         <mark key="]" line="140" column="24" />
         <mark key="." line="140" column="24" />
         <mark key="^" line="140" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/sns_log/analytics_api.rb" timestamp="1487748290118">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="61" column="5" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/registrations_controller.rb" timestamp="1486379529539">
         <mark key="[" line="52" column="10" />
@@ -1508,14 +1515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="24" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="121" column="4" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="157" column="26" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="139" column="16" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="39" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="40" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="1015" column="25" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
-      <jump line="4" column="44" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="128" column="34" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="129" column="9" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="131" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
@@ -1590,7 +1589,6 @@
       <jump line="31" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="78" column="45" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="148" column="43" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="165" column="74" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="268" column="24" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="494" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
@@ -1608,6 +1606,15 @@
       <jump line="1" column="2" filename="$USER_HOME$/projects/value_press/config/locales/default/ja.yml" />
       <jump line="199" column="13" filename="$USER_HOME$/projects/value_press/config/locales/default/ja.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/value_press/app/models/sns_log.rb" />
+      <jump line="0" column="7" filename="$USER_HOME$/projects/value_press/app/models/sns_log.rb" />
+      <jump line="12" column="36" filename="$USER_HOME$/projects/value_press/app/models/sns_log.rb" />
+      <jump line="519" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="38" column="39" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="39" column="82" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="382" column="17" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="385" column="22" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
+      <jump line="388" column="17" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4257,31 +4264,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>も</text>
       </register>
       <register name="/" type="4">
-        <text>sns_type</text>
+        <text>sns_</text>
       </register>
       <register name="0" type="4">
-        <text>[^\x01-\x7E]</text>
+        <text>相対日付に変換</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc25zX2xvZ3MuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4503,22 +4510,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kX2RhdGUgPSBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>sns_type</last-search>
+      <last-search>sns_</last-search>
       <last-offset />
-      <last-pattern>sns_type</last-pattern>
+      <last-pattern>sns_</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4526,8 +4533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>access</entry>
-        <entry>get_access</entry>
         <entry>scope</entry>
         <entry>send_date</entry>
         <entry>print</entry>
@@ -4546,6 +4551,8 @@
         <entry>date</entry>
         <entry>formats</entry>
         <entry>sns_type</entry>
+        <entry>text</entry>
+        <entry>sns_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
