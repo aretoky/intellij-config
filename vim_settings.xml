@@ -142,6 +142,10 @@
         <mark key="." line="6" column="56" />
         <mark key="^" line="7" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/book/destroyer.rb" timestamp="1487930128841">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/staff.rb" timestamp="1487865727132">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="64" />
@@ -266,6 +270,12 @@
         <mark key="]" line="13" column="36" />
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1487930307396">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/routes/users.rb" timestamp="1487870612141">
         <mark key="[" line="16" column="48" />
@@ -523,6 +533,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="38" column="69" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_option.php" timestamp="1487930242492">
+        <mark key="'" line="69" column="27" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/ar_innodb_row_format.rb" timestamp="1486370740196">
         <mark key="[" line="4" column="45" />
@@ -1415,8 +1428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="58" filename="$USER_HOME$/projects/value_press/app/models/article_print.rb" />
-      <jump line="177" column="35" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="663" column="29" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="992" column="25" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="181" column="25" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
@@ -1515,6 +1526,8 @@
       <jump line="13" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="314" column="13" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="14" column="3" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="18" column="38" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_option.php" />
+      <jump line="69" column="27" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_option.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4164,18 +4177,24 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Book</text>
       </register>
       <register name="/" type="4">
-        <text>ym_company</text>
+        <text>delete</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ID8gIuKXiyIgOiAiw5ci</text>
+        <text>ActiveType::Record[Book]</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBiZWZvcmVfZGVzdHJveQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgQml0ZW0gPCBBY3RpdmVSZWNvcmQK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>if @bill.yn_billmail10?
       %w(30 14 3).each do |d|
         unless @bill.send(&quot;year_plan_before_#{d}_day_billmail&quot;)
@@ -4184,17 +4203,11 @@
       end
     end</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6c2V0X2JpbGxtYWlscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gZi5vYmplY3Quc2VuZCgiYnVpbGRfeWVhcl9wbGFuX2JlZm9yZV8je2R9X2RheV9iaWxsbWFpbCIpIHVubGVzcyBmLm9iamVjdC5zZW5kKCJ5ZWFyX3BsYW5fYmVmb3JlXyN7ZH1fZGF5X2JpbGxtYWlsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4416,22 +4429,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6c2V0X2JpbGxtYWlscwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gZi5vYmplY3Quc2VuZCgiYnVpbGRfeWVhcl9wbGFuX2JlZm9yZV8je2R9X2RheV9iaWxsbWFpbCIpIHVubGVzcyBmLm9iamVjdC5zZW5kKCJ5ZWFyX3BsYW5fYmVmb3JlXyN7ZH1fZGF5X2JpbGxtYWlsIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>ym_company</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>ym_company</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4439,7 +4452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>graph</entry>
         <entry>view_count_for</entry>
         <entry>_get_graph_data</entry>
         <entry>sns</entry>
@@ -4459,6 +4471,7 @@
         <entry>kata</entry>
         <entry>nm_com</entry>
         <entry>ym_company</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
