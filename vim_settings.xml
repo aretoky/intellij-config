@@ -145,6 +145,9 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" timestamp="1487922655193">
+        <mark key="'" line="1278" column="68" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/article_results_controller_spec.rb" timestamp="1487742490666">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="28" />
@@ -626,7 +629,7 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="/a.regexp" timestamp="1487921643678">
+      <file name="/a.regexp" timestamp="1487924372709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -879,6 +882,12 @@
         <mark key="." line="52" column="13" />
         <mark key="^" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1487925009366">
+        <mark key="[" line="44" column="64" />
+        <mark key="]" line="44" column="69" />
+        <mark key="^" line="44" column="69" />
+        <mark key="." line="44" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/access_analytics_datas_controller_spec.rb" timestamp="1487743307079">
         <mark key="[" line="17" column="85" />
         <mark key="]" line="18" column="3" />
@@ -950,6 +959,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="^" line="61" column="11" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_billmail_fields.html.slim" timestamp="1487925226958">
+        <mark key="[" line="44" column="6" />
+        <mark key="]" line="44" column="26" />
+        <mark key="^" line="44" column="26" />
+        <mark key="." line="44" column="26" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1487340921965">
         <mark key="[" line="1" column="27" />
@@ -1211,6 +1226,12 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_index_bill_links.html.slim" timestamp="1487923992113">
+        <mark key="[" line="5" column="150" />
+        <mark key="]" line="5" column="150" />
+        <mark key="^" line="5" column="174" />
+        <mark key="." line="5" column="150" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/lib/value_press/cache_util.rb" timestamp="1487524470895">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1298,6 +1319,12 @@
         <mark key="." line="89" column="27" />
         <mark key="^" line="89" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bills_controller.rb" timestamp="1487925180300">
+        <mark key="[" line="98" column="63" />
+        <mark key="]" line="98" column="72" />
+        <mark key="^" line="98" column="72" />
+        <mark key="." line="98" column="72" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/validators/alpha_dash_or_empty_validator.rb" timestamp="1486572318260">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="38" />
@@ -1369,9 +1396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="820" column="55" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
-      <jump line="823" column="61" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
-      <jump line="910" column="30" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="924" column="44" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="987" column="34" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="65" column="35" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
@@ -1469,6 +1493,9 @@
       <jump line="28" column="2" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="3" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" />
       <jump line="9" column="64" filename="$USER_HOME$/projects/value_press/config/routes/users.rb" />
+      <jump line="1163" column="6" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
+      <jump line="1268" column="69" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
+      <jump line="1278" column="68" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/js/bitem/common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4118,13 +4145,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, controller: 'articles/vp_access_logs'</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>sns_logs</text>
+        <text>ajax_delete_plan</text>
       </register>
       <register name="0" type="4">
-        <text>cplus-staging.cohoujldbzfr.ap-northeast-1.rds.amazonaws.com</text>
+        <text>%w(30 14 3)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJlZm9yZV9hY3Rpb24gOnNldF9hcnRpY2xlCg==</text>
@@ -4381,9 +4408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sns_logs</last-search>
+      <last-search>ajax_delete_plan</last-search>
       <last-offset />
-      <last-pattern>sns_logs</last-pattern>
+      <last-pattern>ajax_delete_plan</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4391,7 +4418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>media_result</entry>
         <entry>medium_result</entry>
         <entry>mediacontact</entry>
         <entry>template</entry>
@@ -4411,6 +4437,7 @@
         <entry>twitter</entry>
         <entry>get_original_list_data</entry>
         <entry>sns_logs</entry>
+        <entry>ajax_delete_plan</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
