@@ -86,11 +86,6 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/pr_detail_analytics.php" timestamp="1488001882219">
-        <mark key="'" line="621" column="32" />
-        <mark key="[" line="329" column="38" />
-        <mark key="]" line="329" column="58" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/temp_ymdroom_factory.rb" timestamp="1487255895623">
         <mark key="[" line="17" column="51" />
         <mark key="]" line="17" column="59" />
@@ -293,6 +288,11 @@
         <mark key="]" line="151" column="8" />
         <mark key="." line="151" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1488095251419">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/analytic.rb" timestamp="1487143138750">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="13" />
@@ -337,11 +337,10 @@
         <mark key="." line="9" column="53" />
         <mark key="^" line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" timestamp="1487598995680">
-        <mark key="[" line="96" column="30" />
-        <mark key="]" line="96" column="36" />
-        <mark key="^" line="96" column="36" />
-        <mark key="." line="96" column="36" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" timestamp="1488094643628">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/application_controller.rb" timestamp="1486986510922">
         <mark key="[" line="10" column="0" />
@@ -600,11 +599,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_option.php" timestamp="1487931434810">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="64" column="52" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/ar_innodb_row_format.rb" timestamp="1486370740196">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="45" />
@@ -822,11 +816,11 @@
         <mark key="^" line="63" column="2" />
         <mark key="." line="63" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article/send_original_list_course_article.rb" timestamp="1486748400167">
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="23" />
-        <mark key="." line="71" column="23" />
-        <mark key="^" line="71" column="23" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article/send_original_list_course_article.rb" timestamp="1488095266830">
+        <mark key="[" line="80" column="7" />
+        <mark key="]" line="87" column="6" />
+        <mark key="." line="87" column="6" />
+        <mark key="^" line="87" column="6" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/user_accounts_and_articles_cache.rb" timestamp="1487525225034">
         <mark key="[" line="5" column="0" />
@@ -1319,6 +1313,12 @@
         <mark key="]" line="20" column="37" />
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/article/economy_course_article.rb" timestamp="1488095257420">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="88" column="46" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/alliance_course_articles_controller_spec.rb" timestamp="1487096963973">
         <mark key="[" line="3" column="42" />
@@ -4304,28 +4304,28 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>faq</text>
+        <text encoding="base64">ICAgICAgYSA=</text>
       </register>
       <register name="0" type="4">
         <text>/static/css/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybDogJy9mYXEvZ2V0X2ZhcV9kYXRhLzw/PSBudW1fdG9fc3RyKDE3Nik7ID8+JywK</text>
+      <register name="2" type="4">
+        <text encoding="base64">dmFsaWRhdGVzIDpvcmlnaW5hbF9saXN0X3NlbmRfbGlzdCwKICAgICAgICAgICAgICAgICAgcHJlc2VuY2U6IHRydWUsCiAgICAgICAgICAgICAgICAgIGlmOiAtPiB7IGNvdXJzZV9pZC5wcmVtaXVtPyA9PSBmYWxzZSB9CiAgICAgICAgdmFsaWRhdGVzIDpvcmlnaW5hbF9saXN0X3NpZ25hdHVyZSwKICAgICAgICAgICAgICAgICAgcHJlc2VuY2U6IHRydWUsIGFsbG93X25pbDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgaWY6IC0+IHsgY291cnNlX2lkLnNlbmRfb3JpZ2luYWxfbGlzdD8gfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgY3NzL2FkdmVydGlzaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lZGlhcy5kZWxldGUoOnNpdGVfZ2VucmUpCg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lZGlhcy5kZWxldGUoJ3NpdGVfZ2VucmUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4547,22 +4547,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lZGlhcy5kZWxldGUoOnNpdGVfZ2VucmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybDogJy9mYXEvZ2V0X2ZhcV9kYXRhLzw/PSBudW1fdG9fc3RyKDE3Nik7ID8+JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lZGlhcy5kZWxldGUoJ3NpdGVfZ2VucmUnKQo=</text>
+        <text encoding="base64">ICo9IHJlcXVpcmUgY3NzL2FkdmVydGlzaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">ICBhCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>faq</last-search>
+      <last-search encoding="base64">ICAgICAgYSA=</last-search>
       <last-offset />
-      <last-pattern>faq</last-pattern>
+      <last-pattern encoding="base64">ICAgICAgYSA=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4570,7 +4570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kata</entry>
         <entry>nm_com</entry>
         <entry>ym_company</entry>
         <entry>delete</entry>
@@ -4590,6 +4589,7 @@
         <entry>wordcount</entry>
         <entry>ad</entry>
         <entry>faq</entry>
+        <entry encoding="base64">ICAgICAgYSA=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
