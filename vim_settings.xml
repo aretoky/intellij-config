@@ -457,6 +457,12 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/controllers/users_controller.rb" timestamp="1488197995101">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/user_account/attribute_updater_with_user.rb" timestamp="1485502605676">
         <mark key="[" line="103" column="55" />
         <mark key="]" line="103" column="73" />
@@ -717,11 +723,11 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/users/shared/_links.html.slim" timestamp="1487211208721">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/projects/umareso/app/views/users/shared/_links.html.slim" timestamp="1488198383429">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/sessions/new.html.erb" timestamp="1485496291503">
         <mark key="[" line="1" column="59" />
@@ -1156,6 +1162,12 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/users/finish_signup.html.slim" timestamp="1488198172989">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers_controller.rb" timestamp="1487577932295">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="6" column="35" />
@@ -1367,7 +1379,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1486372498769">
+      <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1488198066280">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="35" />
         <mark key="." line="6" column="35" />
@@ -4294,26 +4306,26 @@
       <register name="/" type="4">
         <text encoding="base64">ICAgICAgYSA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBvbW5pYXV0aF9mYWNlYm9va19rZXk6IDQyNTE4MTkwNDQ4OTA0Ngo=</text>
+      <register name="0" type="4">
+        <text>defined?(devise_mapping)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmluaXNoX3NpZ251cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSAncG9ueScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSAnc2luYXRyYS9yZWxvYWRlcicK</text>
+        <text encoding="base64">cmVxdWlyZSAncG9ueScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSAnc2luYXRyYScK</text>
+        <text encoding="base64">cmVxdWlyZSAnc2luYXRyYS9yZWxvYWRlcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2VtICcnCg==</text>
+        <text encoding="base64">cmVxdWlyZSAnc2luYXRyYScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICsgIGVuZAo=</text>
+        <text encoding="base64">Z2VtICcnCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4535,13 +4547,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICsgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDw8OiAqb21uaWF1dGgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
