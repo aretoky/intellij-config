@@ -177,13 +177,6 @@
         <mark key="^" line="78" column="6" />
         <mark key="." line="77" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/articles/_show_footer_js.html.erb" timestamp="1488001569768">
-        <mark key="'" line="186" column="20" />
-        <mark key="[" line="371" column="75" />
-        <mark key="]" line="371" column="89" />
-        <mark key="." line="371" column="89" />
-        <mark key="^" line="371" column="89" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1487405566007">
         <mark key="[" line="69" column="8" />
         <mark key="]" line="69" column="13" />
@@ -549,6 +542,11 @@
         <mark key="^" line="38" column="69" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/inamts_controller.rb" timestamp="1487935827589">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/ar_innodb_row_format.rb" timestamp="1486370740196">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="45" />
@@ -745,6 +743,11 @@
         <mark key="]" line="72" column="21" />
         <mark key="." line="72" column="21" />
         <mark key="^" line="72" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles/article_prints_controller.rb" timestamp="1488040886772">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/user_account/support_foundation_date.rb" timestamp="1485699943049">
         <mark key="[" line="5" column="64" />
@@ -981,13 +984,6 @@
         <mark key="]" line="40" column="14" />
         <mark key="." line="40" column="14" />
         <mark key="^" line="40" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_form.html.erb" timestamp="1488045466089">
-        <mark key="'" line="286" column="41" />
-        <mark key="[" line="435" column="0" />
-        <mark key="]" line="435" column="0" />
-        <mark key="^" line="436" column="56" />
-        <mark key="." line="435" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/concerns/article/article_savable_decorator.rb" timestamp="1486784449586">
         <mark key="[" line="1" column="32" />
@@ -1244,13 +1240,6 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article_print.rb" timestamp="1488040637918">
-        <mark key="'" line="132" column="17" />
-        <mark key="[" line="137" column="39" />
-        <mark key="]" line="137" column="43" />
-        <mark key="." line="137" column="43" />
-        <mark key="^" line="137" column="43" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/faqs_controller.rb" timestamp="1488045343841">
         <mark key="[" line="20" column="37" />
         <mark key="]" line="20" column="37" />
@@ -1352,6 +1341,11 @@
         <mark key="]" line="63" column="48" />
         <mark key="^" line="63" column="48" />
         <mark key="." line="63" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/db/migrate/20170206083930_add_omniauth_columns_to_users.rb_old" timestamp="1488179158147">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/editing_content_manageable.rb" timestamp="1486538437338">
         <mark key="[" line="2" column="9" />
@@ -4250,22 +4244,22 @@
         <text>/static/css/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2VtICdvbW5pYXV0aC1mYWNlYm9vaycK</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6dXNlcnMsIFs6dWlkLCA6cHJvdmlkZXJdLCB1bmlxdWU6IHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VtICdvbW5pYXV0aC10d2l0dGVyJwpnZW0gJ29tbmlhdXRoLWZhY2Vib29rJwo=</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOnVzZXJzLCA6cHJvdmlkZXIsIDpzdHJpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4gOnVzZXJzLCA6dWlkLCAgICAgIDpzdHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdvbW5pYXV0aC1mYWNlYm9vaycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Z2VtICdvbW5pYXV0aC10d2l0dGVyJwpnZW0gJ29tbmlhdXRoLWZhY2Vib29rJwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dmFsaWRhdGVzIDpvcmlnaW5hbF9saXN0X3NlbmRfbGlzdCwKICAgICAgICAgICAgICAgICAgcHJlc2VuY2U6IHRydWUsCiAgICAgICAgICAgICAgICAgIGlmOiAtPiB7IGNvdXJzZV9pZC5wcmVtaXVtPyA9PSBmYWxzZSB9CiAgICAgICAgdmFsaWRhdGVzIDpvcmlnaW5hbF9saXN0X3NpZ25hdHVyZSwKICAgICAgICAgICAgICAgICAgcHJlc2VuY2U6IHRydWUsIGFsbG93X25pbDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgaWY6IC0+IHsgY291cnNlX2lkLnNlbmRfb3JpZ2luYWxfbGlzdD8gfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4490,10 +4484,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">dmFsaWRhdGVzIDpvcmlnaW5hbF9saXN0X3NlbmRfbGlzdCwKICAgICAgICAgICAgICAgICAgcHJlc2VuY2U6IHRydWUsCiAgICAgICAgICAgICAgICAgIGlmOiAtPiB7IGNvdXJzZV9pZC5wcmVtaXVtPyA9PSBmYWxzZSB9CiAgICAgICAgdmFsaWRhdGVzIDpvcmlnaW5hbF9saXN0X3NpZ25hdHVyZSwKICAgICAgICAgICAgICAgICAgcHJlc2VuY2U6IHRydWUsIGFsbG93X25pbDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgaWY6IC0+IHsgY291cnNlX2lkLnNlbmRfb3JpZ2luYWxfbGlzdD8gfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
