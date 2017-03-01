@@ -337,12 +337,12 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1488366108183">
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1488367614712">
         <mark key="'" line="47" column="6" />
-        <mark key="[" line="55" column="46" />
-        <mark key="]" line="55" column="50" />
-        <mark key="." line="55" column="50" />
-        <mark key="^" line="55" column="50" />
+        <mark key="[" line="53" column="32" />
+        <mark key="]" line="53" column="32" />
+        <mark key="." line="53" column="32" />
+        <mark key="^" line="55" column="43" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css" timestamp="1488044452641">
         <mark key="'" line="0" column="0" />
@@ -4392,18 +4392,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text encoding="base64">ICYmIHBsYW4=</text>
       </register>
       <register name="/" type="4">
         <text>cd_pa</text>
       </register>
-      <register name="0" type="4">
-        <text>let(:bitem) {
-    ActiveType.cast(
-      create(:option_bitem, no_cust: bill.no_cust, no_bill: no_bill, current_person: emp.person),
-      Bitem::Destroyer
-    )
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVycm9ycy5hZGQoOmJhc2UsICfjg5fjg6njg7Pjg4fjg7zjgr/jgqjjg6njg7wnKSBpZiBkdF9wcm9jLmJsYW5rPwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
