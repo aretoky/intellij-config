@@ -313,11 +313,11 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1488352083908">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="79" column="7" />
-        <mark key="." line="79" column="7" />
-        <mark key="^" line="79" column="7" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1488353909261">
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="76" column="43" />
+        <mark key="." line="76" column="43" />
+        <mark key="^" line="76" column="43" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/application_controller.rb" timestamp="1486986510922">
         <mark key="[" line="10" column="0" />
@@ -4300,31 +4300,32 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>self.class.where(no_cust: no_cust, no_plan: no_plan).where.not(no_bitem: no_bitem).max(:dt_end)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>plans</text>
       </register>
       <register name="0" type="4">
-        <text>class.where(no_cust: no_cust, no_plan: no_plan).where.not(no_bitem: no_bitem).max()</text>
+        <text>plan.where.not(no_plan: nil)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpdGVtcyBjbGFzcy53aGVyZShub19jdXN0OiBub19jdXN0LCBub19wbGFuOiBub19wbGFuKS53aGVyZS5ub3Qobm9fYml0ZW06IG5vX2JpdGVtKS5tYXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsYW5zID0gUGxhbi53aGVyZShub19wbGFuOiBub19wbGFuKS53aGVyZS5ub3Qobm9fYml0ZW06IG5vX2JpdGVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzLmluY2x1ZGVzKDpwbGFuKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>.map do |date|
+    end</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgYml0ZW1zLnNlbGVjdCB7IHxiaXRlbXwgYml0ZW0uZGF0ZSB9Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4546,13 +4547,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjCg==</text>
+        <text encoding="base64">ICAgIGJpdGVtcyA9IHBsYW4uYml0ZW1zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR0X3Byb2MgPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsYW4uaW5jbHVkZXMoOmJpdGVtcykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
