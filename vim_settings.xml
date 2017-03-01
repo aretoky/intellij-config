@@ -369,11 +369,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/bitem/destroyer_spec.rb" timestamp="1488372952861">
-        <mark key="[" line="62" column="27" />
-        <mark key="]" line="62" column="37" />
-        <mark key="." line="62" column="27" />
-        <mark key="^" line="62" column="26" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/bitem/destroyer_spec.rb" timestamp="1488373501836">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="61" column="26" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/models/bill_spec.rb" timestamp="1488362433458">
         <mark key="[" line="50" column="0" />
@@ -4418,28 +4418,28 @@
         <text>cu</text>
       </register>
       <register name="/" type="4">
-        <text>no_person</text>
+        <text>where</text>
       </register>
       <register name="0" type="4">
         <text>emp.person</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwIEJpdGVtLmFsbAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcCBCaXRlbS5hbGwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwIEJpdGVtLmFsbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcCBCaXRlbS5hbGwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4661,25 +4661,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZSgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>no_cust: bill.no_cust,
-            no_plan: no_plan,
-            no_bill: no_bill,
-            current_person: emp.person</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZSgK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>no_person</last-search>
+      <last-search>where</last-search>
       <last-offset />
-      <last-pattern>no_person</last-pattern>
+      <last-pattern>where</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4687,7 +4684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_medium_result_data</entry>
         <entry>site_genre</entry>
         <entry>print_site</entry>
         <entry>grade</entry>
@@ -4707,6 +4703,7 @@
         <entry>cd_pa</entry>
         <entry>dt_proc</entry>
         <entry>no_person</entry>
+        <entry>where</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
