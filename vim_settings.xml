@@ -313,11 +313,11 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1488358203548">
-        <mark key="[" line="89" column="64" />
-        <mark key="]" line="89" column="64" />
-        <mark key="." line="89" column="64" />
-        <mark key="^" line="93" column="18" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1488360537532">
+        <mark key="[" line="92" column="25" />
+        <mark key="]" line="92" column="46" />
+        <mark key="." line="92" column="46" />
+        <mark key="^" line="92" column="46" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/application_controller.rb" timestamp="1486986510922">
         <mark key="[" line="10" column="0" />
@@ -914,10 +914,10 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" timestamp="1488350994278">
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" timestamp="1488360535681">
         <mark key="'" line="32" column="19" />
-        <mark key="[" line="95" column="80" />
-        <mark key="]" line="95" column="90" />
+        <mark key="[" line="158" column="39" />
+        <mark key="]" line="158" column="60" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_course_article_decorator.rb" timestamp="1486785172151">
         <mark key="[" line="70" column="16" />
@@ -4300,13 +4300,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.to_date</text>
+        <text>プランデータエラー</text>
       </register>
       <register name="/" type="4">
         <text>plans</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgZXhpc3RpbmdfcGxhbj8gJiYgcGxhbgo=</text>
+      <register name="0" type="4">
+        <text>プランの期間と請求項目の期間が一致しません。</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJpdGVtcyA9IGJpdGVtc193aXRob3V0X215c2VsZgo=</text>
