@@ -978,12 +978,6 @@
         <mark key="^" line="97" column="393" />
         <mark key="." line="97" column="393" />
       </file>
-      <file name="$USER_HOME$/projects/unkokanji/views/complete.erb" timestamp="1488771684200">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/index.html.slim" timestamp="1486974199755">
         <mark key="[" line="0" column="72" />
         <mark key="]" line="0" column="76" />
@@ -1099,6 +1093,12 @@
         <mark key="]" line="14" column="79" />
         <mark key="^" line="14" column="79" />
         <mark key="." line="14" column="79" />
+      </file>
+      <file name="$USER_HOME$/sandbox/unkokanji/views/wpbench.erb" timestamp="1488799749811">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="122" column="31" />
+        <mark key="^" line="122" column="31" />
+        <mark key="." line="122" column="31" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209041023_create_stories.rb" timestamp="1487235938846">
         <mark key="[" line="14" column="56" />
@@ -1450,11 +1450,11 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/app_main.rb" timestamp="1488780233976">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/sandbox/unkokanji/app_main.rb" timestamp="1488799678523">
+        <mark key="[" line="75" column="9" />
+        <mark key="]" line="75" column="9" />
+        <mark key="." line="75" column="9" />
+        <mark key="^" line="75" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_postal_general_input.rb" timestamp="1485945889986">
         <mark key="[" line="37" column="0" />
@@ -4501,13 +4501,15 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>controller</text>
       </register>
       <register name="0" type="4">
-        <text>platform.twitter.com/widgets.js</text>
+        <text>get '/privacy.html' do
+    erb :privacy
+  end</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIHNpZGVMYXp5TG9hZEZ1bmN0aW9uKCk7Cg==</text>
