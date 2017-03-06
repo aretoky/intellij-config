@@ -715,12 +715,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" timestamp="1488787406029">
-        <mark key="'" line="56" column="14" />
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" timestamp="1488788731826">
+        <mark key="'" line="405" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/commodity_price.rb" timestamp="1487002656922">
         <mark key="[" line="56" column="16" />
@@ -1054,7 +1054,10 @@
         <mark key="." line="311" column="44" />
         <mark key="^" line="311" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_common.js" timestamp="1488783380875" />
+      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_common.js" timestamp="1488788350180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_depo_fields.html.slim" timestamp="1485941952554">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1729,7 +1732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="27" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="73" column="37" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="90" column="73" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
       <jump line="94" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
@@ -1829,6 +1831,7 @@
       <jump line="118" column="0" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
       <jump line="150" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="53" column="14" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
+      <jump line="406" column="0" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4483,26 +4486,28 @@
       <register name="/" type="4">
         <text>gNavi</text>
       </register>
-      <register name="0" type="4">
-        <text>tmpl.render()</text>
+      <register name="0" type="2">
+        <text encoding="base64">JChmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsYXp5TG9hZEZ1bmN0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICQoJyNzbGlkZXIxIC5zcC1zbGlkZXMnKS5hcHBlbmRUbyh0bXBsLnJlbmRlcigpKTsK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCS0tPgo=</text>
+        <text encoding="base64">JChmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCEtLQo=</text>
+        <text encoding="base64">ICAgIGxhenlMb2FkRnVuY3Rpb24oKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Pgo=</text>
+      <register name="6" type="4">
+        <text>var tmpl = $.templates('#slideLazyLoadTmpl');
+    $('#slider1 .sp-slides').append(tmpl.render());
+    lazyLoadFunction();</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4724,13 +4729,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PWVuZAolPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PCUKPWJlZ2lu</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
