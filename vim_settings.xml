@@ -92,11 +92,12 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1488780663901">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1488784421463">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="312" column="1" />
+        <mark key="." line="312" column="1" />
+        <mark key="^" line="312" column="1" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sns_logs_controller_spec.rb" timestamp="1487751483828">
         <mark key="[" line="22" column="22" />
@@ -714,10 +715,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" timestamp="1488781495435">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
+      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" timestamp="1488783641625">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/commodity_price.rb" timestamp="1487002656922">
         <mark key="[" line="56" column="16" />
@@ -1051,6 +1054,7 @@
         <mark key="." line="311" column="44" />
         <mark key="^" line="311" column="44" />
       </file>
+      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_common.js" timestamp="1488783380875" />
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_depo_fields.html.slim" timestamp="1485941952554">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1725,15 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="6" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="35" column="31" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="36" column="32" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="51" column="76" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="56" column="72" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="57" column="71" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="64" column="27" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="66" column="19" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="68" column="24" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="70" column="15" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="71" column="27" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="73" column="37" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -1825,6 +1820,15 @@
       <jump line="2608" column="73" filename="$USER_HOME$/sandbox/unkokanji/public/assets/application-54fbded0463907c5d463790a828943e7f2915a503c48b03584097568ae694aa2.js" />
       <jump line="2656" column="41" filename="$USER_HOME$/sandbox/unkokanji/public/assets/application-54fbded0463907c5d463790a828943e7f2915a503c48b03584097568ae694aa2.js" />
       <jump line="9939" column="16" filename="$USER_HOME$/sandbox/unkokanji/public/assets/application-54fbded0463907c5d463790a828943e7f2915a503c48b03584097568ae694aa2.js" />
+      <jump line="297" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="129" column="5" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="130" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="71" column="11" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="312" column="1" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="30" column="1" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
+      <jump line="150" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4474,31 +4478,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>loading</text>
+        <text>gNavi</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c3Byb2NrZXRzLmFwcGVuZF9wYXRoIEZpbGUuam9pbihyb290LCAnYXNzZXRzJywgJ3N0eWxlc2hlZXRzJykKICAgICMgc3Byb2NrZXRzLmFwcGVuZF9wYXRoIEZpbGUuam9pbihyb290LCAnYXNzZXRzJywgJ2phdmFzY3JpcHRzJykKICAgICMgc3Byb2NrZXRzLmFwcGVuZF9wYXRoIEZpbGUuam9pbihyb290LCAnYXNzZXRzJywgJ2ltYWdlcycpCg==</text>
+        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5Om5vbmU7Ig==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PWJlZ2luCg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PCUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PWVuZAolPg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">JT4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">PCUKPWJlZ2lu</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PWVuZAo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuc3Byb2NrZXRzLW1hbmlmZXN0LTZhYTFhMDY5NzZjMzVhMTk5ZjIzNjI3YmNkOTkyNTkwCg==</text>
+        <text encoding="base64">PGRpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNwcm9ja2V0cy5hcHBlbmRfcGF0aCBGaWxlLmpvaW4ocm9vdCwgJ2Fzc2V0cycsICdzdHlsZXNoZWV0cycpCg==</text>
+        <text encoding="base64">PWJlZ2luCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4720,22 +4724,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+        <text encoding="base64">PCUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PWVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>loading</last-search>
+      <last-search>gNavi</last-search>
       <last-offset />
-      <last-pattern>loading</last-pattern>
+      <last-pattern>gNavi</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4743,9 +4747,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ICAgICAgYSA=</entry>
-        <entry>plan</entry>
-        <entry encoding="base64">IGR1cA==</entry>
         <entry>dup</entry>
         <entry>dt_proc_new</entry>
         <entry>bitems</entry>
@@ -4763,6 +4764,9 @@
         <entry>de</entry>
         <entry>load</entry>
         <entry>loading</entry>
+        <entry>navBtn</entry>
+        <entry>pagetop</entry>
+        <entry>gNavi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
