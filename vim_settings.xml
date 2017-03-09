@@ -96,12 +96,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1489035513166">
-        <mark key="'" line="315" column="6" />
-        <mark key="[" line="81" column="53" />
-        <mark key="]" line="81" column="55" />
-        <mark key="." line="81" column="55" />
-        <mark key="^" line="81" column="55" />
+      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1489040001573">
+        <mark key="'" line="42" column="0" />
+        <mark key="]" line="334" column="0" />
+        <mark key="." line="334" column="0" />
+        <mark key="^" line="334" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sns_logs_controller_spec.rb" timestamp="1487751483828">
         <mark key="[" line="22" column="22" />
@@ -730,12 +729,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" timestamp="1488795478797">
-        <mark key="'" line="96" column="8" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="^" line="72" column="0" />
-        <mark key="." line="20" column="8" />
+      <file name="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" timestamp="1489039725412">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="30" column="2" />
+        <mark key="^" line="30" column="2" />
+        <mark key="." line="30" column="2" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/commodity_price.rb" timestamp="1487002656922">
         <mark key="[" line="56" column="16" />
@@ -1754,11 +1753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="11" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="312" column="1" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="30" column="1" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
-      <jump line="118" column="0" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
-      <jump line="150" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="53" column="14" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
       <jump line="406" column="0" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
       <jump line="278" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
@@ -1854,6 +1848,11 @@
       <jump line="88" column="6" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="97" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="315" column="6" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="276" column="11" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="370" column="8" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
+      <jump line="229" column="34" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="41" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4506,16 +4505,16 @@
         <text>svg</text>
       </register>
       <register name="/" type="4">
-        <text>associated_service</text>
+        <text>side</text>
       </register>
       <register name="0" type="4">
         <text>session[:last_search_queries].delete(&quot;/#{controller_path}&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PCU9IGphdmFzY3JpcHRfdGFnICdhcHBsaWNhdGlvbicgJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -4523,11 +4522,11 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgMyA8IHNlc3Npb25bOmxhc3Rfc2VhcmNoX3F1ZXJpZXNdLnNpemUKICAgICAgc2Vzc2lvbls6bGFzdF9zZWFyY2hfcXVlcmllc10uZmlyc3QKCiAgICBlbmQK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgMyA8IHNlc3Npb25bOmxhc3Rfc2VhcmNoX3F1ZXJpZXNdLnNpemUKICAgICAgc2Vzc2lvbls6bGFzdF9zZWFyY2hfcXVlcmllc10uZmlyc3QKCiAgICBlbmQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4749,7 +4748,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -4762,9 +4761,9 @@
       </register>
     </registers>
     <search>
-      <last-search>associated_service</last-search>
+      <last-search>side</last-search>
       <last-offset />
-      <last-pattern>associated_service</last-pattern>
+      <last-pattern>side</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4772,15 +4771,12 @@
     </search>
     <history>
       <history-search>
-        <entry>de</entry>
-        <entry>load</entry>
         <entry>loading</entry>
         <entry>navBtn</entry>
         <entry>pagetop</entry>
         <entry>gNavi</entry>
         <entry>law</entry>
         <entry>Law</entry>
-        <entry>side</entry>
         <entry>sideLazyLoadFunction</entry>
         <entry>Load</entry>
         <entry>halfH</entry>
@@ -4792,6 +4788,9 @@
         <entry>update</entry>
         <entry encoding="base64">dXBkYXRlIA==</entry>
         <entry>associated_service</entry>
+        <entry encoding="base64">c3AtYXJyb3cg</entry>
+        <entry>sp-arrow</entry>
+        <entry>side</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
