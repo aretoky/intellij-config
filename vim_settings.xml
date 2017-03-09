@@ -96,12 +96,12 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1489051724196">
+      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1489053672751">
         <mark key="'" line="102" column="59" />
         <mark key="[" line="304" column="0" />
-        <mark key="]" line="102" column="59" />
-        <mark key="^" line="102" column="59" />
-        <mark key="." line="102" column="59" />
+        <mark key="]" line="305" column="8" />
+        <mark key="^" line="305" column="8" />
+        <mark key="." line="305" column="8" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sns_logs_controller_spec.rb" timestamp="1487751483828">
         <mark key="[" line="22" column="22" />
@@ -643,11 +643,11 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/public/js/application.js" timestamp="1489052445125">
+      <file name="$USER_HOME$/sandbox/unkokanji/public/js/application.js" timestamp="1489053648703">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
-        <mark key="^" line="1" column="2" />
+        <mark key="^" line="2" column="2" />
       </file>
       <file name="$USER_HOME$/projects/payment.ginza-plus.net/app/tasks/payment.php" timestamp="1487082539822">
         <mark key="[" line="57" column="33" />
@@ -1098,6 +1098,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/sandbox/unkokanji/views/form.erb" timestamp="1489054199396">
+        <mark key="[" line="128" column="64" />
+        <mark key="]" line="128" column="64" />
+        <mark key="." line="128" column="64" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/free_course_articles_controller.rb" timestamp="1486907192410">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="8" column="40" />
@@ -1457,6 +1462,12 @@
         <mark key="]" line="1" column="28" />
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
+      </file>
+      <file name="$USER_HOME$/sandbox/unkokanji/app_main.rb" timestamp="1489054338487">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="32" />
+        <mark key="." line="68" column="16" />
+        <mark key="^" line="68" column="15" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_postal_general_input.rb" timestamp="1485945889986">
         <mark key="[" line="37" column="0" />
@@ -4496,31 +4507,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">cG9zdCA=</text>
       </register>
       <register name="/" type="4">
         <text>ScrollMagic</text>
       </register>
       <register name="0" type="4">
-        <text>session[:last_search_queries].delete(&quot;/#{controller_path}&quot;)</text>
+        <text>'/complete.html'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVyYiA6Y29tcGxldGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRtcGwgPSAkLnRlbXBsYXRlcygnI2xhd0NvbnRlbnRzTGF6eUxvYWRUbXBsJyk7Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtc1s6XQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdCBpZD0ibGF3Q29udGVudHNMYXp5TG9hZFRtcGwiIHR5cGU9InRleHQveC1qc3JlbmRlciI+Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRtcGwgPSAkLnRlbXBsYXRlcygnI2xhd0NvbnRlbnRzTGF6eUxvYWRUbXBsJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBpZD0ibGF3Q29udGVudHNMYXp5TG9hZFRtcGwiIHR5cGU9InRleHQveC1qc3JlbmRlciI+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4742,13 +4753,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgPGRpdiBjbGFzcz0ic3Atc2xpZGUiPjxpbWcgc3JjPSIuL2ltZy92aXN1YWwyLXBjLnN2ZyIgZGF0YS1zbWFsbD0iLi9pbWcvdmlzdWFsMi1zcC5zdmciIGRhdGEtbWVkaXVtPSIuL2ltZy92aXN1YWwyLXBjLnN2ZyIgZGF0YS1sYXJnZT0iLi9pbWcvdmlzdWFsMi1wYy5zdmciIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIgYWx0PSLml6XmnKzkuIDmpb3jgZfjgYTmvKLlrZfjg4njg6rjg6sg44GG44KT44GT5ryi5a2X44OJ44Oq44Or5bCP5a2mMeW5tOeUn+OAgTIwMTflubQz5pyIMjTml6Xnmbrlo7LkuojlrpoiPjwvZGl2PgoKICAgICAgPGRpdiBjbGFzcz0ic3Atc2xpZGUiPjxpbWcgc3JjPSIuL2ltZy92aXN1YWwzLXBjLnN2ZyIgZGF0YS1zbWFsbD0iLi9pbWcvdmlzdWFsMy1zcC5zdmciIGRhdGEtbWVkaXVtPSIuL2ltZy92aXN1YWwzLXBjLnN2ZyIgZGF0YS1sYXJnZT0iLi9pbWcvdmlzdWFsMy1wYy5zdmciIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIgYWx0PSLml6XmnKzkuIDmpb3jgZfjgYTmvKLlrZfjg4njg6rjg6sg44GG44KT44GT5ryi5a2X44OJ44Oq44Or5bCP5a2mMuW5tOeUn+OAgTIwMTflubQz5pyIMjTml6Xnmbrlo7LkuojlrpoiPjwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJzcC1zbGlkZSI+PGltZyBzcmM9Ii4vaW1nL3Zpc3VhbDQtcGMuc3ZnIiBkYXRhLXNtYWxsPSIuL2ltZy92aXN1YWw0LXNwLnN2ZyIgZGF0YS1tZWRpdW09Ii4vaW1nL3Zpc3VhbDQtcGMuc3ZnIiBkYXRhLWxhcmdlPSIuL2ltZy92aXN1YWw0LXBjLnN2ZyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIiBhbHQ9IuaXpeacrOS4gOalveOBl+OBhOa8ouWtl+ODieODquODqyDjgYbjgpPjgZPmvKLlrZfjg4njg6rjg6vlsI/lraYz5bm055Sf44CBMjAxN+W5tDPmnIgyNOaXpeeZuuWjsuS6iOWumiI+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InNwLXNsaWRlIj48aW1nIHNyYz0iLi9pbWcvdmlzdWFsNS1wYy5zdmciIGRhdGEtc21hbGw9Ii4vaW1nL3Zpc3VhbDUtc3Auc3ZnIiBkYXRhLW1lZGl1bT0iLi9pbWcvdmlzdWFsNS1wYy5zdmciIGRhdGEtbGFyZ2U9Ii4vaW1nL3Zpc3VhbDUtcGMuc3ZnIiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUiIGFsdD0i5pel5pys5LiA5qW944GX44GE5ryi5a2X44OJ44Oq44OrIOOBhuOCk+OBk+a8ouWtl+ODieODquODq+Wwj+WtpjTlubTnlJ/jgIEyMDE35bm0M+aciDI05pel55m65aOy5LqI5a6aIj48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0ic3Atc2xpZGUiPjxpbWcgc3JjPSIuL2ltZy92aXN1YWw2LXBjLnN2ZyIgZGF0YS1zbWFsbD0iLi9pbWcvdmlzdWFsNi1zcC5zdmciIGRhdGEtbWVkaXVtPSIuL2ltZy92aXN1YWw2LXBjLnN2ZyIgZGF0YS1sYXJnZT0iLi9pbWcvdmlzdWFsNi1wYy5zdmciIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIgYWx0PSLml6XmnKzkuIDmpb3jgZfjgYTmvKLlrZfjg4njg6rjg6sg44GG44KT44GT5ryi5a2X44OJ44Oq44Or5bCP5a2mNeW5tOeUn+OAgTIwMTflubQz5pyIMjTml6Xnmbrlo7LkuojlrpoiPjwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJzcC1zbGlkZSI+PGltZyBzcmM9Ii4vaW1nL3Zpc3VhbDctcGMuc3ZnIiBkYXRhLXNtYWxsPSIuL2ltZy92aXN1YWw3LXNwLnN2ZyIgZGF0YS1tZWRpdW09Ii4vaW1nL3Zpc3VhbDctcGMuc3ZnIiBkYXRhLWxhcmdlPSIuL2ltZy92aXN1YWw3LXBjLnN2ZyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIiBhbHQ9IuaXpeacrOS4gOalveOBl+OBhOa8ouWtl+ODieODquODqyDjgYbjgpPjgZPmvKLlrZfjg4njg6rjg6vlsI/lraY25bm055Sf44CBMjAxN+W5tDPmnIgyNOaXpeeZuuWjsuS6iOWumiI+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InNwLXNsaWRlIj48aW1nIHNyYz0iLi9pbWcvdmlzdWFsOC1wYy5zdmciIGRhdGEtc21hbGw9Ii4vaW1nL3Zpc3VhbDgtc3Auc3ZnIiBkYXRhLW1lZGl1bT0iLi9pbWcvdmlzdWFsOC1wYy5zdmciIGRhdGEtbGFyZ2U9Ii4vaW1nL3Zpc3VhbDgtcGMuc3ZnIiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUiIGFsdD0i5pel5pys5LiA5qW944GX44GE5ryi5a2X44OJ44Oq44Or44CB44GG44KT44GT5ryi5a2X44OJ44Oq44Or44CB5qW944GX44GE44Kk44Op44K544OI44KC5rqA6LyJ44Gn44GZ44CCMjAxN+W5tDPmnIgz5pel55m65aOy5LqI5a6aIj48L2Rpdj4KCQk8c2NyaXB0IGlkPSJzbGlkZUxhenlMb2FkVG1wbCIgdHlwZT0idGV4dC94LWpzcmVuZGVyIj4KCgkJPC9zY3JpcHQ+CgkJLS0+</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PCU9IGphdmFzY3JpcHRfdGFnICdhcHBsaWNhdGlvbicgJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
