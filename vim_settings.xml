@@ -822,6 +822,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/unkokanji/views/inquiry_email.erb" timestamp="1489060223813">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/users/custom.css.scss" timestamp="1487209901526">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="9" />
@@ -1469,11 +1475,10 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/app_main.rb" timestamp="1489057142953">
-        <mark key="[" line="90" column="13" />
-        <mark key="]" line="90" column="13" />
-        <mark key="." line="90" column="13" />
-        <mark key="^" line="102" column="0" />
+      <file name="$USER_HOME$/sandbox/unkokanji/app_main.rb" timestamp="1489059666763">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="18" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_postal_general_input.rb" timestamp="1485945889986">
         <mark key="[" line="37" column="0" />
@@ -4513,32 +4518,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">JyVQYm9PJkkyOXVCdycgfHwg</text>
       </register>
       <register name="/" type="4">
         <text>ScrollMagic</text>
       </register>
       <register name="0" type="4">
-        <text>sinatra/reloader</text>
+        <text encoding="base64">JVBib08mSTI5dUJ3</text>
       </register>
-      <register name="1" type="4">
-        <text>A request has been made to verify your MyApp account (https://myapp.com).&quot; +
-        &quot;If you made this request, go to &quot; + url + &quot;. If you did not make this request, ignore this email.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgaHRtbF9ib2R5OiAgJycK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="2" type="4">
+        <text>erb(
+        :inquiry_email,
+        layout: false,
+        locals: {
+          email: params[:mailaddress],
+          name: params[:onamae],
+          detail: params[:detail],
+          ip: request.ip,
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHVybDogdXJsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWlyZSAnc2luYXRyYS9yZWxvYWRlcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVyYiA6Y29tcGxldGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4760,13 +4772,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1s6XQo=</text>
+        <text encoding="base64">bW9iaWxlIDA4MC0zMzExLTkyOTIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">4oC744Kq44OV44Kj44K556e76Lui44GX44G+44GX44GfCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRtcGwgPSAkLnRlbXBsYXRlcygnI2xhd0NvbnRlbnRzTGF6eUxvYWRUbXBsJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
