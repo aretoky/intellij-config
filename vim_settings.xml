@@ -96,11 +96,12 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1489043623220">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="320" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1489043758526">
+        <mark key="'" line="136" column="36" />
+        <mark key="[" line="111" column="50" />
+        <mark key="]" line="111" column="52" />
+        <mark key="^" line="111" column="52" />
+        <mark key="." line="111" column="52" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sns_logs_controller_spec.rb" timestamp="1487751483828">
         <mark key="[" line="22" column="22" />
@@ -1740,13 +1741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="14" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
-      <jump line="406" column="0" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
-      <jump line="278" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="94" column="5" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="316" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="313" column="9" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="140" column="22" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="17" column="12" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
       <jump line="43" column="17" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
@@ -1840,6 +1834,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/unkokanji/public/js/fnc_top.js" />
       <jump line="229" column="34" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="41" column="0" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="163" column="20" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="176" column="35" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="166" column="35" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="156" column="35" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="146" column="35" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="129" column="45" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="136" column="36" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4492,7 +4493,7 @@
         <text>svg</text>
       </register>
       <register name="/" type="4">
-        <text>side</text>
+        <text>svg</text>
       </register>
       <register name="0" type="4">
         <text>session[:last_search_queries].delete(&quot;/#{controller_path}&quot;)</text>
@@ -4748,9 +4749,9 @@
       </register>
     </registers>
     <search>
-      <last-search>side</last-search>
+      <last-search>svg</last-search>
       <last-offset />
-      <last-pattern>side</last-pattern>
+      <last-pattern>svg</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4758,7 +4759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loading</entry>
         <entry>navBtn</entry>
         <entry>pagetop</entry>
         <entry>gNavi</entry>
@@ -4778,6 +4778,7 @@
         <entry encoding="base64">c3AtYXJyb3cg</entry>
         <entry>sp-arrow</entry>
         <entry>side</entry>
+        <entry>svg</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
