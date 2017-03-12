@@ -33,6 +33,11 @@
         <mark key="^" line="144" column="55" />
         <mark key="." line="144" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Capfile" timestamp="1489325870098">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/cheers_controller.rb" timestamp="1487670575897">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1229,10 +1234,12 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1489325209740">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1489325936260">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/update.html.erb" timestamp="1486554804787">
         <mark key="[" line="1" column="23" />
@@ -1671,10 +1678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="338" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new_confirm.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
-      <jump line="137" column="39" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
-      <jump line="38" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
       <jump line="39" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account_registration.rb" />
       <jump line="88" column="6" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="97" column="21" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
@@ -1771,6 +1774,10 @@
       <jump line="58" column="19" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="44" column="13" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
+      <jump line="0" column="1" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
+      <jump line="7" column="16" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
+      <jump line="4" column="20" filename="$USER_HOME$/projects/cplus/config/deploy.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4423,7 +4430,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>setting</text>
+        <text>git</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEB1c2VyX2FjY291bnQgPSBVc2VyQWNjb3VudC5maW5kKFZhbHVlUHJlc3M6OlN0cmluZ0VzY2FwZVV0aWwuc3RyX3RvX251bShwYXJhbXNbOmlkXSkpCg==</text>
@@ -4432,23 +4439,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">bWFpbF9zZXR0aW5nCiAgICA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>def new
       #エントリーページ
     end
 
     private</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4670,22 +4677,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLmZldGNoKDpqb2IsIHt9KQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBqb2JfcGFyYW1zCg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLmZldGNoKDpqb2IsIHt9KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIGluZGV4CiAgICAgICPmlrDnnYDjga7mjqHnlKjjg7vmsYLkurrmg4XloLHkuIDopqfvvIjmpJzntKLjgIHogbfnqK7jgIHpm4fnlKjlvaLmhYvjga7jgrvjgrDjg6Hjg7Pjg4jjg5rjg7zjgrjjgoLlkKvjgoDvvIkKICAgICAgQGpvYnMgPSBKb2Iud2l0aF9zdGF0dXMoOnB1YmxpYykuCiAgICAgICAgb3JkZXIobW9kaWZpZWQ6IDpkZXNjLCBpZDogOmRlc2MpLgogICAgICAgIHBhZ2UocGFyYW1zWzpwYWdlXSkucGVyKDIwKQogICAgICBpZiBwYXJhbXNbOmNhdGVnb3J5X2lkXQogICAgICAgIEBqb2JzID0gQGpvYnMud2hlcmUoY2F0ZWdvcnlfaWQ6IHBhcmFtc1s6Y2F0ZWdvcnlfaWRdKQogICAgICBlbHNpZiBwYXJhbXNbOmVtcGxveWVlX3R5cGVfaWRdCiAgICAgICAgQGpvYnMgPSBAam9icy53aGVyZShlbXBsb3llZV90eXBlX2lkOiBwYXJhbXNbOmVtcGxveWVlX3R5cGVfaWRdKQogICAgICBlbHNpZiBwYXJhbXNbOmtleXdvcmRdCiAgICAgICAgQGpvYnMgPSBAam9icy5ieV9rZXl3b3JkKHBhcmFtc1s6a2V5d29yZF0pCiAgICAgIGVsc2UKICAgICAgZW5kCiAgICBlbmQKCiAgICAj5rGC5Lq65oOF5aCx44CA6Kmz57Sw44Oa44O844K4CiAgICBkZWYgc2hvdwogICAgICBAam9iID0gSm9iLmZpbmQocGFyYW1zWzppZF0pCiAgICBlbmQKCiAgICBkZWYgbmV3CiAgICAgICPjgqjjg7Pjg4jjg6rjg7zjg5rjg7zjgrgKICAgIGVuZAo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBqb2JfcGFyYW1zCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>setting</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern>setting</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4693,7 +4700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_proc</entry>
         <entry>_cj</entry>
         <entry>update</entry>
         <entry encoding="base64">dXBkYXRlIA==</entry>
@@ -4713,6 +4719,7 @@
         <entry>press</entry>
         <entry>mail</entry>
         <entry>setting</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
