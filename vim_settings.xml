@@ -1463,6 +1463,12 @@
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
       </file>
+      <file name="$USER_HOME$/sandbox/unkokanji/views/privacy.erb" timestamp="1489372995591">
+        <mark key="[" line="122" column="2" />
+        <mark key="]" line="122" column="59" />
+        <mark key="^" line="122" column="59" />
+        <mark key="." line="122" column="59" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/lib/confirmable_simple_form_builder.rb" timestamp="1486985630784">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="16" />
@@ -4427,13 +4433,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>保有する個人情報に関して適用される法令、規範を遵守するとともに、上記各項における取り組みを適宜見直し、改善を行うこととします。</text>
       </register>
       <register name="/" type="4">
         <text>git</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEB1c2VyX2FjY291bnQgPSBVc2VyQWNjb3VudC5maW5kKFZhbHVlUHJlc3M6OlN0cmluZ0VzY2FwZVV0aWwuc3RyX3RvX251bShwYXJhbXNbOmlkXSkpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0icHJpdmFjeVR4dF9jYXAiPuazleS7pOOAgeimj+evhOOBrumBteWuiOOBqOimi+ebtOOBlzwvZGl2PgkKCQk8ZGl2IGNsYXNzPSJwcml2YWN5VHh0Ij7kv53mnInjgZnjgovlgIvkurrmg4XloLHjgavplqLjgZfjgabpgannlKjjgZXjgozjgovms5Xku6TjgIHopo/nr4TjgpLpgbXlrojjgZnjgovjgajjgajjgoLjgavjgIHkuIroqJjlkITpoIXjgavjgYrjgZHjgovlj5bjgorntYTjgb/jgpLpganlrpzopovnm7TjgZfjgIHmlLnlloTjgpLooYzjgYbjgZPjgajjgajjgZfjgb7jgZnjgII8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4442,20 +4448,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">bWFpbF9zZXR0aW5nCiAgICA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>def new
-      #エントリーページ
-    end
-
-    private</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4676,14 +4678,18 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="7" type="4">
+        <text>def new
+      #エントリーページ
+    end
+
+    private</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLmZldGNoKDpqb2IsIHt9KQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBqb2JfcGFyYW1zCg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLmZldGNoKDpqb2IsIHt9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
