@@ -794,12 +794,6 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="69" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/upd_tele.rb" timestamp="1489419912342">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="41" column="15" />
-      </file>
       <file name="/a.regexp" timestamp="1489418419144">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1492,6 +1486,13 @@
         <mark key="^" line="122" column="59" />
         <mark key="." line="122" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1489451923657">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="234" column="43" />
+        <mark key="]" line="234" column="43" />
+        <mark key="^" line="236" column="23" />
+        <mark key="." line="234" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/lib/confirmable_simple_form_builder.rb" timestamp="1486985630784">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="16" />
@@ -1624,7 +1625,8 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bills_controller.rb" timestamp="1489148501325">
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bills_controller.rb" timestamp="1489451849361">
+        <mark key="'" line="53" column="16" />
         <mark key="[" line="30" column="25" />
         <mark key="]" line="30" column="30" />
         <mark key="." line="30" column="30" />
@@ -1698,8 +1700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="45" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="136" column="36" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="0" column="9" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="272" column="65" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="243" column="64" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
@@ -1798,6 +1798,8 @@
       <jump line="8" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
       <jump line="5" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
       <jump line="7" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
+      <jump line="53" column="16" filename="$USER_HOME$/projects/cplus/app/controllers/admin/bills_controller.rb" />
+      <jump line="8" column="11" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4447,31 +4449,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bui</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>nm_</text>
+        <text>nm_company</text>
       </register>
       <register name="0" type="4">
-        <text>cust.tel_mplans.first</text>
+        <text>cust.nm_company</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZSA6Y3VzdCwgcHJlc2VuY2U6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgbm1fY29tcGFueTogY3VzdC5ubV9jb21wYW55Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZSA6Y3VzdCwgcHJlc2VuY2U6IHRydWUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKDpiYXNlLCAnJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKDpiYXNlLCAnJykK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4693,10 +4695,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKDpiYXNlLCAn6Zu76Kmx44OX44Op44Oz44GM44GC44KK44G+44Gb44KT44CCJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMuYWRkKDpiYXNlLCAn6Zu76Kmx44OX44Op44Oz44GM44GC44KK44G+44Gb44KT44CCJykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -4706,9 +4708,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nm_</last-search>
+      <last-search>nm_company</last-search>
       <last-offset />
-      <last-pattern>nm_</last-pattern>
+      <last-pattern>nm_company</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4716,7 +4718,6 @@
     </search>
     <history>
       <history-search>
-        <entry>associated_service</entry>
         <entry encoding="base64">c3AtYXJyb3cg</entry>
         <entry>sp-arrow</entry>
         <entry>side</entry>
@@ -4736,6 +4737,7 @@
         <entry>temp_mplan</entry>
         <entry>amtax_telbal</entry>
         <entry>nm_</entry>
+        <entry>nm_company</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
