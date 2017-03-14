@@ -163,9 +163,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/job.php" timestamp="1489148625665">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/original_list_managable.rb" timestamp="1485858727589">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
@@ -218,7 +215,7 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/data_serializers/codede_fd.yml" timestamp="1489421724330" />
+      <file name="$USER_HOME$/projects/cplus/app/assets/data_serializers/codede_fd.yml" timestamp="1489449871859" />
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
         <mark key="]" line="77" column="64" />
@@ -664,7 +661,8 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" timestamp="1487928956998">
+      <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" timestamp="1489450295237">
+        <mark key="'" line="7" column="3" />
         <mark key="[" line="78" column="36" />
         <mark key="]" line="78" column="39" />
         <mark key="." line="78" column="39" />
@@ -687,9 +685,6 @@
         <mark key="]" line="3" column="39" />
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/models/job_model.php" timestamp="1489147371448">
-        <mark key="'" line="230" column="28" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/commodity_price.rb" timestamp="1487002656922">
         <mark key="[" line="56" column="16" />
@@ -1703,10 +1698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="35" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="166" column="35" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="156" column="35" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
-      <jump line="146" column="35" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="129" column="45" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="136" column="36" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
       <jump line="0" column="9" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
@@ -1803,6 +1794,10 @@
       <jump line="78" column="16" filename="$USER_HOME$/projects/cplus/app/models/telexp.rb" />
       <jump line="86" column="14" filename="$USER_HOME$/projects/cplus/app/models/telexp.rb" />
       <jump line="56" column="41" filename="$USER_HOME$/projects/cplus/app/models/telexp.rb" />
+      <jump line="58" column="4" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
+      <jump line="8" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
+      <jump line="5" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
+      <jump line="7" column="3" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4455,7 +4450,7 @@
         <text>bui</text>
       </register>
       <register name="/" type="4">
-        <text>amtax_telbal</text>
+        <text>nm_</text>
       </register>
       <register name="0" type="4">
         <text>cust.tel_mplans.first</text>
@@ -4711,9 +4706,9 @@
       </register>
     </registers>
     <search>
-      <last-search>amtax_telbal</last-search>
+      <last-search>nm_</last-search>
       <last-offset />
-      <last-pattern>amtax_telbal</last-pattern>
+      <last-pattern>nm_</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4721,7 +4716,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dXBkYXRlIA==</entry>
         <entry>associated_service</entry>
         <entry encoding="base64">c3AtYXJyb3cg</entry>
         <entry>sp-arrow</entry>
@@ -4741,6 +4735,7 @@
         <entry>git</entry>
         <entry>temp_mplan</entry>
         <entry>amtax_telbal</entry>
+        <entry>nm_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvP1xcPi8lPi9n</entry>
