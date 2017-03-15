@@ -872,7 +872,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="69" column="7" />
       </file>
-      <file name="/a.regexp" timestamp="1489552102685">
+      <file name="/a.regexp" timestamp="1489563306753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -1267,12 +1267,12 @@
         <mark key="^" line="1" column="44" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" timestamp="1489502217264">
-        <mark key="'" line="1" column="10" />
-        <mark key="[" line="183" column="35" />
-        <mark key="]" line="183" column="35" />
-        <mark key="." line="183" column="35" />
-        <mark key="^" line="181" column="9" />
+      <file name="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" timestamp="1489563499371">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="27" column="61" />
+        <mark key="]" line="27" column="65" />
+        <mark key="." line="27" column="65" />
+        <mark key="^" line="27" column="65" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/user_column.rb" timestamp="1487514877098">
         <mark key="[" line="33" column="3" />
@@ -1635,11 +1635,12 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1489551195317">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1489563153268">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="49" column="63" />
+        <mark key="]" line="49" column="64" />
+        <mark key="." line="49" column="64" />
+        <mark key="^" line="49" column="64" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_index_bill_links.html.slim" timestamp="1487923992113">
         <mark key="[" line="5" column="150" />
@@ -1842,15 +1843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="9" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="48" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="49" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="116" column="9" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="154" column="12" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="347" column="14" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="378" column="16" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="394" column="14" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="468" column="13" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="469" column="19" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/value_press/spec/factories/article.rb" />
@@ -1942,6 +1934,15 @@
       <jump line="8" column="35" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
       <jump line="9" column="58" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
       <jump line="61" column="25" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/application.css" />
+      <jump line="0" column="17" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
+      <jump line="10" column="50" filename="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" />
+      <jump line="58" column="16" filename="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" />
+      <jump line="12" column="28" filename="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" />
+      <jump line="5" column="24" filename="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" />
+      <jump line="203" column="27" filename="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" />
+      <jump line="9" column="34" filename="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" />
+      <jump line="11" column="22" filename="$USER_HOME$/projects/value_press/app/views/application/_header_menu.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4591,10 +4592,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>ad</text>
+        <text>genre</text>
       </register>
       <register name="0" type="4">
         <text>font-url</text>
@@ -4850,9 +4851,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ad</last-search>
+      <last-search>genre</last-search>
       <last-offset />
-      <last-pattern>ad</last-pattern>
+      <last-pattern>genre</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4860,10 +4861,6 @@
     </search>
     <history>
       <history-search>
-        <entry>not</entry>
-        <entry>ballo</entry>
-        <entry>cooki</entry>
-        <entry>offset</entry>
         <entry>top</entry>
         <entry>setTop</entry>
         <entry>height</entry>
@@ -4880,6 +4877,10 @@
         <entry>date</entry>
         <entry>console</entry>
         <entry>ad</entry>
+        <entry>corporation_genre</entry>
+        <entry>corporations_path</entry>
+        <entry>title</entry>
+        <entry>genre</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
