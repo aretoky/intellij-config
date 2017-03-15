@@ -660,9 +660,9 @@
         <mark key="^" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" timestamp="1489584501384">
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="69" column="32" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" timestamp="1489585784336">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="51" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/edit.html.slim" timestamp="1489475263370" />
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/show.html.slim" timestamp="1486978761389">
@@ -879,7 +879,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="69" column="7" />
       </file>
-      <file name="/a.regexp" timestamp="1489578433208">
+      <file name="/a.regexp" timestamp="1489585599270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -1810,11 +1810,11 @@
         <mark key="." line="14" column="69" />
         <mark key="^" line="14" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/articles_controller.rb" timestamp="1489584511375">
-        <mark key="[" line="115" column="23" />
-        <mark key="]" line="115" column="11" />
-        <mark key="." line="115" column="11" />
-        <mark key="^" line="115" column="11" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/articles_controller.rb" timestamp="1489585778901">
+        <mark key="[" line="126" column="9" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="117" column="11" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/db/migrate/2016111400023347_create_user_column.rb" timestamp="1487514384005">
         <mark key="[" line="4" column="26" />
@@ -4615,27 +4615,26 @@
       <register name="/" type="4">
         <text>status</text>
       </register>
-      <register name="0" type="4">
-        <text>//足跡がついた
-					//菊池へスカイプを飛ばす</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3QoJy9wcmVzc3JlbGVhc2UvJy4kYXJ0aWNsZV9pZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNzYWdlID0gaXNfbnVsbCgkbWVkaXVtTmFtZSkgPyAn6KiY6ICF44GM44Oq44Oq44O844K544KS6Zay6Kan44GX44G+44GX44GfJyA6IHNwcmludGYoJyVz44Gu6KiY6ICF44GM44Oq44Oq44O844K544KS6Zay6Kan44GX44G+44GX44GfJywgJG1lZGl1bU5hbWUpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwTm90aWZpY2F0aW9uLmFkZF9hcnRpY2xlX3JlcG9ydGVyKHVzZXJfYWNjb3VudC5pZCwgYXJ0aWNsZS5pZCwgYXJ0aWNsZV9yZXN1bHQuaWQpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXNzYWdlID0gaXNfbnVsbCgkbWVkaXVtTmFtZSkgPyAn6KiY6ICF44GM44Oq44Oq44O844K544KS6Zay6Kan44GX44G+44GX44GfJyA6IHNwcmludGYoJyVz44Gu6KiY6ICF44GM44Oq44Oq44O844K544KS6Zay6Kan44GX44G+44GX44GfJywgJG1lZGl1bU5hbWUpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWRkX25vdGlmaWNhdGlvbihzZWxmOjpUWVBFX0FSVElDTEVfUkVQT1JURVIsIHVzZXJfYWNjb3VudF9pZCwgJGFydGljbGVJZCwgJGFydGljbGVSZXN1bHRJZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwTm90aWZpY2F0aW9uLmFkZF9hcnRpY2xlX3JlcG9ydGVyKHVzZXJfYWNjb3VudC5pZCwgYXJ0aWNsZS5pZCwgYXJ0aWNsZV9yZXN1bHQuaWQpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkX25vdGlmaWNhdGlvbihzZWxmOjpUWVBFX0FSVElDTEVfUkVQT1JURVIsIHVzZXJfYWNjb3VudF9pZCwgJGFydGljbGVJZCwgJGFydGljbGVSZXN1bHRJZCkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4857,13 +4856,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRyYWZ0OiAnZHJhZnQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXJfY2FuY2VsOiAndXNlcl9jYW5jZWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
