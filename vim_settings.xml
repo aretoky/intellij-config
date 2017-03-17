@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/projects/value_press/app/models/medium.rb" timestamp="1489576927943">
         <mark key="'" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489737814479">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="1" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489743545360">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/medium_genre_id_manageable.rb" timestamp="1486396677844">
         <mark key="[" line="5" column="22" />
@@ -249,6 +249,7 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1489743264499" />
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1486624221611">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="48" column="11" />
@@ -898,6 +899,9 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="69" column="7" />
       </file>
+      <file name="/a.regexp" timestamp="1489742501580">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="19" column="15" />
@@ -1048,10 +1052,11 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/upfile_spec.rb" timestamp="1489741000073">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/upfile_spec.rb" timestamp="1489743351163">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="28" column="14" />
       </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/faq.rb" timestamp="1488045840477">
         <mark key="[" line="97" column="0" />
@@ -1597,11 +1602,11 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/upd_spec.rb" timestamp="1489741276984">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="68" />
-        <mark key="." line="29" column="68" />
-        <mark key="^" line="29" column="68" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/upd_spec.rb" timestamp="1489743501625">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="56" column="42" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/faqs_controller.rb" timestamp="1488045343841">
         <mark key="[" line="20" column="37" />
@@ -1651,6 +1656,11 @@
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/upfile.rb" timestamp="1489743002158">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/unkokanji/views/privacy.erb" timestamp="1489632902612">
         <mark key="[" line="129" column="2" />
         <mark key="]" line="129" column="2" />
@@ -1662,6 +1672,12 @@
         <mark key="]" line="18" column="22" />
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/upd.rb" timestamp="1489743047215">
+        <mark key="[" line="115" column="24" />
+        <mark key="]" line="115" column="34" />
+        <mark key="." line="115" column="34" />
+        <mark key="^" line="115" column="34" />
       </file>
       <file name="$USER_HOME$/projects/umareso/lib/confirmable_simple_form_builder.rb" timestamp="1486985630784">
         <mark key="[" line="28" column="17" />
@@ -4618,16 +4634,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>paperclip</text>
+        <text encoding="base64">U2VydmljZSA=</text>
       </register>
       <register name="/" type="4">
         <text>'preview'</text>
       </register>
       <register name="0" type="4">
-        <text>csv/</text>
+        <text>it 'Updが増えること' do
+        expect{ subject }.to change(Upd, :count).by(1)
+      end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25maWcuaW5jbHVkZSBBY3Rpb25EaXNwYXRjaDo6VGVzdFByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -4636,13 +4654,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6c2V0X2N1cnJlbnRfcGVyc29uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQoOnVwZmlsZSkgIHsgYnVpbGQoOnVwZmlsZSwgdXBkOiB1cGQpIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQoOnVwZCkgIHsgYnVpbGQoOnVwZCkgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4864,13 +4882,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQoOnVwZCkgIHsgYnVpbGQoOnVwZCkgfQo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="9" type="4">
+        <text>validates :cd_fd, code: true
+  validates :cd_ch, code: true
+  validates :note, length: { maximum: 250 }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
