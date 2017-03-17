@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/projects/value_press/app/models/medium.rb" timestamp="1489576927943">
         <mark key="'" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489744582828">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
-        <mark key="^" line="20" column="9" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489745286492">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="5" column="58" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/medium_genre_id_manageable.rb" timestamp="1486396677844">
         <mark key="[" line="5" column="22" />
@@ -668,6 +668,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/fixtures/csv/upfile_for_postalres.csv" timestamp="1489745208936">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/config/application.rb" timestamp="1488189799947">
         <mark key="[" line="38" column="7" />
         <mark key="]" line="41" column="50" />
@@ -845,11 +851,11 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/upd_csv_data_importing_service.rb" timestamp="1489744397556">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="8" />
-        <mark key="." line="56" column="8" />
-        <mark key="^" line="62" column="6" />
+      <file name="$USER_HOME$/projects/cplus/app/services/upd_csv_data_importing_service.rb" timestamp="1489745013194">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/articles/_contents_right_category_footlist.html.erb" timestamp="1489711690024">
         <mark key="[" line="7" column="10" />
@@ -4634,7 +4640,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>2210</text>
       </register>
       <register name="/" type="4">
         <text>'preview'</text>
@@ -4645,22 +4651,22 @@
       end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIHVwZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQoOmN1cnJlbnRfcGVyc29uKSB7ICBlbXAucGVyc29uIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQoOmN1cnJlbnRfcGVyc29uKSB7ICBlbXAucGVyc29uIH0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4882,13 +4888,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
