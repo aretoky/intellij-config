@@ -162,11 +162,11 @@
       <file name="$USER_HOME$/projects/value_press/app/models/medium.rb" timestamp="1489576927943">
         <mark key="'" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489748437066">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489748973829">
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="39" />
+        <mark key="." line="41" column="39" />
+        <mark key="^" line="41" column="39" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/medium_genre_id_manageable.rb" timestamp="1486396677844">
         <mark key="[" line="5" column="22" />
@@ -268,6 +268,10 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/assets/data_serializers/codede_fd.yml" timestamp="1489748747737">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/index.html.erb" timestamp="1489502317314">
         <mark key="[" line="0" column="25" />
@@ -4651,31 +4655,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>find</text>
+        <text>upd</text>
       </register>
       <register name="/" type="4">
         <text>'preview'</text>
       </register>
-      <register name="0" type="4">
-        <text>Cust.find</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBsZXQoOnVwZCkgeyBidWlsZCg6dXBkKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCByZWNvcmQuZXJyb3JzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1c3QuZGVzdHJveSBpZiBjdXN0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1c3QgPSBDdXN0LndoZXJlKG5vX2N1c3Q6IDEpLmZpcnN0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcCByZWNvcmQuZXJyb3JzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGN1c3QuZGVzdHJveSBpZiBjdXN0Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfbm9fcGVyc29uIDEK</text>
+        <text encoding="base64">ICAgIGN1c3QgPSBDdXN0LndoZXJlKG5vX2N1c3Q6IDEpLmZpcnN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwIHVwZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4897,13 +4901,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNkX2NoIDEwCg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfbm9fcGVyc29uIDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcCBjc3ZfbGluZQo=</text>
+        <text encoding="base64">ICAgICAgICBwIHVwZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNkX2NoIDEwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
