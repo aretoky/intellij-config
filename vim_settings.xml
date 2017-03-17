@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/projects/value_press/app/models/medium.rb" timestamp="1489576927943">
         <mark key="'" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489743545360">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489744582828">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/medium_genre_id_manageable.rb" timestamp="1486396677844">
         <mark key="[" line="5" column="22" />
@@ -845,11 +845,11 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/upd_csv_data_importing_service.rb" timestamp="1489736925672">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="22" />
-        <mark key="^" line="20" column="22" />
+      <file name="$USER_HOME$/projects/cplus/app/services/upd_csv_data_importing_service.rb" timestamp="1489744397556">
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="8" />
+        <mark key="." line="56" column="8" />
+        <mark key="^" line="62" column="6" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/articles/_contents_right_category_footlist.html.erb" timestamp="1489711690024">
         <mark key="[" line="7" column="10" />
@@ -1602,9 +1602,9 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/upd_spec.rb" timestamp="1489743501625">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/upd_spec.rb" timestamp="1489744515115">
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="53" column="8" />
         <mark key="^" line="56" column="42" />
         <mark key="." line="60" column="0" />
       </file>
@@ -4634,7 +4634,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VydmljZSA=</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
         <text>'preview'</text>
@@ -4645,7 +4645,7 @@
       end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -4654,10 +4654,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6c2V0X2N1cnJlbnRfcGVyc29uCg==</text>
+        <text encoding="base64">ICBsZXQoOmN1cnJlbnRfcGVyc29uKSB7ICBlbXAucGVyc29uIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4882,15 +4882,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>validates :cd_fd, code: true
-  validates :cd_ch, code: true
-  validates :note, length: { maximum: 250 }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
