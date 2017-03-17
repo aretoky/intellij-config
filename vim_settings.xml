@@ -111,11 +111,11 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/upds.rb" timestamp="1489745871071">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="19" column="49" />
+      <file name="$USER_HOME$/projects/cplus/spec/factories/upds.rb" timestamp="1489747197662">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sns_logs_controller_spec.rb" timestamp="1487751483828">
         <mark key="[" line="22" column="22" />
@@ -162,11 +162,11 @@
       <file name="$USER_HOME$/projects/value_press/app/models/medium.rb" timestamp="1489576927943">
         <mark key="'" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489745286492">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="5" column="58" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/upd_csv_data_importing_service_spec.rb" timestamp="1489747179482">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/medium_genre_id_manageable.rb" timestamp="1486396677844">
         <mark key="[" line="5" column="22" />
@@ -588,6 +588,12 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/concerns/csv_importalbe.rb" timestamp="1489746301999">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_header.html.erb" timestamp="1489565049907">
         <mark key="'" line="0" column="0" />
       </file>
@@ -803,11 +809,10 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/upfiles.rb" timestamp="1489741654582">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="41" />
-        <mark key="^" line="21" column="41" />
-        <mark key="." line="21" column="41" />
+      <file name="$USER_HOME$/projects/cplus/spec/factories/upfiles.rb" timestamp="1489746881744">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1487235240372">
         <mark key="[" line="15" column="19" />
@@ -905,7 +910,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="69" column="7" />
       </file>
-      <file name="/a.regexp" timestamp="1489742501580">
+      <file name="/a.regexp" timestamp="1489746871028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -1416,10 +1421,10 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/fixtures/csv/upfile_for_postalupds.csv" timestamp="1489746038621">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/fixtures/csv/upfile_for_postalupds.csv" timestamp="1489746156940">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/original_list_signature.rb" timestamp="1486560751980">
         <mark key="[" line="21" column="50" />
@@ -4656,20 +4661,19 @@
       end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfbm9fcGVyc29uIDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MSzvvIjmoKrvvInvvKnvvKLvvKrjgIDlqZrmtLvjgqbjgqjjg4fjgqPjg7PjgrDjg5bjg4Pjgq8sMjAxNy8zLzE3LDIK</text>
+        <text encoding="base64">ICAgICAgICBwIHVwZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNkX2NoIDEwCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>when 4
-        upd.upfile = build(:upfile_for_postalupds)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcCBjc3ZfbGluZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCByZWNvcmQuZXJyb3JzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4894,13 +4898,14 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwIHVwZAo=</text>
+        <text encoding="base64">MSzvvIjmoKrvvInvvKnvvKLvvKrjgIDlqZrmtLvjgqbjgqjjg4fjgqPjg7PjgrDjg5bjg4Pjgq8sMjAxNy8zLzE3LDIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>when 4
+        upd.upfile = build(:upfile_for_postalupds)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
