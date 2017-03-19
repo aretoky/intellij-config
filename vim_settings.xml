@@ -9,11 +9,11 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="12" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/telexp_spec.rb" timestamp="1489826105931">
-        <mark key="[" line="33" column="54" />
-        <mark key="]" line="33" column="81" />
-        <mark key="^" line="33" column="81" />
-        <mark key="." line="33" column="81" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/telexp_spec.rb" timestamp="1489939291626">
+        <mark key="[" line="75" column="35" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="16" />
+        <mark key="^" line="76" column="16" />
       </file>
       <file name="$USER_HOME$/projects/unkokanji/views/index.erb" timestamp="1488778141605">
         <mark key="[" line="30" column="0" />
@@ -401,6 +401,12 @@
         <mark key="]" line="44" column="1" />
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" timestamp="1489938984811">
+        <mark key="[" line="46" column="53" />
+        <mark key="]" line="48" column="29" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="48" column="29" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/vp_access_log/graph_data.rb" timestamp="1487779019529">
         <mark key="[" line="21" column="0" />
@@ -934,7 +940,7 @@
         <mark key="[" line="33" column="35" />
         <mark key="]" line="33" column="40" />
       </file>
-      <file name="/a.regexp" timestamp="1489825740399">
+      <file name="/a.regexp" timestamp="1489938302360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -1165,12 +1171,12 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/telexp.rb" timestamp="1489825817683">
+      <file name="$USER_HOME$/projects/cplus/app/models/telexp.rb" timestamp="1489939358529">
         <mark key="'" line="62" column="41" />
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="56" column="11" />
-        <mark key="^" line="56" column="11" />
-        <mark key="." line="56" column="11" />
+        <mark key="[" line="93" column="51" />
+        <mark key="]" line="94" column="10" />
+        <mark key="." line="94" column="10" />
+        <mark key="^" line="94" column="10" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_course_article_decorator.rb" timestamp="1486785172151">
         <mark key="[" line="70" column="16" />
@@ -4708,19 +4714,21 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tel</text>
       </register>
       <register name="0" type="4">
-        <text>expect(subject).to be_truthy</text>
+        <text>it 'Telexpが1減る' do
+      expect{ subject }.to change(Telexp, :count).by(-1)
+    end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgYW10YXhfdGVsZXhwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCB0ZWxfbXBsYW4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -4954,13 +4962,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQoOmN1c3QpIHsgY3JlYXRlKDpjdXN0X2Zvcl90ZWxfbXBsYW5fY3JlYXRlLCBub19jdXN0OiBub19jdXN0KSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQoOmN1c3QpIHsgY3JlYXRlKDpjdXN0X2Zvcl90ZWxfbXBsYW5fY3JlYXRlLCBub19jdXN0OiBub19jdXN0KSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
