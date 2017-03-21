@@ -777,6 +777,11 @@
         <mark key="^" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" timestamp="1490108505352">
+        <mark key="'" line="283" column="25" />
+        <mark key="[" line="264" column="20" />
+        <mark key="]" line="264" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/show.html.slim" timestamp="1486978761389">
         <mark key="[" line="7" column="40" />
         <mark key="]" line="7" column="40" />
@@ -1916,12 +1921,12 @@
       <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1489995502019">
         <mark key="'" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/articles/_show_footer_js__highlight.html.erb" timestamp="1490107773603">
+      <file name="$USER_HOME$/projects/value_press/app/views/articles/_show_footer_js__highlight.html.erb" timestamp="1490108871996">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="335" column="13" />
-        <mark key="]" line="336" column="20" />
-        <mark key="." line="336" column="20" />
-        <mark key="^" line="336" column="20" />
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="0" />
+        <mark key="." line="360" column="0" />
+        <mark key="^" line="360" column="16" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/sessions/new.html.slim" timestamp="1485956611976">
         <mark key="[" line="20" column="64" />
@@ -2052,10 +2057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="8" filename="$USER_HOME$/projects/value_press/app/views/articles/_contents_right.html.erb" />
-      <jump line="48" column="4" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
-      <jump line="27" column="3" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="419" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="110" column="7" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="277" column="24" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -2121,7 +2122,6 @@
       <jump line="86" column="51" filename="$USER_HOME$/projects/value_press/app/controllers/articles_controller.rb" />
       <jump line="87" column="20" filename="$USER_HOME$/projects/value_press/app/controllers/articles_controller.rb" />
       <jump line="611" column="18" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
       <jump line="233" column="82" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
       <jump line="234" column="32" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
       <jump line="279" column="34" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
@@ -2152,6 +2152,11 @@
       <jump line="114" column="49" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="314" column="31" filename="$USER_HOME$/projects/value_press/app/views/articles/_show_footer_js__highlight.html.erb" />
       <jump line="55" column="0" filename="$USER_HOME$/projects/value_press/app/views/articles/_show_footer_js__highlight.html.erb" />
+      <jump line="458" column="8" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
+      <jump line="465" column="13" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
+      <jump line="280" column="25" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
+      <jump line="283" column="25" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4801,31 +4806,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>article</text>
+        <text>highlight_keyword_string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8PyBpZigkdmlld19tb2RlID09PSAnYWNjZXB0Jyl7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PyBpZigkdmlld19tb2RlID09PSAnYWNjZXB0Jyl7IC8q5pel5LuY44OP44Kk44Op44Kk44OIKi8/Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8PyB9ID8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8PyB9IGVsc2UgeyA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8PyBpZigkdmlld19tb2RlID09PSAnYWNjZXB0Jyl7IC8q5pel5LuY44OP44Kk44Op44Kk44OIKi8/Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8PyBpZigkdmlld19tb2RlID09PSAnYWNjZXB0Jyl7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PyB9ID8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZV9pZF9oYXNoOiAnPD89bnVtX3RvX3N0cigkcmVsZWFzZS0+YXJ0aWNsZV9pZCwgMTIzNDU2KTs/PicsCg==</text>
+        <text encoding="base64">ICAgICAgICA8PyB9IGVsc2UgeyA/Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8PyBlbmRpZjsgPz4K</text>
+        <text encoding="base64">ICAgICAgICA8PyBpZigkdmlld19tb2RlID09PSAnYWNjZXB0Jyl7ID8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8PyBlbmRpZjsgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZV9pZF9oYXNoOiAnPD89bnVtX3RvX3N0cigkcmVsZWFzZS0+YXJ0aWNsZV9pZCwgMTIzNDU2KTs/PicsCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5047,22 +5052,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8PyBpZigoIWluX2FycmF5KCRyZWxlYXNlLT5jb3Vyc2VfaWQsYXJyYXkoNCwgNikpKSk6ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PyBlbmRpZjsgPz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8PyBlbmRpZjsgPz4K</text>
+        <text encoding="base64">ICAgICAgICA8PyBlbmRpZjsgPz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8PyBpZigoIWluX2FycmF5KCRyZWxlYXNlLT5jb3Vyc2VfaWQsYXJyYXkoNCwgNikpKSk6ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PyBpZigoIWluX2FycmF5KCRyZWxlYXNlLT5jb3Vyc2VfaWQsYXJyYXkoNCwgNikpKSk6ID8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>article</last-search>
+      <last-search>highlight_keyword_string</last-search>
       <last-offset />
-      <last-pattern>article</last-pattern>
+      <last-pattern>highlight_keyword_string</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5070,7 +5075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry>file</entry>
         <entry>file_datas</entry>
         <entry>preview</entry>
@@ -5090,6 +5094,7 @@
         <entry>staff</entry>
         <entry>format</entry>
         <entry>article</entry>
+        <entry>highlight_keyword_string</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
