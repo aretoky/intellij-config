@@ -160,11 +160,11 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/db/migrate/2016122117150001_create_accept_log.rb" timestamp="1489998699250">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
+      <file name="$USER_HOME$/projects/value_press/db/migrate/2016122117150001_create_accept_log.rb" timestamp="1490103952559">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170206083930_add_omniauth_columns_to_users.rb" timestamp="1487225680259">
         <mark key="[" line="3" column="41" />
@@ -230,7 +230,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1489741202104" />
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/job.php" timestamp="1489148625665">
         <mark key="'" line="0" column="0" />
       </file>
@@ -270,7 +269,6 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1489743264499" />
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1486624221611">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="48" column="11" />
@@ -492,7 +490,6 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/postal_spec.rb" timestamp="1489751153335" />
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/application_controller.rb" timestamp="1486986510922">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -1017,7 +1014,6 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/postal_saving_service_spec.rb" timestamp="1489736956098" />
       <file name="$USER_HOME$/sandbox/vp_main_system/application/models/accept_log_model.php" timestamp="1489999810465">
         <mark key="[" line="94" column="39" />
         <mark key="]" line="94" column="46" />
@@ -1308,7 +1304,6 @@
         <mark key="^" line="122" column="31" />
         <mark key="." line="122" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/upd_postalres.rb" timestamp="1489751879931" />
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209041023_create_stories.rb" timestamp="1487235938846">
         <mark key="[" line="14" column="56" />
         <mark key="]" line="14" column="56" />
@@ -1345,11 +1340,11 @@
         <mark key="." line="58" column="4" />
         <mark key="^" line="58" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/decorators/accept_log_decorator.rb" timestamp="1490095476371">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/projects/value_press/app/decorators/accept_log_decorator.rb" timestamp="1490103983581">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/_edit_form.html.slim" timestamp="1487926244616">
         <mark key="[" line="43" column="4" />
@@ -1497,7 +1492,6 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/upds_controllerable.rb" timestamp="1489736882322" />
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/parts/header_column3_view.php" timestamp="1489565130582">
         <mark key="'" line="259" column="79" />
       </file>
@@ -1892,7 +1886,6 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" timestamp="1490099652824" />
       <file name="$USER_HOME$/projects/cplus/app/models/mplan/plan_validator.rb" timestamp="1486344827225">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="3" />
@@ -4786,7 +4779,7 @@
         <text>reason</text>
       </register>
       <register name="0" type="4">
-        <text>@view_mode = :accept</text>
+        <text>limit: 1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9LCBzY29wZTogdHJ1ZQo=</text>
