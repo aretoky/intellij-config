@@ -478,6 +478,7 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/parts/top_ranking_pc_column3_view.php" timestamp="1490178285739" />
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css" timestamp="1490174264226">
         <mark key="'" line="1438" column="15" />
       </file>
@@ -510,6 +511,9 @@
         <mark key="]" line="71" column="8" />
         <mark key="^" line="71" column="8" />
         <mark key="." line="71" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1490177862414">
+        <mark key="'" line="190" column="9" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/mail_setting.rb" timestamp="1489150801084">
         <mark key="[" line="0" column="38" />
@@ -1472,7 +1476,11 @@
         <mark key="." line="16" column="82" />
         <mark key="^" line="16" column="82" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/ranking.php" timestamp="1490177152552" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/ranking.php" timestamp="1490178297640">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="73" column="56" />
+        <mark key="]" line="73" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/concerns/article/article_savable_decorator.rb" timestamp="1486784449586">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="28" column="6" />
@@ -1990,6 +1998,11 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/article/ranking.rb" timestamp="1490178371888">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/application/_month_calender.slim.erb" timestamp="1487237838796">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
@@ -2126,11 +2139,11 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/sidebar/articles_controller.rb" timestamp="1490177623502">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/sidebar/articles_controller.rb" timestamp="1490177904929">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+        <mark key="." line="4" column="67" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/articles/_show_footer_js__status_publish.html.erb" timestamp="1490110193712">
         <mark key="[" line="8" column="49" />
@@ -2140,14 +2153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="12" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="40" column="29" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="455" column="77" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="34" column="8" filename="$USER_HOME$/projects/value_press/app/views/application/_footer__column3_footer.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/config/routes.php" />
-      <jump line="447" column="50" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="606" column="8" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="237" column="83" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="550" column="43" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="551" column="20" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="605" column="8" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
@@ -2240,6 +2245,14 @@
       <jump line="1284" column="15" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css" />
       <jump line="1438" column="15" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css" />
       <jump line="445" column="14" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/advertising.css.scss" />
+      <jump line="120" column="63" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/ranking.php" />
+      <jump line="199" column="9" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="262" column="18" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="299" column="18" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="310" column="22" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="190" column="9" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="13" column="18" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/ranking.php" />
+      <jump line="75" column="21" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/ranking.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4889,13 +4902,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Articles</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>CONDE</text>
+        <text>ranking_items</text>
       </register>
       <register name="0" type="4">
-        <text>url(asset-path('fonts/CONDENSEicon.woff'))</text>
+        <text encoding="base64">c2NvcGUgOndlZWtseV9yYW5raW5nLCAtPiB7CiAgICAgIAogICAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4904,16 +4917,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgQmxhbmtHaWZSZW5kZXJhYmxlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyogLS0gY29tbW9uIHN0eWxlIC0tICovCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsaT4K</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text># 元コード: application/models/article_model.php[1953]:get_article_id_by_send_date($from, $to)
+      def course_premium_by_send_date(from, to)
+        with_course_id(
+          :premium
+        ).with_status(
+          :publish
+        ).between_send_date(from, to)
+      end</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5135,22 +5155,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjb3BlIDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CONDE</last-search>
+      <last-search>ranking_items</last-search>
       <last-offset />
-      <last-pattern>CONDE</last-pattern>
+      <last-pattern>ranking_items</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5158,9 +5178,6 @@
     </search>
     <history>
       <history-search>
-        <entry>readers</entry>
-        <entry>view_mode</entry>
-        <entry>access_counter</entry>
         <entry>uu</entry>
         <entry>format</entry>
         <entry>rdf</entry>
@@ -5178,6 +5195,9 @@
         <entry>corporation</entry>
         <entry>fontel</entry>
         <entry>CONDE</entry>
+        <entry>between_send_date</entry>
+        <entry>$ranking_items</entry>
+        <entry>ranking_items</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
