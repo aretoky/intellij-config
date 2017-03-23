@@ -129,7 +129,13 @@
         <mark key="^" line="18" column="49" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1490234929143" />
+      <file name="$USER_HOME$/sandbox/unkokanji/views/index.erb" timestamp="1490239592068">
+        <mark key="'" line="340" column="2" />
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="139" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/sns_logs_controller_spec.rb" timestamp="1487751483828">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="22" column="23" />
@@ -2177,8 +2183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="109" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="231" column="167" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="161" column="80" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="42" column="4" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
@@ -2277,6 +2281,8 @@
       <jump line="412" column="6" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="414" column="6" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="152" column="18" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="207" column="27" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
+      <jump line="329" column="2" filename="$USER_HOME$/sandbox/unkokanji/views/index.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4926,31 +4932,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>monthly</text>
+        <text>http://graphics8.nytimes.com/images/2012/02/19/us/19whitney-span/19whitney-span-articleLarge.jpg</text>
       </register>
       <register name="/" type="4">
-        <text>view_count</text>
+        <text>touch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQG1vbnRobHlfYXJ0aWNsZXMgPSBBcnRpY2xlOjpSYW5raW5nLm1vbnRobHkK</text>
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ0d2l0dGVyOnRpdGxlIiBjb250ZW50PSLml6XmnKzkuIDmpb3jgZfjgYTmvKLlrZfjg4njg6rjg6vvvZzjgYbjgpPjgZPmvKLlrZfjg4njg6rjg6siPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y2xhc3MgPDwgc2VsZgogICAgICAjIOWFg+OCs+ODvOODiTogYXBwbGljYXRpb24vbW9kZWxzL2FydGljbGVfbW9kZWwucGhwWzIwNDldOmdldF9jdXN0b21lcl9yYW5raW5nc19ieV9hcnRpY2xlX2lkcygkYXJ0aWNsZV9pZHMsICRsaW1pdCA9IDMwKQogICAgICBkZWYgY3VzdG9tZXJfcmFua2luZ3NfYnlfYXJ0aWNsZV9pZHMoYXJ0aWNsZV9pZHMsIGxpbWl0ID0gMzApCiAgICAgICAgIyBydWJvY29wOmRpc2FibGUgYWxsCiAgICAgICAgc2VsZWN0aW5nIHsKICAgICAgICAgIFtBcmVsLnNxbCgnKicpLCB1c2VyX2FjY291bnRfaWQuY291bnQuYXMoJ3VzZXJfYWNjb3VudF9jb3VudCcpXQogICAgICAgIH0ud2hlcmUoaWQ6IGFydGljbGVfaWRzKS5ncm91cCg6dXNlcl9hY2NvdW50X2lkKS5vcmRlcmluZyB7CiAgICAgICAgICBbJ3VzZXJfYWNjb3VudF9jb3VudCcsIHVzZXJfYWNjb3VudF9pZF0KICAgICAgICB9LmxpbWl0KGxpbWl0KQogICAgICAgICMgcnVib2NvcDplbmFibGUgYWxsCiAgICAgIGVuZAogICAgZW5kCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ0d2l0dGVyOnRpdGxlIiBjb250ZW50PSLml6XmnKzkuIDmpb3jgZfjgYTmvKLlrZfjg4njg6rjg6vvvZzjgYbjgpPjgZPmvKLlrZfjg4njg6rjg6siPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICA8bGluayByZWw9ImFwcGxlLXRvdWNoLWljb24iIGhyZWY9Ii9zdGF0aWMvaW1hZ2Uvd2ViY2xpcF9pY29uLnBuZyIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIGhyZWY9Ii9zdGF0aWMvaW1hZ2UvZmF2aWNvbi5pY28iIC8+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5172,10 +5178,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -5185,9 +5191,9 @@
       </register>
     </registers>
     <search>
-      <last-search>view_count</last-search>
+      <last-search>touch</last-search>
       <last-offset />
-      <last-pattern>view_count</last-pattern>
+      <last-pattern>touch</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5195,7 +5201,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gif</entry>
         <entry>8dnCOwfw9ySZ</entry>
         <entry>through</entry>
         <entry>kana</entry>
@@ -5215,6 +5220,7 @@
         <entry>30</entry>
         <entry>get_by_send_date</entry>
         <entry>view_count</entry>
+        <entry>touch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
