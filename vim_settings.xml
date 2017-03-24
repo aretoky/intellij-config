@@ -1245,11 +1245,11 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/cheer.rb" timestamp="1490331676157">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="6" />
+      <file name="$USER_HOME$/projects/value_press/app/models/cheer.rb" timestamp="1490335855725">
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="61" column="38" />
         <mark key="^" line="53" column="10" />
-        <mark key="." line="63" column="6" />
+        <mark key="." line="60" column="26" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/interims/edit.html.slim" timestamp="1489475359041">
         <mark key="[" line="209" column="0" />
@@ -4908,23 +4908,24 @@
       <register name="0" type="4">
         <text>Cheer.ranking_by_period_of_days(period)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="1" type="4">
+        <text>.
+        order(count_article_id: :desc)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzY29wZSA6cmFua2luZ19ieV9wZXJpb2Rfb2ZfZGF5cywgLT4ocGVyaW9kKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzY29wZSA6cmFua2luZ19ieV9wZXJpb2Rfb2ZfZGF5cywgLT4ocGVyaW9kKXsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IyBydWJvY29wOmRpc2FibGUgYWxsCiAgICBqb2lucyg6YXJ0aWNsZSwgOnZpc2l0b3IpLgogICAgICBtZXJnZShBcnRpY2xlLndpdGhfcHVibGljX3N0YXR1cykuCiAgICAgICAgbWVyZ2UoVmlzaXRvci5hbGwpLgogICAgICAgIHdoZXJlLmhhcyB7IGNyZWF0ZWQgPj0gcGVyaW9kLmRheXMuYWdvIH0uCiAgICAgICAgZ3JvdXAoOmFydGljbGVfaWQpLgogICAgICAgIGNvdW50KDphcnRpY2xlX2lkKS4KICAgICAgICBvcmRlcihjb3VudF9hcnRpY2xlX2lkOiA6ZGVzYykKICAgICMgcnVib2NvcDplbmFibGUgYWxs</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5146,15 +5147,15 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>.
-        order(count_article_id: :desc)</text>
+        <text encoding="base64">IyBydWJvY29wOmRpc2FibGUgYWxsCiAgICBqb2lucyg6YXJ0aWNsZSwgOnZpc2l0b3IpLgogICAgICBtZXJnZShBcnRpY2xlLndpdGhfcHVibGljX3N0YXR1cykuCiAgICAgICAgbWVyZ2UoVmlzaXRvci5hbGwpLgogICAgICAgIHdoZXJlLmhhcyB7IGNyZWF0ZWQgPj0gcGVyaW9kLmRheXMuYWdvIH0uCiAgICAgICAgZ3JvdXAoOmFydGljbGVfaWQpLgogICAgICAgIGNvdW50KDphcnRpY2xlX2lkKS4KICAgICAgICBvcmRlcihjb3VudF9hcnRpY2xlX2lkOiA6ZGVzYykKICAgICMgcnVib2NvcDplbmFibGUgYWxs</text>
       </register>
       <register name="8" type="4">
         <text>.
-        order(count_article_id: :desc</text>
+        order(count_article_id: :desc)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2hlcmUoYXJ0aWNsZV9pZDogQ2hlZXIucmFua2luZ19ieV9wZXJpb2Rfb2ZfZGF5cyhwZXJpb2QpLnBsdWNrKDphcnRpY2xlX2lkKSkK</text>
+      <register name="9" type="4">
+        <text>.
+        order(count_article_id: :desc</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
