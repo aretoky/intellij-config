@@ -467,11 +467,11 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/factories/user_accounts.rb" timestamp="1487093270114">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
+      <file name="$USER_HOME$/projects/value_press/spec/factories/user_accounts.rb" timestamp="1490414399645">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_header__3_column_header.html.erb" timestamp="1490118395049">
         <mark key="[" line="44" column="0" />
@@ -705,11 +705,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/articles_controller_spec.rb" timestamp="1490346828866">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-        <mark key="^" line="5" column="33" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/articles_controller_spec.rb" timestamp="1490414503341">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="40" />
+        <mark key="^" line="36" column="40" />
+        <mark key="." line="36" column="40" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_course_article_decorator.rb" timestamp="1486785172151">
         <mark key="[" line="70" column="16" />
@@ -1080,6 +1080,12 @@
         <mark key="]" line="14" column="17" />
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/spec/support/signin_macros.rb" timestamp="1490413855878">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/validators/alpha_dash_or_empty_validator.rb" timestamp="1486572318260">
         <mark key="[" line="3" column="31" />
@@ -5000,36 +5006,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new_or_edit</text>
+        <text>user_account</text>
       </register>
       <register name="/" type="4">
         <text>readers</text>
       </register>
       <register name="0" type="4">
-        <text>context '管理者でログインした場合' do
-      before do
-        signin_as_staff
-      end
-
-      subject { get :show, params: { id: article.id } }
-
-      it { expect(subject).to render_template :show }
-    end</text>
+        <text>create(:user_account, :with_sequence)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZhY3RvcnkgOnVzZXJfYWNjb3VudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcXVlbmNlKDp1c2VybmFtZSkgeyB8bnwgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIHNlcXVlbmNlKDp1c2VybmFtZSkgeyB8bnwgInRlc3Qje259QHZhbHVlcHJlc3MuY28uanAiIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb250ZXh0ICdsb2dpbmVkIHN0YWZmJyBkbwo=</text>
+        <text encoding="base64">ICAgIHNlcXVlbmNlKDp1c2VybmFtZSkgeyB8bnwgInRlc3Qje259QHZhbHVlcHJlc3MuY28uanAiIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -5253,16 +5251,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">YmVmb3JlIGRvCiAgICAgIHNpZ25pbl9hc19zdGFmZgogICAgZW5kCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="8" type="4">
-        <text>subject { get :show, params: { id: article.id } }
-
-      it { expect(subject).to render_template :show }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNlc3Npb25bInVzZXJfc2Vzc2lvbiJdWyJleHBpcmVkX2F0Il0gPSAxLm1vbnRoLmZyb21fbm93LnRvX2kK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb25bInVzZXJfc2Vzc2lvbiJdWyJub191c2VyIl0gPSB1c2VyX2FjY291bnQuaWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
