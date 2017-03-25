@@ -418,11 +418,11 @@
         <mark key="^" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/factories/article_print.rb" timestamp="1490447007515">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/projects/value_press/spec/factories/article_print.rb" timestamp="1490447031205">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/users/sessions/new.html.slim" timestamp="1487211648830">
         <mark key="[" line="2" column="0" />
@@ -2150,11 +2150,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/articles/article_prints_controller_spec.rb" timestamp="1489477701333">
-        <mark key="[" line="17" column="60" />
-        <mark key="]" line="17" column="74" />
-        <mark key="^" line="17" column="74" />
-        <mark key="." line="17" column="74" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/users/articles/article_prints_controller_spec.rb" timestamp="1490447244228">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" timestamp="1486310166834">
         <mark key="[" line="89" column="27" />
@@ -4962,14 +4962,24 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>バリュープレス</text>
+        <text>value-press</text>
       </register>
       <register name="/" type="4">
         <text>without_alliance_media</text>
       </register>
       <register name="0" type="4">
-        <text>medium_name 'バリュープレス'
-    area 'http://value-press.com'</text>
+        <text>context &quot;何もない場合&quot; do
+      let(:spec) do
+        {
+          id_str: article.id,
+          print_count: 0,
+          print_list: false,
+          print_list_article: false
+        }
+      end
+
+      it { expect(subject.body).to be_json_including(spec) }
+    end</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4978,16 +4988,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQoOnZhbGlkX2F0dHJpYnV0ZXMpIHsgYXR0cmlidXRlc19mb3IoOnVzZXJfYWNjb3VudCwgOndpdGhfdXBkYXRlcikgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5208,10 +5218,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>it_behaves_like 'article_savable_helper' do
-    let(:article) { create(:alliance_course_article) }
-  end</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
