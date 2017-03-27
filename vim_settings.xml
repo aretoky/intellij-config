@@ -209,12 +209,11 @@
         <mark key="^" line="195" column="63" />
         <mark key="." line="195" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" timestamp="1490620672220">
+      <file name="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" timestamp="1490629598057">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="111" column="18" />
-        <mark key="]" line="111" column="24" />
-        <mark key="." line="111" column="24" />
-        <mark key="^" line="111" column="24" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_extra_by_bitems_creator.rb" timestamp="1487917518551">
         <mark key="[" line="56" column="42" />
@@ -283,12 +282,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1490628303943">
-        <mark key="'" line="276" column="34" />
-        <mark key="[" line="488" column="0" />
-        <mark key="]" line="488" column="0" />
-        <mark key="." line="488" column="0" />
-        <mark key="^" line="487" column="36" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1490629230349">
+        <mark key="'" line="144" column="3" />
+        <mark key="[" line="491" column="36" />
+        <mark key="]" line="491" column="36" />
+        <mark key="." line="491" column="36" />
+        <mark key="^" line="491" column="39" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/mail_setting.rb" timestamp="1489150801084">
         <mark key="[" line="0" column="38" />
@@ -708,7 +707,6 @@
         <mark key="." line="54" column="28" />
         <mark key="^" line="54" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/environments/staging.rb" timestamp="1490599777157" />
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/colorbox.css" timestamp="1488046718179">
         <mark key="[" line="24" column="65" />
         <mark key="]" line="24" column="68" />
@@ -934,11 +932,11 @@
         <mark key="." line="115" column="34" />
         <mark key="^" line="115" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/decorators/concerns/article_decorator/support_course_icon_decorator.rb" timestamp="1490443586836">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="19" column="81" />
-        <mark key="." line="2" column="19" />
+      <file name="$USER_HOME$/projects/value_press/app/decorators/concerns/article_decorator/support_course_icon_decorator.rb" timestamp="1490629685073">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="4" column="51" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_result/atrribute_creator.rb" timestamp="1490165576358">
         <mark key="[" line="32" column="0" />
@@ -1572,7 +1570,7 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="/a.regexp" timestamp="1490620739849">
+      <file name="/a.regexp" timestamp="1490628799505">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_course.rb" timestamp="1486558176112">
@@ -2177,7 +2175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="53" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="106" column="6" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="110" column="0" filename="$USER_HOME$/projects/value_press/app/models/app_notification.rb" />
       <jump line="194" column="57" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
@@ -2277,6 +2274,7 @@
       <jump line="187" column="17" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="261" column="20" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="276" column="34" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="144" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4926,25 +4924,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>only</text>
       </register>
       <register name="0" type="4">
-        <text>mainconts_c_release_category_</text>
+        <text>(記者限定公開)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGMK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlY29ub215OiDjgqjjgrPjg47jg5/jg7zjgrPjg7zjgrkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlY29ub215OiDjgqjjgrPjg47jg5/jg7zjgrPjg7zjgrkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -5172,13 +5170,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cnVieSAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
