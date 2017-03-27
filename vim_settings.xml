@@ -305,11 +305,10 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/secrets.yml" timestamp="1488189232628">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="^" line="18" column="4" />
-        <mark key="." line="18" column="4" />
+      <file name="$USER_HOME$/projects/umareso/config/secrets.yml" timestamp="1490602576132">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/articles/_contents_right__attachments.html.erb" timestamp="1490342644358">
         <mark key="'" line="7" column="6" />
@@ -794,11 +793,11 @@
         <mark key="." line="14" column="42" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/users/social_profiles_controller.rb" timestamp="1488177878269">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/users/social_profiles_controller.rb" timestamp="1490601995281">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_story.html.slim" timestamp="1486978364849">
         <mark key="[" line="4" column="8" />
@@ -914,11 +913,11 @@
         <mark key="." line="91" column="26" />
         <mark key="^" line="91" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/application_controller.rb" timestamp="1490595149224">
-        <mark key="[" line="3" column="53" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="3" column="76" />
-        <mark key="." line="3" column="54" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/application_controller.rb" timestamp="1490602241611">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="103" />
+        <mark key="^" line="3" column="103" />
+        <mark key="." line="3" column="103" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/application/_navigation.html.slim" timestamp="1486986259944">
         <mark key="[" line="12" column="52" />
@@ -2269,8 +2268,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="103" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/Gemfile" timestamp="1490600167582">
-        <mark key="[" line="0" column="29" />
+      <file name="$USER_HOME$/projects/umareso/Gemfile" timestamp="1490602155161">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/non_acceptance_reason.rb" timestamp="1490105435396">
         <mark key="[" line="63" column="0" />
@@ -5047,28 +5049,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>secret_key</text>
       </register>
-      <register name="0" type="4">
-        <text>http_basic_authenticate_with name: &quot;c&quot;, password: &quot;p&quot; if Rails.env.staging?</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8PDogKmRldmVsb3BtZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">cnVieSAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICJidWlsZHBhY2tzIjogWwo=</text>
+        <text encoding="base64">Ly8gIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIH0sCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICJmb3JtYXRpb24iOiB7Cg==</text>
+        <text encoding="base64">Ly8gICJidWlsZHBhY2tzIjogWwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Ly8gIH0sCg==</text>
@@ -5293,13 +5295,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICJzY3JpcHRzIjogewo=</text>
+        <text encoding="base64">Ly8gICJmb3JtYXRpb24iOiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIF0K</text>
+        <text encoding="base64">Ly8gIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8gICJzY3JpcHRzIjogewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
