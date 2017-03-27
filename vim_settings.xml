@@ -283,8 +283,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1490620117713">
-        <mark key="'" line="54" column="3" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1490628303943">
+        <mark key="'" line="276" column="34" />
+        <mark key="[" line="488" column="0" />
+        <mark key="]" line="488" column="0" />
+        <mark key="." line="488" column="0" />
+        <mark key="^" line="487" column="36" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/mail_setting.rb" timestamp="1489150801084">
         <mark key="[" line="0" column="38" />
@@ -2173,18 +2177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="153" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="327" column="40" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/value_press/app/assets/javascripts/js/base.js" />
-      <jump line="517" column="227" filename="$USER_HOME$/projects/value_press/app/assets/javascripts/js/base.js" />
-      <jump line="118" column="2" filename="$USER_HOME$/projects/value_press/app/controllers/articles_controller.rb" />
-      <jump line="174" column="10" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="449" column="8" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="81" column="10" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
-      <jump line="170" column="15" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
-      <jump line="171" column="53" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
-      <jump line="201" column="11" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
-      <jump line="80" column="12" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="169" column="53" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="106" column="6" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="110" column="0" filename="$USER_HOME$/projects/value_press/app/models/app_notification.rb" />
@@ -2223,7 +2215,6 @@
       <jump line="8" column="3" filename="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" />
       <jump line="9" column="3" filename="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" />
       <jump line="367" column="26" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="23" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="24" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="27" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -2273,6 +2264,19 @@
       <jump line="2185" column="34" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" />
       <jump line="2188" column="29" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" />
       <jump line="2191" column="30" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" />
+      <jump line="96" column="14" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="486" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="47" column="8" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="100" column="37" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="101" column="47" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="102" column="37" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="103" column="21" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="119" column="16" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="182" column="26" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="187" column="17" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="261" column="20" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
+      <jump line="276" column="34" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4922,22 +4926,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_with_admin</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>option</text>
+        <text>only</text>
       </register>
       <register name="0" type="4">
         <text>mainconts_c_release_category_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -4946,7 +4950,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cnVieSAnJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5168,22 +5172,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">cnVieSAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICJidWlsZHBhY2tzIjogWwo=</text>
+        <text encoding="base64">Ly8gIF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>option</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern>option</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5191,8 +5195,6 @@
     </search>
     <history>
       <history-search>
-        <entry>strf</entry>
-        <entry>publish</entry>
         <entry>url:</entry>
         <entry>pending</entry>
         <entry>t</entry>
@@ -5211,6 +5213,8 @@
         <entry>option_naem</entry>
         <entry>option_name</entry>
         <entry>option</entry>
+        <entry>mediaonly</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
