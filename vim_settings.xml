@@ -1902,11 +1902,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/models/access_analytics_data_spec.rb" timestamp="1490688221525">
+      <file name="$USER_HOME$/projects/value_press/spec/models/access_analytics_data_spec.rb" timestamp="1490690871474">
         <mark key="[" line="37" column="32" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="28" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="8" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/routes.rb" timestamp="1488176838178">
         <mark key="[" line="13" column="21" />
@@ -2010,7 +2010,7 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles_controller.rb" timestamp="1490640979338">
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles_controller.rb" timestamp="1490691306221">
         <mark key="[" line="57" column="19" />
         <mark key="]" line="57" column="23" />
         <mark key="." line="57" column="23" />
@@ -2052,12 +2052,12 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/access_analytics_data.rb" timestamp="1490687696566">
+      <file name="$USER_HOME$/projects/value_press/app/models/access_analytics_data.rb" timestamp="1490690997679">
         <mark key="'" line="35" column="37" />
-        <mark key="[" line="58" column="46" />
-        <mark key="]" line="58" column="46" />
-        <mark key="^" line="58" column="46" />
-        <mark key="." line="58" column="46" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="77" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/cheer_ranking.rb" timestamp="1490339571934">
         <mark key="[" line="74" column="43" />
@@ -4977,12 +4977,15 @@
 #</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWUgJ+ODk+OCuOOCv+ODvCcK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvdW50X2FuZF9yYXRpb19wZXJfYXJlYVtrXVs6cmF0aW9dID0gdiAvIGNvdW50X3Blcl9hcmVhX2RhdGEuY291bnQgKiAxMDAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIG5hbWUgJ+ODk+OCuOOCv+ODvCcK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHVzZXJfYWNjb3VudF9pZCAxCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text># == Schema Information
 #
 # Table name: visitor
@@ -5002,14 +5005,11 @@
 #  cancel_flg            :boolean          default(FALSE), not null
 #</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5231,13 +5231,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIOato+OBl+OBj+ODreODvOODq+ODkOODg+OCr+OBmeOCi+OBn+OCgeOBq+OCj+OBluOBqCYm44Gn5oyf44KT44Gn5YiG44GR44Gm44GE44KLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIOato+OBl+OBj+ODreODvOODq+ODkOODg+OCr+OBmeOCi+OBn+OCgeOBq+OCj+OBluOBqCYm44Gn5oyf44KT44Gn5YiG44GR44Gm44GE44KLCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
