@@ -1215,11 +1215,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/decorators/article/detail_decorator.rb" timestamp="1490705447610">
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="20" />
+      <file name="$USER_HOME$/projects/value_press/app/decorators/article/detail_decorator.rb" timestamp="1490763568115">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209035436_create_writers.rb" timestamp="1487583368136">
         <mark key="[" line="11" column="32" />
@@ -4958,19 +4957,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgQVJUSUNMRV9ERUNPUkFUT1JfTk9OX0RBVEFfRk9STUFUID0gJy0tJwo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZS5wYXJzZSgnMjAxNS0wOC0wMSAwMDowMDowMCcpIDw9IHNlbmRfZGF0ZSA/IDIwIDogMTAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgQVJUSUNMRV9ERUNPUkFUT1JfTk9OX0RBVEFfRk9STUFUID0gJy0tJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvdW50X2FuZF9yYXRpb19wZXJfYXJlYVtrXVs6cmF0aW9dID0gdiAvIGNvdW50X3Blcl9hcmVhX2RhdGEuY291bnQgKiAxMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWUgJ+ODk+OCuOOCv+ODvCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5192,30 +5191,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJfYWNjb3VudF9pZCAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvdW50X2FuZF9yYXRpb19wZXJfYXJlYVtrXVs6cmF0aW9dID0gdiAvIGNvdW50X3Blcl9hcmVhX2RhdGEuY291bnQgKiAxMDAK</text>
       </register>
-      <register name="8" type="4">
-        <text># == Schema Information
-#
-# Table name: visitor
-#
-#  id                    :integer          not null, primary key
-#  facebook_id           :string(255)
-#  facebook_token        :string(255)
-#  facebook_token_expire :date
-#  twitter_id            :string(255)
-#  twitter_token         :string(255)
-#  twitter_token_secret  :string(255)
-#  email                 :string(255)
-#  name                  :string(255)      not null
-#  user_account_id       :integer
-#  created               :datetime
-#  modified              :datetime
-#  cancel_flg            :boolean          default(FALSE), not null
-#</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG5hbWUgJ+ODk+OCuOOCv+ODvCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJfYWNjb3VudF9pZCAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
