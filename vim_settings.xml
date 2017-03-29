@@ -1359,7 +1359,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/article_attached_file_uploader.rb" timestamp="1490780615953" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/article_attached_file_uploader.rb" timestamp="1490781947953">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="10" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/header__scroll_navi.html.erb" timestamp="1490118774443">
         <mark key="[" line="70" column="27" />
         <mark key="]" line="71" column="8" />
@@ -1847,11 +1850,11 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1490780671527">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="2" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1490782075176">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/sidebar/articles/index__access_ranking.html.erb" timestamp="1490320634585">
         <mark key="[" line="17" column="0" />
@@ -2058,6 +2061,11 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="41" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" timestamp="1490781434892">
+        <mark key="'" line="49" column="52" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="60" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/rails_helper.rb" timestamp="1487741864124">
         <mark key="[" line="60" column="29" />
         <mark key="]" line="61" column="34" />
@@ -2221,8 +2229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$USER_HOME$/projects/value_press/app/decorators/concerns/article_decorator/support_course_icon_decorator.rb" />
-      <jump line="5" column="12" filename="$USER_HOME$/projects/value_press/app/decorators/concerns/article_decorator/support_course_icon_decorator.rb" />
       <jump line="100" column="4" filename="$USER_HOME$/projects/value_press/app/decorators/concerns/article_decorator/support_course_icon_decorator.rb" />
       <jump line="27" column="15" filename="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" />
       <jump line="8" column="3" filename="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" />
@@ -2321,6 +2327,8 @@
       <jump line="112" column="13" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="470" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/advertising.css.scss" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/advertising.css.scss" />
+      <jump line="421" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
+      <jump line="49" column="52" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4970,31 +4978,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>view_count</text>
+        <text>&quot;https://files.value-press.com/&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw8</text>
+        <text>FILE_TYPE_COMPANY_LOGO</text>
       </register>
-      <register name="0" type="4">
-        <text>set_password</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2VsZi5hc3NldF9ob3N0ID0gUzNfRklMRVNfRE9NQUlOCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PT09PT09PQpSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuYXNzZXRzLnByZWNvbXBpbGUgPDwgL1wuKD86c3ZnfGVvdHx3b2ZmfHR0Zilcei8KPj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHNlbGYuZm9nX2RpcmVjdG9yeSA9ICJ2cC5maWxlcyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgbWVzID0gIjxhIGhyZWY9JyN7dXJsX2hlbHBlcnMuYWRtaW5fdXNlcl9hY2NvdW50c19wYXRoKGFydGljbGUudXNlcl9hY2NvdW50KX0nPiN7YXJ0aWNsZS51c2VyX2FjY291bnQubmFtZX08L2E+5qeY44GM44Oq44Oq44O844K544CMI3thcnRpY2xlLnRpdGxlfeOAjSgje0kxOG4ubChhcnRpY2xlLnNlbmRfZGF0ZSwgZm9ybWF0OiA6dW50aWxfaG91cil96YWN5L+hKeOCkuWJiumZpOOBl+OBvuOBl+OBn+OAgiIKICAgICAgICBzdXBlcigKICAgICAgICAgIHRhYmxlOiAnYXJ0aWNsZScsCiAgICAgICAgICBhY3Rpb25fdHlwZTogJ2RlbGV0ZV9yZWxlYXNlJywKICAgICAgICAgIG1lczogbWVzLAogICAgICAgICAgdXNlcl9pZDogdXNlcl9hY2NvdW50LmlkLAo9PT09PT09</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5216,22 +5224,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6YXBwL2Fzc2V0cy9zdHlsZXNoZWV0cy9jc3MvYWR2ZXJ0aXNpbmcuY3NzLnNjc3MK</text>
+        <text encoding="base64">ICAgICAgc2VsZi5mb2dfZGlyZWN0b3J5ID0gInZwLmZpbGVzIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzcmM6IGZvbnQtdXJsKCdDT05ERU5TRWljb24ud29mZicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw8</last-search>
+      <last-search>FILE_TYPE_COMPANY_LOGO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw8</last-pattern>
+      <last-pattern>FILE_TYPE_COMPANY_LOGO</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5239,7 +5247,6 @@
     </search>
     <history>
       <history-search>
-        <entry>secret_key</entry>
         <entry>article</entry>
         <entry>option_naem</entry>
         <entry>option_name</entry>
@@ -5259,6 +5266,7 @@
         <entry>analytics_data_by_view_medium</entry>
         <entry>===</entry>
         <entry encoding="base64">PDw8</entry>
+        <entry>FILE_TYPE_COMPANY_LOGO</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
