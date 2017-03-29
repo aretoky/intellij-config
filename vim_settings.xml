@@ -537,7 +537,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490782801568">
+      <file name="/Dummy.txt" timestamp="1490784302681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -767,11 +767,10 @@
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_user_file_uploader.rb" timestamp="1490782324143">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="4" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_user_file_uploader.rb" timestamp="1490783604048">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_story.html.slim" timestamp="1486978364849">
         <mark key="[" line="4" column="8" />
@@ -969,6 +968,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/common_helper.php" timestamp="1490784242353" />
       <file name="$USER_HOME$/projects/cplus/app/models/upd.rb" timestamp="1489743047215">
         <mark key="[" line="115" column="24" />
         <mark key="]" line="115" column="34" />
@@ -4990,26 +4990,16 @@
         <text>FILE_TYPE_MYAGENT</text>
       </register>
       <register name="0" type="4">
-        <text>def initialize(*)
-    super
-
-    if Rails.env.production?
-      self.asset_host = S3_FILES_DOMAIN
-      self.fog_directory = BUCKET_FILES
-    elsif Rails.env.staging?
-      self.asset_host = BUCKET_FILES_DEV
-      self.fog_directory = BUCKET_FILES_DEV
-    end
-  end</text>
+        <text>Rails.env.staging?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZm9nX2RpcmVjdG9yeSA9ICJ2cC5maWxlcyIK</text>
+        <text encoding="base64">ICAgICJ1cGxvYWRzLyN7bW9kZWwuY2xhc3MudG9fcy51bmRlcnNjb3JlfS8je21vdW50ZWRfYXN9LyN7bW9kZWwuaWR9Igo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -5018,7 +5008,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYuZm9nX2RpcmVjdG9yeSA9ICJ2cC5maWxlcyIK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5240,7 +5230,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5mb2dfZGlyZWN0b3J5ID0gInZwLmZpbGVzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
