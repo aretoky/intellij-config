@@ -537,7 +537,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490780561522">
+      <file name="/Dummy.txt" timestamp="1490782801568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -766,6 +766,12 @@
         <mark key="]" line="1" column="40" />
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_user_file_uploader.rb" timestamp="1490782324143">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_story.html.slim" timestamp="1486978364849">
         <mark key="[" line="4" column="8" />
@@ -1850,9 +1856,9 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1490782075176">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1490782321133">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="21" column="4" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="17" column="0" />
       </file>
@@ -2061,8 +2067,8 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" timestamp="1490781434892">
-        <mark key="'" line="49" column="52" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" timestamp="1490782770367">
+        <mark key="'" line="783" column="0" />
         <mark key="[" line="8" column="4" />
         <mark key="]" line="9" column="60" />
       </file>
@@ -2229,10 +2235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="4" filename="$USER_HOME$/projects/value_press/app/decorators/concerns/article_decorator/support_course_icon_decorator.rb" />
-      <jump line="27" column="15" filename="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" />
-      <jump line="8" column="3" filename="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" />
-      <jump line="9" column="3" filename="$USER_HOME$/projects/value_press/app/models/action_log/attribute_user_login_creator.rb" />
       <jump line="367" column="26" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="23" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="24" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -2329,6 +2331,10 @@
       <jump line="39" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/advertising.css.scss" />
       <jump line="421" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
       <jump line="49" column="52" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
+      <jump line="532" column="11" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
+      <jump line="27" column="15" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
+      <jump line="190" column="14" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
+      <jump line="783" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4981,10 +4987,20 @@
         <text>&quot;https://files.value-press.com/&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>FILE_TYPE_COMPANY_LOGO</text>
+        <text>FILE_TYPE_MYAGENT</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5hc3NldF9ob3N0ID0gUzNfRklMRVNfRE9NQUlOCg==</text>
+      <register name="0" type="4">
+        <text>def initialize(*)
+    super
+
+    if Rails.env.production?
+      self.asset_host = S3_FILES_DOMAIN
+      self.fog_directory = BUCKET_FILES
+    elsif Rails.env.staging?
+      self.asset_host = BUCKET_FILES_DEV
+      self.fog_directory = BUCKET_FILES_DEV
+    end
+  end</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5237,9 +5253,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FILE_TYPE_COMPANY_LOGO</last-search>
+      <last-search>FILE_TYPE_MYAGENT</last-search>
       <last-offset />
-      <last-pattern>FILE_TYPE_COMPANY_LOGO</last-pattern>
+      <last-pattern>FILE_TYPE_MYAGENT</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5247,7 +5263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>article</entry>
         <entry>option_naem</entry>
         <entry>option_name</entry>
         <entry>option</entry>
@@ -5267,6 +5282,7 @@
         <entry>===</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>FILE_TYPE_COMPANY_LOGO</entry>
+        <entry>FILE_TYPE_MYAGENT</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
