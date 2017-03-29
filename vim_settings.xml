@@ -487,9 +487,9 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/city.rb" timestamp="1490632497847">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/static_pages_controller.rb" timestamp="1486620420885">
         <mark key="[" line="1" column="32" />
@@ -1825,11 +1825,11 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles_controller.rb" timestamp="1490691306221">
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="57" column="23" />
-        <mark key="." line="57" column="23" />
-        <mark key="^" line="57" column="23" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles_controller.rb" timestamp="1490757529220">
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+        <mark key="^" line="143" column="23" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_result.rb" timestamp="1489577397212">
         <mark key="[" line="28" column="13" />
@@ -4946,7 +4946,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'--'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mcr</text>
@@ -4955,22 +4955,22 @@
         <text>(unit: '件')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgQVJUSUNMRV9ERUNPUkFUT1JfTk9OX0RBVEFfRk9STUFUID0gJy0tJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgQVJUSUNMRV9ERUNPUkFUT1JfTk9OX0RBVEFfRk9STUFUID0gJy0tJwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvdW50X2FuZF9yYXRpb19wZXJfYXJlYVtrXVs6cmF0aW9dID0gdiAvIGNvdW50X3Blcl9hcmVhX2RhdGEuY291bnQgKiAxMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWUgJ+ODk+OCuOOCv+ODvCcK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvdW50X2FuZF9yYXRpb19wZXJfYXJlYVtrXVs6cmF0aW9dID0gdiAvIGNvdW50X3Blcl9hcmVhX2RhdGEuY291bnQgKiAxMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJfYWNjb3VudF9pZCAxCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgJ+ODk+OCuOOCv+ODvCcK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5191,7 +5191,10 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHVzZXJfYWNjb3VudF9pZCAxCg==</text>
+      </register>
+      <register name="8" type="4">
         <text># == Schema Information
 #
 # Table name: visitor
@@ -5211,11 +5214,8 @@
 #  cancel_flg            :boolean          default(FALSE), not null
 #</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
