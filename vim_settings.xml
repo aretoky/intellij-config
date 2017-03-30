@@ -281,12 +281,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1490774158945">
-        <mark key="'" line="524" column="6" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/mail_setting.rb" timestamp="1489150801084">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="1" />
@@ -751,6 +745,13 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_managerable.rb" timestamp="1490773627437">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="34" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/factories/view_time.rb" timestamp="1490640141276">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="20" />
@@ -1040,6 +1041,10 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/story_attachement_image.rb" timestamp="1490866620856">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/validators/alpha_dash_or_empty_validator.rb" timestamp="1486572318260">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="38" />
@@ -1201,6 +1206,13 @@
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/medium.rb" timestamp="1490774304984">
+        <mark key="'" line="204" column="17" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="77" column="2" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/medium_genre_id_manageable.rb" timestamp="1486396677844">
         <mark key="[" line="5" column="22" />
@@ -1487,6 +1499,12 @@
         <mark key="]" line="45" column="32" />
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/story_attachment_image.rb" timestamp="1490866701068">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/stories/index.html.slim" timestamp="1486974226461">
         <mark key="[" line="0" column="82" />
@@ -2142,11 +2160,12 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="103" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/Gemfile" timestamp="1490863114302">
-        <mark key="'" line="90" column="12" />
-        <mark key="[" line="66" column="5" />
-        <mark key="]" line="66" column="17" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/projects/umareso/Gemfile" timestamp="1490866922391">
+        <mark key="'" line="91" column="12" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="14" />
+        <mark key="^" line="67" column="14" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/non_acceptance_reason.rb" timestamp="1490105435396">
         <mark key="[" line="63" column="0" />
@@ -4926,10 +4945,10 @@
         <text>ああああ</text>
       </register>
       <register name="/" type="4">
-        <text>wysiwyg</text>
+        <text>carrr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Iz0gcmVxdWlyZSBmcm9hbGFfZWRpdG9yLm1pbgo=</text>
+      <register name="0" type="4">
+        <text>Attachement</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Iz0gcmVxdWlyZSBmcm9hbGFfZWRpdG9yLm1pbgo=</text>
@@ -5186,9 +5205,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wysiwyg</last-search>
+      <last-search>carrr</last-search>
       <last-offset />
-      <last-pattern>wysiwyg</last-pattern>
+      <last-pattern>carrr</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5196,8 +5215,6 @@
     </search>
     <history>
       <history-search>
-        <entry>only</entry>
-        <entry>get_pref_array</entry>
         <entry>short_hash</entry>
         <entry>count_per_area_data</entry>
         <entry>count_and_ratio_per_area</entry>
@@ -5216,6 +5233,8 @@
         <entry>CLEARDB_DATABASE_URL</entry>
         <entry>staging</entry>
         <entry>wysiwyg</entry>
+        <entry>car</entry>
+        <entry>carrr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
