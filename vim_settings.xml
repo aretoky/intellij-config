@@ -173,10 +173,11 @@
         <mark key="[" line="18" column="2" />
         <mark key="]" line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1490871682312">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1490872997933">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/projects/umareso/Procfile" timestamp="1490853676056" />
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
@@ -750,11 +751,6 @@
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_user_file_uploader.rb" timestamp="1490783604048">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_story.html.slim" timestamp="1486978364849">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="35" />
@@ -1023,11 +1019,11 @@
         <mark key="^" line="63" column="48" />
         <mark key="." line="63" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/stories.coffee" timestamp="1490871254471">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/stories.coffee" timestamp="1490873273310">
+        <mark key="[" line="22" column="217" />
+        <mark key="]" line="22" column="217" />
+        <mark key="^" line="22" column="101" />
+        <mark key="." line="22" column="217" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bitems_controller.rb" timestamp="1488384993801">
         <mark key="[" line="27" column="4" />
@@ -4974,15 +4970,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rich_text</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>carrr</text>
       </register>
       <register name="0" type="4">
-        <text>story_texts_attributes: [
-          :id, :rich_text
-        ]</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ic3Rvcnlbc3RvcnlfY29udGVudF9yZWxhdGlvbnNoaXBzXVswXVtjb250ZW50X3R5cGVdIiB2YWx1ZT0iU3RvcnlBdHRhY2htZW50SW1hZ2UiIC8+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4991,16 +4985,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoJCh0aGlzKS5wYXJlbnQoJ2Zvcm0nKS5nZXQoMCkpcHJlcGVuZCgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5222,13 +5216,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLzMuIFNPIEkgUFVUIEVSUk9SIE1FU1NBR0UgSU4gVEhFU0U/PyBJRiBTTyBTSE9VTEQgSVQgQkUgQSBQT1BVUCBPUiBURVhUIE9OIFRIRSBTQ1JFRU4gQU5EIEhPVwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlcykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBSZXR1cm4gZmFsc2UgaWYgeW91IHdhbnQgdG8gc3RvcCB0aGUgaW1hZ2UgdXBsb2FkLgo=</text>
+        <text encoding="base64">ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
