@@ -305,7 +305,7 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/story_content_relationship.rb" timestamp="1486619928055">
+      <file name="$USER_HOME$/projects/umareso/app/models/story_content_relationship.rb" timestamp="1490870594733">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="24" />
         <mark key="^" line="14" column="24" />
@@ -836,7 +836,7 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/story_text.rb" timestamp="1486985313911">
+      <file name="$USER_HOME$/projects/umareso/app/models/story_text.rb" timestamp="1490870599807">
         <mark key="[" line="22" column="69" />
         <mark key="]" line="22" column="72" />
         <mark key="^" line="22" column="72" />
@@ -1013,11 +1013,11 @@
         <mark key="^" line="63" column="48" />
         <mark key="." line="63" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/stories.coffee" timestamp="1490865592191">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/stories.coffee" timestamp="1490871254471">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bitems_controller.rb" timestamp="1488384993801">
         <mark key="[" line="27" column="4" />
@@ -1509,11 +1509,11 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/story_attachment_image.rb" timestamp="1490866701068">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/umareso/app/models/story_attachment_image.rb" timestamp="1490870826834">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="45" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/stories/index.html.slim" timestamp="1486974226461">
         <mark key="[" line="0" column="82" />
@@ -2170,11 +2170,11 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/writers/story_attachment_images_controller.rb" timestamp="1490869385456">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/writers/story_attachment_images_controller.rb" timestamp="1490870238968">
+        <mark key="[" line="9" column="99" />
+        <mark key="]" line="9" column="99" />
+        <mark key="." line="9" column="99" />
+        <mark key="^" line="9" column="99" />
       </file>
       <file name="$USER_HOME$/projects/value_press/db/migrate/2016111400023347_create_user_column.rb" timestamp="1487514384005">
         <mark key="[" line="4" column="26" />
@@ -4964,19 +4964,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ああああ</text>
+        <text>images</text>
       </register>
       <register name="/" type="4">
         <text>carrr</text>
       </register>
       <register name="0" type="4">
-        <text>def store_local?
-    _storage == CarrierWave::Storage::File
-  end
-
-  def body
-    store_local? ? File.read(path) : open(url).read
-  end</text>
+        <text>froalaEditor.image.beforeUpload</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4985,16 +4979,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
+        <text encoding="base64">ICAvLzMuIFNPIEkgUFVUIEVSUk9SIE1FU1NBR0UgSU4gVEhFU0U/PyBJRiBTTyBTSE9VTEQgSVQgQkUgQSBQT1BVUCBPUiBURVhUIE9OIFRIRSBTQ1JFRU4gQU5EIEhPVwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Iz0gcmVxdWlyZSBmcm9hbGFfZWRpdG9yLm1pbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5216,13 +5210,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAvLyBSZXR1cm4gZmFsc2UgaWYgeW91IHdhbnQgdG8gc3RvcCB0aGUgaW1hZ2UgdXBsb2FkLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWFhYScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOndyaXRlcnMsIG9ubHk6ICV3KHNob3cpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
