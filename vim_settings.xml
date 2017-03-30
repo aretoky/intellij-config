@@ -173,6 +173,11 @@
         <mark key="[" line="18" column="2" />
         <mark key="]" line="24" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1490871682312">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/Procfile" timestamp="1490853676056" />
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
@@ -744,6 +749,11 @@
         <mark key="]" line="1" column="40" />
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_user_file_uploader.rb" timestamp="1490783604048">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_story.html.slim" timestamp="1486978364849">
         <mark key="[" line="4" column="8" />
@@ -1365,11 +1375,11 @@
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/writers/stories_controller.rb" timestamp="1486982982613">
-        <mark key="[" line="31" column="43" />
-        <mark key="]" line="31" column="43" />
-        <mark key="^" line="33" column="24" />
-        <mark key="." line="31" column="43" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/writers/stories_controller.rb" timestamp="1490871892646">
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="34" column="10" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="34" column="10" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles/access_analytics_datas_controller.rb" timestamp="1490160024968">
         <mark key="[" line="2" column="0" />
@@ -4964,13 +4974,15 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>images</text>
+        <text>rich_text</text>
       </register>
       <register name="/" type="4">
         <text>carrr</text>
       </register>
       <register name="0" type="4">
-        <text>froalaEditor.image.beforeUpload</text>
+        <text>story_texts_attributes: [
+          :id, :rich_text
+        ]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -4979,16 +4991,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLzMuIFNPIEkgUFVUIEVSUk9SIE1FU1NBR0UgSU4gVEhFU0U/PyBJRiBTTyBTSE9VTEQgSVQgQkUgQSBQT1BVUCBPUiBURVhUIE9OIFRIRSBTQ1JFRU4gQU5EIEhPVwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGltYWdlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5210,13 +5222,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBSZXR1cm4gZmFsc2UgaWYgeW91IHdhbnQgdG8gc3RvcCB0aGUgaW1hZ2UgdXBsb2FkLgo=</text>
+        <text encoding="base64">ICAvLzMuIFNPIEkgUFVUIEVSUk9SIE1FU1NBR0UgSU4gVEhFU0U/PyBJRiBTTyBTSE9VTEQgSVQgQkUgQSBQT1BVUCBPUiBURVhUIE9OIFRIRSBTQ1JFRU4gQU5EIEhPVwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBSZXR1cm4gZmFsc2UgaWYgeW91IHdhbnQgdG8gc3RvcCB0aGUgaW1hZ2UgdXBsb2FkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
