@@ -27,6 +27,7 @@
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/article/detail.rb~HEAD" timestamp="1490777933411" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/new_select_course.html.erb" timestamp="1486783745292">
         <mark key="[" line="144" column="50" />
         <mark key="]" line="144" column="55" />
@@ -168,6 +169,11 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/uploaders/uploader_base.rb" timestamp="1490868965258">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/Procfile" timestamp="1490853676056" />
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
         <mark key="]" line="77" column="64" />
@@ -938,6 +944,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/common_helper.php" timestamp="1490784242353" />
       <file name="$USER_HOME$/projects/cplus/app/models/upd.rb" timestamp="1489743047215">
         <mark key="[" line="115" column="24" />
         <mark key="]" line="115" column="34" />
@@ -968,6 +975,7 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Procfile" timestamp="1490853850478" />
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/article_prints_controller_spec.rb" timestamp="1487742288230">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1099,6 +1107,7 @@
         <mark key="^" line="21" column="14" />
         <mark key="." line="21" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/uploaders/story_attachment_image_uploader.rb" timestamp="1490868913350" />
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/medium_genre_id_array_manageable.rb" timestamp="1487155502389">
         <mark key="[" line="12" column="63" />
         <mark key="]" line="12" column="71" />
@@ -1683,6 +1692,12 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/uploaders/abstract_uploader.rb" timestamp="1490868984627">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="53" column="4" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/hpay.rb" timestamp="1488386238216">
         <mark key="[" line="35" column="16" />
         <mark key="]" line="35" column="32" />
@@ -1801,6 +1816,7 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/README.md" timestamp="1490772900146" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/_oversea_history.html.erb" timestamp="1487518945143">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -1885,11 +1901,11 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/routes.rb" timestamp="1490862720017">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="1" />
+      <file name="$USER_HOME$/projects/umareso/config/routes.rb" timestamp="1490869437840">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/users/finish_signup.html.slim" timestamp="1488200218123">
         <mark key="[" line="11" column="29" />
@@ -2153,6 +2169,12 @@
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/controllers/writers/story_attachment_images_controller.rb" timestamp="1490869385456">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/projects/value_press/db/migrate/2016111400023347_create_user_column.rb" timestamp="1487514384005">
         <mark key="[" line="4" column="26" />
@@ -4948,25 +4970,31 @@
         <text>carrr</text>
       </register>
       <register name="0" type="4">
-        <text>Attachement</text>
+        <text>def store_local?
+    _storage == CarrierWave::Storage::File
+  end
+
+  def body
+    store_local? ? File.read(path) : open(url).read
+  end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iz0gcmVxdWlyZSBmcm9hbGFfZWRpdG9yLm1pbgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWFhYScpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOndyaXRlcnMsIG9ubHk6ICV3KHNob3cpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbmNsdWRlIFNjYWZmb2xkYWJsZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Iz0gcmVxdWlyZSBmcm9hbGFfZWRpdG9yLm1pbgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5187,18 +5215,14 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aGVhZGVyCiAgICAgID09IHJlbmRlciAibmF2aWdhdGlvbiIKICAgIC5jb2wtbWQtMjQKICAgICAgbWFpbltyb2xlPSJtYWluIl0K</text>
+      <register name="7" type="2">
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWFhYScpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>- if current_user.present?
-    header
-      = render 'navigation'
-
-  main[role=&quot;main&quot;]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICByZXNvdXJjZXMgOndyaXRlcnMsIG9ubHk6ICV3KHNob3cpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
