@@ -1098,7 +1098,9 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/showbook.php" timestamp="1490938128872" />
+      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/showbook.php" timestamp="1490938847633">
+        <mark key="'" line="74" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_header__scroll_navi.html.erb" timestamp="1490343474479">
         <mark key="[" line="63" column="19" />
         <mark key="]" line="63" column="22" />
@@ -2171,11 +2173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="10" filename="$USER_HOME$/projects/value_press/app/models/article_print/analytics.rb" />
-      <jump line="47" column="13" filename="$USER_HOME$/projects/value_press/app/models/article_print/analytics.rb" />
-      <jump line="355" column="47" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
-      <jump line="356" column="29" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
-      <jump line="418" column="79" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
       <jump line="376" column="29" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
       <jump line="381" column="79" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
       <jump line="50" column="15" filename="$USER_HOME$/projects/value_press/app/decorators/concerns/article_decorator/support_course_icon_with_admin_decorator.rb" />
@@ -2271,6 +2268,11 @@
       <jump line="120" column="48" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" />
       <jump line="151" column="4" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" />
       <jump line="122" column="18" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" />
+      <jump line="38" column="13" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/showbook.php" />
+      <jump line="42" column="4" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/showbook.php" />
+      <jump line="45" column="10" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/showbook.php" />
+      <jump line="61" column="16" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/showbook.php" />
+      <jump line="74" column="4" filename="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/showbook.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4923,7 +4925,7 @@
         <text>model_instance_update</text>
       </register>
       <register name="/" type="4">
-        <text>premium_user_flg</text>
+        <text>$enableWebbook</text>
       </register>
       <register name="0" type="4">
         <text>https://www.value-press.com/admin/file_manager/</text>
@@ -5182,9 +5184,9 @@
       </register>
     </registers>
     <search>
-      <last-search>premium_user_flg</last-search>
+      <last-search>$enableWebbook</last-search>
       <last-offset />
-      <last-pattern>premium_user_flg</last-pattern>
+      <last-pattern>$enableWebbook</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5192,7 +5194,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formats</entry>
         <entry>show_num_send</entry>
         <entry>mc</entry>
         <entry>mcr</entry>
@@ -5212,6 +5213,7 @@
         <entry>create</entry>
         <entry>premium</entry>
         <entry>premium_user_flg</entry>
+        <entry>$enableWebbook</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
