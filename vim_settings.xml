@@ -582,11 +582,10 @@
         <mark key="^" line="30" column="35" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/writers/stories_controller.rb" timestamp="1490882099131">
-        <mark key="[" line="47" column="122" />
-        <mark key="]" line="54" column="19" />
-        <mark key="^" line="54" column="19" />
-        <mark key="." line="54" column="19" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/writers/stories_controller.rb" timestamp="1490922358773">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/javascripts/js/basis.js" timestamp="1485980851672">
         <mark key="[" line="107" column="0" />
@@ -1164,6 +1163,10 @@
         <mark key="]" line="28" column="14" />
         <mark key="^" line="28" column="14" />
         <mark key="." line="28" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/admins/static_files_controller.rb" timestamp="1490922982425">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="54" />
       </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/faq.rb" timestamp="1488045840477">
         <mark key="[" line="97" column="0" />
@@ -4965,31 +4968,25 @@
         <text>create</text>
       </register>
       <register name="0" type="4">
-        <text>if model_instance_update
-      after_succeeded_updating
-      render_succeeded_updating
-    else
-      after_failed_updating
-      render_failed_updating
-    end</text>
+        <text>https://www.value-press.com/admin/file_manager/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJvY2Vzc191cGRhdGUK</text>
+        <text encoding="base64">ICAgICAgICBwIHN0b3J5X2NvbnRlbnRfcmVsYXRpb25zaGlwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykucGFyZW50cygnZm9ybScpLmdldCgwKSkK</text>
+        <text encoding="base64">ICAgICAgcHJvY2Vzc191cGRhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykucGFyZW50cygnZm9ybScpLmdldCgwKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBlZGl0Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBlZGl0Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5210,17 +5207,17 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>@story.story_content_relationships.build(
         content_type: story_content_relationship[:content_type],
         content_id: story_content_relationship[:content_id]
       )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQHN0b3J5Lgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQHN0b3J5Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
