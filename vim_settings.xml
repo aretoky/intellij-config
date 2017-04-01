@@ -66,6 +66,10 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/client/hfixes_controller.rb" timestamp="1491029499013">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="65" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/article_attached_file_uploader.rb" timestamp="1490781947953">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="10" column="6" />
@@ -2868,7 +2872,7 @@
         <text>cnt_express</text>
       </register>
       <register name="0" type="4">
-        <text>cust.save</text>
+        <text>bill = current_cust.bills.cust_viewable.find(params[:bill_id])</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBDdXN0Lmh1bWFuX2F0dHJpYnV0ZV9uYW1lKDpubV9lbmFibGVfdG9fdHJhbnNmZXJfdGVscykgPT4gLT4oYykgeyBjLm5tX2VuYWJsZV90b190cmFuc2Zlcl90ZWxzKCfjgIEnKSB9Cg==</text>
