@@ -1318,9 +1318,10 @@
         <mark key="." line="108" column="22" />
         <mark key="^" line="210" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" timestamp="1489938984811">
-        <mark key="[" line="46" column="53" />
-        <mark key="]" line="48" column="29" />
+      <file name="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" timestamp="1491162963775">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="63" />
         <mark key="^" line="48" column="29" />
         <mark key="." line="48" column="29" />
       </file>
@@ -1754,12 +1755,11 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491162564555">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="39" column="49" />
+      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491163734270">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="^" line="36" column="58" />
+        <mark key="." line="32" column="8" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/application.html.erb" timestamp="1490121413440">
         <mark key="[" line="6" column="97" />
@@ -2259,7 +2259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="10" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_article_history.html.erb" />
       <jump line="2" column="3" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="0" column="2" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="446" column="4" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -2359,6 +2358,7 @@
       <jump line="3" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust/thin_postal_cust.rb" />
       <jump line="227" column="42" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5008,31 +5008,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>namelists</text>
+        <text>enable_from_transfer_tels</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVjaygiZW1haWwubm9fY3VzdCwgc3RyaW5nX2FnZyhlbWFpbC5lbWFpbCwgJ+OAgScpIGFzIGdyb3VwZWRfbmFtZSIpLnRvX2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGx1Y2soIm5vX2N1c3QsIHN0cmluZ19hZ2cobm1fbmFtZWxpc3QsICfjgIEnKSBhcyBncm91cGVkX25hbWUiKS50b19oCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjbnRfcG9zdGFsLCA6Y250X2V4cHJlc3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpubV9jdXN0X2VuYWJsZV9lbWFpbHMsIDpubV9mYXhfZW5hYmxlX2VtYWlscywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjZF9jYl9uYW1lLCA6bm1fY3VzdF9lbmFibGVfdGVscywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBsdWNrKDpubV9wbGFjZSwgOm5vX2N1c3QsIDpubV9jdXN0LCA6bm1fY29tcGFueSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICkuCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5254,22 +5254,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwIG5ld19hdHRyaWJ1dGUK</text>
+        <text encoding="base64">ICAgICAgICAjICAgaHBsYWNlczogWzpwbGFjZV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwIGN1c3QK</text>
+        <text encoding="base64">ICAgICAgICAjICAgOmN1c3RfZW5hYmxlX3RlbHMsIDpjdXN0X2VuYWJsZV9lbWFpbHMsIDpmYXhfZW5hYmxlX2VtYWlscywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAgY3VzdFtpXQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgaW5jbHVkZXMoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>namelists</last-search>
+      <last-search>enable_from_transfer_tels</last-search>
       <last-offset />
-      <last-pattern>namelists</last-pattern>
+      <last-pattern>enable_from_transfer_tels</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5277,7 +5277,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addr</entry>
         <entry>reject_mplans?</entry>
         <entry>reject_enable_depos</entry>
         <entry>cnt_express</entry>
@@ -5297,6 +5296,7 @@
         <entry>having_postals_count_gteq</entry>
         <entry>nm_cust_enable_emails</entry>
         <entry>namelists</entry>
+        <entry>enable_from_transfer_tels</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
