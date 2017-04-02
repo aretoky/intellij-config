@@ -4,22 +4,22 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/_address_mplan_fields.html.slim" timestamp="1491033613336" />
-      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postal_custs_controllerable.rb" timestamp="1491035061730">
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="61" />
-        <mark key="^" line="19" column="9" />
-        <mark key="." line="38" column="37" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_smart_searcher.rb" timestamp="1491116698453">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postal_custs_controllerable.rb" timestamp="1491115669431">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bill/attribute_extra_by_bitems_creator.rb" timestamp="1490950662817">
         <mark key="[" line="79" column="4" />
         <mark key="]" line="79" column="12" />
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app.json" timestamp="1490878508164">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust/postal_cust_uploader.rb" timestamp="1491035962036">
         <mark key="[" line="7" column="42" />
@@ -75,25 +75,18 @@
         <mark key="^" line="497" column="15" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1490950716652" />
-      <file name="$USER_HOME$/projects/umareso/app/controllers/writers/stories_controller.rb" timestamp="1490922358773">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/file_manager.php" timestamp="1490946307200">
         <mark key="'" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/postalcust/index_csv.php" timestamp="1490947289507">
         <mark key="'" line="255" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1491116125587">
+        <mark key="'" line="141" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer.rb" timestamp="1490950708880" />
       <file name="$USER_HOME$/projects/umareso/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1490879360199">
         <mark key="'" line="36" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/addr.rb" timestamp="1490945336639">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1491112693687">
         <mark key="[" line="16" column="55" />
@@ -109,7 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2191" column="30" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" />
       <jump line="96" column="14" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="486" column="3" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -209,6 +201,7 @@
       <jump line="488" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="239" column="36" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="266" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="141" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2858,31 +2851,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c.cnt_express(params[:q])</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text>reject_enable_depos</text>
+        <text>cnt_express</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRkID0gJycgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBjdXN0cyA9IEBjdXN0cy5wYWdlKHBhcmFtc1s6cGFnZV0pLnBlcigyMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXR0cmlidXRlZFsicGxhbnNfYXR0cmlidXRlcyJdLnNpemUgPT0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZWQuaW5jbHVkZT8oInBsYW5zX2F0dHJpYnV0ZXMiKSA9PSBmYWxzZSB8fAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMg44OX44Op44Oz44GM44Gq44GE44Gu44Gr5aSJ5pu05Ye65p2l44Gq44GECg==</text>
+      <register name="3" type="4">
+        <text>includes(
+          :cust_enable_tels, :cust_enable_emails, :fax_enable_emails,
+          hplaces: [ :place ]
+        )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBDdXN0Lmh1bWFuX2F0dHJpYnV0ZV9uYW1lKDpubV9lbmFibGVfdG9fdHJhbnNmZXJfdGVscykgPT4gLT4oYykgeyBjLm5tX2VuYWJsZV90b190cmFuc2Zlcl90ZWxzKCfjgIEnKSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDdXN0Lmh1bWFuX2F0dHJpYnV0ZV9uYW1lKDpubV9lbmFibGVfdG9fdHJhbnNmZXJfdGVscykgPT4gLT4oYykgeyBjLm5tX2VuYWJsZV90b190cmFuc2Zlcl90ZWxzKCfjgIEnKSB9Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ3VzdDo6QXR0cmlidXRlU2VhcmNoZXIgPCBBY3RpdmVUeXBlOjpSZWNvcmRbQ3VzdF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2lucygpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3107,22 +3103,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlZFsicGxhbnNfYXR0cmlidXRlcyJdLnNpemUgPT0gMAo=</text>
       </register>
-      <register name="9" type="4">
-        <text># CSV出力用
-  def full_text_for_csv
-    &quot;#{zipcode} #{cd_at_name} #{sikutyouson}#{chiiki} #{building}  #{addressee}&quot;
-  end</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZWQuaW5jbHVkZT8oInBsYW5zX2F0dHJpYnV0ZXMiKSA9PSBmYWxzZSB8fAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reject_enable_depos</last-search>
+      <last-search>cnt_express</last-search>
       <last-offset />
-      <last-pattern>reject_enable_depos</last-pattern>
+      <last-pattern>cnt_express</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -3146,10 +3139,10 @@
         <entry>tel_20_120</entry>
         <entry>郵便数</entry>
         <entry>cnt_postal</entry>
-        <entry>cnt_express</entry>
         <entry>addr</entry>
         <entry>reject_mplans?</entry>
         <entry>reject_enable_depos</entry>
+        <entry>cnt_express</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
