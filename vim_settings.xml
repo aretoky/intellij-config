@@ -542,7 +542,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491154973287">
+      <file name="/Dummy.txt" timestamp="1491165266146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -1131,10 +1131,10 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="12" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/decorators/cust_decorator.rb" timestamp="1490946164178">
+      <file name="$USER_HOME$/projects/cplus/app/decorators/cust_decorator.rb" timestamp="1491165188589">
         <mark key="'" line="25" column="28" />
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="32" />
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="29" />
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
@@ -1238,6 +1238,10 @@
         <mark key="]" line="3" column="41" />
         <mark key="^" line="6" column="52" />
         <mark key="." line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/mplan.rb" timestamp="1491165349788">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="21" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/original_list.rb" timestamp="1485859846507">
         <mark key="[" line="17" column="19" />
@@ -1755,11 +1759,11 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491163734270">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="8" />
-        <mark key="^" line="36" column="58" />
-        <mark key="." line="32" column="8" />
+      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491165617767">
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="41" column="81" />
+        <mark key="." line="41" column="81" />
+        <mark key="^" line="41" column="81" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/application.html.erb" timestamp="1490121413440">
         <mark key="[" line="6" column="97" />
@@ -2184,17 +2188,17 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust/thin_postal_cust.rb" timestamp="1491162607617">
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/thin_postal_cust.rb" timestamp="1491164628533">
         <mark key="'" line="3" column="17" />
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="60" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="31" />
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1491162589275">
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="10" column="77" />
-        <mark key="." line="10" column="77" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1491164575166">
+        <mark key="[" line="12" column="79" />
+        <mark key="]" line="12" column="79" />
+        <mark key="." line="12" column="79" />
         <mark key="^" line="16" column="67" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/cust.ja.yml" timestamp="1490946134161">
@@ -5013,26 +5017,26 @@
       <register name="/" type="4">
         <text>enable_from_transfer_tels</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGx1Y2soIm5vX2N1c3QsIHN0cmluZ19hZ2cobm1fbmFtZWxpc3QsICfjgIEnKSBhcyBncm91cGVkX25hbWUiKS50b19oCg==</text>
+      <register name="0" type="4">
+        <text>to_transfer.enable</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjbnRfcG9zdGFsLCA6Y250X2V4cHJlc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpubV9jdXN0X2VuYWJsZV9lbWFpbHMsIDpubV9mYXhfZW5hYmxlX2VtYWlscywK</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zlcl9lbmFibGVfYWRkcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjZF9jYl9uYW1lLCA6bm1fY3VzdF9lbmFibGVfdGVscywK</text>
+        <text encoding="base64">ICAgICAgICAgIG5tX3RyYW5zZmVyX2FkZHJzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBsdWNrKDpubV9wbGFjZSwgOm5vX2N1c3QsIDpubV9jdXN0LCA6bm1fY29tcGFueSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICkuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5254,13 +5258,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgaHBsYWNlczogWzpwbGFjZV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgOmN1c3RfZW5hYmxlX3RlbHMsIDpjdXN0X2VuYWJsZV9lbWFpbHMsIDpmYXhfZW5hYmxlX2VtYWlscywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgaW5jbHVkZXMoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
