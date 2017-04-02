@@ -45,8 +45,6 @@
         <mark key="." line="57" column="7" />
         <mark key="^" line="57" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/database.yml" timestamp="1491128686938" />
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/_address_mplan_fields.html.slim" timestamp="1491033613336" />
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/cheers_controller.rb" timestamp="1487670575897">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -499,7 +497,6 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1490950693984" />
       <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1487235240372">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="41" />
@@ -773,7 +770,6 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/add_image_info_supportable.rb" timestamp="1490956419051" />
       <file name="$USER_HOME$/projects/value_press/spec/factories/view_time.rb" timestamp="1490640141276">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="20" />
@@ -1220,7 +1216,6 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/index.html.slim" timestamp="1491126892886" />
       <file name="$USER_HOME$/projects/value_press/db/migrate/2016122117150001_create_accept_log.rb" timestamp="1490103952559">
         <mark key="[" line="3" column="62" />
         <mark key="]" line="4" column="26" />
@@ -1377,7 +1372,6 @@
         <mark key="^" line="3" column="70" />
         <mark key="." line="3" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_postal_service.rb" timestamp="1490950716652" />
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/registration_emails.html.erb" timestamp="1490117762833">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="21" />
@@ -1759,7 +1753,8 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491165617767">
+      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491165828033">
+        <mark key="'" line="43" column="12" />
         <mark key="[" line="41" column="57" />
         <mark key="]" line="41" column="81" />
         <mark key="." line="41" column="81" />
@@ -1875,7 +1870,6 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer.rb" timestamp="1490950708880" />
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1486313371714">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="39" />
@@ -2188,12 +2182,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust/thin_postal_cust.rb" timestamp="1491164628533">
-        <mark key="'" line="3" column="17" />
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="18" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/thin_postal_cust.rb" timestamp="1491165873922">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="16" column="53" />
+        <mark key="." line="16" column="53" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1491164575166">
         <mark key="[" line="12" column="79" />
@@ -2263,8 +2257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="3" filename="$USER_HOME$/projects/value_press/Gemfile" />
-      <jump line="0" column="2" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="446" column="4" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="169" column="53" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="170" column="15" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
@@ -2363,6 +2355,8 @@
       <jump line="227" column="42" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/tel_mplan.rb" />
+      <jump line="43" column="12" filename="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" />
+      <jump line="0" column="20" filename="$USER_HOME$/projects/cplus/app/models/cust/thin_postal_cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5015,7 +5009,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>enable_from_transfer_tels</text>
+        <text>enable_from_transfer_tels_hash</text>
       </register>
       <register name="0" type="4">
         <text>to_transfer.enable</text>
@@ -5271,9 +5265,9 @@
       </register>
     </registers>
     <search>
-      <last-search>enable_from_transfer_tels</last-search>
+      <last-search>enable_from_transfer_tels_hash</last-search>
       <last-offset />
-      <last-pattern>enable_from_transfer_tels</last-pattern>
+      <last-pattern>enable_from_transfer_tels_hash</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5281,7 +5275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reject_mplans?</entry>
         <entry>reject_enable_depos</entry>
         <entry>cnt_express</entry>
         <entry>cust_enable_tel</entry>
@@ -5301,6 +5294,7 @@
         <entry>nm_cust_enable_emails</entry>
         <entry>namelists</entry>
         <entry>enable_from_transfer_tels</entry>
+        <entry>enable_from_transfer_tels_hash</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
