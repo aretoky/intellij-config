@@ -540,7 +540,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491124350149">
+      <file name="/Dummy.txt" timestamp="1491127117774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -859,11 +859,11 @@
         <mark key="^" line="22" column="72" />
         <mark key="." line="22" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1491112763795">
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="17" />
-        <mark key="^" line="317" column="16" />
-        <mark key="." line="318" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1491126973577">
+        <mark key="[" line="287" column="28" />
+        <mark key="]" line="287" column="47" />
+        <mark key="^" line="287" column="46" />
+        <mark key="." line="287" column="46" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209053413_create_story_texts.rb" timestamp="1486618930110">
         <mark key="[" line="4" column="37" />
@@ -1218,6 +1218,7 @@
         <mark key="^" line="17" column="50" />
         <mark key="." line="17" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/client/ymdrooms/index.html.slim" timestamp="1491126892886" />
       <file name="$USER_HOME$/projects/value_press/db/migrate/2016122117150001_create_accept_log.rb" timestamp="1490103952559">
         <mark key="[" line="3" column="62" />
         <mark key="]" line="4" column="26" />
@@ -1747,11 +1748,11 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491125113739">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="20" column="7" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="7" />
+      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491127270897">
+        <mark key="[" line="71" column="68" />
+        <mark key="]" line="71" column="69" />
+        <mark key="." line="71" column="69" />
+        <mark key="^" line="71" column="69" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/application.html.erb" timestamp="1490121413440">
         <mark key="[" line="6" column="97" />
@@ -2178,7 +2179,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1491112693687">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.csv.ruby" timestamp="1491126079605">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="56" />
         <mark key="." line="16" column="56" />
@@ -4995,32 +4996,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>plan_nil.sq_mplan(1).enable</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>fax_enable_email</text>
       </register>
       <register name="0" type="4">
-        <text>no_cust: no_custs).pluck(:no_cust, :email)</text>
+        <text>, entry_name: 'cust'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbHVjayg6bm9fY3VzdCwgOmVtYWlsKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbHVjayg6bm9fY3VzdCwgOmVtYWlsKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>from_custmer.
-      plan_nil.
-      enable.
-      where(sq_mplan: 1)
-      .order(:cd_pa, :sq_mplan, :cd_hb, :sq_seq)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY3VzdF9lbmFibGVfdGVsc19hcnJheSA9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -5245,13 +5242,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBuZXdfYXR0cmlidXRlKHBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
