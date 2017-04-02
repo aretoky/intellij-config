@@ -1825,12 +1825,12 @@
         <mark key="." line="40" column="51" />
         <mark key="^" line="40" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1491136078213">
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1491136701929">
         <mark key="'" line="78" column="26" />
-        <mark key="[" line="82" column="15" />
-        <mark key="]" line="82" column="20" />
-        <mark key="." line="82" column="20" />
-        <mark key="^" line="82" column="20" />
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="22" />
+        <mark key="." line="83" column="22" />
+        <mark key="^" line="83" column="109" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" timestamp="1490880310727">
         <mark key="[" line="21" column="23" />
@@ -2166,8 +2166,8 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1491133765839">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1491137203111">
+        <mark key="'" line="107" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/mplan/plan_validator.rb" timestamp="1486344827225">
         <mark key="[" line="13" column="4" />
@@ -2255,8 +2255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="37" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="103" column="21" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="119" column="16" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="182" column="26" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="187" column="17" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -2354,7 +2352,9 @@
       <jump line="205" column="54" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="6" column="20" filename="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" />
+      <jump line="100" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="107" column="25" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5004,13 +5004,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cust</text>
+        <text>COUNT(postal.no_cust) as</text>
       </register>
       <register name="/" type="4">
-        <text>ransack</text>
+        <text>sc</text>
       </register>
       <register name="0" type="4">
-        <text>express</text>
+        <text>COUNT(postal.no_cust) as postal_count</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwCg==</text>
@@ -5263,9 +5263,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ransack</last-search>
+      <last-search>sc</last-search>
       <last-offset />
-      <last-pattern>ransack</last-pattern>
+      <last-pattern>sc</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5273,9 +5273,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postalcust_list_</entry>
-        <entry>postalcust_list</entry>
-        <entry>nm_cust_enable_emails</entry>
         <entry>('、')</entry>
         <entry>nm_cust</entry>
         <entry>nm_cust_tels</entry>
@@ -5293,6 +5290,9 @@
         <entry>fax_enable_email</entry>
         <entry>earch_custs</entry>
         <entry>ransack</entry>
+        <entry>seq</entry>
+        <entry>uel</entry>
+        <entry>sc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
