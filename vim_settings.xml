@@ -856,11 +856,11 @@
         <mark key="^" line="22" column="72" />
         <mark key="." line="22" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1491126973577">
-        <mark key="[" line="287" column="28" />
-        <mark key="]" line="287" column="47" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/index.html.slim" timestamp="1491149317753">
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
         <mark key="^" line="287" column="46" />
-        <mark key="." line="287" column="46" />
+        <mark key="." line="317" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209053413_create_story_texts.rb" timestamp="1486618930110">
         <mark key="[" line="4" column="37" />
@@ -1752,12 +1752,12 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491136002223">
+      <file name="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" timestamp="1491148974849">
         <mark key="'" line="6" column="20" />
-        <mark key="[" line="111" column="47" />
-        <mark key="]" line="111" column="53" />
-        <mark key="^" line="111" column="53" />
-        <mark key="." line="111" column="53" />
+        <mark key="[" line="111" column="20" />
+        <mark key="]" line="111" column="20" />
+        <mark key="^" line="108" column="25" />
+        <mark key="." line="111" column="20" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/application.html.erb" timestamp="1490121413440">
         <mark key="[" line="6" column="97" />
@@ -1825,12 +1825,12 @@
         <mark key="." line="40" column="51" />
         <mark key="^" line="40" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1491145886318">
-        <mark key="'" line="78" column="26" />
-        <mark key="[" line="91" column="14" />
-        <mark key="]" line="91" column="14" />
-        <mark key="." line="91" column="14" />
-        <mark key="^" line="92" column="58" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" timestamp="1491149537313">
+        <mark key="'" line="163" column="61" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="96" column="52" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" timestamp="1490880310727">
         <mark key="[" line="21" column="23" />
@@ -2166,8 +2166,8 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1491137203111">
-        <mark key="'" line="107" column="25" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1491148744723">
+        <mark key="'" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/mplan/plan_validator.rb" timestamp="1486344827225">
         <mark key="[" line="13" column="4" />
@@ -2255,7 +2255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="16" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="182" column="26" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="187" column="17" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="261" column="20" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
@@ -2353,8 +2352,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="6" column="20" filename="$USER_HOME$/projects/cplus/app/factories/thin_postal_cust_array_factory.rb" />
       <jump line="100" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="107" column="25" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="9" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="163" column="61" filename="$USER_HOME$/projects/cplus/app/models/cust/attribute_searcher.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5004,31 +5004,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3VzdC4qLCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sc</text>
+        <text>having_expresses_count_gteq</text>
       </register>
       <register name="0" type="4">
-        <text>Postal.arel_table</text>
+        <text>postals = Postal.arel_table
+      postals_counts = postals.
+          project(postals[:no_cust].count.as('postal_count'), postals[:no_cust]).
+          group(postals[:no_cust]).
+          having(postals[:no_cust].count.gteq(count)).
+          as('postals_counts')
+      joins(
+        arel_table.join(postals_counts, Arel::Nodes::InnerJoin)
+          .on(postals_counts[:no_cust].eq arel_table[:no_cust]).join_sources
+      )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRkID0gJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRkID0gJycK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>td = cust.cnt_postal(params[:q])
+          td = cust.cnt_express(params[:q])
+          t</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2F0ZWdvcmllcyA9IEFyZWw6OlRhYmxlLm5ldyg6Y2F0ZWdvcmllcykK</text>
+        <text encoding="base64">ICAgICAgIyAgIGhhdmluZygiQ09VTlQocG9zdGFsLm5vX2N1c3QpID49ICN7Y291bnQudG9faX0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyAgIGdyb3VwKCJjdXN0Lm5vX2N1c3QiKS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYm9va3MgPSBBcmVsOjpUYWJsZS5uZXcoOmJvb2tzKQo=</text>
+        <text encoding="base64">ICAgICAgIyAgIGpvaW5zKDpwb3N0YWxzKS4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5250,22 +5261,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyBzZWxlY3QoImN1c3QuKiIpLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIyAgIGhhdmluZygiQ09VTlQoZXhwcmVzcy5ub19jdXN0KSA+PSAje2NvdW50LnRvX2l9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIyAgIGdyb3VwKCJjdXN0Lm5vX2N1c3QiKS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sc</last-search>
+      <last-search>having_expresses_count_gteq</last-search>
       <last-offset />
-      <last-pattern>sc</last-pattern>
+      <last-pattern>having_expresses_count_gteq</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5273,8 +5284,6 @@
     </search>
     <history>
       <history-search>
-        <entry>('、')</entry>
-        <entry>nm_cust</entry>
         <entry>nm_cust_tels</entry>
         <entry>プラン</entry>
         <entry>tel_20_120</entry>
@@ -5293,6 +5302,8 @@
         <entry>seq</entry>
         <entry>uel</entry>
         <entry>sc</entry>
+        <entry>better</entry>
+        <entry>having_expresses_count_gteq</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
