@@ -1518,11 +1518,11 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/application/_month_calender.html.slim" timestamp="1491197083321">
-        <mark key="[" line="34" column="52" />
-        <mark key="]" line="34" column="72" />
-        <mark key="^" line="34" column="51" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/projects/umareso/app/views/application/_month_calender.html.slim" timestamp="1491198779227">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="33" column="29" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/ar_innodb_row_format.rb" timestamp="1486370740196">
         <mark key="[" line="4" column="45" />
@@ -1668,11 +1668,11 @@
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/writer_event.rb" timestamp="1491187334773">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="23" column="18" />
+      <file name="$USER_HOME$/projects/umareso/app/models/writer_event.rb" timestamp="1491199425624">
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/user_accounts_controller.rb" timestamp="1485695602650">
         <mark key="[" line="26" column="36" />
@@ -5009,31 +5009,32 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.today</text>
       </register>
       <register name="/" type="4">
         <text>enable_from_transfer_tels_hash</text>
       </register>
       <register name="0" type="4">
-        <text>data-toggle=&quot;popover&quot;</text>
+        <text>span.flatpickr-day[tabindex=&quot;0&quot; class=&quot;#{current_date == Date.today ? 'today' : ''}&quot;]
+                = current_date.day</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiQoZnVuY3Rpb24gKCkgewoKfSk7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBpZgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkKCdbZGF0YS10b2dnbGU9InBvcG92ZXIiXScpLnBvcG92ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID0gY3VycmVudF9kYXRlLmRheQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzcGFuLmZsYXRwaWNrci1kYXlbdGFiaW5kZXg9IjAiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoZXJlKCdzdGFydF9hdCA+PSA/JywgZGF0ZXRpbWUuYmVnaW5uaW5nX29mX21vbnRoKS53aGVyZSgnZW5kX2F0IDw9ID8nLCBkYXRlLmVuZF9vZl9tb250aCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBlbHNlCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5255,13 +5256,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSB3cml0ZXJfZXZlbnRzID0gV3JpdGVyRXZlbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBpZiBjdXJyZW50X2RhdGUgPT0gRGF0ZS50b2RheQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiQoZnVuY3Rpb24gKCkgewoKfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
