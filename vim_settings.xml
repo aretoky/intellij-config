@@ -779,6 +779,11 @@
         <mark key="." line="88" column="11" />
         <mark key="^" line="88" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/scaffoldable/_scaffold_index.html.slim" timestamp="1491220211292">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/social_profiles_controller.rb" timestamp="1490601995281">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="40" />
@@ -1306,11 +1311,11 @@
         <mark key="^" line="203" column="42" />
         <mark key="." line="222" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/layouts/application.html.slim" timestamp="1490860999655">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-        <mark key="^" line="8" column="53" />
+      <file name="$USER_HOME$/projects/umareso/app/views/layouts/application.html.slim" timestamp="1491219656900">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/new_or_edit.html.erb" timestamp="1489502599212">
         <mark key="[" line="0" column="0" />
@@ -1457,11 +1462,12 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/locales/default/ja.yml" timestamp="1491207458597">
-        <mark key="[" line="34" column="19" />
-        <mark key="]" line="34" column="23" />
-        <mark key="^" line="34" column="23" />
-        <mark key="." line="34" column="23" />
+      <file name="$USER_HOME$/projects/umareso/config/locales/default/ja.yml" timestamp="1491220082693">
+        <mark key="'" line="1" column="6" />
+        <mark key="[" line="194" column="25" />
+        <mark key="]" line="194" column="22" />
+        <mark key="^" line="194" column="22" />
+        <mark key="." line="194" column="22" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/_scaffold_show.html.slim" timestamp="1487581670785">
         <mark key="[" line="22" column="0" />
@@ -2332,7 +2338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="768" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
       <jump line="95" column="32" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
       <jump line="100" column="57" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
@@ -2432,6 +2437,7 @@
       <jump line="22" column="55" filename="$USER_HOME$/projects/umareso/config/routes.rb" />
       <jump line="107" column="106" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="0" column="2" filename="$USER_HOME$/projects/umareso/app/inputs/base_input.rb" />
+      <jump line="1" column="6" filename="$USER_HOME$/projects/umareso/config/locales/default/ja.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5081,13 +5087,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>Cplus</text>
+        <text>datetime</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JCAtPgo=</text>
+      <register name="0" type="4">
+        <text>%Y年%m月%d日</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KQo=</text>
@@ -5340,9 +5346,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Cplus</last-search>
+      <last-search>datetime</last-search>
       <last-offset />
-      <last-pattern>Cplus</last-pattern>
+      <last-pattern>datetime</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5350,7 +5356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cust_enable_tel</entry>
         <entry>enable_emails</entry>
         <entry>fax_enable_email</entry>
         <entry>earch_custs</entry>
@@ -5370,6 +5375,7 @@
         <entry>enable_from_transfer_tels_hash</entry>
         <entry>decorator</entry>
         <entry>Cplus</entry>
+        <entry>datetime</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
