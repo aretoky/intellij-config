@@ -1674,11 +1674,11 @@
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/writer_event.rb" timestamp="1491200106636">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="37" />
+      <file name="$USER_HOME$/projects/umareso/app/models/writer_event.rb" timestamp="1491203149645">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="60" />
+        <mark key="^" line="21" column="65" />
+        <mark key="." line="22" column="48" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/user_accounts_controller.rb" timestamp="1485695602650">
         <mark key="[" line="26" column="36" />
@@ -5021,7 +5021,7 @@
         <text>enable_from_transfer_tels_hash</text>
       </register>
       <register name="0" type="4">
-        <text>result_array[record.start_at.to_date]</text>
+        <text>.to_datetime</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtIG1vbnRoID0gZGF0ZS5tb250aAo=</text>
