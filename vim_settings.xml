@@ -561,7 +561,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491238753673">
+      <file name="/Dummy.txt" timestamp="1491268187908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -821,6 +821,7 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/add_image_info_supportable.rb" timestamp="1491268053987" />
       <file name="$USER_HOME$/projects/value_press/spec/factories/view_time.rb" timestamp="1490640141276">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="20" />
@@ -1154,6 +1155,9 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" timestamp="1490938186567">
+        <mark key="'" line="122" column="18" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209053711_create_story_content_relationships.rb" timestamp="1486619442200">
         <mark key="[" line="11" column="47" />
@@ -1709,6 +1713,9 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/file_manager.php" timestamp="1490946307200">
+        <mark key="'" line="36" column="18" />
+      </file>
       <file name="$USER_HOME$/sandbox/unkokanji/public/css/application.css.scss" timestamp="1488779279346">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -2140,6 +2147,9 @@
         <mark key="^" line="52" column="32" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1490879360199">
+        <mark key="'" line="36" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_postal_general_input.rb" timestamp="1485945889986">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -2280,6 +2290,12 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1491148744723">
+        <mark key="'" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" timestamp="1491268248800">
+        <mark key="'" line="1502" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/mplan/plan_validator.rb" timestamp="1486344827225">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="3" />
@@ -2380,8 +2396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="30" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
-      <jump line="65" column="32" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
       <jump line="61" column="11" filename="$USER_HOME$/projects/value_press/app/views/users/articles/_jquery_templates.html.erb" />
       <jump line="112" column="13" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="470" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/advertising.css.scss" />
@@ -2480,6 +2494,8 @@
       <jump line="199" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="200" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="202" column="38" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="44" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" />
+      <jump line="1502" column="18" filename="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5132,7 +5148,7 @@
         <text>sq_mplan(1).</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>get_tax</text>
       </register>
       <register name="0" type="4">
         <text>(100, 101)</text>
@@ -5388,9 +5404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>get_tax</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>get_tax</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5398,7 +5414,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fax_enable_email</entry>
         <entry>earch_custs</entry>
         <entry>ransack</entry>
         <entry>seq</entry>
@@ -5418,6 +5433,7 @@
         <entry>Cplus</entry>
         <entry>datetime</entry>
         <entry>email</entry>
+        <entry>get_tax</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
