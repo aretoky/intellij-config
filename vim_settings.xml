@@ -71,6 +71,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postals_controllerable.rb" timestamp="1491302240452">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="59" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="57" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/cust_email.rb" timestamp="1491293867711">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -86,9 +92,6 @@
         <mark key="]" line="21" column="293" />
         <mark key="^" line="21" column="293" />
         <mark key="." line="21" column="293" />
-      </file>
-      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" timestamp="1490938186567">
-        <mark key="'" line="122" column="18" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_form.html.slim" timestamp="1491223366456">
         <mark key="[" line="1" column="18" />
@@ -133,9 +136,6 @@
         <mark key="." line="29" column="14" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/file_manager.php" timestamp="1490946307200">
-        <mark key="'" line="36" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/app/models/writer_event.rb" timestamp="1491206424849">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="17" />
@@ -173,16 +173,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1490879360199">
-        <mark key="'" line="36" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/app/models/concerns/confirmable.rb" timestamp="1491220691930" />
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1491148744723">
-        <mark key="'" line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" timestamp="1491268248800">
-        <mark key="'" line="1502" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/writer_events_controller.rb" timestamp="1491209249473">
         <mark key="[" line="17" column="40" />
         <mark key="]" line="17" column="41" />
@@ -2966,7 +2957,7 @@
         <text>transfer_enable_addrs</text>
       </register>
       <register name="0" type="4">
-        <text>transfer_enable_addrs</text>
+        <text>current_account_object.person</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
