@@ -279,7 +279,7 @@
         <mark key="^" line="459" column="2" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1491305864453">
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem/destroyer.rb" timestamp="1491314893824">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="83" column="28" />
         <mark key="]" line="85" column="3" />
@@ -292,11 +292,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/bitem/destroyer_spec.rb" timestamp="1491314104980">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="38" />
-        <mark key="." line="36" column="38" />
-        <mark key="^" line="36" column="38" />
+      <file name="$USER_HOME$/projects/cplus/spec/models/bitem/destroyer_spec.rb" timestamp="1491315390619">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/unkokanji/.ruby-version" timestamp="1489666152125">
         <mark key="[" line="0" column="0" />
@@ -573,7 +572,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491306558470">
+      <file name="/Dummy.txt" timestamp="1491315020006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -5118,42 +5117,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>cd_pa</text>
       </register>
-      <register name="0" type="4">
-        <text>let(:bitem) {
-        ActiveType.cast(
-          create(
-            polymorphous_bitem,
-            no_cust: bill.no_cust,
-            no_bill: no_bill,
-            current_person: emp.person,
-            cd_pa: cd_pa
-          ),
-          Bitem::Destroyer
-        )
-      }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGl0X2JlaGF2ZXNfbGlrZSAnZmFsc2VfcGF0ZXJuJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZhY3RvcnkgOm5vX3ZhbGlkYXRpb25fb3B0aW9uX2JpdGVtLCAgIHRyYWl0czogWzpub192YWxpZGF0aW9uXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>it &quot;正常に削除されること&quot; do
+        expect(subject).not_to eq false
+      end
+
+      it &quot;Bitemが減ること&quot; do
+        expect{ subject }.to change{  Bitem.count  }.by(-1)
+      end</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCBiaXRlbS5jZF9wYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5375,13 +5369,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>it &quot;正常に削除されないこと&quot; do
+            expect(subject).to eq false
+          end
+
+          it &quot;Bitemが減らないこと&quot; do
+            expect{ subject }.to change{  Bitem.count  }.by(0)
+          end</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
