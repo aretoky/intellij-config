@@ -75,6 +75,7 @@
         <mark key="^" line="18" column="49" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer/from_plan.rb" timestamp="1491325826032" />
       <file name="$USER_HOME$/projects/value_press/app/views/sidebar/articles/_ranking_article.html.erb" timestamp="1490340433452">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="36" />
@@ -538,8 +539,8 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1491324372254">
-        <mark key="'" line="101" column="16" />
+      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1491326968820">
+        <mark key="'" line="40" column="21" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1491222976679">
         <mark key="[" line="30" column="24" />
@@ -772,6 +773,7 @@
         <mark key="." line="4" column="39" />
         <mark key="^" line="4" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/models/uncreated_bitem/destroyer/from_plan_spec.rb" timestamp="1491326785257" />
       <file name="$USER_HOME$/projects/value_press/app/models/article_access_log/ashiato_updator.rb" timestamp="1489598946020">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="9" column="7" />
@@ -992,6 +994,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/uncreated_bitems_controller.rb" timestamp="1491326539302">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="4" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="52" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postals_controllerable.rb" timestamp="1491302240452">
         <mark key="[" line="32" column="31" />
         <mark key="]" line="32" column="59" />
@@ -1139,10 +1147,11 @@
         <mark key="^" line="21" column="293" />
         <mark key="." line="21" column="293" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bitems_controller.rb" timestamp="1491320401647">
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="6" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bitems_controller.rb" timestamp="1491326302885">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/application/_month_calender.slim.erb" timestamp="1487237838796">
         <mark key="[" line="21" column="12" />
@@ -1185,9 +1194,6 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/system.bookscan.co.jp/public_html/system.bookscan.co.jp/lib/common.php" timestamp="1490938186567">
-        <mark key="'" line="122" column="18" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170209053711_create_story_content_relationships.rb" timestamp="1486619442200">
         <mark key="[" line="11" column="47" />
@@ -1424,6 +1430,12 @@
         <mark key="^" line="48" column="29" />
         <mark key="." line="48" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/models/uncreated_bitem/destroyer/from_option_spec.rb" timestamp="1491326846074">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/analytic.rb" timestamp="1487143138750">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="13" />
@@ -1628,9 +1640,6 @@
         <mark key="." line="29" column="14" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_option.php" timestamp="1491317386092">
-        <mark key="'" line="60" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/ar_innodb_row_format.rb" timestamp="1486370740196">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="45" />
@@ -1739,9 +1748,6 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/file_manager.php" timestamp="1490946307200">
-        <mark key="'" line="36" column="18" />
-      </file>
       <file name="$USER_HOME$/sandbox/unkokanji/public/css/application.css.scss" timestamp="1488779279346">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -1777,9 +1783,6 @@
         <mark key="]" line="25" column="55" />
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/cplus/config/locales/010_models/ja.yml" timestamp="1491317150104">
-        <mark key="'" line="19" column="8" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/models/writer_event.rb" timestamp="1491206424849">
         <mark key="[" line="22" column="13" />
@@ -1876,6 +1879,11 @@
         <mark key="]" line="1" column="85" />
         <mark key="." line="1" column="85" />
         <mark key="^" line="1" column="85" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer/from_option.rb" timestamp="1491325820230">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="70" />
+        <mark key="." line="0" column="71" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_depo_fields.html.slim" timestamp="1485941952554">
         <mark key="[" line="34" column="0" />
@@ -1990,6 +1998,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="35" column="9" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer.rb" timestamp="1491325804420">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1486313371714">
         <mark key="[" line="11" column="21" />
@@ -2164,9 +2178,6 @@
         <mark key="^" line="52" column="32" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1490879360199">
-        <mark key="'" line="36" column="26" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/search_postal_general_input.rb" timestamp="1485945889986">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -2318,9 +2329,6 @@
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" timestamp="1491268248800">
-        <mark key="'" line="1502" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/mplan/plan_validator.rb" timestamp="1486344827225">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="3" />
@@ -2407,7 +2415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="15" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="488" column="6" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="239" column="36" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="266" column="44" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -2500,13 +2507,14 @@
       <jump line="34" column="6" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="35" column="6" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="36" column="6" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="40" column="21" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="41" column="25" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="54" column="25" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="75" column="27" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="86" column="100" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="97" column="45" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="101" column="16" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
+      <jump line="39" column="6" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
+      <jump line="40" column="21" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5156,31 +5164,36 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>bitem</text>
+        <text>uncreated</text>
       </register>
-      <register name="0" type="4">
-        <text>4.2.7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gOmJhY2ssIGFsZXJ0OiBAdW5jcmVhdGVkX2JpdGVtLmVycm9ycy5mdWxsX21lc3NhZ2VzCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyHlsI/ns7jkuI3mmI4gICAgCi8ucGFuZWwucGFuZWwtZGVmYXVsdAogIHRhYmxlLnRhYmxlLnRhYmxlLWJvcmRlcmVkLnRhYmxlLWxpc3QKICAgIHRyCiAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDoq4vmsYLpoIXnm67nlarlj7cKICAgICAgdGQgMjQ3NzEKICAgIHRyCiAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDpoaflrqLlkI0KICAgICAgdGQg44OG44K544OI5bCP5a+6MgogICAgdHIKICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOS8muekvuWQjQogICAgICB0ZCDmoKrlvI/kvJrnpL5NQVAKICAgIHRyCiAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDkvZzmiJDml6UKICAgICAgdGQgMjAxNOW5tDA35pyIMTDml6Uo5pyoKQogICAgdHIKICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOODl+ODqeODs+aDheWgsQogICAgICB0ZCAyMDE0LzA3LzEw44CcMjAxNS8wNy8wOSAoMzY15pelKQogICAgdHIKICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOWVhuWTgQogICAgICB0ZCDkvY/miYDjg5fjg6njg7Pjg7vlubTmrKHjg7voh6rli5UKICAgIHRyCiAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDjg5fjg6njg7MKICAgICAgdGQg5L2P5omACiAgICB0cgogICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5ZWG5ZOB56iu5YilCiAgICAgIHRkIOW5tAogICAgdHIKICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOiri+axguabuOOCv+OCpOODlwogICAgICB0ZCDlrprmnJ8KICAgIHRyCiAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDljZjkvqEKICAgICAgdGQgNTUsMDAw5YaGCiAgICB0cgogICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5YCL5pWwCiAgICAgIHRkIDEKICAgIHRyCiAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDph5HpoY0KICAgICAgdGQgNTUsMDAw5YaGCiAgICB0cgogICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5YKZ6ICDCiAgICAgIHRkCiAgICAgICAgfCDkvY/miYDjg5fjg6njg7MgMjAxNOW5tDA35pyIMTDml6Ug772eIDIwMTXlubQwN+aciDA55pelIO+8iDM2NeaXpemWk++8iQogICAgdGQudGFibGUtbGlzdC1oZWFkIOacgOe1guS/ruato+aXpeaZggogICAgdGQgMjAxNi0wMS0yMiAxNDo1MToxMAovISAvcGFuZWwKLy5idG4tYm94LmNvbC14cy1vZmZzZXQtNQogIGJ1dHRvbi5idG4uYnRuLWRlZmF1bHQuYnRuLWxlZnQgdHlwZT0iYnV0dG9uIiAg5pyq5L2c5oiQ6aCF55uu5LiA6Kan44Gr5oi744KLCiAgYnV0dG9uLmJ0bi5idG4tcHJpbWFyeS5idG4tbGVmdCB0eXBlPSJidXR0b24iICDnt6jpm4bjgZnjgosK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgZXhpc3RpbmdfcGxhbj8gJiYgcGxhbgo=</text>
+        <text encoding="base64">ICAgIGJlZ2luCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgZXhpc3RpbmdfcGxhbj8gJiYgcGxhbgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgZXhpc3RpbmdfcGxhbj8gJiYgcGxhbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>destroyer_class = if @uncreated_bitem.option?
+      UncreatedBitem::Destroyer::FromOption
+    elsif @uncreated_bitem.existing_plan?
+      UncreatedBitem::Destroyer::FromPlan
+    end
+    @uncreated_bitem = ActiveType.cast(@uncreated_bitem, destroyer_class)</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgZXhpc3RpbmdfcGxhbj8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5402,22 +5415,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bitem</last-search>
+      <last-search>uncreated</last-search>
       <last-offset />
-      <last-pattern>bitem</last-pattern>
+      <last-pattern>uncreated</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5425,8 +5438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>datetime</entry>
-        <entry>email</entry>
         <entry>get_tax</entry>
         <entry>search_cust</entry>
         <entry>page_number</entry>
@@ -5445,6 +5456,8 @@
         <entry>amtax_tel</entry>
         <entry>option</entry>
         <entry>bitem</entry>
+        <entry>unreated</entry>
+        <entry>uncreated</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPz4vJT4vZw==</entry>
