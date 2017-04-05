@@ -538,9 +538,6 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bitem.rb" timestamp="1491326968820">
-        <mark key="'" line="40" column="21" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1491222976679">
         <mark key="[" line="30" column="24" />
         <mark key="]" line="30" column="24" />
@@ -594,7 +591,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491404694633">
+      <file name="/Dummy.txt" timestamp="1491405946912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -2050,11 +2047,11 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491404969551">
-        <mark key="[" line="48" column="40" />
-        <mark key="]" line="48" column="55" />
-        <mark key="." line="48" column="55" />
-        <mark key="^" line="48" column="55" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491406675389">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="14" />
+        <mark key="." line="69" column="14" />
+        <mark key="^" line="69" column="14" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/sidebar/articles/index__access_ranking.html.erb" timestamp="1490320634585">
         <mark key="[" line="17" column="0" />
@@ -2236,11 +2233,11 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1491404277614">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="32" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1491407015146">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="28" column="28" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/media_contact_act/when_create_article_creator.rb" timestamp="1489481106833">
         <mark key="[" line="7" column="0" />
@@ -2290,8 +2287,10 @@
         <mark key="^" line="33" column="29" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" timestamp="1491404737709">
-        <mark key="'" line="7" column="10" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" timestamp="1491406032961">
+        <mark key="'" line="422" column="0" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/rails_helper.rb" timestamp="1487741864124">
         <mark key="[" line="60" column="29" />
@@ -2388,6 +2387,11 @@
         <mark key="]" line="21" column="91" />
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1491324858242">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/file_data.rb" timestamp="1491404254729">
         <mark key="[" line="28" column="21" />
@@ -2506,7 +2510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="199" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="200" column="17" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="202" column="38" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -2606,6 +2609,7 @@
       <jump line="28" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="654" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
       <jump line="7" column="10" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
+      <jump line="422" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5255,31 +5259,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>param.map { |a| model.send(a) }.join('#')</text>
+        <text>%w(user_account_id)</text>
       </register>
       <register name="/" type="4">
         <text>FILE_TYPE_JOB</text>
       </register>
       <register name="0" type="4">
-        <text>model.user_id</text>
+        <text>temp_file_mode?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaWQgPSBtb2RlbC51c2VyX2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5504,12 +5508,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>def cache_dir
-    s3? ? &quot;tmp/&quot; : super
-  end</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
