@@ -843,6 +843,12 @@
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_user_file_uploader.rb" timestamp="1491382250724">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_story.html.slim" timestamp="1486978364849">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="35" />
@@ -1983,11 +1989,11 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491381715136">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="63" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491382287096">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/sidebar/articles/index__access_ranking.html.erb" timestamp="1490320634585">
         <mark key="[" line="17" column="0" />
@@ -2214,6 +2220,9 @@
         <mark key="^" line="33" column="29" />
         <mark key="." line="33" column="29" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" timestamp="1491382345121">
+        <mark key="'" line="856" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/rails_helper.rb" timestamp="1487741864124">
         <mark key="[" line="60" column="29" />
         <mark key="]" line="61" column="34" />
@@ -2400,7 +2409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="115" filename="$USER_HOME$/projects/umareso/app/views/application/_day_calender.html.slim" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/umareso/Gemfile" />
       <jump line="22" column="55" filename="$USER_HOME$/projects/umareso/config/routes.rb" />
       <jump line="107" column="106" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
@@ -2500,6 +2508,7 @@
       <jump line="176" column="34" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
       <jump line="178" column="70" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
       <jump line="23" column="6" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
+      <jump line="856" column="6" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5158,22 +5167,22 @@
         <text>CarrierWave::Uploader::Base</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwID0gbXNnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwID0gbXNnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICBkZWYgZGVzdHJveQogICAgIyDmtojjgZfjgaboia/jgYTjgYvliIbjgYvjgonjgarjgYTjga7jgafjgajjgorjgYLjgYjjgZrjgrPjg6Hjg7Pjg4jjgqLjgqbjg4gKICAgICMgZGVzdHJveWVyX2NsYXNzID0gaWYgQGJpdGVtLm9wdGlvbj8KICAgICMgICBCaXRlbTo6RGVzdHJveWVyOjpGcm9tT3B0aW9uCiAgICAjIGVsc2lmIEBiaXRlbS5leGlzdGluZ19wbGFuPwogICAgIyAgIEJpdGVtOjpEZXN0cm95ZXI6OkZyb21QbGFuCiAgICAjIGVuZAogICAgIyBAYml0ZW0gPSBBY3RpdmVUeXBlLmNhc3QoQGJpdGVtLCBkZXN0cm95ZXJfY2xhc3MpCiAgICAjIGJlZ2luCiAgICAjICAgQGJpdGVtID0gQGJpdGVtLmRlc3Ryb3khCiAgICAjIHJlc2N1ZSA9PiBlCiAgICAjIGVuZAogIGVuZA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZ2luCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5395,18 +5404,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJlZ2luCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>destroyer_class = if @uncreated_bitem.option?
-      UncreatedBitem::Destroyer::FromOption
-    elsif @uncreated_bitem.existing_plan?
-      UncreatedBitem::Destroyer::FromPlan
-    end
-    @uncreated_bitem = ActiveType.cast(@uncreated_bitem, destroyer_class)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
