@@ -2047,7 +2047,7 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491406675389">
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491407227241">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="69" column="14" />
         <mark key="." line="69" column="14" />
@@ -2233,11 +2233,11 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1491407015146">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="28" column="28" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1491407581176">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/media_contact_act/when_create_article_creator.rb" timestamp="1489481106833">
         <mark key="[" line="7" column="0" />
@@ -5259,31 +5259,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>%w(user_account_id)</text>
+        <text>@force_temp_mode = true</text>
       </register>
       <register name="/" type="4">
         <text>FILE_TYPE_JOB</text>
       </register>
       <register name="0" type="4">
-        <text>temp_file_mode?</text>
+        <text>@force_temp_mode</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3VwZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5508,10 +5508,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
