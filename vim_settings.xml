@@ -544,7 +544,7 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="/Ruby Console" timestamp="1491733788295">
+      <file name="/Ruby Console" timestamp="1491734649111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
@@ -1144,6 +1144,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/upfile.rb" timestamp="1491548039113">
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="8" />
+        <mark key="." line="48" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/upd.rb" timestamp="1489743047215">
         <mark key="[" line="115" column="24" />
         <mark key="]" line="115" column="34" />
@@ -1279,11 +1284,10 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/user_account_logo_uploader.rb" timestamp="1491733786041">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="40" column="2" />
-        <mark key="." line="40" column="2" />
-        <mark key="^" line="40" column="1" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/user_account_logo_uploader.rb" timestamp="1491734596182">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/view_count_ranking.rb" timestamp="1490323991819">
         <mark key="[" line="1" column="54" />
@@ -2110,12 +2114,11 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491730420288">
-        <mark key="'" line="59" column="10" />
-        <mark key="[" line="104" column="24" />
-        <mark key="]" line="105" column="30" />
-        <mark key="." line="105" column="30" />
-        <mark key="^" line="105" column="30" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491734674022">
+        <mark key="'" line="54" column="10" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer.rb" timestamp="1491325804420">
         <mark key="[" line="0" column="25" />
@@ -5305,7 +5308,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>logo</text>
       </register>
       <register name="/" type="4">
         <text>version_name</text>
@@ -5322,23 +5325,19 @@
     end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCB2ZXJzaW9uX25hbWUK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBkZWYgZmlsZW5hbWUKICAgIGlmIG9yaWdpbmFsX2ZpbGVuYW1lLnByZXNlbnQ/CiAgICAgICIje3JhbmRvbV9zdHJpbmcoOmFscGhhLCAxMCl9X2xvZ28uI3tmaWxlLmV4dGVuc2lvbn0iCiAgICBlbmQKICBlbmQ=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcCB2ZXJzaW9uX25hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICJob2dlaG9nZS5wbmciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcCAnYWFhYWEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>def filename
-    if original_filename.present?
-      &quot;#{random_string(:alpha, 10)}_logo.#{file.extension}&quot;
-    end
-  end</text>
+        <text encoding="base64">cHJlZml4ID0gUmFpbHMuZW52LnByb2R1Y3Rpb24/ID8gJ3MzJyA6ICJzMy4je2ZvZ19kaXJlY3Rvcnl9IgogICAgICBwYXJhbSA9IHBhcmFtX2F0dHJpYnV0ZXMgPDwgbW9kZWwuc2VuZCgiI3ttb3VudGVkX2FzfV9pZGVudGlmaWVyIikKICAgICAgcGFyYW1fam9pbl9zaGFycCA9IHBhcmFtLmpvaW4oJyMnKQogICAgICBfcGF0aCA9ICIje3ByZWZpeH0jI3tmaWxlX3R5cGV9IyN7cGFyYW1fam9pbl9zaGFycH0iCiAgICAgIF9wYXRoID0gQmFzZTY0LmVuY29kZTY0KF9wYXRoKS5nc3ViKCcvJywgJ18nKS5nc3ViKCcrJywgJy0nKS5jaG9tcC5nc3ViKC89K1x6LywgJycpCiAgICAgICIje19wYXRofS4je21vZGVsLnNlbmQoIiN7bW91bnRlZF9hc31faWRlbnRpZmllciIpLnNwbGl0KCcuJykubGFzdH0i</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -5565,18 +5564,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>def full_filename(for_file)
-    salt = for_file.match(/(\?\d+)\z/)[0]
-    for_file_tmp = for_file.gsub(/\?\d+\z/, '')
-    filename  = for_file_tmp.split('.')[0].gsub('_logo', '')
-    extension = &quot;.#{for_file_tmp.split('.')[1]}&quot;
-    p [filename, (version_name || :logo).to_s].compact.join('_') + extension +
-      salt
-  end</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICBkZWYgZmlsZW5hbWUKICAgIGlmIG9yaWdpbmFsX2ZpbGVuYW1lLnByZXNlbnQ/CiAgICAgICIje3JhbmRvbV9zdHJpbmcoOmFscGhhLCAxMCl9X2xvZ28uI3tmaWxlLmV4dGVuc2lvbn0iCiAgICBlbmQKICBlbmQ=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
