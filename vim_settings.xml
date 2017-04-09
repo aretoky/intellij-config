@@ -548,6 +548,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/option_premium.rb" timestamp="1491760205423">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="47" column="1" />
+        <mark key="^" line="47" column="1" />
+        <mark key="." line="47" column="1" />
+      </file>
       <file name="/Ruby Console" timestamp="1491760129788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -5319,7 +5325,7 @@
         <text>#{user_account_id}_</text>
       </register>
       <register name="/" type="4">
-        <text>option</text>
+        <text>user_id</text>
       </register>
       <register name="0" type="4">
         <text>219.105.46.37</text>
@@ -5575,9 +5581,9 @@
       </register>
     </registers>
     <search>
-      <last-search>option</last-search>
+      <last-search>user_id</last-search>
       <last-offset />
-      <last-pattern>option</last-pattern>
+      <last-pattern>user_id</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5599,12 +5605,12 @@
         <entry>?</entry>
         <entry encoding="base64">IGZpbGUuZXhpc3Rz</entry>
         <entry>version_name</entry>
-        <entry>user_id</entry>
         <entry>conce</entry>
         <entry>png</entry>
         <entry>logo</entry>
         <entry>cplus-staging.cvetgvnq8vi9.us-east-1.rds.amazonaws.com</entry>
         <entry>option</entry>
+        <entry>user_id</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
