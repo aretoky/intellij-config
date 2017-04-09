@@ -5281,7 +5281,7 @@
         <text>self.</text>
       </register>
       <register name="/" type="4">
-        <text>address_mplan</text>
+        <text>json</text>
       </register>
       <register name="0" type="4">
         <text>def self.generate_upfile_code
@@ -5545,9 +5545,9 @@
       </register>
     </registers>
     <search>
-      <last-search>address_mplan</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>address_mplan</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5555,7 +5555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>amtax_tel</entry>
         <entry>option</entry>
         <entry>bitem</entry>
         <entry>unreated</entry>
@@ -5575,6 +5574,7 @@
         <entry>format</entry>
         <entry>'</entry>
         <entry>address_mplan</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
