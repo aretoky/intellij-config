@@ -1907,11 +1907,11 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/application/_navigation.html.slim" timestamp="1491209792556">
-        <mark key="[" line="12" column="65" />
-        <mark key="]" line="12" column="76" />
-        <mark key="." line="12" column="76" />
-        <mark key="^" line="12" column="76" />
+      <file name="$USER_HOME$/projects/umareso/app/views/application/_navigation.html.slim" timestamp="1491810279969">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/models/user.rb" timestamp="1488190827871">
         <mark key="[" line="41" column="34" />
@@ -2225,12 +2225,12 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1491473846205">
-        <mark key="'" line="27" column="11" />
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1491810660628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="502" column="0" />
+        <mark key="]" line="502" column="0" />
         <mark key="^" line="17" column="30" />
+        <mark key="." line="502" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/interims/new.html.slim" timestamp="1489475420932">
         <mark key="[" line="6" column="0" />
@@ -2558,8 +2558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="25" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
-      <jump line="54" column="25" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="75" column="27" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="86" column="100" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
       <jump line="97" column="45" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -2658,6 +2656,8 @@
       <jump line="26" column="30" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
       <jump line="106" column="4" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
+      <jump line="601" column="34" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5307,13 +5307,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3B0aW9uX3R5cGVfbmFtZSwg</text>
+        <text>Home</text>
       </register>
       <register name="/" type="4">
-        <text>iden</text>
+        <text>坂野</text>
       </register>
       <register name="0" type="4">
-        <text>作品を読者と一緒に高めていく</text>
+        <text>navbar-brand</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5321,17 +5321,17 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAjIOWAi+WIpeaMh+WumuW/hemgiAogIGRlZiBwYXJhbV9hdHRyaWJ1dGVzCiAgICAldyh1c2VyX2FjY291bnRfaWQpLm1hcCB7IHxwfCBtb2RlbC5zZW5kKHApIH0KICBlbmQ=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJfYWNjb3VudF9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5553,22 +5553,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgZmlsZV90eXBlX2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAjIOWAi+WIpeaMh+WumuW/hemgiAogIGRlZiBwYXJhbV9hdHRyaWJ1dGVzCiAgICAldyh1c2VyX2FjY291bnRfaWQpLm1hcCB7IHxwfCBtb2RlbC5zZW5kKHApIH0KICBlbmQ=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>iden</last-search>
+      <last-search>坂野</last-search>
       <last-offset />
-      <last-pattern>iden</last-pattern>
+      <last-pattern>坂野</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5576,7 +5576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
         <entry>address_mplan</entry>
         <entry>json</entry>
         <entry>_logo</entry>
@@ -5596,6 +5595,7 @@
         <entry>option</entry>
         <entry>user_id</entry>
         <entry>iden</entry>
+        <entry>坂野</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
