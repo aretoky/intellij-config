@@ -304,11 +304,11 @@
         <mark key="^" line="11" column="144" />
         <mark key="." line="11" column="144" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_file_uploader.rb" timestamp="1491762819953">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="31" column="4" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_file_uploader.rb" timestamp="1491927296144">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/application_controller.rb" timestamp="1490861410028">
         <mark key="[" line="8" column="35" />
@@ -545,7 +545,7 @@
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
       </file>
-      <file name="/Ruby Console" timestamp="1491762823614">
+      <file name="/Ruby Console" timestamp="1491927307642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
@@ -616,9 +616,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1491759243774">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
         <mark key="[" line="0" column="0" />
@@ -2111,10 +2108,10 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491762595803">
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1491927161266">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="2" />
-        <mark key="]" line="90" column="4" />
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="34" column="8" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="54" column="36" />
       </file>
@@ -2293,7 +2290,7 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1491749106701">
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1491926348678">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="35" />
@@ -5299,25 +5296,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxubV9jdXN0X29yX25tX2NvbXBhbnlfb3JfbmFtZWxpc3RzX25tX25hbWVsaXN0X2NvbnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmYXVsdDogJmRlZmF1bHQKICBhZGFwdGVyOiBteXNxbDIKICBwb29sOiA1CiAgdGltZW91dDogNTAwMAogIGVuY29kaW5nOiB1dGY4CiAgY2hhcnNldDogdXRmOAogIGNvbGxhdGlvbjogdXRmOF9nZW5lcmFsX2NpCg==</text>
+        <text>CarrierWave::Uploader::Base.instance_method(:path).bind(self).call</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6c3RvcmllcywgdGhyb3VnaDogOm1hZ2F6aW5lcwo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFsgdXNlcl9hY2NvdW50X2lkIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcGFyYW1fYXR0cmlidXRlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYXNfbWFueSA6c3RvcmllcywgdGhyb3VnaDogOm1hZ2F6aW5lcwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
