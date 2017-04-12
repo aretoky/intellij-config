@@ -217,12 +217,12 @@
         <mark key="^" line="78" column="6" />
         <mark key="." line="77" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1492002843723">
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1492010438783">
         <mark key="'" line="14" column="19" />
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="20" />
-        <mark key="^" line="74" column="45" />
-        <mark key="." line="74" column="20" />
+        <mark key="[" line="71" column="1" />
+        <mark key="]" line="71" column="1" />
+        <mark key="^" line="71" column="27" />
+        <mark key="." line="71" column="1" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/articles/cheers_controller_spec.rb" timestamp="1487992531182">
         <mark key="[" line="19" column="6" />
@@ -260,11 +260,11 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/common/common.coffee" timestamp="1492001063130">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="51" column="51" />
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/common/common.coffee" timestamp="1492009966830">
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+        <mark key="^" line="51" column="33" />
       </file>
       <file name="$USER_HOME$/projects/unkokanji/assets/stylesheets/form.css" timestamp="1488456239407">
         <mark key="[" line="120" column="17" />
@@ -892,6 +892,12 @@
         <mark key="]" line="88" column="11" />
         <mark key="." line="88" column="11" />
         <mark key="^" line="88" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/layouts/application.html.slim" timestamp="1492010114462">
+        <mark key="[" line="7" column="86" />
+        <mark key="]" line="7" column="93" />
+        <mark key="." line="7" column="93" />
+        <mark key="^" line="7" column="93" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/scaffoldable/_scaffold_index.html.slim" timestamp="1491223069967">
         <mark key="[" line="37" column="0" />
@@ -1533,11 +1539,10 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1491998915175">
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="23" />
-        <mark key="^" line="46" column="23" />
-        <mark key="." line="46" column="23" />
+      <file name="$USER_HOME$/projects/cplus/app/helpers/application_helper.rb" timestamp="1492011853664">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/staff.rb" timestamp="1491376840753">
         <mark key="[" line="10" column="43" />
@@ -1703,6 +1708,12 @@
         <mark key="]" line="37" column="19" />
         <mark key="." line="37" column="19" />
         <mark key="^" line="37" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/layouts/application.html.slim" timestamp="1492011165960">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/send_date_supportable.rb" timestamp="1486718315832">
         <mark key="[" line="34" column="74" />
@@ -5430,31 +5441,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(data-turbolinks-permanent)</text>
+        <text>permanent</text>
       </register>
       <register name="/" type="4">
         <text>turbo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2xhc3NfbmFtZSA9IHNlYXJjaC5rbGFzcy50b19zLnVuZGVyc2NvcmUuZ3N1YignLycsICdfXycpCg==</text>
+      <register name="0" type="4">
+        <text>(data-turbolinks-permanent)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgVHVyYm9saW5rcy5lbmFibGVQcm9ncmVzc0JhcigpCg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbnNbOmh0bWxdWzoiZGF0YS10dXJib2xpbmtzLXBlcm1hbmVudCJdID0gdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8uY29sLW1kLTIxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgb3B0aW9uc1s6aHRtbF1bOmNsYXNzXSA9IFtodG1sX2NsYXNzLCAiZm9ybS1ob3Jpem9udGFsIl0uam9pbigiICIpCg==</text>
+        <text encoding="base64">ICAgICAgPT0gcmVuZGVyICdhZG1pbi9sYXlvdXRzL3NpZGVfbWVudWJhcicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgaHRtbF9jbGFzcyA9IG9wdGlvbnNbOmh0bWxdWzpjbGFzc10gfHwgIiIK</text>
+        <text encoding="base64">ICAgIC8uY29sLW1kLTMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">IyAgVHVyYm9saW5rcy5lbmFibGVQcm9ncmVzc0JhcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQ6IG9wdGlvbnMuZGVsZXRlKDpmb3JtYXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5676,13 +5687,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmQubWFwIHsgfG98IG8uaXNfYT8oUmFuc2Fjazo6U2VhcmNoKSA/IG8ua2xhc3MgOiBvIH0sCg==</text>
+        <text encoding="base64">ICAgICMgb3B0aW9uc1s6aHRtbF1bOmNsYXNzXSA9IFtodG1sX2NsYXNzLCAiZm9ybS1ob3Jpem9udGFsIl0uam9pbigiICIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uc1s6dXJsXSB8fD0gcG9seW1vcnBoaWNfcGF0aCgK</text>
+        <text encoding="base64">ICAgICMgaHRtbF9jbGFzcyA9IG9wdGlvbnNbOmh0bWxdWzpjbGFzc10gfHwgIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
