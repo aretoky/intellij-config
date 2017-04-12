@@ -217,11 +217,12 @@
         <mark key="^" line="78" column="6" />
         <mark key="." line="77" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1491990113633">
-        <mark key="[" line="69" column="64" />
-        <mark key="]" line="69" column="67" />
-        <mark key="^" line="69" column="67" />
-        <mark key="." line="69" column="67" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" timestamp="1492002843723">
+        <mark key="'" line="14" column="19" />
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="74" column="20" />
+        <mark key="^" line="74" column="45" />
+        <mark key="." line="74" column="20" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/articles/cheers_controller_spec.rb" timestamp="1487992531182">
         <mark key="[" line="19" column="6" />
@@ -1012,7 +1013,7 @@
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/application.js" timestamp="1492000626716">
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/application.js" timestamp="1492002875148">
         <mark key="[" line="16" column="16" />
         <mark key="]" line="16" column="39" />
         <mark key="^" line="16" column="39" />
@@ -2680,7 +2681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="70" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
       <jump line="23" column="6" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
       <jump line="856" column="6" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
       <jump line="761" column="6" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
@@ -2780,6 +2780,7 @@
       <jump line="77" column="2" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="518" column="6" filename="$USER_HOME$/projects/cplus/Gemfile.lock" />
       <jump line="7" column="18" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="14" column="19" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/index.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5429,7 +5430,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, '2.5.3'</text>
+        <text>(data-turbolinks-permanent)</text>
       </register>
       <register name="/" type="4">
         <text>turbo</text>
