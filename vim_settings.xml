@@ -225,12 +225,6 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1492073318684">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
         <mark key="]" line="77" column="64" />
@@ -562,11 +556,11 @@
         <mark key="^" line="35" column="68" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1492079287065">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="38" column="9" />
-        <mark key="^" line="38" column="9" />
-        <mark key="." line="38" column="9" />
+      <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1492087753293">
+        <mark key="[" line="37" column="43" />
+        <mark key="]" line="37" column="41" />
+        <mark key="^" line="37" column="41" />
+        <mark key="." line="37" column="41" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/inamts_controller.rb" timestamp="1489474894760">
         <mark key="[" line="8" column="4" />
@@ -708,7 +702,6 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/writer.rb" timestamp="1492075436171" />
       <file name="$USER_HOME$/projects/umareso/app/views/application/_day_calender.html.slim" timestamp="1491460764531">
         <mark key="'" line="5" column="115" />
         <mark key="[" line="8" column="24" />
@@ -2187,13 +2180,6 @@
         <mark key="." line="40" column="51" />
         <mark key="^" line="40" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" timestamp="1492078475423">
-        <mark key="'" line="250" column="0" />
-        <mark key="[" line="137" column="1" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_uploader.rb" timestamp="1491932899670" />
       <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1491994445386">
         <mark key="[" line="151" column="9" />
@@ -2388,9 +2374,9 @@
         <mark key="." line="0" column="51" />
       </file>
       <file name="$USER_HOME$/projects/umareso/spec/factories/stories.rb" timestamp="1492073570669">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/original_course_article.rb" timestamp="1486748340739">
         <mark key="[" line="71" column="8" />
@@ -5453,7 +5439,7 @@
         <text>エンジニア / 漫画家 / 小説家</text>
       </register>
       <register name="/" type="4">
-        <text>坂野</text>
+        <text>hint</text>
       </register>
       <register name="0" type="4">
         <text>- if @story.prev_publish_story
@@ -5716,9 +5702,9 @@
       </register>
     </registers>
     <search>
-      <last-search>坂野</last-search>
+      <last-search>hint</last-search>
       <last-offset />
-      <last-pattern>坂野</last-pattern>
+      <last-pattern>hint</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5726,7 +5712,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cplus-staging.cvetgvnq8vi9.us-east-1.rds.amazonaws.com</entry>
         <entry>option</entry>
         <entry>iden</entry>
         <entry>host</entry>
@@ -5746,6 +5731,7 @@
         <entry>carr</entry>
         <entry>image</entry>
         <entry>坂野</entry>
+        <entry>hint</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
