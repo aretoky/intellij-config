@@ -267,11 +267,11 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/common/common.coffee" timestamp="1492142692066">
-        <mark key="[" line="48" column="1" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/common/common.coffee" timestamp="1492143659837">
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="49" column="72" />
+        <mark key="." line="55" column="3" />
+        <mark key="^" line="55" column="3" />
       </file>
       <file name="$USER_HOME$/projects/unkokanji/assets/stylesheets/form.css" timestamp="1488456239407">
         <mark key="[" line="120" column="17" />
@@ -5442,11 +5442,7 @@
         <text>hint</text>
       </register>
       <register name="0" type="4">
-        <text>- if @story.prev_publish_story
-      .col-xs-12.col-md-6
-        .pager-next.text-right.text-s
-          a href=&quot;#{story_path(@story.prev_publish_story)}&quot;
-            = @story.prev_publish_story.title</text>
+        <text>$formEle = $(this).parents('form.cplus-design-table-search-form')[0]</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgLnJvdwogICAgLmNvbC14cy0xMgogICAgICAucGFuZWwucGFuZWwtZGVmYXVsdAogICAgICAgIC5wYW5lbC1ib2R5CiAgICAgICAgICAubWVkaWEKICAgICAgICAgICAgYS5tZWRpYS1sZWZ0KGhyZWY9IiN7d3JpdGVyX3BhdGgoQHN0b3J5LndyaXRlcil9IikKICAgICAgICAgICAgICBpbWcuaW1nLWNpcmNsZS5hdXRob3ItaW1nKHNyYz0iI3thc3NldF9wYXRoKCdhdmF0YXItc2FtcGxlLmpwZycpfSIpCiAgICAgICAgICAgIC5tZWRpYS1ib2R5CiAgICAgICAgICAgICAgYSBocmVmPSIje3dyaXRlcl9wYXRoKEBzdG9yeS53cml0ZXIpfSIKICAgICAgICAgICAgICAgIGg0Lm1lZGlhLWhlYWRpbmcuYXV0aG9yLW5hbWUudGV4dC1zID0gQHN0b3J5LndyaXRlci5uYW1lCiAgICAgICAgICAgICAgc3Bhbi5kYXRlLnRleHQteHMgPSBsKEBzdG9yeS5wdWJsaXNoZWRfYXQudG9fZGF0ZSkKICAgICAgICAgIGgxID0gQHN0b3J5LnRpdGxlCiAgICAgICAgICBwCiAgICAgICAgICAgID0gbmwyYnIocmF3KEBzdG9yeS5zdG9yeV90ZXh0LnJpY2hfdGV4dCkpCiAgLnJvdwogICAgLSBpZiBAc3RvcnkubmV4dF9wdWJsaXNoX3N0b3J5CiAgICAgIC5jb2wteHMtMTIuY29sLW1kLTYKICAgICAgICAucGFnZXItcHJldi50ZXh0LWxlZnQudGV4dC1zCiAgICAgICAgICBhIGhyZWY9IiN7c3RvcnlfcGF0aChAc3RvcnkubmV4dF9wdWJsaXNoX3N0b3J5KX0iCiAgICAgICAgICAgID0gQHN0b3J5Lm5leHRfcHVibGlzaF9zdG9yeS50aXRsZQoKICAgIC0gaWYgQHN0b3J5LnByZXZfcHVibGlzaF9zdG9yeQogICAgICAuY29sLXhzLTEyLmNvbC1tZC02CiAgICAgICAgLnBhZ2VyLW5leHQudGV4dC1yaWdodC50ZXh0LXMKICAgICAgICAgIGEgaHJlZj0iI3tzdG9yeV9wYXRoKEBzdG9yeS5wcmV2X3B1Ymxpc2hfc3RvcnkpfSIKICAgICAgICAgICAgPSBAc3RvcnkucHJldl9wdWJsaXNoX3N0b3J5LnRpdGxlCiAgLnJvdwogICAgLmNvbC14cy0xMgogICAgICAubWVkaWEuYXV0aG9yLWNhcmQKICAgICAgICBhLm1lZGlhLWxlZnQgaHJlZj0iI3t3cml0ZXJfcGF0aChAc3Rvcnkud3JpdGVyKX0iCiAgICAgICAgICBpbWcuaW1nLWNpcmNsZS5hdXRob3ItaW1nKHNyYz0iI3thc3NldF9wYXRoKCdhdmF0YXItc2FtcGxlLmpwZycpfSIpCiAgICAgICAgLm1lZGlhLWJvZHkKICAgICAgICAgIGEgaHJlZj0iI3t3cml0ZXJfcGF0aChAc3Rvcnkud3JpdGVyKX0iCiAgICAgICAgICAgIGg0Lm1lZGlhLWhlYWRpbmcuYXV0aG9yLW5hbWUudGV4dC1zID0gQHN0b3J5LndyaXRlci5uYW1lCiAgICAgICAgICBzcGFuLnRleHQteHMgPSBAc3Rvcnkud3JpdGVyLmhhdAoKPT09PT09PQ==</text>
