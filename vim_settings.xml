@@ -683,7 +683,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492431155167">
+      <file name="/Dummy.txt" timestamp="1492434079841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -716,7 +716,12 @@
         <mark key="." line="4" column="59" />
         <mark key="^" line="1" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/pos-calc/app/validators/toritsugi_type_id_and_deliver_type_id_validator.rb" timestamp="1492430514650" />
+      <file name="$USER_HOME$/projects/pos-calc/app/validators/toritsugi_type_id_and_deliver_type_id_validator.rb" timestamp="1492434518810">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="91" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/bitem/to_create_from_plan/validator.rb" timestamp="1491995161316">
         <mark key="[" line="35" column="56" />
         <mark key="]" line="35" column="67" />
@@ -1849,6 +1854,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="0" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/validators/deliver_type_id_and_toritsugi_type_id_validator.rb" timestamp="1492433687467">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/economy_course_articles.html.erb" timestamp="1486574084620">
         <mark key="[" line="0" column="54" />
         <mark key="]" line="0" column="56" />
@@ -2198,6 +2209,12 @@
         <mark key="]" line="17" column="32" />
         <mark key="^" line="2" column="49" />
         <mark key="." line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" timestamp="1492434456946">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="139" column="57" />
+        <mark key="]" line="139" column="57" />
+        <mark key="." line="139" column="57" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/scaffoldable/__scaffold_link_index.html.slim" timestamp="1491210236029">
         <mark key="[" line="1" column="71" />
@@ -2707,6 +2724,9 @@
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" timestamp="1492433943759">
+        <mark key="'" line="35" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1492425070072">
         <mark key="[" line="13" column="55" />
         <mark key="]" line="13" column="55" />
@@ -2849,11 +2869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="10" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
-      <jump line="244" column="26" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
-      <jump line="257" column="19" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
-      <jump line="39" column="20" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
-      <jump line="211" column="8" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
       <jump line="215" column="13" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
       <jump line="219" column="39" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
       <jump line="220" column="6" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
@@ -2949,6 +2964,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/projects/umareso/config/locales/default/ja.yml" />
       <jump line="0" column="16" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="14" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="132" column="16" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="8" column="3" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="35" column="14" filename="$USER_HOME$/projects/pos-calc/app/models/daily_order_mass_input.rb" />
+      <jump line="48" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5558,31 +5578,42 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>, on: :create</text>
       </register>
       <register name="/" type="4">
-        <text>turbo</text>
+        <text>with</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LCAiZGF0YS10dXJib2xpbmtzLXRyYWNrIiA9PiAncmVsb2FkJw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlIHVubGVzcyB2YWxpZGF0aW9uX21hcC5oYXNfa2V5Pyh0b3JpdHN1Z2lfdHlwZV9pZCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25maWcuYWN0aW9uX21haWxlci5kZWxpdmVyeV9tZXRob2QgPSA6bGV0dGVyX29wZW5lcl93ZWIK</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC89IGYuaW5wdXQgOnBhc3N3b3JkX2NvbmZpcm1hdGlvbiwgcmVxdWlyZWQ6IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC89IGYuaW5wdXQgOnBhc3N3b3JkLCByZXF1aXJlZDogdHJ1ZSwgaGludDogKCLmnIDkvY4je0BtaW5pbXVtX3Bhc3N3b3JkX2xlbmd0aH3mloflrZciIGlmIEBtaW5pbXVtX3Bhc3N3b3JkX2xlbmd0aCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text># if [1, 5, 10].include?(record.order_type_id)
+    #   if record.sales_person.blank?
+    #     record.errors.add(:sales_person_id, :blank)
+    #     return false
+    #   end
+    # elsif [3, 4, 8, 11].include?(record.order_type_id)
+    #   if record.sales_person.blank? == false
+    #     record.errors.add(:sales_person_id, :present)
+    #     return false
+    #   end
+    # end
+    # true</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5804,22 +5835,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kX2ltYWdlOiDjgqLjgqTjgrPjg7MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>turbo</last-search>
+      <last-search>with</last-search>
       <last-offset />
-      <last-pattern>turbo</last-pattern>
+      <last-pattern>with</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5827,8 +5858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>坂野</entry>
-        <entry>hint</entry>
         <entry>ts_visit</entry>
         <entry>visit</entry>
         <entry>trunc</entry>
@@ -5847,6 +5876,8 @@
         <entry>index</entry>
         <entry>namespace</entry>
         <entry>turbo</entry>
+        <entry>deliver</entry>
+        <entry>with</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
