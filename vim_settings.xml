@@ -925,7 +925,6 @@
         <mark key="^" line="52" column="24" />
         <mark key="." line="52" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/magazines_controller.rb" timestamp="1492424666458" />
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/colorbox.css" timestamp="1488046718179">
         <mark key="[" line="24" column="65" />
         <mark key="]" line="24" column="68" />
@@ -1295,6 +1294,11 @@
         <mark key="^" line="149" column="12" />
         <mark key="." line="149" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/string_utils.rb" timestamp="1492447613698">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_result/atrribute_creator.rb" timestamp="1490165576358">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="33" column="9" />
@@ -1605,7 +1609,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/initializers/carrierwave.rb" timestamp="1492400306632" />
       <file name="$USER_HOME$/projects/value_press/app/controllers/articles/access_counter.rb" timestamp="1490160577470">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="31" />
@@ -1714,7 +1717,6 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/writers/edit.html.slim" timestamp="1492417803325" />
       <file name="$USER_HOME$/projects/value_press/app/models/article/analytic.rb" timestamp="1487143138750">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="13" />
@@ -2016,11 +2018,11 @@
         <mark key="^" line="0" column="787" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/upd_csv_data_importing_service.rb" timestamp="1489824555966">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="19" />
+      <file name="$USER_HOME$/projects/cplus/app/services/upd_csv_data_importing_service.rb" timestamp="1492447469876">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
       </file>
       <file name="$USER_HOME$/projects/unkokanji/assets/stylesheets/slick-theme.css" timestamp="1488456131841">
         <mark key="[" line="4" column="26" />
@@ -2040,7 +2042,6 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/users/writers/edit.html.slim" timestamp="1492418316777" />
       <file name="$USER_HOME$/projects/cplus/app/helpers/deliverer/sessions_helper.rb" timestamp="1491128629363">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="30" column="17" />
@@ -5578,31 +5579,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;3.6.3&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
       </register>
       <register name="0" type="4">
-        <text>bootstrap-sass</text>
+        <text>CSV.parse</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBnZW0gJ3NxdWVlbCcsIGdpdGh1YjogJ2FjdGl2ZXJlY29yZC1oYWNrZXJ5L3NxdWVlbCcK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgIyBodHRwOi8vcWlpdGEuY29tL3l1Z28teWFtYW1vdG8vaXRlbXMvMGMxMjQ4ODQ0N2NiOGMyZmMwMTgKICBkZWYgc2ppc2FibGUKICAgIHN0ciA9IHNlbGYKICAgICPlpInmj5vjg4bjg7zjg5bjg6vkuIrjga7mloflrZfjgpLkuIvjga7mloflrZfjgavnva7mj5vjgZnjgosKICAgIGZyb21fY2hyID0gIlx1ezMwMUMgMjIxMiAwMEEyIDAwQTMgMDBBQyAyMDEzIDIwMTQgMjAxNiAyMDNFIDAwQTAgMDBGOCAyMDNBfSIKICAgIHRvX2NociAgID0gIlx1e0ZGNUUgRkYwRCBGRkUwIEZGRTEgRkZFMiBGRjBEIDIwMTUgMjIyNSBGRkUzIDAwMjAgMDNBNiAzMDA5fSIKICAgIHN0ci50ciEoZnJvbV9jaHIsIHRvX2NocikKICAgICPlpInmj5vjg4bjg7zjg5bjg6vjgYvjgonmvI/jgozjgZ/kuI3mraPmloflrZfjga8/44Gr5aSJ5o+b44GX44CB44GV44KJ44GrVVRGOOOBq+aIu+OBmeOBk+OBqOOBp+S7iuW+jOS+i+WkluOCkuWHuuOBleOBquOBhOOCiOOBhuOBq+OBmeOCiwogICAgc3RyID0gc3RyLmVuY29kZSgiV2luZG93cy0zMUoiLCJVVEYtOCIsIGludmFsaWQ6IDpyZXBsYWNlLCB1bmRlZjogOnJlcGxhY2UpLmVuY29kZSgiVVRGLTgiLCJXaW5kb3dzLTMxSiIpCiAgZW5k</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">IyBnZW0gJ3NxdWVlbCcsIGdpdGh1YjogJ2FjdGl2ZXJlY29yZC1oYWNrZXJ5L3NxdWVlbCcK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ1ZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5823,19 +5824,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text># if [1, 5, 10].include?(record.order_type_id)
-    #   if record.sales_person.blank?
-    #     record.errors.add(:sales_person_id, :blank)
-    #     return false
-    #   end
-    # elsif [3, 4, 8, 11].include?(record.order_type_id)
-    #   if record.sales_person.blank? == false
-    #     record.errors.add(:sales_person_id, :present)
-    #     return false
-    #   end
-    # end
-    # true</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
