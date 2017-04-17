@@ -2068,11 +2068,12 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1492165702296">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="79" column="95" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" timestamp="1492391096410">
+        <mark key="'" line="81" column="18" />
+        <mark key="[" line="81" column="18" />
+        <mark key="]" line="81" column="52" />
+        <mark key="^" line="81" column="52" />
+        <mark key="." line="81" column="52" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_header__menu.html.erb" timestamp="1490172719914">
         <mark key="[" line="17" column="32" />
@@ -2687,8 +2688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="0" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
-      <jump line="26" column="11" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="631" column="6" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
       <jump line="22" column="43" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_s3_accessor.php" />
@@ -2787,6 +2786,8 @@
       <jump line="109" column="18" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="110" column="18" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="111" column="20" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
+      <jump line="85" column="41" filename="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" />
+      <jump line="81" column="18" filename="$USER_HOME$/projects/cplus/app/views/admin/postals/index.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5439,7 +5440,7 @@
         <text>cmnt</text>
       </register>
       <register name="/" type="4">
-        <text>visit</text>
+        <text>trunc</text>
       </register>
       <register name="0" type="4">
         <text>postal.nm_postal</text>
@@ -5695,9 +5696,9 @@
       </register>
     </registers>
     <search>
-      <last-search>visit</last-search>
+      <last-search>trunc</last-search>
       <last-offset />
-      <last-pattern>visit</last-pattern>
+      <last-pattern>trunc</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5705,7 +5706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>host</entry>
         <entry encoding="base64">XDxubV9jdXN0X29yX25tX2NvbXBhbnlfb3JfbmFtZWxpc3RzX25tX25hbWVsaXN0X2NvbnRcPg==</entry>
         <entry>user_id</entry>
         <entry>zip</entry>
@@ -5725,6 +5725,7 @@
         <entry>hint</entry>
         <entry>ts_visit</entry>
         <entry>visit</entry>
+        <entry>trunc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
