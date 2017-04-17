@@ -2751,12 +2751,12 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1492427191202">
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1492442630989">
         <mark key="'" line="14" column="5" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="23" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/file_data.rb" timestamp="1491742567929">
         <mark key="[" line="51" column="0" />
@@ -5578,42 +5578,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>, on: :create</text>
+        <text>, &quot;3.6.3&quot;</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlIHVubGVzcyB2YWxpZGF0aW9uX21hcC5oYXNfa2V5Pyh0b3JpdHN1Z2lfdHlwZV9pZCkK</text>
+      <register name="0" type="4">
+        <text>bootstrap-sass</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBnZW0gJ3NxdWVlbCcsIGdpdGh1YjogJ2FjdGl2ZXJlY29yZC1oYWNrZXJ5L3NxdWVlbCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text># if [1, 5, 10].include?(record.order_type_id)
-    #   if record.sales_person.blank?
-    #     record.errors.add(:sales_person_id, :blank)
-    #     return false
-    #   end
-    # elsif [3, 4, 8, 11].include?(record.order_type_id)
-    #   if record.sales_person.blank? == false
-    #     record.errors.add(:sales_person_id, :present)
-    #     return false
-    #   end
-    # end
-    # true</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5834,8 +5823,19 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text># if [1, 5, 10].include?(record.order_type_id)
+    #   if record.sales_person.blank?
+    #     record.errors.add(:sales_person_id, :blank)
+    #     return false
+    #   end
+    # elsif [3, 4, 8, 11].include?(record.order_type_id)
+    #   if record.sales_person.blank? == false
+    #     record.errors.add(:sales_person_id, :present)
+    #     return false
+    #   end
+    # end
+    # true</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
