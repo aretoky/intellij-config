@@ -809,6 +809,9 @@
         <mark key="^" line="97" column="393" />
         <mark key="." line="97" column="393" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/admin/soho_pr_detail_view.php" timestamp="1492482654371">
+        <mark key="'" line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/fax_email.rb" timestamp="1491124992862">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -2878,7 +2881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="6" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
       <jump line="224" column="8" filename="$USER_HOME$/projects/value_press/app/models/my_agent.rb" />
       <jump line="121" column="62" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/admin/my_agent_manager.php" />
       <jump line="328" column="70" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/admin/my_agent_manager.php" />
@@ -2978,6 +2980,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/projects/pos-calc/app/models/dailyorder.rb" />
       <jump line="38" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/admin/pr_press_release_manager.php" />
       <jump line="116" column="38" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/admin/pr_press_release_manager.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/views/admin/soho_pr_detail_view.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5590,7 +5593,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_fix_pr_press_article_data</text>
+        <text>image</text>
       </register>
       <register name="0" type="4">
         <text>CSV.parse</text>
@@ -5846,9 +5849,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_fix_pr_press_article_data</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>_fix_pr_press_article_data</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5864,7 +5867,6 @@
         <entry>time</entry>
         <entry>period_date</entry>
         <entry>back</entry>
-        <entry>image</entry>
         <entry>水野</entry>
         <entry>mizuno</entry>
         <entry>update</entry>
@@ -5874,8 +5876,9 @@
         <entry>turbo</entry>
         <entry>deliver</entry>
         <entry>with</entry>
-        <entry>pic_name</entry>
         <entry>_fix_pr_press_article_data</entry>
+        <entry>pic_name</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
