@@ -218,11 +218,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1492624257350">
-        <mark key="[" line="55" column="11" />
-        <mark key="]" line="54" column="71" />
-        <mark key="." line="54" column="71" />
-        <mark key="^" line="52" column="67" />
+      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1492626087007">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="53" column="10" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1486624221611">
         <mark key="[" line="51" column="27" />
@@ -475,12 +475,12 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1492622227139">
+      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1492626192861">
         <mark key="'" line="18" column="17" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="54" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="42" column="6" />
+        <mark key="." line="42" column="6" />
+        <mark key="^" line="42" column="6" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/stories/_form.html.slim" timestamp="1492420722406">
         <mark key="[" line="1" column="65" />
@@ -942,11 +942,10 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1491316187008">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="122" column="91" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1492624278168">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/bills/index.html.slim" timestamp="1492162483082">
         <mark key="[" line="62" column="65" />
@@ -5720,29 +5719,26 @@
       <register name="/" type="4">
         <text>@new_record</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VzdF9lbWFpbHNfYXR0cmlidXRlczogWyBhdHRyaWJ1dGVzX2ZvciggOmN1c3RfZW1haWwgKSBdLAo=</text>
+      <register name="0" type="4">
+        <text>.attributes</text>
       </register>
-      <register name="1" type="4">
-        <text>let(:cust_params) do
-        a = build(:cust_for_create).attributes
-
-      end</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN1YmplY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHAgY3VzdF9wYXJhbXMK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5964,15 +5960,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQoOnBlcnNvbikgIHsgY3VzdC5wZXJzb24gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHAgY3VzdF9zYXZpbmdfc2VydmljZS5jdXN0LmVycm9ycwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>before do
-      emp
-    end</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
