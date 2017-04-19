@@ -218,6 +218,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" timestamp="1492624257350">
+        <mark key="[" line="55" column="11" />
+        <mark key="]" line="54" column="71" />
+        <mark key="." line="54" column="71" />
+        <mark key="^" line="52" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/scaffoldable/private_methods.rb" timestamp="1486624221611">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="48" column="11" />
@@ -1489,6 +1495,7 @@
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/models/cust/attribute_saver_spec.rb" timestamp="1492623123215" />
       <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/stories.scss" timestamp="1487816174337">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="1" />
@@ -5708,63 +5715,34 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>@new_record</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWNjb3VudDogY3VzdC5hY2NvdW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdF9lbWFpbHNfYXR0cmlidXRlczogWyBhdHRyaWJ1dGVzX2ZvciggOmN1c3RfZW1haWwgKSBdLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>let(:cust_params) do
+        a = build(:cust_for_create).attributes
+
+      end</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>year_paper: interim.dt_paper.to_date.year,
-      month_paper: interim.dt_paper.to_date.month,
-      day_paper: interim.dt_paper.to_date.day,
-      dow_paper: I18n.t(&quot;date.abbr_day_names&quot;)[interim.dt_paper.to_date.wday],
-      label_cd_ym: interim.label_cd_ym,
-      label_cd_ho: interim.label_cd_ho,
-      no_place: interim.hplace__no_place,
-      nm_place: interim.place.nm_place,
-      label_cd_ce: interim.cd_ce_name,
-      nm_interim: interim.nm_interim,
-      ym_interim: interim.ym_interim,
-      nm_company: interim.nm_company,
-      ym_company: interim.ym_company,
-      regist__zipcode: interim.regist__zipcode,
-      regist__address: interim.regist__address,
-      label_cd_in: interim.cd_in_name,
-      option: interim.option_text,
-      tel_0_1_100__1__tel: interim.tel_0_1_100__1__tel,
-      tel_0_1_100__2__tel: interim.tel_0_1_100__2__tel,
-      tel_0_1_100__3__tel: interim.tel_0_1_100__3__tel,
-      email_0_1_100__1__email: interim.email_0_1_100__1__email,
-      email_0_1_100__2__email: interim.email_0_1_100__2__email,
-      year_preview: interim.dt_preview.present? ? interim.dt_preview.to_date.year : &quot;&quot;,
-      month_preview: interim.dt_preview.present? ? interim.dt_preview.to_date.month : &quot;&quot;,
-      day_preview: interim.dt_preview.present? ? interim.dt_preview.to_date.day : &quot;&quot;,
-      dow_preview: interim.dt_preview.present? ? I18n.t(&quot;date.abbr_day_names&quot;)[interim.dt_preview.to_date.wday] : &quot;&quot;,
-      present: interim.present,
-      introduce_person: interim.introduce_person,
-      introduce_company: interim.introduce_company,
-      charge_name: interim.charge_name,
-      charge_tel: interim.charge_tel,
-      charge_email: interim.charge_email,
-      cmatter: interim.cmatter</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBjdXN0ID0gY3VzdAo=</text>
+        <text encoding="base64">ICAgICAgICBbCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5986,13 +5964,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQoOnBlcnNvbikgIHsgY3VzdC5wZXJzb24gfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoQGN1c3QuZXJyb3JzLmluc3BlY3QpCg==</text>
+      <register name="9" type="4">
+        <text>before do
+      emp
+    end</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
