@@ -701,7 +701,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492605636996">
+      <file name="/Dummy.txt" timestamp="1492611838642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -2311,6 +2311,11 @@
         <mark key="." line="1" column="85" />
         <mark key="^" line="1" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/_email_fields.html.slim" timestamp="1492592817340">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_depo_fields.html.slim" timestamp="1485941952554">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -2449,11 +2454,10 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1486313371714">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="11" column="39" />
+      <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/inputs/boolean_enable_button.coffee" timestamp="1492613007805">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/static_pages_controller.rb" timestamp="1487585371086">
         <mark key="[" line="6" column="11" />
@@ -2690,6 +2694,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/inputs/boolean_enable_button_input.rb" timestamp="1492613600334">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/common/postals/alert_cd_ur_for_client.coffee" timestamp="1492603566820">
         <mark key="[" line="17" column="0" />
@@ -5672,13 +5682,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>down</text>
+        <text>, style: &quot;display:none;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>cd_dt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjZF9kdDog552A5omV44GE5oyH5a6a5pel5pmCCg==</text>
+      <register name="0" type="4">
+        <text>template.concat</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5686,17 +5696,17 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LyHlsI/ns7gKLy5wYW5lbC5wYW5lbC1kZWZhdWx0CgkgIHRhYmxlLnRhYmxlLnRhYmxlLWJvcmRlcmVkCgkgICAgdGhlYWQKCSAgICAgIHRyCgkgICAgICAgIHRoLm5vd3JhcAoJICAgICAgICAgIHwg6YO15L6/54mpSUQKCSAgICAgICAgdGgubm93cmFwCgkgICAgICAgICAgfCDlt67lh7rkuroKCSAgICAgICAgdGgKCSAgICAgICAgICB8IOmDteS+v+OCteOCpOOCugoJICAgICAgICB0aC5ub3dyYXAKCSAgICAgICAgICB8IOWIsOedgOaXpQoJICAgIHRib2R5CgkgICAgICB0cgoJICAgICAgICB0ZAoJICAgICAgICAgIHwgNDc2NTI0CgkgICAgICAgIHRkCgkgICAgICAgICAgfCDosqHlm6Pms5XkurrjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIcKCSAgICAgICAgdGQKCSAgICAgICAgICB8IOmAmuW4uOOCteOCpOOCugoJICAgICAgICB0ZAoJICAgICAgICAgIHwgMjAxNS8xMi8xMAoJLnBhbmVsLnBhbmVsLWRlZmF1bHQKCSAgdGFibGUudGFibGUudGFibGUtYm9yZGVyZWQudGFibGUtbGlzdAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6aGn5a6i5oOF5aCxCgkgICAgICB0ZCDpoaflrqJJRDogMjM1NzTjgIDpoaflrqLlkI06IOWxseeUsOmahuWkq+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6YCf6YGU5LiN6KaBCgkgICAgICB0ZCDDl+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6YCf6YGU56aB5q2iCgkgICAgICB0ZCDDl+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5L2P5omA44OX44Op44OzCgkgICAgICB0ZCDkvY/miYDjg5fjg6njg7Mx44CACgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDlh6bnkIbkvp3poLwKCSAgICAgIHRkIOWNs+aXpeedgOaJleOBhAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5L6d6aC85pelCgkgICAgICB0ZCAyMDE1LzExLzI3IDE4OjEwCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDpgJ/pgZTkvp3poLznlarlj7cKCSAgICAgIHRkCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDkvY/miYAKCSAgICAgIHRkIDExNDAwMjQg5p2x5Lqs6YO9IOWMl+WMuiDopb/jgrHljp8gNC01My0zCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDpg7Xkvr/nianjgYrnn6XjgonjgZvjg6Hjg7zjg6vjgqLjg4njg6zjgrkKCSAgICAgIHRkIGtzazAwNzAwN0BnbWFpbC5jb20KCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOW8leWPluWgtOaJgAoJICAgICAgdGQKCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOWPluW8leaXpQoJICAgICAgdGQKCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOODreODg+OCrwoJICAgICAgdGQg5pyqCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCBDK+WHpueQhue1kOaenAoJICAgICAgdGQg5pyq55m66YCBCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDlh6bnkIbml6UKCSAgICAgIHRkCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCBDUExVUyDihpIg6aGn5a6iCgkgICAgICB0ZCDjgZPjgZPjgatDK+OBi+OCieOBiuWuouanmOOBuOOBruOCs+ODoeODs+ODiOOBjOWFpeOCiuOBvuOBmeOAggoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6aGn5a6iIOKGkiBDUExVUwoJICAgICAgdGQg44GT44GT44Gr44GK5a6i5qeY44GL44KJQyvjgbjjga7jgrPjg6Hjg7Pjg4jjgYzlhaXjgorjgb7jgZnjgIIKCS8hIC9wYW5lbAoJLmJ0bi1ib3guY29sLXhzLW9mZnNldC01CgkgIGJ1dHRvbi5idG4uYnRuLWRlZmF1bHQuYnRuLWxlZnQgdHlwZT0iYnV0dG9uIiAg5LiA6Kan44Gr5oi744KLCgkgIGJ1dHRvbi5idG4uYnRuLXByaW1hcnkuYnRuLXJpZ2h0IHR5cGU9ImJ1dHRvbiIgIOe3qOmbhuOBmeOCiwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykuaGFzQ2xhc3MoImFjdGl2ZSIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5918,13 +5928,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5zZXJ0X2VsZSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">LyHlsI/ns7gKLy5wYW5lbC5wYW5lbC1kZWZhdWx0CgkgIHRhYmxlLnRhYmxlLnRhYmxlLWJvcmRlcmVkCgkgICAgdGhlYWQKCSAgICAgIHRyCgkgICAgICAgIHRoLm5vd3JhcAoJICAgICAgICAgIHwg6YO15L6/54mpSUQKCSAgICAgICAgdGgubm93cmFwCgkgICAgICAgICAgfCDlt67lh7rkuroKCSAgICAgICAgdGgKCSAgICAgICAgICB8IOmDteS+v+OCteOCpOOCugoJICAgICAgICB0aC5ub3dyYXAKCSAgICAgICAgICB8IOWIsOedgOaXpQoJICAgIHRib2R5CgkgICAgICB0cgoJICAgICAgICB0ZAoJICAgICAgICAgIHwgNDc2NTI0CgkgICAgICAgIHRkCgkgICAgICAgICAgfCDosqHlm6Pms5XkurrjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIcKCSAgICAgICAgdGQKCSAgICAgICAgICB8IOmAmuW4uOOCteOCpOOCugoJICAgICAgICB0ZAoJICAgICAgICAgIHwgMjAxNS8xMi8xMAoJLnBhbmVsLnBhbmVsLWRlZmF1bHQKCSAgdGFibGUudGFibGUudGFibGUtYm9yZGVyZWQudGFibGUtbGlzdAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6aGn5a6i5oOF5aCxCgkgICAgICB0ZCDpoaflrqJJRDogMjM1NzTjgIDpoaflrqLlkI06IOWxseeUsOmahuWkq+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6YCf6YGU5LiN6KaBCgkgICAgICB0ZCDDl+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6YCf6YGU56aB5q2iCgkgICAgICB0ZCDDl+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5L2P5omA44OX44Op44OzCgkgICAgICB0ZCDkvY/miYDjg5fjg6njg7Mx44CACgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDlh6bnkIbkvp3poLwKCSAgICAgIHRkIOWNs+aXpeedgOaJleOBhAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5L6d6aC85pelCgkgICAgICB0ZCAyMDE1LzExLzI3IDE4OjEwCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDpgJ/pgZTkvp3poLznlarlj7cKCSAgICAgIHRkCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDkvY/miYAKCSAgICAgIHRkIDExNDAwMjQg5p2x5Lqs6YO9IOWMl+WMuiDopb/jgrHljp8gNC01My0zCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDpg7Xkvr/nianjgYrnn6XjgonjgZvjg6Hjg7zjg6vjgqLjg4njg6zjgrkKCSAgICAgIHRkIGtzazAwNzAwN0BnbWFpbC5jb20KCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOW8leWPluWgtOaJgAoJICAgICAgdGQKCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOWPluW8leaXpQoJICAgICAgdGQKCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOODreODg+OCrwoJICAgICAgdGQg5pyqCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCBDK+WHpueQhue1kOaenAoJICAgICAgdGQg5pyq55m66YCBCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDlh6bnkIbml6UKCSAgICAgIHRkCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCBDUExVUyDihpIg6aGn5a6iCgkgICAgICB0ZCDjgZPjgZPjgatDK+OBi+OCieOBiuWuouanmOOBuOOBruOCs+ODoeODs+ODiOOBjOWFpeOCiuOBvuOBmeOAggoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6aGn5a6iIOKGkiBDUExVUwoJICAgICAgdGQg44GT44GT44Gr44GK5a6i5qeY44GL44KJQyvjgbjjga7jgrPjg6Hjg7Pjg4jjgYzlhaXjgorjgb7jgZnjgIIKCS8hIC9wYW5lbAoJLmJ0bi1ib3guY29sLXhzLW9mZnNldC01CgkgIGJ1dHRvbi5idG4uYnRuLWRlZmF1bHQuYnRuLWxlZnQgdHlwZT0iYnV0dG9uIiAg5LiA6Kan44Gr5oi744KLCgkgIGJ1dHRvbi5idG4uYnRuLXByaW1hcnkuYnRuLXJpZ2h0IHR5cGU9ImJ1dHRvbiIgIOe3qOmbhuOBmeOCiwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWwpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
