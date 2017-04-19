@@ -306,6 +306,7 @@
         <mark key="^" line="120" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/postals.coffee" timestamp="1492604006198" />
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/cust/new_confirm.php" timestamp="1492622181498" />
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/article_prints/index.csv.ruby" timestamp="1488041096391">
         <mark key="[" line="22" column="80" />
         <mark key="]" line="23" column="5" />
@@ -468,8 +469,12 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1492620600203">
-        <mark key="'" line="281" column="4" />
+      <file name="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" timestamp="1492622227139">
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="54" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/stories/_form.html.slim" timestamp="1492420722406">
         <mark key="[" line="1" column="65" />
@@ -942,6 +947,10 @@
         <mark key="]" line="62" column="67" />
         <mark key="." line="62" column="67" />
         <mark key="^" line="62" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/interim_mailer.rb" timestamp="1492621608957">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_magagine.json.jbuilder" timestamp="1486964483338">
         <mark key="[" line="1" column="26" />
@@ -1425,6 +1434,13 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/cust_mailer.rb" timestamp="1492622198669">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="52" column="26" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/client/cust_mailer.rb" timestamp="1492621820658" />
       <file name="$USER_HOME$/projects/umareso/app/views/application/_month_calender.slim.erb" timestamp="1487237838796">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
@@ -1716,6 +1732,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/custs_controllerable.rb" timestamp="1492621394294">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/db/seeds/staff.rb" timestamp="1491376840753">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="64" />
@@ -1812,6 +1833,7 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/mailers/admin/book_mailer.rb" timestamp="1492621509254" />
       <file name="$USER_HOME$/projects/cplus/spec/models/postal_spec.rb" timestamp="1492587344557" />
       <file name="$USER_HOME$/projects/umareso/app/uploaders/magazine_background_image_uploader.rb" timestamp="1492412535370">
         <mark key="[" line="0" column="14" />
@@ -2977,7 +2999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="31" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="95" column="37" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="109" column="18" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
       <jump line="110" column="18" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
@@ -3077,6 +3098,7 @@
       <jump line="7" column="19" filename="$USER_HOME$/projects/cplus/app/views/admin/postals/_edit_form.html.slim" />
       <jump line="91" column="23" filename="$USER_HOME$/projects/cplus/lib/confirmable_simple_form_builder.rb" />
       <jump line="281" column="4" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
+      <jump line="18" column="17" filename="$USER_HOME$/projects/cplus/app/services/cust_saving_service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5686,13 +5708,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>, style: &quot;display:none;&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>cd_dt</text>
+        <text>@new_record</text>
       </register>
-      <register name="0" type="4">
-        <text>template.concat</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYWNjb3VudDogY3VzdC5hY2NvdW50LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -5700,17 +5722,49 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>year_paper: interim.dt_paper.to_date.year,
+      month_paper: interim.dt_paper.to_date.month,
+      day_paper: interim.dt_paper.to_date.day,
+      dow_paper: I18n.t(&quot;date.abbr_day_names&quot;)[interim.dt_paper.to_date.wday],
+      label_cd_ym: interim.label_cd_ym,
+      label_cd_ho: interim.label_cd_ho,
+      no_place: interim.hplace__no_place,
+      nm_place: interim.place.nm_place,
+      label_cd_ce: interim.cd_ce_name,
+      nm_interim: interim.nm_interim,
+      ym_interim: interim.ym_interim,
+      nm_company: interim.nm_company,
+      ym_company: interim.ym_company,
+      regist__zipcode: interim.regist__zipcode,
+      regist__address: interim.regist__address,
+      label_cd_in: interim.cd_in_name,
+      option: interim.option_text,
+      tel_0_1_100__1__tel: interim.tel_0_1_100__1__tel,
+      tel_0_1_100__2__tel: interim.tel_0_1_100__2__tel,
+      tel_0_1_100__3__tel: interim.tel_0_1_100__3__tel,
+      email_0_1_100__1__email: interim.email_0_1_100__1__email,
+      email_0_1_100__2__email: interim.email_0_1_100__2__email,
+      year_preview: interim.dt_preview.present? ? interim.dt_preview.to_date.year : &quot;&quot;,
+      month_preview: interim.dt_preview.present? ? interim.dt_preview.to_date.month : &quot;&quot;,
+      day_preview: interim.dt_preview.present? ? interim.dt_preview.to_date.day : &quot;&quot;,
+      dow_preview: interim.dt_preview.present? ? I18n.t(&quot;date.abbr_day_names&quot;)[interim.dt_preview.to_date.wday] : &quot;&quot;,
+      present: interim.present,
+      introduce_person: interim.introduce_person,
+      introduce_company: interim.introduce_company,
+      charge_name: interim.charge_name,
+      charge_tel: interim.charge_tel,
+      charge_email: interim.charge_email,
+      cmatter: interim.cmatter</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCQodGhpcykuaGFzQ2xhc3MoImFjdGl2ZSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjdXN0ID0gY3VzdAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5934,20 +5988,20 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyHlsI/ns7gKLy5wYW5lbC5wYW5lbC1kZWZhdWx0CgkgIHRhYmxlLnRhYmxlLnRhYmxlLWJvcmRlcmVkCgkgICAgdGhlYWQKCSAgICAgIHRyCgkgICAgICAgIHRoLm5vd3JhcAoJICAgICAgICAgIHwg6YO15L6/54mpSUQKCSAgICAgICAgdGgubm93cmFwCgkgICAgICAgICAgfCDlt67lh7rkuroKCSAgICAgICAgdGgKCSAgICAgICAgICB8IOmDteS+v+OCteOCpOOCugoJICAgICAgICB0aC5ub3dyYXAKCSAgICAgICAgICB8IOWIsOedgOaXpQoJICAgIHRib2R5CgkgICAgICB0cgoJICAgICAgICB0ZAoJICAgICAgICAgIHwgNDc2NTI0CgkgICAgICAgIHRkCgkgICAgICAgICAgfCDosqHlm6Pms5XkurrjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIfjgIcKCSAgICAgICAgdGQKCSAgICAgICAgICB8IOmAmuW4uOOCteOCpOOCugoJICAgICAgICB0ZAoJICAgICAgICAgIHwgMjAxNS8xMi8xMAoJLnBhbmVsLnBhbmVsLWRlZmF1bHQKCSAgdGFibGUudGFibGUudGFibGUtYm9yZGVyZWQudGFibGUtbGlzdAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6aGn5a6i5oOF5aCxCgkgICAgICB0ZCDpoaflrqJJRDogMjM1NzTjgIDpoaflrqLlkI06IOWxseeUsOmahuWkq+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6YCf6YGU5LiN6KaBCgkgICAgICB0ZCDDl+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6YCf6YGU56aB5q2iCgkgICAgICB0ZCDDl+OAgAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5L2P5omA44OX44Op44OzCgkgICAgICB0ZCDkvY/miYDjg5fjg6njg7Mx44CACgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDlh6bnkIbkvp3poLwKCSAgICAgIHRkIOWNs+aXpeedgOaJleOBhAoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg5L6d6aC85pelCgkgICAgICB0ZCAyMDE1LzExLzI3IDE4OjEwCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDpgJ/pgZTkvp3poLznlarlj7cKCSAgICAgIHRkCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDkvY/miYAKCSAgICAgIHRkIDExNDAwMjQg5p2x5Lqs6YO9IOWMl+WMuiDopb/jgrHljp8gNC01My0zCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDpg7Xkvr/nianjgYrnn6XjgonjgZvjg6Hjg7zjg6vjgqLjg4njg6zjgrkKCSAgICAgIHRkIGtzazAwNzAwN0BnbWFpbC5jb20KCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOW8leWPluWgtOaJgAoJICAgICAgdGQKCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOWPluW8leaXpQoJICAgICAgdGQKCSAgICB0cgoJICAgICAgdGQudGFibGUtbGlzdC1oZWFkIOODreODg+OCrwoJICAgICAgdGQg5pyqCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCBDK+WHpueQhue1kOaenAoJICAgICAgdGQg5pyq55m66YCBCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCDlh6bnkIbml6UKCSAgICAgIHRkCgkgICAgdHIKCSAgICAgIHRkLnRhYmxlLWxpc3QtaGVhZCBDUExVUyDihpIg6aGn5a6iCgkgICAgICB0ZCDjgZPjgZPjgatDK+OBi+OCieOBiuWuouanmOOBuOOBruOCs+ODoeODs+ODiOOBjOWFpeOCiuOBvuOBmeOAggoJICAgIHRyCgkgICAgICB0ZC50YWJsZS1saXN0LWhlYWQg6aGn5a6iIOKGkiBDUExVUwoJICAgICAgdGQg44GT44GT44Gr44GK5a6i5qeY44GL44KJQyvjgbjjga7jgrPjg6Hjg7Pjg4jjgYzlhaXjgorjgb7jgZnjgIIKCS8hIC9wYW5lbAoJLmJ0bi1ib3guY29sLXhzLW9mZnNldC01CgkgIGJ1dHRvbi5idG4uYnRuLWRlZmF1bHQuYnRuLWxlZnQgdHlwZT0iYnV0dG9uIiAg5LiA6Kan44Gr5oi744KLCgkgIGJ1dHRvbi5idG4uYnRuLXByaW1hcnkuYnRuLXJpZ2h0IHR5cGU9ImJ1dHRvbiIgIOe3qOmbhuOBmeOCiwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoQGN1c3QuZXJyb3JzLmluc3BlY3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>cd_dt</last-search>
+      <last-search>@new_record</last-search>
       <last-offset />
-      <last-pattern>cd_dt</last-pattern>
+      <last-pattern>@new_record</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5955,7 +6009,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updat</entry>
         <entry>index</entry>
         <entry>namespace</entry>
         <entry>turbo</entry>
@@ -5975,6 +6028,7 @@
         <entry>_id</entry>
         <entry>id</entry>
         <entry>cd_dt</entry>
+        <entry>@new_record</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
