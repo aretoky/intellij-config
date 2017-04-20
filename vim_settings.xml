@@ -81,6 +81,12 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/magazines/show.html.slim" timestamp="1492657198642">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1492580400468">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -2988,31 +2994,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>仕事ができる人とできない人の差は何だろう？こんな疑問から、スタートした企画です。いろいろな本を読み、周囲の人を観察し……という中で気づいたのは、「仕事ができる人は、ミスが少なくて、スピードが速い」ということでした。そして、「仕事ができる人は、仕事のコツを自分で編み出せる人」だったのです。</text>
       </register>
       <register name="/" type="4">
         <text>person</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBsZXQoOmRlbGl2ZXJlcikgeyBjcmVhdGUoOmR1c2VyKSAgfQo=</text>
+      <register name="0" type="4">
+        <text>#{writer_path(@magazine.writer)}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyEgeWtAIDog6JGX6ICF44GV44KT44G444Gu44Oq44Oz44KvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIC8hIHlrQCA6IOaWh+W6q+acrOOBqOWQjOOBmOOCteOCpOOCuuOBrueUu+WDj+OCkueUqOaEj+OBl+OBpuOBv+OBvuOBl+OBnwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZhY3RvcnkgOmR1c2VyX2Zvcl9jcmVhdGUgZG8K</text>
+        <text encoding="base64">ICAvISB5a0AgOiDpgKPovInjgr/jgqTjg4jjg6sK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQoOnBlcnNvbikgIHsgZW1wLnBlcnNvbiB9Cg==</text>
+        <text encoding="base64">ICAgIGZhY3RvcnkgOmR1c2VyX2Zvcl9jcmVhdGUgZG8K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3240,7 +3246,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQoOnBlcnNvbikgIHsgZW1wLnBlcnNvbiB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
