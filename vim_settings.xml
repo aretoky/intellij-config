@@ -233,6 +233,13 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/postal_custs/show.html.slim" timestamp="1492771400681">
+        <mark key="'" line="60" column="22" />
+        <mark key="[" line="99" column="41" />
+        <mark key="]" line="99" column="39" />
+        <mark key="^" line="99" column="49" />
+        <mark key="." line="99" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1492664013402">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="56" />
@@ -710,7 +717,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492766944860">
+      <file name="/Dummy.txt" timestamp="1492770562175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -1915,11 +1922,12 @@
         <mark key="." line="34" column="78" />
         <mark key="^" line="34" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/concerns/csv_importalbe.rb" timestamp="1489746301999">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-        <mark key="^" line="17" column="5" />
+      <file name="$USER_HOME$/projects/cplus/app/models/concerns/csv_importalbe.rb" timestamp="1492770907233">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/projects/cplus/config/locales/010_models/telexp.ja.yml" timestamp="1492596455606" />
       <file name="$USER_HOME$/projects/umareso/app/views/writers/_scaffold_show.html.slim" timestamp="1492413719495">
@@ -2927,6 +2935,12 @@
         <mark key="^" line="27" column="14" />
         <mark key="." line="28" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/upds/show.html.slim" timestamp="1492771425186">
+        <mark key="[" line="68" column="76" />
+        <mark key="]" line="68" column="83" />
+        <mark key="." line="68" column="83" />
+        <mark key="^" line="68" column="83" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/config/database.yml" timestamp="1491758253443">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="20" />
@@ -2977,7 +2991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="21" filename="$USER_HOME$/projects/umareso/app/controllers/concerns/scaffoldable/private_methods.rb" />
       <jump line="39" column="29" filename="$USER_HOME$/projects/umareso/app/controllers/concerns/scaffoldable/private_methods.rb" />
       <jump line="40" column="26" filename="$USER_HOME$/projects/umareso/app/controllers/concerns/scaffoldable/private_methods.rb" />
       <jump line="144" column="18" filename="$USER_HOME$/projects/umareso/app/controllers/concerns/scaffoldable/private_methods.rb" />
@@ -3077,6 +3090,7 @@
       <jump line="67" column="26" filename="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" />
       <jump line="72" column="12" filename="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" />
       <jump line="69" column="8" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
+      <jump line="0" column="12" filename="$USER_HOME$/projects/cplus/app/models/concerns/csv_importalbe.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5686,10 +5700,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>each { |error| error.delete }</text>
       </register>
       <register name="/" type="4">
-        <text>q_no_cust_eq</text>
+        <text>errors</text>
       </register>
       <register name="0" type="4">
         <text>params[:per_page]</text>
@@ -5945,9 +5959,9 @@
       </register>
     </registers>
     <search>
-      <last-search>q_no_cust_eq</last-search>
+      <last-search>errors</last-search>
       <last-offset />
-      <last-pattern>q_no_cust_eq</last-pattern>
+      <last-pattern>errors</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -5955,7 +5969,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ur</entry>
         <entry>_id</entry>
         <entry>id</entry>
         <entry>cd_dt</entry>
@@ -5975,6 +5988,7 @@
         <entry>速達</entry>
         <entry>配送</entry>
         <entry>q_no_cust_eq</entry>
+        <entry>errors</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
