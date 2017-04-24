@@ -240,11 +240,11 @@
         <mark key="^" line="99" column="49" />
         <mark key="." line="99" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1492664013402">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="56" />
-        <mark key="." line="18" column="56" />
-        <mark key="^" line="18" column="56" />
+      <file name="$USER_HOME$/projects/umareso/app/models/story.rb" timestamp="1493003251817">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="48" column="9" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1487003117963">
         <mark key="[" line="77" column="64" />
@@ -1679,6 +1679,11 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/story/attribute_draft_saver.rb" timestamp="1493003221404">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/spec/features/admin/inamts_spec.rb" timestamp="1487934351983">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -2093,6 +2098,12 @@
         <mark key="]" line="27" column="24" />
         <mark key="." line="27" column="24" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/story/attribute_saver.rb" timestamp="1493003258435">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/articles/_contents_right__category_footlist.html.erb" timestamp="1490344501253">
         <mark key="[" line="11" column="21" />
@@ -5760,25 +5771,25 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>magazine_id: params[:magazine_id]</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>other_articles_of_same_user_account</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpzZW5kX2RhdGUpIHsgMS53ZWVrLmFnbyB9Cg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZSA6bWFnYXppbmUsIHByZXNlbmNlOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZSA6bWFnYXppbmUsIHByZXNlbmNlOiB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcCB1c2VyX2FjY291bnQuc2VuZF9yZXN1bHRfcmVwb3J0X2ZsZwo=</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCB1c2VyX2FjY291bnQuc2VuZF9yZXN1bHRfcmVwb3J0X2ZsZwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -6009,10 +6020,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX3Jlc3VsdF9yZXBvcnRfZmxnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZW5kX3Jlc3VsdF9yZXBvcnRfZmxnCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
