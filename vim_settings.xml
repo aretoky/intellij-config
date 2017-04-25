@@ -375,6 +375,9 @@
         <mark key="^" line="11" column="144" />
         <mark key="." line="11" column="144" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/lib/value_press/three_mail_api_util.rb" timestamp="1493083984136">
+        <mark key="'" line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/my_agent_file_uploader.rb" timestamp="1491932118999">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="29" />
@@ -2472,6 +2475,9 @@
         <mark key="." line="1" column="85" />
         <mark key="^" line="1" column="85" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" timestamp="1492753382758">
+        <mark key="'" line="183" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_depo_fields.html.slim" timestamp="1485941952554">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -3181,9 +3187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/projects/cplus/spec/services/cust_saving_service_spec.rb" />
-      <jump line="52" column="4" filename="$USER_HOME$/projects/umareso/config/locales/default/ja.yml" />
-      <jump line="148" column="2" filename="$USER_HOME$/projects/umareso/config/locales/default/ja.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/umareso/config/locales/default/ja.yml" />
       <jump line="42" column="4" filename="$USER_HOME$/projects/umareso/config/locales/default/ja.yml" />
       <jump line="186" column="16" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
@@ -3281,6 +3284,9 @@
       <jump line="195" column="6" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
       <jump line="204" column="4" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
       <jump line="7" column="4" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
+      <jump line="8" column="22" filename="$USER_HOME$/projects/value_press/lib/value_press/three_mail_api_util.rb" />
+      <jump line="61" column="24" filename="$USER_HOME$/projects/value_press/lib/value_press/three_mail_api_util.rb" />
+      <jump line="12" column="20" filename="$USER_HOME$/projects/value_press/lib/value_press/three_mail_api_util.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5893,7 +5899,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>unti</text>
+        <text>user_account</text>
       </register>
       <register name="0" type="4">
         <text>%Y年%-m月%-d日</text>
@@ -6149,9 +6155,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unti</last-search>
+      <last-search>user_account</last-search>
       <last-offset />
-      <last-pattern>unti</last-pattern>
+      <last-pattern>user_account</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6159,8 +6165,6 @@
     </search>
     <history>
       <history-search>
-        <entry>速達</entry>
-        <entry>配送</entry>
         <entry>q_no_cust_eq</entry>
         <entry>errors</entry>
         <entry>hplace</entry>
@@ -6179,6 +6183,8 @@
         <entry>entry</entry>
         <entry>format</entry>
         <entry>unti</entry>
+        <entry>list</entry>
+        <entry>user_account</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
