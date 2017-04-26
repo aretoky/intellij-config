@@ -1533,7 +1533,9 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1492940432161" />
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1493192343770">
+        <mark key="'" line="29" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/sessions/new.html.slim" timestamp="1485956611976">
         <mark key="[" line="20" column="64" />
         <mark key="]" line="19" column="51" />
@@ -3267,8 +3269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="5" filename="$USER_HOME$/projects/umareso/Gemfile" />
-      <jump line="46" column="5" filename="$USER_HOME$/projects/umareso/Gemfile" />
       <jump line="183" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="16" column="6" filename="$USER_HOME$/projects/cplus/app/models/mplan.rb" />
       <jump line="163" column="0" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
@@ -3367,6 +3367,8 @@
       <jump line="7" column="76" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
       <jump line="22" column="5" filename="$USER_HOME$/projects/value_press/config/database.yml" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/value_press/config/database.yml" />
+      <jump line="9" column="12" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="29" column="3" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5979,7 +5981,7 @@
         <text encoding="base64">LT57IA==</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>logo_name</text>
       </register>
       <register name="0" type="4">
         <text>file_name = open(Rails.root.join('spec', 'fixtures', 'sample.jpg') )</text>
@@ -6235,9 +6237,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>logo_name</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>logo_name</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6245,7 +6247,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send_mails</entry>
         <entry>base_date</entry>
         <entry>mail_information</entry>
         <entry>publish</entry>
@@ -6265,6 +6266,7 @@
         <entry encoding="base64">IA==</entry>
         <entry>FileData</entry>
         <entry>logo</entry>
+        <entry>logo_name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
