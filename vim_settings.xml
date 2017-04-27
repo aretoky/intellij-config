@@ -721,9 +721,6 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493198708083">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="14" />
@@ -1171,6 +1168,12 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_mass_inputs/index.html.erb" timestamp="1493294545918">
+        <mark key="[" line="41" column="49" />
+        <mark key="]" line="30" column="107" />
+        <mark key="^" line="30" column="107" />
+        <mark key="." line="30" column="107" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers_controller.rb" timestamp="1487577932295">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="6" column="35" />
@@ -1284,6 +1287,12 @@
         <mark key="]" line="4" column="46" />
         <mark key="^" line="4" column="46" />
         <mark key="." line="4" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1493293926017">
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="5" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/application.html.erb" timestamp="1493193988917">
         <mark key="[" line="2" column="0" />
@@ -2057,6 +2066,13 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/index.html.erb" timestamp="1493294702350">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/services/postal_csv_creating_service.rb" timestamp="1492607006128">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="38" />
@@ -2252,9 +2268,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" timestamp="1493191477388">
-        <mark key="[" line="1" column="19" />
-      </file>
       <file name="$USER_HOME$/sandbox/unkokanji/public/css/application.css.scss" timestamp="1488779279346">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -2426,6 +2439,10 @@
         <mark key="]" line="6" column="97" />
         <mark key="^" line="6" column="92" />
         <mark key="." line="6" column="97" />
+      </file>
+      <file name="$USER_HOME$/projects/pos-calc/app/views/daily_order_shipping_lists/_index_dailyorder_shipping_list_pagenated.html.erb" timestamp="1493294446659">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="52" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/free_course_articles_controller.rb" timestamp="1486907192410">
         <mark key="[" line="7" column="32" />
@@ -3064,7 +3081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="57" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="225" column="8" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="209" column="15" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="210" column="6" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
@@ -3164,6 +3180,7 @@
       <jump line="10" column="14" filename="$USER_HOME$/projects/umareso/app/controllers/users/story_comments_controller.rb" />
       <jump line="19" column="14" filename="$USER_HOME$/projects/umareso/app/controllers/users/story_comments_controller.rb" />
       <jump line="24" column="3" filename="$USER_HOME$/projects/umareso/app/views/layouts/users/story_comments/create_or_update.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/pos-calc/app/views/daily_order_number_inputs/index.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5773,32 +5790,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>, format: :coffee</text>
+        <text>page_entries_info</text>
       </register>
       <register name="/" type="4">
         <text>create_or_update</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dmFyIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">PCU9IHBhZ2VfZW50cmllc19pbmZvIEBkYWlseV9vcmRlcl9udW1iZXJfaW5wdXRzICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCU9IHBhZ2VfZW50cmllc19pbmZvIEBkYWlseV9vcmRlcl9udW1iZXJfaW5wdXRzICU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcCBwYXJhbXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA9IGYuaGlkZGVuX2ZpZWxkIDp1c2VyX3B1Ymxpc2hfc3RhdHVzLCB2YWx1ZTogOnB1Ymxpc2hlZAo=</text>
+        <text encoding="base64">ICAgICAgcCBwYXJhbXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA9IGYuaGlkZGVuX2ZpZWxkIDp1c2VyX3B1Ymxpc2hfc3RhdHVzLCB2YWx1ZTogOnB1Ymxpc2hlZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>url: '/posts/temp',
-      type: 'post'</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6020,13 +6036,14 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text>url: '/posts/temp',
+      type: 'post'</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">c3RvcnlfYXR0YWNobWVudF9pbWFnZV9pbmRleCA9IDAKCiAgJCgndGV4dGFyZWEud3lzaXd5ZycpLmZyb2FsYUVkaXRvcigKICAgIHsKICAgICAgbGFuZ3VhZ2U6ICdqYScsCiAgICAgIGltYWdlVXBsb2FkVVJMOiAnL3dyaXRlcnMvc3RvcnlfYXR0YWNobWVudF9pbWFnZXMuanNvbicsCiAgICAgIGltYWdlVXBsb2FkTWV0aG9kOiAnUE9TVCcKICAgIH0KICApLm9uKCdmcm9hbGFFZGl0b3IuaW1hZ2UuYmVmb3JlVXBsb2FkJywgKGUsIGVkaXRvciwgaW1hZ2VzKSAtPgoKICApLm9uKCdmcm9hbGFFZGl0b3IuaW1hZ2UudXBsb2FkZWQnLCAoZSwgZWRpdG9yLCBpbWFnZXMpIC0+CiMgICAgY29uc29sZS5sb2coZSkKIyAgICBjb25zb2xlLmxvZyhlZGl0b3IpCiAgICBjb25zb2xlLmxvZyhpbWFnZXMpCgogICAgJCgkKHRoaXMpLnBhcmVudHMoJ2Zvcm0nKS5nZXQoMCkpLnByZXBlbmQoJzxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InN0b3J5X2NvbnRlbnRfcmVsYXRpb25zaGlwc1snICsgc3RvcnlfYXR0YWNobWVudF9pbWFnZV9pbmRleCArICddW2NvbnRlbnRhYmxlX3R5cGVdIiB2YWx1ZT0iU3RvcnlBdHRhY2htZW50SW1hZ2UiIC8+PGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0ic3RvcnlfY29udGVudF9yZWxhdGlvbnNoaXBzWycgKyBzdG9yeV9hdHRhY2htZW50X2ltYWdlX2luZGV4ICsgJ11bY29udGVudGFibGVfaWRdIiB2YWx1ZT0iJyArIEpTT04ucGFyc2UoaW1hZ2VzKS5pZCArICciIC8+JykKICAgIHN0b3J5X2F0dGFjaG1lbnRfaW1hZ2VfaW5kZXggKz0gMQogICkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2VtICdhY3RpdmVfZGVjb3JhdG9yX3dpdGhfZGVjb3JhdGVfYXNzb2NpYXRpb25zJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
