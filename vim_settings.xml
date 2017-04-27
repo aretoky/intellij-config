@@ -648,7 +648,7 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="/Ruby Console" timestamp="1491998591644">
+      <file name="/Ruby Console" timestamp="1493201787765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1747,8 +1747,8 @@
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1493198266978">
-        <mark key="'" line="135" column="14" />
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1493201637035">
+        <mark key="'" line="187" column="33" />
         <mark key="[" line="367" column="51" />
         <mark key="]" line="367" column="64" />
         <mark key="." line="367" column="64" />
@@ -2194,8 +2194,8 @@
         <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/custs_controller_spec.rb" timestamp="1492587378838" />
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" timestamp="1493098275705">
-        <mark key="'" line="201" column="20" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" timestamp="1493201544340">
+        <mark key="'" line="55" column="37" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/postals/index.csv.ruby" timestamp="1492599473191" />
       <file name="$USER_HOME$/projects/umareso/app/views/application/_month_calender.html.erb" timestamp="1487237341179">
@@ -3109,14 +3109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="2" filename="$USER_HOME$/projects/cplus/app/assets/javascripts/concern/cust_select_modal_dialogs.coffee" />
-      <jump line="67" column="26" filename="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" />
-      <jump line="72" column="12" filename="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" />
-      <jump line="69" column="8" filename="$USER_HOME$/projects/cplus/app/inputs/no_cust_input.rb" />
-      <jump line="0" column="12" filename="$USER_HOME$/projects/cplus/app/models/concerns/csv_importalbe.rb" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
-      <jump line="358" column="8" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="481" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="140" column="64" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="206" column="10" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
       <jump line="208" column="8" filename="$USER_HOME$/projects/value_press/app/models/medium.rb" />
@@ -3209,6 +3201,14 @@
       <jump line="113" column="0" filename="$USER_HOME$/projects/cplus/app/inputs/search_no_cust_input.rb" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/value_press/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="15" column="13" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
+      <jump line="55" column="37" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="157" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="164" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="184" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="185" column="4" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="187" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5821,7 +5821,7 @@
         <text>company_logo</text>
       </register>
       <register name="/" type="4">
-        <text>decorator</text>
+        <text>cust_enable</text>
       </register>
       <register name="0" type="4">
         <text>gem 'active_decorator_with_decorate_associations'</text>
@@ -6077,9 +6077,9 @@
       </register>
     </registers>
     <search>
-      <last-search>decorator</last-search>
+      <last-search>cust_enable</last-search>
       <last-offset />
-      <last-pattern>decorator</last-pattern>
+      <last-pattern>cust_enable</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6087,8 +6087,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send_date</entry>
-        <entry>set_att</entry>
         <entry>base</entry>
         <entry>report</entry>
         <entry>other_articles_of_same_user_account</entry>
@@ -6107,6 +6105,8 @@
         <entry>nm_place</entry>
         <entry>search</entry>
         <entry>decorator</entry>
+        <entry>email</entry>
+        <entry>cust_enable</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
