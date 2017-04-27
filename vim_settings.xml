@@ -1367,6 +1367,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pos-calc/config/database.yml" timestamp="1493274378310">
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="22" column="80" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="20" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/inputs/base_input.rb" timestamp="1492765544032" />
       <file name="$USER_HOME$/projects/cplus/app/models/upd.rb" timestamp="1489743047215">
         <mark key="[" line="115" column="24" />
@@ -2567,12 +2573,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="35" column="9" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1493190301548">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer.rb" timestamp="1491325804420">
         <mark key="[" line="0" column="25" />
@@ -5824,7 +5824,9 @@
         <text>cust_enable</text>
       </register>
       <register name="0" type="4">
-        <text>gem 'active_decorator_with_decorate_associations'</text>
+        <text>username: bunkyoshatech
+  password: CaswuDraTHA3rA2uCrA3ak2
+  host: bunkyoshaposcalc2d-staging.csuzkhadbudi.ap-northeast-1.rds.amazonaws.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
