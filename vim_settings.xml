@@ -341,12 +341,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article.rb" timestamp="1493336898835">
-        <mark key="'" line="190" column="9" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/mail_setting.rb" timestamp="1489150801084">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="1" />
@@ -547,6 +541,7 @@
         <mark key="^" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/factories/article_print.rb" timestamp="1493349831555" />
       <file name="$USER_HOME$/projects/value_press/spec/factories/user_columns.rb" timestamp="1491937584987">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="17" />
@@ -703,7 +698,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493343651694">
+      <file name="/Dummy.txt" timestamp="1493349622663">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -1092,11 +1087,12 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" timestamp="1492940834942">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="125" column="79" />
+      <file name="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" timestamp="1493349732456">
+        <mark key="'" line="43" column="6" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="48" column="14" />
+        <mark key="." line="48" column="14" />
+        <mark key="^" line="48" column="14" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/original_list_send_list_manageable.rb" timestamp="1489477423379">
         <mark key="[" line="22" column="26" />
@@ -1323,6 +1319,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/article_print.rb" timestamp="1493349571619">
+        <mark key="[" line="156" column="8" />
+        <mark key="]" line="156" column="8" />
+        <mark key="^" line="156" column="9" />
+        <mark key="." line="156" column="8" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/articles/_contents_side__other_articles.html.erb" timestamp="1489997130928">
         <mark key="[" line="3" column="0" />
@@ -2767,10 +2769,11 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/article_result.rb" timestamp="1493340249322">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/models/article_result.rb" timestamp="1493348743345">
+        <mark key="[" line="54" column="51" />
+        <mark key="]" line="54" column="55" />
+        <mark key="." line="54" column="55" />
+        <mark key="^" line="54" column="55" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/scaffoldable/_scaffold_search_form.html.slim" timestamp="1492683412987">
         <mark key="[" line="9" column="0" />
@@ -3085,8 +3088,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="21" filename="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" />
-      <jump line="121" column="10" filename="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" />
       <jump line="139" column="6" filename="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" />
       <jump line="146" column="8" filename="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" />
       <jump line="150" column="4" filename="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" />
@@ -3185,6 +3186,8 @@
       <jump line="190" column="9" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="0" column="2" filename="$USER_HOME$/projects/value_press/spec/models/multiple_sending_result_report_mails_spec.rb" />
       <jump line="6" column="45" filename="$USER_HOME$/projects/value_press/spec/models/multiple_sending_result_report_mails_spec.rb" />
+      <jump line="6" column="13" filename="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" />
+      <jump line="43" column="6" filename="$USER_HOME$/projects/value_press/app/models/multiple_sending_result_report_mails.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5794,31 +5797,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>vptools_url</text>
+        <text>site_url</text>
       </register>
       <register name="0" type="4">
-        <text>企業情報一覧</text>
+        <text>g[:site_url]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICAgIHAgcHJpbnRfbGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBwIGdbOnNpdGVfdXJsXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXNvdXJjZSA6cmVnaXN0cmF0aW9uLCBvbmx5OiAldyhuZXcgY3JlYXRlIGRlc3Ryb3kpCg==</text>
+        <text encoding="base64">ICAgICAgICBwIGcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgcCBtYXRjaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6040,10 +6043,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICByZXNvdXJjZSA6cmVnaXN0cmF0aW9uLCBvbmx5OiAldyhuZXcgY3JlYXRlIGRlc3Ryb3kpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
@@ -6053,9 +6056,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vptools_url</last-search>
+      <last-search>site_url</last-search>
       <last-offset />
-      <last-pattern>vptools_url</last-pattern>
+      <last-pattern>site_url</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6063,8 +6066,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
-        <entry encoding="base64">IA==</entry>
         <entry>FileData</entry>
         <entry>logo</entry>
         <entry>logo_name</entry>
@@ -6083,6 +6084,8 @@
         <entry>send_</entry>
         <entry>uniqueness</entry>
         <entry>vptools_url</entry>
+        <entry>build_alliance_list</entry>
+        <entry>site_url</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
