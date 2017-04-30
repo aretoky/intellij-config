@@ -362,11 +362,11 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/methodable.rb" timestamp="1493568922368">
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/methodable.rb" timestamp="1493570174951">
         <mark key="'" line="76" column="5" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/application_controller.rb" timestamp="1490861410028">
         <mark key="[" line="8" column="35" />
@@ -573,8 +573,8 @@
         <mark key="^" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" timestamp="1493563772778">
-        <mark key="'" line="178" column="18" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" timestamp="1493569777866">
+        <mark key="'" line="426" column="23" />
         <mark key="[" line="225" column="10" />
         <mark key="]" line="225" column="16" />
       </file>
@@ -745,7 +745,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493566668926">
+      <file name="/Dummy.txt" timestamp="1493569876489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -3196,7 +3196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
       <jump line="27" column="48" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
       <jump line="106" column="28" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
       <jump line="185" column="28" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
@@ -3296,6 +3295,7 @@
       <jump line="56" column="85" filename="$USER_HOME$/projects/value_press/app/views/articles/_contents_side.html.erb" />
       <jump line="75" column="21" filename="$USER_HOME$/projects/value_press/spec/factories/articles.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/value_press/config/environments/test.rb" />
+      <jump line="426" column="23" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5908,7 +5908,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>inq</text>
+        <text>top_image</text>
       </register>
       <register name="0" type="4">
         <text>https://youtube.com/</text>
@@ -6164,9 +6164,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inq</last-search>
+      <last-search>top_image</last-search>
       <last-offset />
-      <last-pattern>inq</last-pattern>
+      <last-pattern>top_image</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6174,7 +6174,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deliver_type</entry>
         <entry>production</entry>
         <entry>iframe</entry>
         <entry>paypal</entry>
@@ -6194,6 +6193,7 @@
         <entry>content_fix</entry>
         <entry>url</entry>
         <entry>inq</entry>
+        <entry>top_image</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
