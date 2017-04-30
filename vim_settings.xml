@@ -746,7 +746,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493571698190">
+      <file name="/Dummy.txt" timestamp="1493572707233">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -949,17 +949,23 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/articles_controller_spec.rb" timestamp="1493568264204">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/articles_controller_spec.rb" timestamp="1493572865395">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/job_file_file_name.rb" timestamp="1491402336250">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/sidebar/articles_controller_spec.rb" timestamp="1493572976763">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_course_article_decorator.rb" timestamp="1486785172151">
         <mark key="[" line="70" column="16" />
@@ -1235,8 +1241,8 @@
         <mark key="^" line="38" column="79" />
         <mark key="." line="40" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/factories/articles.rb" timestamp="1493569030489">
-        <mark key="'" line="75" column="21" />
+      <file name="$USER_HOME$/projects/value_press/spec/factories/articles.rb" timestamp="1493572744134">
+        <mark key="'" line="71" column="13" />
         <mark key="[" line="77" column="347" />
         <mark key="]" line="77" column="366" />
         <mark key="^" line="77" column="366" />
@@ -3191,8 +3197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="28" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
-      <jump line="185" column="28" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
       <jump line="264" column="28" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
       <jump line="343" column="28" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
       <jump line="422" column="28" filename="$USER_HOME$/projects/value_press/db/seeds/user_account.rb" />
@@ -3291,6 +3295,8 @@
       <jump line="426" column="23" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/pressrelease.php" />
       <jump line="248" column="23" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
+      <jump line="137" column="2" filename="$USER_HOME$/projects/value_press/spec/factories/articles.rb" />
+      <jump line="71" column="13" filename="$USER_HOME$/projects/value_press/spec/factories/articles.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5900,34 +5906,28 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">LCBzZW5kX2RhdGU6IA==</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>send</text>
       </register>
       <register name="0" type="4">
-        <text>data_attachments.map { |data_attachment|  data_attachment.url }</text>
+        <text>response.body</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICMgWwogICAgICAgICMgICBwaWNfbmFtZTEsCiAgICAgICAgIyAgIHBpY19uYW1lMiwKICAgICAgICAjICAgcGljX25hbWUzCiAgICAgICAgIyBdLm1hcCBkbyB8cGljX25hbWV8CiAgICAgICAgIyAgIGlmIHBpY19uYW1lLmJsYW5rPwogICAgICAgICMgICAgIG5pbAogICAgICAgICMgICBlbHNlCiAgICAgICAgIyAgICAgaW1hZ2VfYXR0YWNobWVudD8ocGljX25hbWUpID8gcGljX25hbWUudXJsIDogbmlsCiAgICAgICAgIyAgIGVuZAogICAgICAgICMgZW5kLmNvbXBhY3QKICAgICAgICAjIFRPRE86IG1vdW50X3VwbG9hZGVy5YG044GM5pyq5a6f6KOF44Gq44Gu44Gn44CB57WE44G/6L6844G/44Gu44Gf44KB44Go44KK44GC44GI44Ga56m66YWN5YiX44KS6L+U44GZ</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaXQgJycgZG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>file_datas.map do |pic_name|
-          if pic_name.blank?
-            nil
-          else
-            image_attachment?(pic_name) ? pic_name : nil
-          end
-        end.compact</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsZXQoOmFydGljbGUpIHsgY3JlYXRlKDphcnRpY2xlKSB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -6152,22 +6152,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNfbmFtZSA9fiAvXC4oanBlP2d8Z2lmfHBuZ3xKUEU/R3xHSUZ8UE5HKS8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGltYWdlX2F0dGFjaG1lbnQ/KHBpY19uYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6175,8 +6175,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iframe</entry>
-        <entry>paypal</entry>
         <entry>between_send_date</entry>
         <entry>send_</entry>
         <entry>uniqueness</entry>
@@ -6195,6 +6193,8 @@
         <entry>inq</entry>
         <entry>top_image</entry>
         <entry>logo</entry>
+        <entry>seq</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
