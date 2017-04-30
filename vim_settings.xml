@@ -943,11 +943,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/articles_controller_spec.rb" timestamp="1493565619576">
-        <mark key="[" line="77" column="32" />
-        <mark key="]" line="77" column="32" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/articles_controller_spec.rb" timestamp="1493566208659">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="76" column="39" />
-        <mark key="." line="77" column="32" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/job_file_file_name.rb" timestamp="1491402336250">
         <mark key="[" line="0" column="29" />
@@ -1484,6 +1484,12 @@
         <mark key="]" line="13" column="89" />
         <mark key="^" line="13" column="89" />
         <mark key="." line="13" column="89" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/spec/models/article_spec.rb" timestamp="1493566270763">
+        <mark key="[" line="111" column="12" />
+        <mark key="]" line="111" column="23" />
+        <mark key="^" line="111" column="23" />
+        <mark key="." line="111" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/validators/dt_validator.rb" timestamp="1488818233367">
         <mark key="[" line="7" column="18" />
@@ -5905,19 +5911,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwIHJlc3BvbnNlLmJvZHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6139,15 +6145,15 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwIHJlc3BvbnNlLmJvZHkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if ENV['DEFAULT_URL_OPTIONS'].present?
     config.action_mailer.default_url_options= { host: ENV['DEFAULT_URL_OPTIONS'] || 'test.localhost:3000' }
   end</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
