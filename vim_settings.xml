@@ -718,7 +718,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493706844300">
+      <file name="/Dummy.txt" timestamp="1493709151810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -896,6 +896,12 @@
         <mark key="." line="209" column="6" />
         <mark key="^" line="209" column="64" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/vp_link_jump_counts_controller.rb" timestamp="1493709371457">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/articles/_show_footer_js__sidebar_ranking_pc.html.erb" timestamp="1490342779363">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -920,11 +926,10 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/sidebar/articles_controller_spec.rb" timestamp="1493572976763">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="22" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/sidebar/articles_controller_spec.rb" timestamp="1493708914583">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_course_article_decorator.rb" timestamp="1486785172151">
         <mark key="[" line="70" column="16" />
@@ -1232,6 +1237,9 @@
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/config/routes/bin.rb" timestamp="1493709167872">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/controllers/admin/uncreated_bitems_controller.rb" timestamp="1491326539302">
         <mark key="[" line="52" column="0" />
@@ -3035,7 +3043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="157" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="164" column="33" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="184" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -3135,6 +3142,7 @@
       <jump line="116" column="27" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/scopable.rb" />
       <jump line="141" column="0" filename="$USER_HOME$/projects/value_press/spec/models/article_spec.rb" />
       <jump line="150" column="15" filename="$USER_HOME$/projects/value_press/app/models/multiple_sending_to_user_accounts_of_published_at_yesterday_notification_mails.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/config/routes/bin.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5747,28 +5755,28 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>build_article_for_mail</text>
+        <text>link_cou</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjcmVhdGUoOmZpbGVfZGF0YSwgYXJ0aWNsZV9pZDogYXJ0aWNsZS5pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIHJlc3BvbnNlLmJvZHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGUoOmZpbGVfZGF0YSwgYXJ0aWNsZV9pZDogYXJ0aWNsZS5pZCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGUoOmZpbGVfZGF0YSwgYXJ0aWNsZV9pZDogYXJ0aWNsZS5pZCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwIHN1YmplY3QudXJsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -5990,10 +5998,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwIGZpbGVfZGF0YS5maWxlX25hbWUudXJsCg==</text>
+        <text encoding="base64">ICAgICAgICBwIHN1YmplY3QudXJsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIGZpbGVfZGF0YS5maWxlX25hbWUudXJsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -6003,9 +6011,9 @@
       </register>
     </registers>
     <search>
-      <last-search>build_article_for_mail</last-search>
+      <last-search>link_cou</last-search>
       <last-offset />
-      <last-pattern>build_article_for_mail</last-pattern>
+      <last-pattern>link_cou</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6013,7 +6021,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_record_fix</entry>
         <entry>file</entry>
         <entry>private</entry>
         <entry>content</entry>
@@ -6033,6 +6040,7 @@
         <entry>publish_only</entry>
         <entry>publish_</entry>
         <entry>build_article_for_mail</entry>
+        <entry>link_cou</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
