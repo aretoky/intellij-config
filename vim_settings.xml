@@ -715,7 +715,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493703752243">
+      <file name="/Dummy.txt" timestamp="1493705296936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -1420,6 +1420,13 @@
         <mark key="]" line="13" column="89" />
         <mark key="^" line="13" column="89" />
         <mark key="." line="13" column="89" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/spec/models/article_spec.rb" timestamp="1493705601781">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="154" column="17" />
+        <mark key="]" line="154" column="17" />
+        <mark key="^" line="154" column="26" />
+        <mark key="." line="154" column="17" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/validators/dt_validator.rb" timestamp="1488818233367">
         <mark key="[" line="7" column="18" />
@@ -3018,7 +3025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="13" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
       <jump line="55" column="37" filename="$USER_HOME$/projects/cplus/app/views/admin/custs/_main_form.html.slim" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
       <jump line="157" column="12" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
@@ -3118,6 +3124,7 @@
       <jump line="64" column="26" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/class_methodable.rb" />
       <jump line="76" column="26" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/class_methodable.rb" />
       <jump line="116" column="27" filename="$USER_HOME$/projects/value_press/app/models/concerns/article/scopable.rb" />
+      <jump line="141" column="0" filename="$USER_HOME$/projects/value_press/spec/models/article_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5727,13 +5734,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>.file_name</text>
       </register>
       <register name="/" type="4">
         <text>publish_</text>
       </register>
       <register name="0" type="4">
-        <text>db:schema:load</text>
+        <text>file_data.file_name</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
