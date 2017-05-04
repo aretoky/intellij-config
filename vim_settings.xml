@@ -686,6 +686,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/sidebar/jobs_controller_spec.rb" timestamp="1493887581773">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/factories/user_accounts.rb" timestamp="1491742217694">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="15" />
@@ -772,10 +778,6 @@
         <mark key="]" line="35" column="46" />
         <mark key="." line="35" column="46" />
         <mark key="^" line="35" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/api/socials_controller_spec.rb" timestamp="1493875616455">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/draft_stories_controller.rb" timestamp="1492683502736">
         <mark key="[" line="18" column="49" />
@@ -1040,6 +1042,11 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/sidebar/articles_controller_spec.rb" timestamp="1493887490370">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_course_article_decorator.rb" timestamp="1486785172151">
         <mark key="[" line="70" column="16" />
@@ -2576,10 +2583,6 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/models/article_model.php" timestamp="1493714183890">
-        <mark key="[" line="2071" column="34" />
-        <mark key="]" line="2071" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/user_accounts_controller.rb" timestamp="1491414886857">
         <mark key="[" line="27" column="86" />
         <mark key="]" line="27" column="86" />
@@ -2778,11 +2781,11 @@
         <mark key="^" line="117" column="24" />
         <mark key="." line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/sidebar/jobs_controller.rb" timestamp="1493815473105">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/sidebar/jobs_controller.rb" timestamp="1493887417187">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="8" column="17" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/economy_course_article_decorator.rb" timestamp="1486784640072">
         <mark key="[" line="72" column="10" />
@@ -6158,31 +6161,49 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>staff</text>
+        <text>sidebar</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgc2Vzc2lvblsibWVkaXVtX3Nlc3Npb24iXSA9IHt9CiAgICAgIHNlc3Npb25bIm1lZGl1bV9zZXNzaW9uIl1bIm5vX21lZGl1bSJdID0gbWVkaXVtLmlkCiAgICAgIHNlc3Npb25bIm1lZGl1bV9zZXNzaW9uIl1bImV4cGlyZWRfYXQiXSA9IDFfMjA5XzYwMAog</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc3ViamVjdCB7IGdldCA6aW5kZXgsIHBhcmFtczogcGFyYW1zIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgc3ViamVjdCB7IGdldCA6aW5kZXggfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgc3ViamVjdCB7IGdldCA6aW5kZXgsIHBhcmFtczogcGFyYW1zIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb25bImFkbWluX3Nlc3Npb24iXVsiZXhwaXJlZF9hdCJdID0gMV8yMDlfNjAwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb25bImFkbWluX3Nlc3Npb24iXVsibm9fc3RhZmYiXSA9IHN0YWZmLmlkCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb25bImFkbWluX3Nlc3Npb24iXSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgIGRlCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>it { expect(subject).to render_template :access_ranking }
+
+    describe 'body' do
+      before do
+        subject
+      end
+
+      it 'bodyに&quot;本件に関するお問い合わせ先&quot;という記述がないこと' do
+        expect(response.body).not_to include('本件に関するお問い合わせ先')
+      end
+    end
+
+  end
+
+  describe '#cheer_ranking' do
+    subject { get :cheer_ranking }
+
+    it { expect(subject).to render_template :cheer_ranking }
+  end</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6407,10 +6428,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAogIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
