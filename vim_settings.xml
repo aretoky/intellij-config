@@ -73,7 +73,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/models/job_file_spec.rb" timestamp="1491937665771">
+      <file name="$USER_HOME$/projects/value_press/spec/models/job_file_spec.rb" timestamp="1493888253625">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="33" column="10" />
         <mark key="." line="32" column="120" />
@@ -686,11 +686,11 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/spec/controllers/sidebar/jobs_controller_spec.rb" timestamp="1493887581773">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/projects/value_press/spec/controllers/sidebar/jobs_controller_spec.rb" timestamp="1493888349329">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/factories/user_accounts.rb" timestamp="1491742217694">
         <mark key="[" line="21" column="11" />
@@ -821,7 +821,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493883821744">
+      <file name="/Dummy.txt" timestamp="1493888239210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -2154,11 +2154,11 @@
         <mark key="." line="80" column="49" />
         <mark key="^" line="80" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/sidebar/jobs/bottombar.html.erb" timestamp="1493815926728">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="57" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="155" />
+      <file name="$USER_HOME$/projects/value_press/app/views/sidebar/jobs/bottombar.html.erb" timestamp="1493888471178">
+        <mark key="[" line="7" column="75" />
+        <mark key="]" line="7" column="96" />
+        <mark key="." line="7" column="96" />
+        <mark key="^" line="7" column="96" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/articles/access_analytics_datas_controller.rb" timestamp="1490160024968">
         <mark key="[" line="2" column="0" />
@@ -2781,11 +2781,11 @@
         <mark key="^" line="117" column="24" />
         <mark key="." line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/sidebar/jobs_controller.rb" timestamp="1493887417187">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/sidebar/jobs_controller.rb" timestamp="1493888495473">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="18" column="63" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/economy_course_article_decorator.rb" timestamp="1486784640072">
         <mark key="[" line="72" column="10" />
@@ -3358,11 +3358,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/routes/sidebar.rb" timestamp="1493815314569">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="10" column="63" />
-        <mark key="." line="10" column="49" />
+      <file name="$USER_HOME$/projects/value_press/config/routes/sidebar.rb" timestamp="1493887942114">
+        <mark key="[" line="10" column="65" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/models/magagine.rb" timestamp="1486957644507">
         <mark key="[" line="13" column="11" />
@@ -6161,49 +6161,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>sidebar</text>
+        <text>?=h($job['top_img']);?</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3ViamVjdCB7IGdldCA6aW5kZXgsIHBhcmFtczogcGFyYW1zIH0K</text>
+      <register name="0" type="4">
+        <text>ValuePress::StringEscapeUtil::num_to_str(params[:hash], '123456')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3ViamVjdCB7IGdldCA6aW5kZXggfQo=</text>
+        <text encoding="base64">ICAgICAgIyBAbW9kZSA9IHJlcXVlc3QucGF0aC5zcGxpdCgnLycpLmZpcnN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3ViamVjdCB7IGdldCA6aW5kZXgsIHBhcmFtczogcGFyYW1zIH0K</text>
+        <text encoding="base64">ICAgICAgICBwIEBtb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>it { expect(subject).to render_template :access_ranking }
-
-    describe 'body' do
-      before do
-        subject
-      end
-
-      it 'bodyに&quot;本件に関するお問い合わせ先&quot;という記述がないこと' do
-        expect(response.body).not_to include('本件に関するお問い合わせ先')
-      end
-    end
-
-  end
-
-  describe '#cheer_ranking' do
-    subject { get :cheer_ranking }
-
-    it { expect(subject).to render_template :cheer_ranking }
-  end</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY3JlYXRlKDphcnRpY2xlLCBzZW5kX2RhdGU6IDEuZGF5LmFnbykK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6425,13 +6407,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDEwLnRpbWVzLmVhY2ggZG8gfGl8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBiZWZvcmUgZG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
