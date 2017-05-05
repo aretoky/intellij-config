@@ -403,12 +403,12 @@
         <mark key="^" line="157" column="74" />
         <mark key="." line="157" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1494000077821">
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1494004207869">
         <mark key="'" line="49" column="24" />
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
+        <mark key="[" line="152" column="33" />
+        <mark key="]" line="153" column="26" />
+        <mark key="^" line="153" column="26" />
+        <mark key="." line="153" column="26" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app.json" timestamp="1491757790190">
         <mark key="[" line="11" column="144" />
@@ -2871,7 +2871,8 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1493910711381">
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1494005827768">
+        <mark key="'" line="97" column="11" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="67" />
         <mark key="^" line="57" column="65" />
@@ -3083,12 +3084,12 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1493998411746">
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1494005035361">
         <mark key="'" line="62" column="21" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="23" />
+        <mark key="[" line="61" column="72" />
+        <mark key="]" line="61" column="72" />
+        <mark key="." line="61" column="72" />
+        <mark key="^" line="59" column="4" />
       </file>
       <file name="$USER_HOME$/projects/umareso/spec/support/controller_macros.rb" timestamp="1493637045390">
         <mark key="[" line="4" column="0" />
@@ -3344,12 +3345,11 @@
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1494001219896">
         <mark key="'" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/file_data.rb" timestamp="1493999663828">
-        <mark key="'" line="53" column="10" />
-        <mark key="[" line="56" column="7" />
-        <mark key="]" line="59" column="51" />
-        <mark key="^" line="59" column="51" />
-        <mark key="." line="59" column="51" />
+      <file name="$USER_HOME$/projects/value_press/app/models/file_data.rb" timestamp="1494004549496">
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="63" column="39" />
+        <mark key="." line="63" column="39" />
+        <mark key="^" line="63" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/helpers/init_set_helper.php" timestamp="1493998953262" />
       <file name="$USER_HOME$/projects/cplus/app/models/mplan/plan_validator.rb" timestamp="1486344827225">
@@ -3519,12 +3519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="32" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/value_press/spec/controllers/callbacks/articles_controller_show_before_callback_spec.rb" />
-      <jump line="115" column="27" filename="$USER_HOME$/projects/value_press/spec/controllers/callbacks/articles_controller_show_before_callback_spec.rb" />
-      <jump line="191" column="11" filename="$USER_HOME$/projects/value_press/spec/controllers/callbacks/articles_controller_show_before_callback_spec.rb" />
-      <jump line="153" column="12" filename="$USER_HOME$/projects/value_press/spec/controllers/callbacks/articles_controller_show_before_callback_spec.rb" />
-      <jump line="4" column="16" filename="$USER_HOME$/projects/value_press/app/models/job.rb" />
       <jump line="6" column="3" filename="$USER_HOME$/projects/value_press/app/models/job.rb" />
       <jump line="178" column="155" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="179" column="155" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
@@ -3619,6 +3613,12 @@
       <jump line="20" column="21" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="7" column="18" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="35" column="16" filename="$USER_HOME$/projects/value_press/app/models/file_data.rb" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
+      <jump line="90" column="37" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
+      <jump line="94" column="21" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
+      <jump line="97" column="11" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6228,31 +6228,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsZV9uYW1lX29yZyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>co</text>
+        <text>model</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8JT0gZi5oaWRkZW5fZmllbGQgOmZpbGVfbmFtZSAlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8JT0gZi5oaWRkZW5fZmllbGQgOmlkICU+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAg4pag44K144Kk44K677ya5pyA5aSnPCU9ICU+TUIv44OV44Kh44Kk44OrPGJyLz4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZWxlZ2F0ZSA6dXNlcl9hY2NvdW50X2lkLCB0bzogOmFydGljbGUK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOnVzZXJfYWNjb3VudF9pZCwgOmludGVnZXIK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAlPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PWVuZAo=</text>
+        <text encoding="base64">ICA8JT0gZi5oaWRkZW5fZmllbGQgOmlkICU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAg4pag44K144Kk44K677ya5pyA5aSnPCU9ICU+TUIv44OV44Kh44Kk44OrPGJyLz4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6473,23 +6473,23 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iYXJ0aWNsZVthdHRhY2htZW50XVtmaWxlX3R5cGVdW10iIHZhbHVlPSI8Pz0gJGFydGljbGVbJ2F0dGFjaG1lbnQnXVsnZmlsZV90eXBlJ11bJGldID8+IiAvPgogIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImFydGljbGVbYXR0YWNobWVudF1bdXJsXVtdIiB2YWx1ZT0iPD89ICRhcnRpY2xlWydhdHRhY2htZW50J11bJ3VybCddWyRpXSA/PiIgLz4KICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJhcnRpY2xlW2F0dGFjaG1lbnRdW2ZpbGVfbmFtZV1bXSIgdmFsdWU9Ijw/PSAkYXJ0aWNsZVsnYXR0YWNobWVudCddWydmaWxlX25hbWUnXVskaV0gPz4iIC8+CiAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iYXJ0aWNsZVthdHRhY2htZW50XVtmaWxlX25hbWVfb3JnXVtdIiB2YWx1ZT0iPD89ICRhcnRpY2xlWydhdHRhY2htZW50J11bJ2ZpbGVfbmFtZV9vcmcnXVskaV0gPz4iIC8+</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAlPgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JT0gcmVuZGVyIHBhcnRpYWw6ICdmaWxlX2RhdGFfZmllbGQnLCBjb2xsZWN0aW9uOiBAYXJ0aWNsZS5maWxlX2RhdGFzICU+Cg==</text>
+        <text encoding="base64">PWVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>co</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>co</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6497,8 +6497,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set_a</entry>
-        <entry>set_article</entry>
         <entry>show</entry>
         <entry>acc</entry>
         <entry>pre</entry>
@@ -6517,6 +6515,8 @@
         <entry>ed_attachment_tmpl</entry>
         <entry>addAttachement</entry>
         <entry>co</entry>
+        <entry>user_account_id</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
