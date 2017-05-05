@@ -422,6 +422,12 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" timestamp="1493978356184">
+        <mark key="[" line="110" column="54" />
+        <mark key="]" line="110" column="42" />
+        <mark key="." line="110" column="42" />
+        <mark key="^" line="110" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/application_controller.rb" timestamp="1490861410028">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="53" />
@@ -6211,7 +6217,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>:action_name,</text>
+        <text>if @article.blank?</text>
       </register>
       <register name="/" type="4">
         <text>action</text>
