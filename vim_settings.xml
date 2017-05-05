@@ -2142,11 +2142,11 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/temporary_upload_file.rb" timestamp="1494010847467">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="27" />
+      <file name="$USER_HOME$/projects/value_press/app/models/temporary_upload_file.rb" timestamp="1494011595624">
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/models/postal_spec.rb" timestamp="1492755008818">
         <mark key="'" line="55" column="28" />
@@ -2519,12 +2519,12 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" timestamp="1494010725841">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="89" column="29" />
-        <mark key="]" line="89" column="39" />
-        <mark key="." line="85" column="29" />
-        <mark key="^" line="85" column="29" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" timestamp="1494011884505">
+        <mark key="'" line="46" column="22" />
+        <mark key="[" line="62" column="6" />
+        <mark key="]" line="62" column="6" />
+        <mark key="^" line="62" column="32" />
+        <mark key="." line="62" column="6" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/application/_month_calender.html.erb" timestamp="1487237341179">
         <mark key="[" line="0" column="56" />
@@ -3080,11 +3080,11 @@
         <mark key="." line="45" column="3" />
         <mark key="^" line="45" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/temporary_legacy_file_uploaderable.rb" timestamp="1494009652498">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="40" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/temporary_legacy_file_uploaderable.rb" timestamp="1494011149435">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/original_course_article.rb" timestamp="1486748340739">
         <mark key="[" line="71" column="8" />
@@ -3563,9 +3563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="155" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="185" column="155" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
-      <jump line="314" column="56" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="1" column="6" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
       <jump line="6" column="25" filename="$USER_HOME$/projects/value_press/config/routes.rb" />
@@ -3663,6 +3660,9 @@
       <jump line="5" column="6" filename="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" />
       <jump line="6" column="8" filename="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" />
       <jump line="0" column="29" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/api/upload.php" />
+      <jump line="65" column="22" filename="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" />
+      <jump line="46" column="22" filename="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6272,31 +6272,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">cmVzID0g</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>user_ac</text>
       </register>
       <register name="0" type="4">
-        <text>Uploadしました。</text>
+        <text>model.to_result_array</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGVmIHJlc19wYXJhbXMKICAgICAgewogICAgICAgIHN0YXR1czogMCwKICAgICAgICBtZXNzYWdlOiAnJywKICAgICAgICBmaWxlcGF0aDogJycsCiAgICAgICAgZmlsZW5hbWU6ICcnLAogICAgICAgIG9yZ19maWxlbmFtZTogJycsCiAgICAgICAgdHlwZTogJycKICAgICAgfQogICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzID0gcmVzX3BhcmFtcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBtb2RlbC50b19yZXN1bHRfYXJyYXkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6518,22 +6518,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBtb2RlbC50b19yZXN1bHRfYXJyYXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXNbOm1lc3NhZ2VdID0gJ+ODleOCoeOCpOODq+OBjOaMh+WumuOBleOCjOOBpuOBhOOBvuOBm+OCk+OAgicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOODpuODvOOCtuODvOaDheWgseOBjOOBquOBhOWgtOWQiOOBruWHpueQhuOBquOBruOBp+ODoeODg+OCu+ODvOOCuOWGheWuueOBjOOBiuOBi+OBl+OBhOOBi+OCggo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>user_ac</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>user_ac</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6541,7 +6541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rspec</entry>
         <entry>prev</entry>
         <entry>relation</entry>
         <entry>redi</entry>
@@ -6561,6 +6560,7 @@
         <entry>params[:release]</entry>
         <entry>release</entry>
         <entry>image</entry>
+        <entry>user_ac</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
