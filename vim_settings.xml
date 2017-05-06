@@ -2923,8 +2923,8 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1494005827768">
-        <mark key="'" line="97" column="11" />
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" timestamp="1494068671253">
+        <mark key="'" line="92" column="25" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="67" />
         <mark key="^" line="57" column="65" />
@@ -3147,12 +3147,12 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1494068069076">
+      <file name="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" timestamp="1494068779810">
         <mark key="'" line="22" column="9" />
-        <mark key="[" line="61" column="72" />
-        <mark key="]" line="61" column="72" />
-        <mark key="." line="61" column="72" />
-        <mark key="^" line="59" column="4" />
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="49" column="33" />
       </file>
       <file name="$USER_HOME$/projects/umareso/spec/support/controller_macros.rb" timestamp="1493637045390">
         <mark key="[" line="4" column="0" />
@@ -3579,8 +3579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="18" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
-      <jump line="662" column="22" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_entry.php" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/value_press/app/models/article.rb" />
       <jump line="465" column="52" filename="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_form__js.html.erb" />
       <jump line="673" column="12" filename="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_form__js.html.erb" />
@@ -3679,6 +3677,8 @@
       <jump line="12" column="67" filename="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" />
       <jump line="20" column="35" filename="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" />
       <jump line="22" column="9" filename="$USER_HOME$/projects/value_press/app/uploaders/file_data_file_name_uploader.rb" />
+      <jump line="2" column="6" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
+      <jump line="92" column="25" filename="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_abstract_uploader.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6288,31 +6288,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>.filename</text>
+        <text>'article_tmp'</text>
       </register>
       <register name="/" type="4">
-        <text>tmp</text>
+        <text>general</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3Ryb25nX2F0dGFjaG1lbnRfcGFyYW1ldGVyID0geyBmaWxlX3R5cGU6IFtdLCB1cmw6IFtdLCBmaWxlX25hbWU6IFtdLCBmaWxlX25hbWVfb3JnOiBbXSB9Cg==</text>
+      <register name="0" type="4">
+        <text>temp_file_mode? ? 'article_tmp' : 'article'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcCBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgcCBhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcCBwYXJhbXMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgYQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcCBwYXJhbXMK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6534,22 +6534,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuc3VyZQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVuc3VyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>tmp</last-search>
+      <last-search>general</last-search>
       <last-offset />
-      <last-pattern>tmp</last-pattern>
+      <last-pattern>general</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6557,8 +6557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>confirm</entry>
-        <entry>attri</entry>
         <entry>previ</entry>
         <entry>charCou</entry>
         <entry>charCount</entry>
@@ -6577,6 +6575,8 @@
         <entry>attachment</entry>
         <entry>atta</entry>
         <entry>tmp</entry>
+        <entry>file_type</entry>
+        <entry>general</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
