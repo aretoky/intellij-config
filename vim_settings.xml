@@ -95,12 +95,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1494093415645">
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/user_editable.rb" timestamp="1494094909187">
         <mark key="'" line="79" column="19" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="146" column="42" />
-        <mark key="." line="147" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/article/methodable.rb" timestamp="1494057688329">
         <mark key="'" line="115" column="13" />
@@ -271,6 +270,12 @@
       <file name="$USER_HOME$/projects/value_press/config/routes.rb" timestamp="1493911918885">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/spec/models/article_spec.rb" timestamp="1493805118829">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/job.rb" timestamp="1493911531374">
         <mark key="'" line="6" column="3" />
         <mark key="[" line="71" column="69" />
@@ -340,11 +345,11 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_file_data_field.html.erb" timestamp="1494076001371">
-        <mark key="[" line="28" column="78" />
-        <mark key="]" line="28" column="78" />
-        <mark key="^" line="29" column="58" />
-        <mark key="." line="28" column="78" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_file_data_field.html.erb" timestamp="1494095075384">
+        <mark key="[" line="28" column="79" />
+        <mark key="]" line="28" column="83" />
+        <mark key="^" line="28" column="83" />
+        <mark key="." line="28" column="83" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/temporary_upload_file.rb" timestamp="1494012331328">
         <mark key="[" line="0" column="18" />
@@ -3363,31 +3368,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>file_data.file_name.file.to_file</text>
       </register>
       <register name="/" type="4">
         <text>uploader_cache</text>
       </register>
       <register name="0" type="4">
-        <text>a['file_name_org'][i]</text>
+        <text>a['file_name'][i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlX3NhdmUgOmRlc3Ryb3lfYXR0YWNobWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX2RhdGEuZmlsZV9uYW1lX29yZyA9IGFbJ2ZpbGVfbmFtZV9vcmcnXVtpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbGVfbmFtZV9vcmc6IGFbJ2ZpbGVfbmFtZV9vcmcnXVtpXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcCBAaW5zdGFuY2UuZmlsZV9uYW1lCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGRlZiBkZXN0cm95X2F0dGFjaG1lbnQKICAgICAgcmV0dXJuIGlmIGF0dGFjaG1lbnRfdXBkYXRlLnRvX2kgPT0gMAoKCiAgICBlbmQ=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcCB1cGxvYWRlcl9jYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX2RhdGEuZGVzdHJveSAgaWYgZmlsZV9kYXRhLnBlcnNpc3RlZD8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIGFbJ2ZpbGVfbmFtZSddW2ldCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3609,13 +3614,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBwIGZpbGVfZGF0YQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBpbnN0YW5jZS51cGxvYWRlcl9jYWNoZQo=</text>
+      <register name="8" type="4">
+        <text>file_datas.each do |file_data|
+        file_data.mark_for_destruction  if file_data.persisted?
+      end</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgdXBsb2FkZXJfY2FjaGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
