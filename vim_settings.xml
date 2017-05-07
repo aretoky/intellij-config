@@ -108,10 +108,10 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_option.php" timestamp="1494160071435">
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_option.php" timestamp="1494162041105">
         <mark key="'" line="269" column="38" />
-        <mark key="[" line="251" column="34" />
-        <mark key="]" line="251" column="43" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="129" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/sidebar/articles/_ranking_article.html.erb" timestamp="1493571696491">
         <mark key="[" line="6" column="39" />
@@ -291,8 +291,8 @@
         <mark key="^" line="79" column="29" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" timestamp="1494151687897">
-        <mark key="'" line="188" column="6" />
+      <file name="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" timestamp="1494161726455">
+        <mark key="'" line="5" column="61" />
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="27" />
         <mark key="." line="11" column="17" />
@@ -671,12 +671,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/option_premium.rb" timestamp="1494160165925">
+      <file name="$USER_HOME$/projects/value_press/app/models/option_premium.rb" timestamp="1494161876002">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
-        <mark key="^" line="39" column="34" />
+        <mark key="[" line="133" column="4" />
+        <mark key="]" line="133" column="9" />
+        <mark key="." line="133" column="9" />
+        <mark key="^" line="133" column="9" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_media_feed_decorator.rb" timestamp="1493561116109">
         <mark key="[" line="6" column="0" />
@@ -2881,11 +2881,11 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/common_supportable.rb" timestamp="1494160190126">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="6" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/common_supportable.rb" timestamp="1494161896895">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/economy_course_articles_controller.rb" timestamp="1494076072716">
         <mark key="[" line="14" column="86" />
@@ -3053,11 +3053,11 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable.rb" timestamp="1494161066176">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="42" column="64" />
-        <mark key="." line="42" column="64" />
-        <mark key="^" line="42" column="64" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable.rb" timestamp="1494162140666">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="123" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/requests/support/signin_macros.rb" timestamp="1493803162828">
         <mark key="[" line="3" column="133" />
@@ -3206,8 +3206,8 @@
         <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/projects/bitstar/spec/features/admins/videos_spec.rb" timestamp="1493801416192" />
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" timestamp="1494156690056">
-        <mark key="'" line="337" column="30" />
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" timestamp="1494161227079">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1493636112634">
         <mark key="[" line="13" column="55" />
@@ -3388,8 +3388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="15" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" />
-      <jump line="69" column="4" filename="$USER_HOME$/sandbox/vp_main_system/application/views/parts/drop_upload_view.php" />
       <jump line="1" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/views/parts/drop_upload_view.php" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" />
       <jump line="129" column="90" filename="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" />
@@ -3464,7 +3462,6 @@
       <jump line="42" column="0" filename="$USER_HOME$/projects/value_press/app/models/option_premium.rb" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/value_press/app/models/commodity_price.rb" />
       <jump line="332" column="19" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
       <jump line="113" column="72" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
       <jump line="114" column="82" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
       <jump line="193" column="72" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
@@ -3488,6 +3485,9 @@
       <jump line="291" column="8" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_option.php" />
       <jump line="265" column="20" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_option.php" />
       <jump line="269" column="38" filename="$USER_HOME$/sandbox/vp_main_system/application/libraries/Vp_option.php" />
+      <jump line="173" column="106" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
+      <jump line="5" column="61" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6097,19 +6097,19 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>ion</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>charge</text>
+        <text>location</text>
       </register>
       <register name="0" type="4">
-        <text>ValuePress::SkypeNoticeUtil.notice_to_skype(message.join(&quot;\n&quot;), skype_id, request)</text>
+        <text>'%s様の%s受付時にオプション料金の消化(%s円)に失敗しました。手動で残高の消化を行ってください。'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjJG1lc3NhZ2UgPSAkdGhpcy0+X0NJLT51c2VyLT5kYXRhLT5uYW1lLifvvIjkvIHmpa1pZO+8micuJHRoaXMtPl9DSS0+dXNlci0+ZGF0YS0+dXNlcl9hY2NvdW50X2lkLifvvInjgYwnLiRmcm9tLifjga4nLiRjb3Vyc2UuJ+OBq+eUs+OBl+i+vOOBv+OBvuOBl+OBn+OAgic7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -6118,10 +6118,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEkxOG4udCgnZW51bWVyaXplLmFydGljbGUub3B0aW9uX25hbWUucHJlbWl1bScpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6343,22 +6343,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmljZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6Y291cnNlLCBwcmVuc2VjZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>charge</last-search>
+      <last-search>location</last-search>
       <last-offset />
-      <last-pattern>charge</last-pattern>
+      <last-pattern>location</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6366,7 +6366,6 @@
     </search>
     <history>
       <history-search>
-        <entry>option_premium</entry>
         <entry>responsible_name</entry>
         <entry>telephone</entry>
         <entry>drop</entry>
@@ -6386,6 +6385,7 @@
         <entry>change</entry>
         <entry>get_default_value</entry>
         <entry>charge</entry>
+        <entry>location</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
