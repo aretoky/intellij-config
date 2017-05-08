@@ -2240,12 +2240,12 @@
         <mark key="." line="7" column="86" />
         <mark key="^" line="7" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" timestamp="1494242650698">
-        <mark key="'" line="34" column="36" />
-        <mark key="[" line="365" column="39" />
-        <mark key="]" line="365" column="38" />
-        <mark key="^" line="365" column="38" />
-        <mark key="." line="365" column="38" />
+      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" timestamp="1494243699886">
+        <mark key="'" line="283" column="16" />
+        <mark key="[" line="356" column="13" />
+        <mark key="]" line="363" column="12" />
+        <mark key="^" line="363" column="12" />
+        <mark key="." line="363" column="12" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/payment_history/option_creator.rb" timestamp="1494160831501">
         <mark key="[" line="27" column="32" />
@@ -3625,7 +3625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="6" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="337" column="14" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="64" column="4" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="82" column="29" filename="$USER_HOME$/projects/umareso/Gemfile" />
@@ -3725,6 +3724,7 @@
       <jump line="8" column="96" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="7" column="57" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="34" column="36" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
+      <jump line="283" column="16" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6339,26 +6339,26 @@
       <register name="/" type="4">
         <text>G_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGluZGV4MSk7Cg==</text>
+      <register name="0" type="4">
+        <text>a[index1]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">dmFyIGQxID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGQyID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgICAgICAgICBpZiAoZDIgLSBkMSA+IDUwMDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZ1bmN0aW9uKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYVtpbmRleDFdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzZWxmKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW5kZXgxKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2VsZiA9IHRoaXM7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">dmFyIGQxID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIHZhciBkMiA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICAgICBpZiAoZDIgLSBkMSA+IDUwMDApIHsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dmFyIGMgPSBhW2luZGV4MV07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoYy5zaXplID4gYi5vcHRzLmltYWdlTWF4U2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbyh6YSksICExOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGIub3B0cy5pbWFnZUFsbG93ZWRUeXBlcy5pbmRleE9mKGMudHlwZS5yZXBsYWNlKC9pbWFnZVwvL2csICIiKSkgPCAwKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBvKEFhKSwgITE7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChiLmRyYWdfc3VwcG9ydC5mb3JtZGF0YSAmJiAoZCA9IGIuZHJhZ19zdXBwb3J0LmZvcm1kYXRhID8gbmV3IEZvcm1EYXRhIDogbnVsbCksIGQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoYi5vcHRzLmltYWdlVXBsb2FkVG9TMyAhPT0gITEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZC5hcHBlbmQoImtleSIsIGIub3B0cy5pbWFnZVVwbG9hZFRvUzMua2V5U3RhcnQgKyAobmV3IERhdGUpLmdldFRpbWUoKSArICItIiArIChjLm5hbWUgfHwgInVudGl0bGVkIikpLCBkLmFwcGVuZCgic3VjY2Vzc19hY3Rpb25fc3RhdHVzIiwgIjIwMSIpLCBkLmFwcGVuZCgiWC1SZXF1ZXN0ZWQtV2l0aCIsICJ4aHIiKSwgZC5hcHBlbmQoIkNvbnRlbnQtVHlwZSIsIGMudHlwZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoZSBpbiBiLm9wdHMuaW1hZ2VVcGxvYWRUb1MzLnBhcmFtcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGIub3B0cy5pbWFnZVVwbG9hZFRvUzMucGFyYW1zLmhhc093blByb3BlcnR5KGUpICYmIGQuYXBwZW5kKGUsIGIub3B0cy5pbWFnZVVwbG9hZFRvUzMucGFyYW1zW2VdKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGUgaW4gYi5vcHRzLmltYWdlVXBsb2FkUGFyYW1zKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiLm9wdHMuaW1hZ2VVcGxvYWRQYXJhbXMuaGFzT3duUHJvcGVydHkoZSkgJiYgZC5hcHBlbmQoZSwgYi5vcHRzLmltYWdlVXBsb2FkUGFyYW1zW2VdKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkLmFwcGVuZChiLm9wdHMuaW1hZ2VVcGxvYWRQYXJhbSwgYyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGYgPSBiLm9wdHMuaW1hZ2VVcGxvYWRVUkw7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYi5vcHRzLmltYWdlVXBsb2FkVG9TMyAmJiAoZiA9ICJodHRwczovLyIgKyBiLm9wdHMuaW1hZ2VVcGxvYWRUb1MzLnJlZ2lvbiArICIuYW1hem9uYXdzLmNvbS8iICsgYi5vcHRzLmltYWdlVXBsb2FkVG9TMy5idWNrZXQpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZyA9IGIuY29yZS5nZXRYSFIoZiwgYi5vcHRzLmltYWdlVXBsb2FkTWV0aG9kKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGKGcsIGQsIGMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6580,13 +6580,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGluZGV4MSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzZWxmKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGluZGV4MSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2VsZiA9IHRoaXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
