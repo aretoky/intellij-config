@@ -2246,12 +2246,12 @@
         <mark key="." line="7" column="86" />
         <mark key="^" line="7" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" timestamp="1494247650612">
-        <mark key="'" line="221" column="36" />
-        <mark key="[" line="333" column="149" />
-        <mark key="]" line="334" column="32" />
+      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" timestamp="1494249171833">
+        <mark key="'" line="334" column="33" />
+        <mark key="[" line="373" column="45" />
+        <mark key="]" line="373" column="46" />
         <mark key="^" line="334" column="32" />
-        <mark key="." line="334" column="32" />
+        <mark key="." line="373" column="46" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/payment_history/option_creator.rb" timestamp="1494160831501">
         <mark key="[" line="27" column="32" />
@@ -3631,7 +3631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="29" filename="$USER_HOME$/projects/umareso/Gemfile" />
       <jump line="38" column="12" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="161" column="22" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="164" column="65" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
@@ -3731,6 +3730,7 @@
       <jump line="283" column="16" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="222" column="55" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="221" column="36" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
+      <jump line="334" column="33" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6343,7 +6343,7 @@
         <text>296</text>
       </register>
       <register name="/" type="4">
-        <text>fr-old-src</text>
+        <text>setT</text>
       </register>
       <register name="0" type="4">
         <text>@story.published_at</text>
@@ -6599,9 +6599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fr-old-src</last-search>
+      <last-search>setT</last-search>
       <last-offset />
-      <last-pattern>fr-old-src</last-pattern>
+      <last-pattern>setT</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6609,7 +6609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>imageUploadMethod</entry>
         <entry>console</entry>
         <entry>before_up</entry>
         <entry>image.uploaded</entry>
@@ -6629,6 +6628,7 @@
         <entry>jquery</entry>
         <entry>G_</entry>
         <entry>fr-old-src</entry>
+        <entry>setT</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
