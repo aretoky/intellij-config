@@ -1645,11 +1645,11 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/db/migrate/20170417032110_add_image_on_magazine_and_story.rb" timestamp="1492412035963">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="2" column="36" />
+      <file name="$USER_HOME$/projects/umareso/db/migrate/20170417032110_add_image_on_magazine_and_story.rb" timestamp="1494224451163">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/article_prints_controller_spec.rb" timestamp="1487742288230">
         <mark key="[" line="24" column="0" />
@@ -3112,12 +3112,12 @@
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1493634924293">
-        <mark key="'" line="651" column="0" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="221" column="27" />
-        <mark key="." line="186" column="82" />
-        <mark key="^" line="186" column="82" />
+      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1494224685318">
+        <mark key="'" line="65" column="4" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="67" />
+        <mark key="." line="109" column="63" />
+        <mark key="^" line="109" column="63" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/interims/new.html.slim" timestamp="1489475420932">
         <mark key="[" line="6" column="0" />
@@ -3642,11 +3642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="58" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
-      <jump line="327" column="58" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
-      <jump line="55" column="13" filename="$USER_HOME$/projects/value_press/app/models/option_premium.rb" />
-      <jump line="346" column="28" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
-      <jump line="262" column="58" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
       <jump line="130" column="22" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" />
       <jump line="329" column="22" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
@@ -3742,6 +3737,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/v2_release.css.scss" />
       <jump line="18" column="34" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" />
       <jump line="7" column="8" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" />
+      <jump line="590" column="14" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
+      <jump line="655" column="81" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
+      <jump line="331" column="6" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
+      <jump line="337" column="14" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
+      <jump line="64" column="4" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6351,31 +6351,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>mizuno_ol.png</text>
       </register>
       <register name="/" type="4">
         <text>opa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCU9IGYuZnVsbF9lcnJvciA6bm90ZSAlPgo=</text>
+        <text encoding="base64">ICBjb3Zlcl9pbWFnZTogb3BlbigiI3tSYWlscy5yb290fS9hcHAvYXNzZXRzL2ltYWdlcy9haV9jdXQuanBlZyIpLAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">PGRpdiBpZD0iYXR0YWNobWVudCIgY2xhc3M9Iml0ZW1fYm94Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW1faGVhZGVyIGNsZWFyZml4Ij4KICAgICAgICAgICAgPGg0PuWOn+eov+S9nOaIkOeUqOizh+aWmTxzcGFuIGNsYXNzPSJyZXF1aXJlZF90aXRsZSI+PC9zcGFuPjwvaDQ+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW1fbWVzc2FnZSI+CiAgICAgICAgICAgIDwlPSBmLmZ1bGxfZXJyb3IgOnVwZmlsZV9tZXNzYWdlICU+CiAgICAgICAgICAgIDwlPSBmLmhpZGRlbl9maWVsZCA6dXBmaWxlX21lc3NhZ2UgJT4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPCU9IHJlbmRlciAnZHJvcF91cGxvYWRfZmllbGQnLCBmOiBmICU+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PWJlZ2luCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PCUK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">JT4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PWVuZAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PWVuZAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6597,13 +6597,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ym9keS5lZGl0X2FydGljbGVfYm9keSB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvIC8gSUUgOAo=</text>
+        <text encoding="base64">Ym9keS5lZGl0X2FydGljbGVfYm9keSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
