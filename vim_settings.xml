@@ -719,11 +719,10 @@
         <mark key="." line="17" column="90" />
         <mark key="^" line="17" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/inamts_controller.rb" timestamp="1494349814231">
-        <mark key="[" line="30" column="52" />
-        <mark key="]" line="30" column="73" />
-        <mark key="." line="30" column="73" />
-        <mark key="^" line="30" column="73" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/inamts_controller.rb" timestamp="1494381460687">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_premium.rb" timestamp="1494161876002">
         <mark key="'" line="42" column="0" />
@@ -1927,12 +1926,10 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/features/admin/inamts_spec.rb" timestamp="1494349846127">
-        <mark key="'" line="61" column="6" />
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="27" />
-        <mark key="." line="44" column="27" />
-        <mark key="^" line="44" column="27" />
+      <file name="$USER_HOME$/projects/cplus/spec/features/admin/inamts_spec.rb" timestamp="1494381412651">
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="2" />
+        <mark key="." line="42" column="2" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/factories/temp_ymdroom_factory.rb" timestamp="1487255895623">
         <mark key="[" line="17" column="51" />
@@ -6339,7 +6336,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>#{namespace_for_role}</text>
+        <text>admin_bills_path(last_search_query(&quot;#{namespace_for_role}/bills&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>expect</text>
@@ -6348,22 +6345,22 @@
         <text>#{namespace_for_role}/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbGxlcl9wYXRoCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIi8je2N1c3RvbV9jb250cm9sbGVyX25hbWV9Igo=</text>
+        <text encoding="base64">ICAgICAgYWRtaW5fZWxvZ19iYXRjaGJpbGxzX3BhdGgobGFzdF9zZWFyY2hfcXVlcnkoIiN7bmFtZXNwYWNlX2Zvcl9yb2xlfS9lbG9nL2JhdGNoYmlsbHMiKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBpZiBjdXN0b21fY29udHJvbGxlcl9uYW1lLnByZXNlbnQ/Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwIGN1cnJlbnRfdXJsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6585,13 +6582,33 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgcGFyYW1zWzpmcm9tXQo=</text>
+        <text encoding="base64">ICAgIGlmIHBhcmFtc1s6ZnJvbV0gIT0gJ2JhdGNoYmlsbHMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgc3VjY2Vzc19yZWRpcmVjdF9wYXRoCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>describe 'バッチ履歴ページから入金する' do
+    describe '入金後、バッチ履歴ページにリダイレクトする' do
+      let(:first_admin_elog_batchbills_index_path) { admin_elog_batchbills_path(b: 'fugafuga') }
+      let(:first_admin_bills_index_path) { admin_bills_path }
+      before do
+        sign_in_as_emp
+        visit first_admin_elog_batchbills_index_path
+        visit first_admin_bills_index_path
+        visit new_admin_bill_inamt_path(bill_id: bill.no_bill, from: 'batchbills')
+        click_button &quot;完納する&quot;
+        click_button &quot;確認する&quot;
+        click_button &quot;登録する&quot;
+      end
+
+      it 'バッチ履歴ページにクエリ付きでリダイレクトされること' do
+        u = URI.parse(current_url)
+        expect(&quot;#{u.path}?#{u.query}&quot;).to eq(first_admin_elog_batchbills_index_path)
+      end
+
+    end
+  end</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
