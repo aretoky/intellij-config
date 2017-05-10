@@ -112,7 +112,8 @@
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer/from_plan.rb" timestamp="1494385190175">
+      <file name="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer/from_plan.rb" timestamp="1494386073123">
+        <mark key="'" line="40" column="32" />
         <mark key="[" line="36" column="20" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
@@ -2803,6 +2804,9 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" timestamp="1494385897933">
+        <mark key="'" line="46" column="140" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/hpay.rb" timestamp="1488386238216">
         <mark key="[" line="35" column="16" />
         <mark key="]" line="35" column="32" />
@@ -3642,12 +3646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="16" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
-      <jump line="121" column="16" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
-      <jump line="128" column="22" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
-      <jump line="137" column="147" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
-      <jump line="139" column="77" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
-      <jump line="537" column="269" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="367" column="35" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="364" column="35" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="378" column="42" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
@@ -3742,6 +3740,12 @@
       <jump line="38" column="10" filename="$USER_HOME$/projects/cplus/spec/models/uncreated_bitem/destroyer/from_plan_spec.rb" />
       <jump line="61" column="27" filename="$USER_HOME$/projects/cplus/spec/models/uncreated_bitem/destroyer/from_plan_spec.rb" />
       <jump line="2" column="25" filename="$USER_HOME$/projects/cplus/spec/models/uncreated_bitem/destroyer/from_plan_spec.rb" />
+      <jump line="39" column="15" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
+      <jump line="43" column="30" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
+      <jump line="45" column="41" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
+      <jump line="80" column="63" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
+      <jump line="46" column="140" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_delete_plan.php" />
+      <jump line="40" column="32" filename="$USER_HOME$/projects/cplus/app/models/uncreated_bitem/destroyer/from_plan.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6354,7 +6358,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>Dest</text>
+        <text>dt_proc_new</text>
       </register>
       <register name="0" type="4">
         <text>::FromPlan</text>
@@ -6610,9 +6614,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Dest</last-search>
+      <last-search>dt_proc_new</last-search>
       <last-offset />
-      <last-pattern>Dest</last-pattern>
+      <last-pattern>dt_proc_new</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6620,7 +6624,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jquery</entry>
         <entry>G_</entry>
         <entry>fr-old-src</entry>
         <entry>setT</entry>
@@ -6634,12 +6637,13 @@
         <entry>cover</entry>
         <entry>cover_</entry>
         <entry>expect</entry>
-        <entry>dt_proc</entry>
         <entry>destroy</entry>
         <entry>no_plan</entry>
         <entry>sub</entry>
         <entry>bitem</entry>
         <entry>Dest</entry>
+        <entry>dt_proc</entry>
+        <entry>dt_proc_new</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
