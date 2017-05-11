@@ -600,6 +600,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/top.html.slim" timestamp="1494468454497">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/base.css" timestamp="1486393927646">
         <mark key="[" line="1466" column="0" />
         <mark key="]" line="1467" column="13" />
@@ -876,6 +882,7 @@
         <mark key="." line="4" column="59" />
         <mark key="^" line="1" column="70" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_avatar_writers.html.slim" timestamp="1494468321590" />
       <file name="$USER_HOME$/projects/pos-calc/app/validators/toritsugi_type_id_and_deliver_type_id_validator.rb" timestamp="1492434518810">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1109,6 +1116,12 @@
         <mark key="]" line="47" column="34" />
         <mark key="." line="54" column="28" />
         <mark key="^" line="54" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_writer.html.slim" timestamp="1494468417692">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/api/uploads_controller_spec.rb" timestamp="1493810134236">
         <mark key="[" line="12" column="0" />
@@ -6357,7 +6370,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>self.extended_record_base_class</text>
+        <text>asset_path('avatar-mizuno.jpg')</text>
       </register>
       <register name="/" type="4">
         <text>プランの期間と請求項目の期間が一致しません。</text>
@@ -6366,22 +6379,22 @@
         <text encoding="base64">ICAgICAgICBsZXQoOmZyb21fZHRfcHJvYykgeyBiaXRlbS5kdF9lbmQgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA9IHJlbmRlciAiYXZhdGFyX3dyaXRlcnMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dWwud3JpdGVycy1saXN0LnRleHQtY2VudGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOnBsYW4pIHsgUGxhbi5maW5kKG5vX3BsYW4pIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6603,13 +6616,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbV9kdF9wcm9jID0gYml0ZW0uZHRfZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCBwbGFuLmR0X3Byb2MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
