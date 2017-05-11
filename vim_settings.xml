@@ -600,11 +600,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/top.html.slim" timestamp="1494468543674">
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/top.html.slim" timestamp="1494470309974">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="8" column="34" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/base.css" timestamp="1486393927646">
         <mark key="[" line="1466" column="0" />
@@ -787,11 +787,11 @@
         <mark key="." line="158" column="8" />
         <mark key="^" line="157" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1494469070227">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="29" />
+      <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1494470788297">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="51" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/application/_header_my_page_navigation.html.erb" timestamp="1489484458578">
         <mark key="[" line="35" column="41" />
@@ -1106,11 +1106,11 @@
         <mark key="." line="54" column="28" />
         <mark key="^" line="54" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_writer.html.slim" timestamp="1494468417692">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-        <mark key="^" line="5" column="33" />
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_writer.html.slim" timestamp="1494471130130">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/api/uploads_controller_spec.rb" timestamp="1493810134236">
         <mark key="[" line="12" column="0" />
@@ -1523,7 +1523,7 @@
         <mark key="." line="36" column="62" />
         <mark key="^" line="36" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_cover_magazines.html.slim" timestamp="1494468606520" />
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_cover_magazines.html.slim" timestamp="1494470343222" />
       <file name="$USER_HOME$/projects/value_press/app/uploaders/user_column_image_uploader.rb" timestamp="1491932076301">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -2611,6 +2611,12 @@
         <mark key="." line="215" column="0" />
         <mark key="^" line="217" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/_magazine.html.slim" timestamp="1494471075455">
+        <mark key="[" line="21" column="54" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/users/custom.css.scss" timestamp="1487209901526">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="9" />
@@ -3003,11 +3009,11 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/static_pages_controller.rb" timestamp="1494469306585">
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/static_pages_controller.rb" timestamp="1494470875202">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/_confirm_shortage.html.erb" timestamp="1486910593593">
         <mark key="[" line="7" column="16" />
@@ -6350,31 +6356,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>プランの期間と請求項目の期間が一致しません。</text>
       </register>
-      <register name="0" type="4">
-        <text>, foregin_key: :story_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPSBsaW5rX3RvIHdyaXRlcl9wYXRoKHdyaXRlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGEgaHJlZj0iLyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXIoJ2xhc3RfcHVibGlzaGVkX3N0b3J5LicpCg==</text>
+        <text encoding="base64">ICAgICAgICB8MjAxNy0wMS0wMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludmVyc2Vfb2Y6IDptYWdhemluZQo=</text>
+        <text encoding="base64">ICAgICAgICB85ZCE6Kmx44K/44Kk44OI44Or5ZCE6Kmx44K/44Kk44OI44Or5ZCE6Kmx44K/44Kk44OI44Or5ZCE6Kmx44K/44Kk44OI44Or5ZCE6Kmx44K/44Kk44OI44Or5ZCE6Kmx44K/44Kk44OI44OrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0b3J5LnB1Ymxpc2hlZC5ncm91cCg6bWFnYXppbmVfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgYSBocmVmPSIvIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgID0gcmVuZGVyICJjb3Zlcl9tYWdhemluZXMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA9IHJlbmRlciAiYXZhdGFyX3dyaXRlcnMiCg==</text>
+        <text encoding="base64">ICAgICAgICAtIEBtYWdhemluZXMuZWFjaCBkbyB8bWFnYXppbmV8Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6596,13 +6602,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dWwud3JpdGVycy1saXN0LnRleHQtY2VudGVyCg==</text>
+        <text encoding="base64">ICAgIFdyaXRlci4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb3JkZXIoJ2xhc3RfcHVibGlzaGVkX3N0b3J5LicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
