@@ -1437,12 +1437,12 @@
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1494666079600">
+      <file name="$USER_HOME$/projects/cplus/app/models/bill.rb" timestamp="1494670128444">
         <mark key="'" line="61" column="18" />
-        <mark key="[" line="151" column="34" />
-        <mark key="]" line="153" column="5" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="4" />
         <mark key="^" line="153" column="5" />
-        <mark key="." line="153" column="5" />
+        <mark key="." line="140" column="4" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article_result/atrribute_creator.rb" timestamp="1490165576358">
         <mark key="[" line="32" column="0" />
@@ -3206,10 +3206,11 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bills_controller.rb" timestamp="1494665558766">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/bills_controller.rb" timestamp="1494670419303">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/job_file.rb" timestamp="1493816276224">
         <mark key="[" line="28" column="3" />
@@ -6018,7 +6019,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">OmhwYXlzLCA=</text>
       </register>
       <register name="/" type="4">
         <text>cd_ho</text>
@@ -6027,24 +6028,22 @@
         <text>.sq_seq</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpvaW5zKDpocGF5cykuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVzKDpocGF5cykuCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>bitems_no_goods_not_eq: '50302010',
-          cd_py_eq: 2,
-          cd_ho_eq: 10</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwIGguc3Ffc2VxLnRvXwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6265,14 +6264,16 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgaHBheXMK</text>
+      <register name="7" type="4">
+        <text>bitems_no_goods_not_eq: '50302010',
+          cd_py_eq: 2,
+          cd_ho_eq: 10</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwIGguc3Ffc2VxLnRvXwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVzKDpocGF5cykuCg==</text>
+        <text encoding="base64">ICAgIHAgaHBheXMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
