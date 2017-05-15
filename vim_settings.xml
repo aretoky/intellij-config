@@ -1792,6 +1792,10 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/config/initializers/carrierwave.rb" timestamp="1494825443095">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/article/free_course_article.rb" timestamp="1494053395627">
         <mark key="[" line="97" column="25" />
         <mark key="]" line="97" column="25" />
@@ -2406,7 +2410,6 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/newrelic.yml" timestamp="1494576009929" />
       <file name="$USER_HOME$/projects/value_press/app/decorators/option_premium_decorator.rb" timestamp="1494168798429">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -6039,7 +6042,7 @@
         <text>stagin</text>
       </register>
       <register name="0" type="4">
-        <text>ENV['DATABASE_URL']</text>
+        <text>config.fog_public</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cCBFTlZbJ0RBVEFCQVNFX1VSTCddCg==</text>
