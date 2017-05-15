@@ -979,6 +979,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/config/environments/staging.rb" timestamp="1494813480014">
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="61" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/index.html.slim" timestamp="1494349493116">
         <mark key="[" line="24" column="68" />
       </file>
@@ -1811,6 +1815,12 @@
         <mark key="]" line="24" column="63" />
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/config/environments/production.rb" timestamp="1494813613250">
+        <mark key="[" line="96" column="10" />
+        <mark key="]" line="96" column="27" />
+        <mark key="^" line="96" column="25" />
+        <mark key="." line="96" column="25" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/new_or_edit.html.erb" timestamp="1489502599212">
         <mark key="[" line="0" column="0" />
@@ -6019,13 +6029,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OmhwYXlzLCA=</text>
+        <text>HEROKU_APP_NAME</text>
       </register>
       <register name="/" type="4">
         <text>cd_ho</text>
       </register>
       <register name="0" type="4">
-        <text>.sq_seq</text>
+        <text>ENV['DOMAIN_NAME']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGpvaW5zKDpocGF5cykuCg==</text>
