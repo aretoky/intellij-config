@@ -1816,11 +1816,10 @@
         <mark key="^" line="24" column="63" />
         <mark key="." line="24" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/environments/production.rb" timestamp="1494816686348">
-        <mark key="[" line="105" column="11" />
-        <mark key="]" line="105" column="80" />
-        <mark key="^" line="105" column="80" />
-        <mark key="." line="105" column="80" />
+      <file name="$USER_HOME$/projects/umareso/config/environments/production.rb" timestamp="1494816893843">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/application/article_savable/new_or_edit.html.erb" timestamp="1489502599212">
         <mark key="[" line="0" column="0" />
@@ -2680,6 +2679,11 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/alliance_course_articles.html.erb" timestamp="1494170844902">
         <mark key="[" line="0" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/config/database.heroku.yml" timestamp="1494816961189">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/articles/_oversea_history.html.erb" timestamp="1487518945143">
         <mark key="[" line="62" column="0" />
@@ -6035,25 +6039,25 @@
         <text>stagin</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29uZmlnLnBhdGhzLmFkZCAiY29uZmlnL2RhdGFiYXNlIiwgd2l0aDog</text>
+        <text>ENV['DATABASE_URL']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpvaW5zKDpocGF5cykuCg==</text>
+        <text encoding="base64">cCBFTlZbJ0RBVEFCQVNFX1VSTCddCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVzKDpocGF5cykuCg==</text>
+        <text encoding="base64">ICAgIHAgJ2FhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpvaW5zKDpocGF5cykuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVzKDpocGF5cykuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6274,16 +6278,16 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>bitems_no_goods_not_eq: '50302010',
           cd_py_eq: 2,
           cd_ho_eq: 10</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwIGguc3Ffc2VxLnRvXwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgaHBheXMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
