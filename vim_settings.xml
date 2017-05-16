@@ -1839,7 +1839,7 @@
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/db/seeds/staff.rb" timestamp="1491376840753">
+      <file name="$USER_HOME$/projects/value_press/db/seeds/staff.rb" timestamp="1494928218329">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="64" />
         <mark key="^" line="0" column="16" />
@@ -2749,6 +2749,12 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="53" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/config/deploy.rb" timestamp="1494928322797">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="17" />
+        <mark key="^" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/article_results_controller_spec.rb" timestamp="1487742590117">
         <mark key="[" line="20" column="17" />
         <mark key="]" line="20" column="15" />
@@ -3128,7 +3134,8 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1494659421291">
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1494928270797">
+        <mark key="'" line="84" column="0" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="^" line="94" column="0" />
@@ -3310,7 +3317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="16" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="222" column="55" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="221" column="36" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="334" column="33" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
@@ -3410,6 +3416,7 @@
       <jump line="23" column="7" filename="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" />
       <jump line="35" column="28" filename="$USER_HOME$/projects/umareso/app/models/magazine.rb" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
+      <jump line="84" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6019,13 +6026,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OmhwYXlzLCA=</text>
+        <text>'deploy:</text>
       </register>
       <register name="/" type="4">
-        <text>hpays</text>
+        <text>capist</text>
       </register>
       <register name="0" type="4">
-        <text>.enable.where(cd_ho: cd_ho)</text>
+        <text>admin@valuepress.co.jp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -6278,9 +6285,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hpays</last-search>
+      <last-search>capist</last-search>
       <last-offset />
-      <last-pattern>hpays</last-pattern>
+      <last-pattern>capist</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6288,7 +6295,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_proc</entry>
         <entry>dt_proc_new</entry>
         <entry>正しい</entry>
         <entry>switch</entry>
@@ -6308,6 +6314,7 @@
         <entry>wy</entry>
         <entry>priva</entry>
         <entry>hpays</entry>
+        <entry>capist</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
