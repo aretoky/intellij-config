@@ -2819,10 +2819,10 @@
         <mark key="^" line="14" column="91" />
         <mark key="." line="14" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1494856912099">
-        <mark key="'" line="74" column="3" />
-        <mark key="[" line="171" column="12" />
-        <mark key="]" line="171" column="13" />
+      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1495036227080">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="47" />
         <mark key="." line="171" column="13" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/interims/new.html.slim" timestamp="1489475420932">
@@ -3323,7 +3323,6 @@
       <jump line="117" column="1416" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="68" column="25" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="138" column="22" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
-      <jump line="165" column="53" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="149" column="15" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="141" column="20" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="90" column="32" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
@@ -3414,6 +3413,7 @@
       <jump line="45" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="84" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
+      <jump line="165" column="0" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6029,12 +6029,7 @@
         <text>roomymd</text>
       </register>
       <register name="0" type="4">
-        <text>describe &quot;.new&quot; do
-    subject { get :new }
-    before { signin_as_emp }
-
-    it { expect(subject).to render_template :new }
-  end</text>
+        <text>ino@radicode.co.jp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
