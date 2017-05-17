@@ -135,6 +135,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/admin/roomymds_controller.rb" timestamp="1495014640293">
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="62" column="5" />
+        <mark key="^" line="62" column="5" />
+        <mark key="." line="62" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/economy_course_articles/create_or_update.html.erb" timestamp="1486546318702">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="19" />
@@ -1050,6 +1056,9 @@
         <mark key="]" line="11" column="69" />
         <mark key="^" line="11" column="69" />
         <mark key="." line="11" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1495014516077">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/factories/view_time.rb" timestamp="1490640141276">
         <mark key="[" line="18" column="23" />
@@ -3255,6 +3264,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/spec/controllers/admin/roomymds_controller_spec.rb" timestamp="1495014710571">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="48" />
+        <mark key="^" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/non_acceptance_reason.rb" timestamp="1490105435396">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -3299,7 +3314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="55" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="221" column="36" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="334" column="33" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/froala_patch/image.min.js" />
       <jump line="7" column="12" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
@@ -3399,6 +3413,7 @@
       <jump line="35" column="28" filename="$USER_HOME$/projects/umareso/app/models/magazine.rb" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/cplus/app/models/bill.rb" />
       <jump line="84" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6008,13 +6023,18 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>'deploy:</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>capist</text>
+        <text>roomymd</text>
       </register>
       <register name="0" type="4">
-        <text>admin@valuepress.co.jp</text>
+        <text>describe &quot;.new&quot; do
+    subject { get :new }
+    before { signin_as_emp }
+
+    it { expect(subject).to render_template :new }
+  end</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -6267,9 +6287,9 @@
       </register>
     </registers>
     <search>
-      <last-search>capist</last-search>
+      <last-search>roomymd</last-search>
       <last-offset />
-      <last-pattern>capist</last-pattern>
+      <last-pattern>roomymd</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6277,7 +6297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_proc_new</entry>
         <entry>正しい</entry>
         <entry>switch</entry>
         <entry>プランの期間と請求項目の期間が一致しません。</entry>
@@ -6297,6 +6316,7 @@
         <entry>priva</entry>
         <entry>hpays</entry>
         <entry>capist</entry>
+        <entry>roomymd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
