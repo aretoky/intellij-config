@@ -740,7 +740,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495082372651">
+      <file name="/Dummy.txt" timestamp="1495100615636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/registrations_controller_spec.rb" timestamp="1487726939104">
@@ -1016,11 +1016,11 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/magazines/show.html.slim" timestamp="1494855764078">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="36" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="1" column="36" />
+      <file name="$USER_HOME$/projects/umareso/app/views/magazines/show.html.slim" timestamp="1495099792644">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="2" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="51" column="2" />
       </file>
       <file name="$USER_HOME$/projects/cplus/.gitignore" timestamp="1487253725151">
         <mark key="[" line="88" column="9" />
@@ -1220,11 +1220,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/application/_header.html.slim" timestamp="1495080958873">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-        <mark key="^" line="35" column="15" />
+      <file name="$USER_HOME$/projects/umareso/app/views/application/_header.html.slim" timestamp="1495100246566">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/models/story_text.rb" timestamp="1493022695242">
         <mark key="[" line="14" column="0" />
@@ -6032,31 +6032,50 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNob3c=</text>
+        <text>, method: :delete</text>
       </register>
       <register name="/" type="4">
         <text>水野</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXNvdXJjZXMgOndyaXRlcnMsIG9ubHk6ICV3KGluZGV4IHNob3cpCg==</text>
+      <register name="0" type="4">
+        <text>span
+            | ログアウト</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAjIEB5ayDjg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7zjg7vliKnnlKjopo/ntITjg5HjgrnoqK3lrpog44GK44GL44GX44GE44Go44GT44KN6Kit5a6a5LiN6Laz44GC44KK44G+44GX44Gf44KJ6YGp5a6c5a++5b+c44GK6aGY44GE44GX44G+44GZCg==</text>
+      <register name="1" type="4">
+        <text>/.row.text-center
+    nav
+      ul.pagination
+        li
+          a aria-label=&quot;前のページへ&quot; href=&quot;#&quot;
+            span aria-hidden=&quot;true&quot;  «
+        li.active
+          a href=&quot;#&quot;  1
+        li
+          a href=&quot;#&quot;  2
+        li
+          a href=&quot;#&quot;  3
+        li
+          a href=&quot;#&quot;  4
+        li
+          a href=&quot;#&quot;  5
+        li
+          a aria-label=&quot;次のページへ&quot; href=&quot;#&quot;
+            span aria-hidden=&quot;true&quot;  »</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyEgQHlrIOKWs+S9nOiAhXR3aXR0ZXLjgqLjg4njg6zjgrkK</text>
+        <text encoding="base64">ICAjIEB5ayDjg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7zjg7vliKnnlKjopo/ntITjg5HjgrnoqK3lrpog44GK44GL44GX44GE44Go44GT44KN6Kit5a6a5LiN6Laz44GC44KK44G+44GX44Gf44KJ6YGp5a6c5a++5b+c44GK6aGY44GE44GX44G+44GZCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHwg5qW96ZW344Gv44K044O844K344Ol44Gu44Gz44Gj44GP44KK6IO45rGB44GM6bOl44KS44Gf44G557O444Gq44GE44Gq44CC44Go44GT44KN44GM44GX44Gw44KJ44GP44Gd44KM44Gp44GT44KN44G+44GX44Gq44GE44Go44GE44GG44GL44Gj44GT44GG44Gf44Gf44CC5ZCM44GY44Gf44Gf44KJ44Gu44Gq44GE44Gv44Gf44GE44KE44Op44OX44K944OH44Kj44Gu5q6L5b+15by+44Gu44G+44G+44GM44Gv44KI44KN44KI44KN44GE44GE44GL44GS44KT44Gf44Gf44Gm44CB44G/44KT44Gq44Gg44GR5YWl44KK5Y+j44KS44Gq44KK44KJ44KM44KL44Gu44Gf44G+44GX44CC44GX6YGO44GO44G/44KT44Gq44Gv44K744Ot44KS5YaG44GP44Gf44Gm5YmN44Gu44GL44Gj44GT44GG44Gu5Yui5bGL44KS44GX56ys5LiA44GL44Gj44GT44GG5Zuj44Gu5a6J5b+D44G444GX44GM5p2l44G+44GX44Gg44CCCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyEgQHlrIOKWs+S9nOiAhXR3aXR0ZXLjgqLjg4njg6zjgrkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfCAyMDE3LTAxLTAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHwg5qW96ZW344Gv44K044O844K344Ol44Gu44Gz44Gj44GP44KK6IO45rGB44GM6bOl44KS44Gf44G557O444Gq44GE44Gq44CC44Go44GT44KN44GM44GX44Gw44KJ44GP44Gd44KM44Gp44GT44KN44G+44GX44Gq44GE44Go44GE44GG44GL44Gj44GT44GG44Gf44Gf44CC5ZCM44GY44Gf44Gf44KJ44Gu44Gq44GE44Gv44Gf44GE44KE44Op44OX44K944OH44Kj44Gu5q6L5b+15by+44Gu44G+44G+44GM44Gv44KI44KN44KI44KN44GE44GE44GL44GS44KT44Gf44Gf44Gm44CB44G/44KT44Gq44Gg44GR5YWl44KK5Y+j44KS44Gq44KK44KJ44KM44KL44Gu44Gf44G+44GX44CC44GX6YGO44GO44G/44KT44Gq44Gv44K744Ot44KS5YaG44GP44Gf44Gm5YmN44Gu44GL44Gj44GT44GG44Gu5Yui5bGL44KS44GX56ys5LiA44GL44Gj44GT44GG5Zuj44Gu5a6J5b+D44G444GX44GM5p2l44G+44GX44Gg44CCCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfCDmsI/lkI0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfCAyMDE3LTAxLTAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgaHJlZj0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfCDmsI/lkI0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6278,13 +6297,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nKHNyYz0iI3thc3NldF9wYXRoKCdtYWdhemluZS1jb3Zlci1jcm9wLW0tYWlfY3V0LmpwZycpfSIgYWx0PSIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgaHJlZj0iIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8hIHlrQCA6IOODnuOCrOOCuOODs+OCv+OCpOODiOODq+WPluW+lwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nKHNyYz0iI3thc3NldF9wYXRoKCdtYWdhemluZS1jb3Zlci1jcm9wLW0tYWlfY3V0LmpwZycpfSIgYWx0PSIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLyEgeWtAIDog44Kz44Of44OD44Kv44Go5bCP6Kqs44Gn6aO+44KK44K/44Kk44Od44Gu5oyv44KK5YiG44GRCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8hIHlrQCA6IOODnuOCrOOCuOODs+OCv+OCpOODiOODq+WPluW+lwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
