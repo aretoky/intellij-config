@@ -1350,6 +1350,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/src/tpl/ymdroom/detail.view.php" timestamp="1495170895849" />
       <file name="$USER_HOME$/projects/pos-calc/app/controllers/daily_order_shipping_lists_controller.rb" timestamp="1493296124434">
         <mark key="[" line="27" column="61" />
         <mark key="]" line="27" column="61" />
@@ -1653,12 +1654,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1495162163750">
+      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1495170805098">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="149" column="4" />
-        <mark key="." line="149" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/express.rb" timestamp="1491994433131">
         <mark key="[" line="38" column="9" />
@@ -2436,6 +2436,9 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/detail.php" timestamp="1495170915184">
+        <mark key="'" line="15" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/unkokanji/public/css/application.css.scss" timestamp="1488779279346">
         <mark key="[" line="4" column="11" />
@@ -3381,7 +3384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="24" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="106" column="84" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="588" column="11" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="39" column="53" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
@@ -3481,6 +3483,7 @@
       <jump line="55" column="20" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="137" column="14" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
+      <jump line="15" column="8" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/detail.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6093,7 +6096,7 @@
         <text>@book</text>
       </register>
       <register name="/" type="4">
-        <text>inamt</text>
+        <text>yn_can_edit</text>
       </register>
       <register name="0" type="4">
         <text>f.object</text>
@@ -6102,13 +6105,13 @@
         <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBhCg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIGEK</text>
+        <text encoding="base64">LSBhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGEK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -6336,22 +6339,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGEK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>inamt</last-search>
+      <last-search>yn_can_edit</last-search>
       <last-offset />
-      <last-pattern>inamt</last-pattern>
+      <last-pattern>yn_can_edit</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -6359,7 +6362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hpays</entry>
         <entry>capist</entry>
         <entry>水野</entry>
         <entry>pagetop</entry>
@@ -6379,6 +6381,7 @@
         <entry>roomymd</entry>
         <entry>amtax_inamt</entry>
         <entry>inamt</entry>
+        <entry>yn_can_edit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
