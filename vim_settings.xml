@@ -2592,11 +2592,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/views/admin/books/show.html.slim" timestamp="1495127491521">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/books/show.html.slim" timestamp="1495166368622">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/custs/_depo_fields.html.slim" timestamp="1485941952554">
         <mark key="[" line="34" column="0" />
@@ -6080,13 +6080,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>inamt</text>
+        <text>@book</text>
       </register>
       <register name="/" type="4">
         <text>inamt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfd3JhcHBlcl9odG1sOiB7IGNsYXNzOiAiY29sLXhzLTcgaW5wdXQtZ3JvdXAiIH0K</text>
+      <register name="0" type="4">
+        <text>f.object</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGEK</text>
