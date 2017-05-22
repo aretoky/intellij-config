@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/free_course_articles.html.erb" timestamp="1494170837214">
         <mark key="[" line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/decorators/magazine_decorator.rb" timestamp="1495421000726">
+      <file name="$USER_HOME$/projects/umareso/app/decorators/magazine_decorator.rb" timestamp="1495422663075">
         <mark key="[" line="2" column="75" />
         <mark key="]" line="2" column="84" />
         <mark key="^" line="2" column="84" />
@@ -29,6 +29,12 @@
         <mark key="]" line="2" column="63" />
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/writers/stories/__scaffold_link_index.html.slim" timestamp="1495424180847">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_scaffold_index.html.slim" timestamp="1495421299777">
         <mark key="[" line="14" column="37" />
@@ -48,10 +54,11 @@
         <mark key="." line="69" column="22" />
         <mark key="^" line="69" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/show.html.slim" timestamp="1495421691977">
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="22" column="6" />
-        <mark key="." line="22" column="6" />
+      <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/show.html.slim" timestamp="1495423502292">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1495082371021">
         <mark key="[" line="7" column="14" />
@@ -84,7 +91,12 @@
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1495127863089">
         <mark key="'" line="34" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_story.html.slim" timestamp="1495421717158" />
+      <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_story.html.slim" timestamp="1495423824087">
+        <mark key="[" line="24" column="114" />
+        <mark key="]" line="24" column="127" />
+        <mark key="." line="24" column="127" />
+        <mark key="^" line="24" column="127" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/magazine_genres/show.html.slim" timestamp="1495082176257">
         <mark key="[" line="14" column="47" />
         <mark key="]" line="14" column="68" />
@@ -153,6 +165,12 @@
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/decorators/story_decorator.rb" timestamp="1495422669764">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1495420236141">
         <mark key="'" line="32" column="0" />
@@ -2872,58 +2890,55 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>scaffoldable_url_for(action: :index)</text>
       </register>
       <register name="/" type="4">
         <text>magazines</text>
       </register>
       <register name="0" type="4">
-        <text>sts-</text>
+        <text>writers_magazine_path(@story.magazine)</text>
       </register>
-      <register name="1" type="4">
-        <text>.magazines-list.flex
-       .thumbnail-magazines
-          img(src=&quot;#{story.background_image.url}&quot; alt=&quot;&quot;)
-       .title
-          h3 = story.title
-          span.date
-            | 公開日
-            = l(story.published_at)
-          span.id = story.id
-          p.text-s
-            i.fa.fa-clock-o aria-hidden=&quot;true&quot;
-            |  更新日
-            = l(story.updated_at)
-       .sts
-          span.sts.sts-published 公開
-       .link-button
-          a.show-button.btn.btn-gray href=&quot;&quot;
-            span
-              i.fa.fa-eye.fa-fw aria-hidden=&quot;true&quot;
-              | 表示
-          a.edit-button.btn.btn-gray href=&quot;&quot;
-            span
-              i.fa.fa-pencil.fa-fw aria-hidden=&quot;true&quot;
-              | 編集
-          a.destroy-button.btn.btn-alert href=&quot;&quot;
-            span
-              i.fa.fa-trash.fa-fw aria-hidden=&quot;true&quot;
-              | 破棄</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/.magazines-list.flex
+     .thumbnail-magazines
+        img(src=&quot;https://dummyimage.com/800x600/ccc/fff.jpg&quot; alt=&quot;&quot;)
+     .title
+        h3 愛さなければ死ぬ
+        span.date 公開日 2017-01-01
+        span.id 1
+        p.text-s
+          i.fa.fa-clock-o aria-hidden=&quot;true&quot;
+          |  更新日 2017-01-01
+     .sts
+        span.sts 非公開
+     .link-button
+        a.show-button.btn.btn-gray href=&quot;&quot;
+          span
+            i.fa.fa-eye.fa-fw aria-hidden=&quot;true&quot;
+            | 表示
+        a.edit-button.btn.btn-gray href=&quot;&quot;
+          span
+            i.fa.fa-pencil.fa-fw aria-hidden=&quot;true&quot;
+            | 編集
+        a.destroy-button.btn.btn-alert href=&quot;&quot;
+          span
+            i.fa.fa-trash.fa-fw aria-hidden=&quot;true&quot;
+            | 破棄</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGEuZGVzdHJveS1idXR0b24uYnRuLmJ0bi1hbGVydCBocmVmPSIiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAvLSBpbnN0YW5jZXMuZWFjaCBkbyB8aW5zdGFuY2V8CiAgICAgIC5tYWdhemluZXMtbGlzdC5mbGV4CiAgICAgICAgLnRodW1ibmFpbC1tYWdhemluZXMKICAgICAgICAgIGltZyhzcmM9Imh0dHBzOi8vZHVtbXlpbWFnZS5jb20vODAweDYwMC9jY2MvZmZmLmpwZyIgYWx0PSIiKQogICAgICAgIC50aXRsZQogICAgICAgICAgaDMg5oSb44GV44Gq44GR44KM44Gw5q2744GsCiAgICAgICAgICBzcGFuLmRhdGUgMjAxNy0wMS0wMQogICAgICAgICAgc3Bhbi5pZCAxCiAgICAgICAgICBwLnRleHQtbSAyMOS4lue0gOacgOWkp+OBrueZuuaYjuWTgeOBru+8keOBpOOBqOOBhOOCj+OCjOOCi+OBruOBjOOCs+ODs+ODhuODiuOAguOCs+ODs+ODhuODiuOBrua1t+S4iui8uOmAgeOBjOWni+OBvuOBo+OBn+OBruOBrzE5NTblubQzLi4uCiAgICAgICAgLnN0cwogICAgICAgICAgc3Bhbi5zdHMuc3RzLXB1Ymxpc2hlZCDlhazplosKICAgICAgICAubGluay1idXR0b24KICAgICAgICAgID0gcmVuZGVyICJfc2NhZmZvbGRfbGlua19zaG93IiwgaW5zdGFuY2U6IGluc3RhbmNlCiAgICAgICAgICA9IHJlbmRlciAiX3NjYWZmb2xkX2xpbmtfZWRpdCIsIGluc3RhbmNlOiBpbnN0YW5jZQogICAgICAgICAgPSByZW5kZXIgIl9zY2FmZm9sZF9saW5rX2Rlc3Ryb3kiLCBpbnN0YW5jZTogaW5zdGFuY2UK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGEuZWRpdC1idXR0b24uYnRuLmJ0bi1ncmF5IGhyZWY9IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNwYW4uc3RzLnN0cy1wdWJsaXNoZWQg5YWs6ZaLCg==</text>
+        <text encoding="base64">ICAgIGEuZWRpdC1idXR0b24uYnRuLmJ0bi1ncmF5IGhyZWY9IiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGEuc2hvdy1idXR0b24uYnRuLmJ0bi1ncmF5IGhyZWY9IiIK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3144,17 +3159,41 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>case publish_status
-    when :draft
-    when :published
-    end</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNwYW4uc3RzLnN0cy1wdWJsaXNoZWQg5YWs6ZaLCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>.magazines-list.flex
+       .thumbnail-magazines
+          img(src=&quot;#{story.background_image.url}&quot; alt=&quot;&quot;)
+       .title
+          h3 = story.title
+          span.date
+            | 公開日
+            = l(story.published_at)
+          span.id = story.id
+          p.text-s
+            i.fa.fa-clock-o aria-hidden=&quot;true&quot;
+            |  更新日
+            = l(story.updated_at)
+       .sts
+          span.sts.sts-published 公開
+       .link-button
+          a.show-button.btn.btn-gray href=&quot;&quot;
+            span
+              i.fa.fa-eye.fa-fw aria-hidden=&quot;true&quot;
+              | 表示
+          a.edit-button.btn.btn-gray href=&quot;&quot;
+            span
+              i.fa.fa-pencil.fa-fw aria-hidden=&quot;true&quot;
+              | 編集
+          a.destroy-button.btn.btn-alert href=&quot;&quot;
+            span
+              i.fa.fa-trash.fa-fw aria-hidden=&quot;true&quot;
+              | 破棄</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
