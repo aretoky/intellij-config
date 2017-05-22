@@ -108,11 +108,25 @@
         <mark key="^" line="69" column="22" />
       </file>
       <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1495431412813" />
+      <file name="$USER_HOME$/projects/umareso/config/initializers/assets.rb" timestamp="1495448311830">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/show.html.slim" timestamp="1495423502292">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="22" column="35" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/config/environments/staging.rb" timestamp="1495449302824" />
+      <file name="$USER_HOME$/projects/umareso/config/environments/production.rb" timestamp="1495449312490">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1495442231765">
         <mark key="[" line="8" column="13" />
@@ -148,10 +162,10 @@
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" timestamp="1495103019182">
+      <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" timestamp="1495448965106">
         <mark key="'" line="175" column="0" />
-        <mark key="[" line="871" column="31" />
-        <mark key="]" line="871" column="38" />
+        <mark key="[" line="807" column="22" />
+        <mark key="]" line="807" column="30" />
         <mark key="." line="871" column="31" />
         <mark key="^" line="846" column="37" />
       </file>
@@ -181,6 +195,7 @@
         <mark key="." line="24" column="127" />
         <mark key="^" line="24" column="127" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/uploaders/uploader_base.rb" timestamp="1495448087775" />
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1494928270797">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="94" column="0" />
@@ -237,7 +252,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495440144940">
+      <file name="/Dummy.txt" timestamp="1495449288673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170511040120_add_genre_id_on_magazine.rb" timestamp="1495103698448">
@@ -257,6 +272,10 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/send_media_list_course_articles.html.erb" timestamp="1494170840631">
         <mark key="[" line="0" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/config/initializers/assets.rb" timestamp="1495448304282">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="78" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/_story.html.slim" timestamp="1495438370660">
         <mark key="[" line="1" column="11" />
@@ -289,10 +308,6 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/config/initializers/bugsnag.rb" timestamp="1495435517875">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="3" column="54" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/Gemfile" timestamp="1495445248439">
         <mark key="'" line="0" column="5" />
         <mark key="[" line="131" column="0" />
@@ -311,10 +326,15 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1495435232590">
+        <mark key="'" line="313" column="5" />
+        <mark key="[" line="144" column="22" />
+        <mark key="]" line="144" column="42" />
+        <mark key="." line="156" column="14" />
+        <mark key="^" line="156" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="30" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
-      <jump line="54" column="2" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="40" column="36" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="73" column="3" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
       <jump line="57" column="0" filename="$USER_HOME$/projects/umareso/Gemfile" />
@@ -413,6 +433,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/umareso/app/uploaders/abstract_uploader.rb" />
       <jump line="39" column="17" filename="$USER_HOME$/projects/umareso/app/uploaders/abstract_uploader.rb" />
       <jump line="0" column="5" filename="$USER_HOME$/projects/umareso/Gemfile" />
+      <jump line="0" column="29" filename="$USER_HOME$/projects/umareso/config/environments/production.rb" />
+      <jump line="16" column="20" filename="$USER_HOME$/projects/umareso/config/environments/production.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3022,13 +3044,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>produ</text>
+        <text>static</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGEgaHJlZj0iL3VzZXJzL3NpZ25fdXAiIOe3qOmbhuiAheeZu+mMsueUs+iriwo=</text>
+      <register name="0" type="4">
+        <text>config.assets.compile</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3293,9 +3315,9 @@
       </register>
     </registers>
     <search>
-      <last-search>produ</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>produ</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3303,7 +3325,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dt_cancel</entry>
         <entry>bitem</entry>
         <entry>update</entry>
         <entry encoding="base64">dXBkYXRlIA==</entry>
@@ -3323,6 +3344,7 @@
         <entry>bugs</entry>
         <entry>filename</entry>
         <entry>produ</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
