@@ -13,6 +13,7 @@
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telpays/index.html.slim" timestamp="1494349450902">
         <mark key="[" line="22" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/writer.rb" timestamp="1495438087054" />
       <file name="$USER_HOME$/projects/umareso/db/schema.rb" timestamp="1495420703306">
         <mark key="'" line="149" column="16" />
       </file>
@@ -49,6 +50,12 @@
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/writers/_scaffold_show.html.slim" timestamp="1495438253946">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="6" />
+        <mark key="^" line="36" column="35" />
+        <mark key="." line="37" column="6" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/decorators/magazine_decorator.rb" timestamp="1495422663075">
         <mark key="[" line="2" column="75" />
@@ -229,6 +236,12 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/send_media_list_course_articles.html.erb" timestamp="1494170840631">
         <mark key="[" line="0" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/writers/_story.html.slim" timestamp="1495438370660">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="39" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/lib/turbolinks.css.scss" timestamp="1495080817759">
         <mark key="[" line="1" column="0" />
@@ -2994,7 +3007,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>https://dummyimage.com/1200x600/ccc/fff.jpg</text>
       </register>
       <register name="/" type="4">
         <text>bugs</text>
@@ -3006,23 +3019,35 @@
       end
     end</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>.post-card
+          img(src=&quot;https://dummyimage.com/1200x600/ccc/fff.jpg&quot; alt=&quot;&quot;)
+          .caption
+            h2.text-m.text-right
+              a href=&quot;&quot;
+                | 連載タイトル
+            h3
+              = link_to story.title, story_path(story)
+            span.date.text-xs = l(story.published_at, format: :period_date)
+            p.justify
+              = truncate(story.story_text.plain_text, length: 100)
+            p.text-more.text-s
+              = link_to &quot;... 続きをみる&quot;, story_path(story)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXNzb2NpYXRpb24gOndyaXRlciwgZmFjdG9yeTogOndyaXRlcgo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWl0IDp3aXRoX3dyaXRlciBkbwo=</text>
+        <text encoding="base64">ICAgICAgYXNzb2NpYXRpb24gOndyaXRlciwgZmFjdG9yeTogOndyaXRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIHRyYWl0IDp3aXRoX3dyaXRlciBkbwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3244,13 +3269,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuLmVtYWlscyA8PCBidWlsZCg6ZW1haWxfZm9yX2FkZHJlc3NfbXBsYW5fY3JlYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuID0gY3VzdC5hZGRyZXNzX21wbGFucy5maXJzdAo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuLmVtYWlscyA8PCBidWlsZCg6ZW1haWxfZm9yX2FkZHJlc3NfbXBsYW5fY3JlYXRlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuID0gY3VzdC5hZGRyZXNzX21wbGFucy5maXJzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
