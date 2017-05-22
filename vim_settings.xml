@@ -74,6 +74,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/spec/models/magazine_spec.rb" timestamp="1495437190448">
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/books/show.html.slim" timestamp="1495166368622">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="16" />
@@ -184,12 +190,12 @@
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/alliance_course_articles.html.erb" timestamp="1494170844902">
         <mark key="[" line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1495434976489">
+      <file name="$USER_HOME$/projects/umareso/app/models/magazine.rb" timestamp="1495436927884">
         <mark key="'" line="35" column="28" />
-        <mark key="[" line="45" column="41" />
-        <mark key="]" line="45" column="42" />
-        <mark key="." line="45" column="42" />
-        <mark key="^" line="35" column="59" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="46" column="11" />
+        <mark key="." line="46" column="11" />
+        <mark key="^" line="46" column="11" />
       </file>
       <file name="$USER_HOME$/projects/umareso/spec/controllers/writers/static_pages_controller_spec.rb" timestamp="1495431205364">
         <mark key="[" line="2" column="9" />
@@ -2988,32 +2994,35 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>bugs</text>
       </register>
       <register name="0" type="4">
-        <text>config.send_code = true
-  config.notify_release_stages = %w(production staging)</text>
+        <text>context '正常系' do
+      it 'trueが返る' do
+        expect(subject).to be_valid
+      end
+    end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXNzb2NpYXRpb24gOndyaXRlciwgZmFjdG9yeTogOndyaXRlcgo=</text>
+        <text encoding="base64">ICBwZW5kaW5nICJhZGQgc29tZSBleGFtcGxlcyB0byAob3IgZGVsZXRlKSAje19fRklMRV9ffSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWl0IDp3aXRoX3dyaXRlciBkbwo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgYXNzb2NpYXRpb24gOndyaXRlciwgZmFjdG9yeTogOndyaXRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuLmVtYWlscyA8PCBidWlsZCg6ZW1haWxfZm9yX2FkZHJlc3NfbXBsYW5fY3JlYXRlKQo=</text>
+        <text encoding="base64">ICAgIHRyYWl0IDp3aXRoX3dyaXRlciBkbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuID0gY3VzdC5hZGRyZXNzX21wbGFucy5maXJzdAo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3235,10 +3244,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuLmVtYWlscyA8PCBidWlsZCg6ZW1haWxfZm9yX2FkZHJlc3NfbXBsYW5fY3JlYXRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWZ0ZXIoOmJ1aWxkKSBkbyB8dXNlcnwK</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuID0gY3VzdC5hZGRyZXNzX21wbGFucy5maXJzdAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
