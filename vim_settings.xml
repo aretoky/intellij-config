@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/projects/umareso/db/schema.rb" timestamp="1495420703306">
         <mark key="'" line="149" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/spec/factories/users.rb" timestamp="1495431580609">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" timestamp="1495123954766">
         <mark key="'" line="131" column="37" />
       </file>
@@ -17,6 +22,12 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/free_course_articles.html.erb" timestamp="1494170837214">
         <mark key="[" line="0" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/spec/support/controller_macros.rb" timestamp="1495431596719">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/decorators/magazine_decorator.rb" timestamp="1495422663075">
         <mark key="[" line="2" column="75" />
@@ -54,6 +65,12 @@
         <mark key="." line="69" column="22" />
         <mark key="^" line="69" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/books/_form.html.slim" timestamp="1495127166221">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/factories/custs.rb" timestamp="1495431412813" />
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/show.html.slim" timestamp="1495423502292">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -112,6 +129,12 @@
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/alliance_course_articles.html.erb" timestamp="1494170844902">
         <mark key="[" line="0" column="82" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/spec/controllers/writers/static_pages_controller_spec.rb" timestamp="1495431205364">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/new.html.slim" timestamp="1494349476505">
         <mark key="[" line="20" column="72" />
       </file>
@@ -124,7 +147,7 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" timestamp="1495171573593">
         <mark key="'" line="109" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495162068536">
+      <file name="/Dummy.txt" timestamp="1495432164989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170511040120_add_genre_id_on_magazine.rb" timestamp="1495103698448">
@@ -138,6 +161,11 @@
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/send_media_list_course_articles.html.erb" timestamp="1494170840631">
         <mark key="[" line="0" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/lib/turbolinks.css.scss" timestamp="1495080817759">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/detail.php" timestamp="1495171858090">
         <mark key="'" line="125" column="60" />
@@ -2890,55 +2918,32 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>scaffoldable_url_for(action: :index)</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>magazines</text>
       </register>
       <register name="0" type="4">
-        <text>writers_magazine_path(@story.magazine)</text>
+        <text>@request.env[&quot;devise.mapping&quot;] = Devise.mappings[:user]
+    sign_in user</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>/.magazines-list.flex
-     .thumbnail-magazines
-        img(src=&quot;https://dummyimage.com/800x600/ccc/fff.jpg&quot; alt=&quot;&quot;)
-     .title
-        h3 愛さなければ死ぬ
-        span.date 公開日 2017-01-01
-        span.id 1
-        p.text-s
-          i.fa.fa-clock-o aria-hidden=&quot;true&quot;
-          |  更新日 2017-01-01
-     .sts
-        span.sts 非公開
-     .link-button
-        a.show-button.btn.btn-gray href=&quot;&quot;
-          span
-            i.fa.fa-eye.fa-fw aria-hidden=&quot;true&quot;
-            | 表示
-        a.edit-button.btn.btn-gray href=&quot;&quot;
-          span
-            i.fa.fa-pencil.fa-fw aria-hidden=&quot;true&quot;
-            | 編集
-        a.destroy-button.btn.btn-alert href=&quot;&quot;
-          span
-            i.fa.fa-trash.fa-fw aria-hidden=&quot;true&quot;
-            | 破棄</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYXNzb2NpYXRpb24gOndyaXRlciwgZmFjdG9yeTogOndyaXRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGEuZGVzdHJveS1idXR0b24uYnRuLmJ0bi1hbGVydCBocmVmPSIiCg==</text>
+        <text encoding="base64">ICAgIHRyYWl0IDp3aXRoX3dyaXRlciBkbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEuZWRpdC1idXR0b24uYnRuLmJ0bi1ncmF5IGhyZWY9IiIK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGEuZWRpdC1idXR0b24uYnRuLmJ0bi1ncmF5IGhyZWY9IiIK</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuLmVtYWlscyA8PCBidWlsZCg6ZW1haWxfZm9yX2FkZHJlc3NfbXBsYW5fY3JlYXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEuc2hvdy1idXR0b24uYnRuLmJ0bi1ncmF5IGhyZWY9IiIK</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzX21wbGFuID0gY3VzdC5hZGRyZXNzX21wbGFucy5maXJzdAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3160,37 +3165,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNwYW4uc3RzLnN0cy1wdWJsaXNoZWQg5YWs6ZaLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.magazines-list.flex
-       .thumbnail-magazines
-          img(src=&quot;#{story.background_image.url}&quot; alt=&quot;&quot;)
-       .title
-          h3 = story.title
-          span.date
-            | 公開日
-            = l(story.published_at)
-          span.id = story.id
-          p.text-s
-            i.fa.fa-clock-o aria-hidden=&quot;true&quot;
-            |  更新日
-            = l(story.updated_at)
-       .sts
-          span.sts.sts-published 公開
-       .link-button
-          a.show-button.btn.btn-gray href=&quot;&quot;
-            span
-              i.fa.fa-eye.fa-fw aria-hidden=&quot;true&quot;
-              | 表示
-          a.edit-button.btn.btn-gray href=&quot;&quot;
-            span
-              i.fa.fa-pencil.fa-fw aria-hidden=&quot;true&quot;
-              | 編集
-          a.destroy-button.btn.btn-alert href=&quot;&quot;
-            span
-              i.fa.fa-trash.fa-fw aria-hidden=&quot;true&quot;
-              | 破棄</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgYWZ0ZXIoOmJ1aWxkKSBkbyB8dXNlcnwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
