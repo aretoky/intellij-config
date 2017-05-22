@@ -145,6 +145,12 @@
       <file name="$USER_HOME$/projects/value_press/app/decorators/article/alliance_media_feed_decorator.rb" timestamp="1493561116109">
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/application/_image_uploader_field.html.slim" timestamp="1495441026973">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" timestamp="1495103019182">
         <mark key="'" line="175" column="0" />
         <mark key="[" line="871" column="31" />
@@ -225,6 +231,12 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/inputs/image_preview_input.rb" timestamp="1495440810683">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" timestamp="1495171573593">
         <mark key="'" line="109" column="54" />
       </file>
@@ -294,6 +306,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/_form.html.slim" timestamp="1495441117681">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="2" column="56" />
+        <mark key="." line="2" column="56" />
+        <mark key="^" line="2" column="56" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1495435232590">
         <mark key="'" line="313" column="5" />
@@ -3013,17 +3031,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>https://dummyimage.com/1200x600/ccc/fff.jpg</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>bugs</text>
       </register>
-      <register name="0" type="4">
-        <text>context '正常系' do
-      it 'trueが返る' do
-        expect(subject).to be_valid
-      end
-    end</text>
+      <register name="0" type="2">
+        <text encoding="base64">PSByZW5kZXIgJ2ltYWdlX3VwbG9hZGVyX2ZpZWxkJywgZjogZiwgZmllbGRfbmFtZTogJ2JhY2tncm91bmRfaW1hZ2UnCg==</text>
       </register>
       <register name="1" type="4">
         <text>.post-card
