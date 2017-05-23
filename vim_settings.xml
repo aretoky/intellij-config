@@ -14,11 +14,12 @@
         <mark key="[" line="22" column="68" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/models/writer.rb" timestamp="1495438087054" />
-      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1495510499019">
+      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1495510717394">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="159" column="32" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/option_pic_uploader.rb" timestamp="1493798934070">
         <mark key="[" line="0" column="54" />
@@ -145,6 +146,13 @@
         <mark key="]" line="26" column="28" />
         <mark key="." line="26" column="28" />
         <mark key="^" line="26" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1495511181537">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="58" column="18" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1495442231765">
         <mark key="[" line="8" column="13" />
@@ -371,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="46" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="82" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="92" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="95" column="70" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
@@ -471,6 +478,7 @@
       <jump line="10" column="23" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
       <jump line="118" column="62" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="0" column="8" filename="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3080,31 +3088,33 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>p book.new_record?</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>ymdroom</text>
+        <text>hhs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdF95bWRyb29tX3NhdmluZ19mb3JtLmJvb2subm9fYm9vawo=</text>
+      <register name="0" type="4">
+        <text>it &quot;正常に保存されること&quot; do
+        expect(subject).to eq true
+      end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwIGEuYm9vay5ub19ib29rCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwIGEuYm9vay5uZXdfcmVjb3JkPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgYm9vawo=</text>
+        <text encoding="base64">ICAgICAgICBwIGEuYm9vay5ub19ib29rCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwIGEuYm9vay5uZXdfcmVjb3JkPwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHAgYm9vawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgYm9vawo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3326,22 +3336,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcCBib29rCg==</text>
+        <text encoding="base64">ICAgIHAgYm9vawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgYm9vawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAgZmlyc3RfeW1kcm9vbV9zYXZpbmdfZm9ybS5ib29rLm5vX2Jvb2sK</text>
+        <text encoding="base64">ICAgICAgcCBib29rCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>ymdroom</last-search>
+      <last-search>hhs</last-search>
       <last-offset />
-      <last-pattern>ymdroom</last-pattern>
+      <last-pattern>hhs</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3350,7 +3360,6 @@
     <history>
       <history-search>
         <entry>cd_hh_fr</entry>
-        <entry>hhs</entry>
         <entry>editable</entry>
         <entry>ymd</entry>
         <entry>roomymd</entry>
@@ -3369,6 +3378,7 @@
         <entry>person</entry>
         <entry>first_ymd</entry>
         <entry>ymdroom</entry>
+        <entry>hhs</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
