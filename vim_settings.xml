@@ -147,12 +147,11 @@
         <mark key="." line="26" column="28" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1495511181537">
+      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1495512828286">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="55" column="26" />
-        <mark key="]" line="58" column="18" />
-        <mark key="^" line="58" column="18" />
-        <mark key="." line="58" column="18" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1495442231765">
         <mark key="[" line="8" column="13" />
@@ -288,7 +287,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495503346216">
+      <file name="/Dummy.txt" timestamp="1495512215824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170511040120_add_genre_id_on_magazine.rb" timestamp="1495103698448">
@@ -3094,27 +3093,28 @@
         <text>hhs</text>
       </register>
       <register name="0" type="4">
-        <text>it &quot;正常に保存されること&quot; do
-        expect(subject).to eq true
-      end</text>
+        <text>&quot;前後に余り時間が入っていること&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwIGJvb2suaGhzCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwIGEuYm9vay5ub19ib29rCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwIGEuYm9vay5uZXdfcmVjb3JkPwo=</text>
+        <text encoding="base64">ICAgICAgICBwIGJvb2suZXJyb3JzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgYm9vawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>first_hh = book.hhs.order(:cd_hh).first
+      last_hh = book.hhs.order(:cd_hh).last
+      expect(first_hh.cd_bk).to eq 20
+      expect(last_hh.cd_bk).to eq 20</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3336,13 +3336,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgYm9vawo=</text>
+        <text encoding="base64">ICAgICAgICBwIGJvb2suaGhzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgYm9vawo=</text>
+        <text encoding="base64">ICAgICAgICAgIGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcCBib29rCg==</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
