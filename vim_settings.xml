@@ -33,6 +33,11 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/validators/unique_bookhhs_validator.rb" timestamp="1495499966985">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1495124101340">
         <mark key="'" line="19" column="3" />
         <mark key="[" line="81" column="0" />
@@ -252,7 +257,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495449288673">
+      <file name="/Dummy.txt" timestamp="1495499904583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170511040120_add_genre_id_on_magazine.rb" timestamp="1495103698448">
@@ -3044,7 +3049,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>if record.current_person.emp?</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
@@ -3053,22 +3058,22 @@
         <text>config.assets.compile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHzjg63jgrDjgqTjg7MK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHzjg63jgrDjgqTjg7MK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHwg6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgID0gbGlua190bwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHwg6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CC6Kqt44G/5pa544Gu6Kej6Kqs44GM5YWl44KK44G+44GZ44CCCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3290,25 +3295,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB8IOOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAggo=</text>
+        <text encoding="base64">ICAgICAgICAgID0gbGlua190bwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGEgaHJlZj0iIgo=</text>
+        <text encoding="base64">ICAgICAgICB8IOOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAguOBguOCieOBmeOBmOOBjOWFpeOCiuOBvuOBmeOAggo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.post-card
-          img(src=&quot;https://dummyimage.com/1200x600/ccc/fff.jpg&quot; alt=&quot;&quot;)
-          .caption
-            h2.text-m.text-right
-              a href=&quot;&quot;
-                | 連載タイトル
-            h3
-              = link_to story.title, story_path(story)
-            span.date.text-xs = l(story.published_at, format: :period_date)
-            p.justify
-              = truncate(story.story_text.plain_text, length: 100)
-            p.text-more.text-s
-              = link_to &quot;... 続きをみる&quot;, story_path(story)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGEgaHJlZj0iIgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
