@@ -39,13 +39,14 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1495502436249">
-        <mark key="'" line="150" column="9" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1495505081256">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="196" column="30" />
+        <mark key="]" line="199" column="9" />
+        <mark key="." line="199" column="9" />
+        <mark key="^" line="199" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1495124101340">
+      <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1495505871061">
         <mark key="'" line="19" column="3" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -194,7 +195,14 @@
         <mark key="." line="118" column="8" />
         <mark key="^" line="117" column="40" />
       </file>
-      <file name="/Ruby Console" timestamp="1495502875274">
+      <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1495506429757" />
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/_form.html.slim" timestamp="1495505263918">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+      </file>
+      <file name="/Ruby Console" timestamp="1495505289398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/locales/models/ja.yml" timestamp="1495443285670">
@@ -298,6 +306,7 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/show.html.slim" timestamp="1495505199473" />
       <file name="$USER_HOME$/projects/umareso/config/routes.rb" timestamp="1495095851137">
         <mark key="'" line="26" column="15" />
         <mark key="[" line="22" column="36" />
@@ -329,12 +338,12 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1495503551405">
+      <file name="$USER_HOME$/projects/cplus/app/models/book.rb" timestamp="1495504978768">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="116" column="28" />
-        <mark key="]" line="116" column="40" />
-        <mark key="." line="116" column="40" />
-        <mark key="^" line="116" column="40" />
+        <mark key="[" line="117" column="12" />
+        <mark key="]" line="117" column="21" />
+        <mark key="." line="117" column="21" />
+        <mark key="^" line="117" column="21" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/decorators/story_decorator.rb" timestamp="1495422669764">
         <mark key="[" line="0" column="7" />
@@ -357,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="8" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
-      <jump line="92" column="23" filename="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" />
-      <jump line="49" column="10" filename="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" />
       <jump line="50" column="31" filename="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" />
       <jump line="8" column="3" filename="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" />
       <jump line="37" column="34" filename="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" />
@@ -457,6 +463,9 @@
       <jump line="131" column="4" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="138" column="35" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="150" column="9" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
+      <jump line="34" column="9" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
+      <jump line="11" column="20" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3066,13 +3075,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>if record.current_person.emp?</text>
+        <text>confirming</text>
       </register>
       <register name="/" type="4">
-        <text>book</text>
+        <text>params</text>
       </register>
-      <register name="0" type="4">
-        <text>_without_self</text>
+      <register name="0" type="2">
+        <text encoding="base64">PSBmLmhpZGRlbl9maWVsZCA6Y29uZmlybWluZwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYQo=</text>
@@ -3325,9 +3334,9 @@
       </register>
     </registers>
     <search>
-      <last-search>book</last-search>
+      <last-search>params</last-search>
       <last-offset />
-      <last-pattern>book</last-pattern>
+      <last-pattern>params</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3335,7 +3344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry encoding="base64">dXBkYXRlIA==</entry>
         <entry>bookhh</entry>
         <entry>hh</entry>
@@ -3355,6 +3363,7 @@
         <entry>produ</entry>
         <entry>static</entry>
         <entry>book</entry>
+        <entry>params</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
