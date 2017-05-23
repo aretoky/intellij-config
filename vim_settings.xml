@@ -137,6 +137,12 @@
       <file name="$USER_HOME$/projects/value_press/app/views/layouts/users/alliance_course_articles.html.erb" timestamp="1494170844902">
         <mark key="[" line="0" column="82" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" timestamp="1495537146930">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="363" column="0" />
+        <mark key="]" line="363" column="0" />
+        <mark key="." line="363" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/bitem/ajax_edit_option.php" timestamp="1495526599857">
         <mark key="'" line="0" column="0" />
       </file>
@@ -257,6 +263,9 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="8" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" timestamp="1495537302637">
+        <mark key="'" line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/edit.php" timestamp="1495525912736">
         <mark key="'" line="29" column="185" />
       </file>
@@ -329,6 +338,11 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="37" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/assets/javascripts/js/base.js" timestamp="1495537223212">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/inputs/image_preview_input.rb" timestamp="1495440810683">
         <mark key="[" line="0" column="55" />
         <mark key="]" line="14" column="4" />
@@ -338,7 +352,7 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" timestamp="1495525548837">
         <mark key="'" line="134" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495532877368">
+      <file name="/Dummy.txt" timestamp="1495537541218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170511040120_add_genre_id_on_magazine.rb" timestamp="1495103698448">
@@ -394,8 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="12" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
-      <jump line="80" column="33" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="71" column="17" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="74" column="12" filename="$USER_HOME$/projects/cplus/app/models/book.rb" />
       <jump line="69" column="8" filename="$USER_HOME$/projects/cplus/app/models/bitem.rb" />
@@ -494,6 +506,8 @@
       <jump line="100" column="12" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
       <jump line="102" column="8" filename="$USER_HOME$/projects/cplus/app/models/bill/attribute_updater.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="2" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
+      <jump line="132" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3112,22 +3126,22 @@
         <text>year_plan_before_30_day_billmail.dt_deadline</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5ZWFyX3BsYW5fYmVmb3JlXzMwX2RheV9iaWxsbWFpbAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGYuYm9vay5jdXJyZW50X3BlcnNvbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgc2VsZi5ib29rLmJpdGVtLmN1cnJlbnRfcGVyc29uCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3349,13 +3363,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgJ2FhYScK</text>
+        <text encoding="base64">ICAgICAgICB5ZWFyX3BsYW5fYmVmb3JlXzMwX2RheV9iaWxsbWFpbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgJ2FhYScK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHNlbGYuYm9vay5jdXJyZW50X3BlcnNvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
