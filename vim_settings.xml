@@ -52,10 +52,10 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1495515742538">
+      <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1495516200009">
         <mark key="'" line="19" column="3" />
-        <mark key="[" line="150" column="31" />
-        <mark key="]" line="150" column="34" />
+        <mark key="[" line="139" column="6" />
+        <mark key="]" line="139" column="38" />
         <mark key="^" line="150" column="34" />
         <mark key="." line="150" column="34" />
       </file>
@@ -147,12 +147,12 @@
         <mark key="." line="26" column="28" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1495515974966">
+      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1495516746600">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="95" column="22" />
-        <mark key="]" line="97" column="27" />
-        <mark key="." line="97" column="27" />
-        <mark key="^" line="97" column="27" />
+        <mark key="[" line="86" column="16" />
+        <mark key="]" line="86" column="20" />
+        <mark key="^" line="86" column="20" />
+        <mark key="." line="86" column="20" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1495442231765">
         <mark key="[" line="8" column="13" />
@@ -3088,33 +3088,40 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>mark_for_destruction</text>
       </register>
       <register name="/" type="4">
         <text>hhs</text>
       </register>
       <register name="0" type="4">
-        <text>book.hhs</text>
+        <text>Book.find(book.no_book).hhs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcCBib29rLmhocwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCBCb29rLmZpbmQoYm9vay5ub19ib29rKS5oaHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vay5oaHMucmVsb2FkCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>before do
-          subject
-        end</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>book.hhs.select { |hh|
+          hh.cd_hh == new_cd_hh
+        }.each { |hh|
+          hh.mark_for_destruction
+        }
+        book.hhs.reload
+        book.hhs.build(
+          cd_hh: new_cd_hh,
+          cd_bk: 30
+        )</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3336,10 +3343,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBib29rLmhocy5yZWxvYWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1YmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
