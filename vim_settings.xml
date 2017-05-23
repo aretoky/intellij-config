@@ -14,12 +14,11 @@
         <mark key="[" line="22" column="68" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/models/writer.rb" timestamp="1495438087054" />
-      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1495509305746">
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="146" column="17" />
-        <mark key="]" line="147" column="35" />
-        <mark key="." line="147" column="35" />
-        <mark key="^" line="147" column="35" />
+      <file name="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" timestamp="1495510499019">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/option_pic_uploader.rb" timestamp="1493798934070">
         <mark key="[" line="0" column="54" />
@@ -46,12 +45,11 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1495505081256">
+      <file name="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" timestamp="1495510402038">
         <mark key="'" line="11" column="20" />
-        <mark key="[" line="196" column="30" />
-        <mark key="]" line="199" column="9" />
-        <mark key="." line="199" column="9" />
-        <mark key="^" line="199" column="9" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1495505871061">
         <mark key="'" line="19" column="3" />
@@ -373,11 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="3" filename="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" />
-      <jump line="37" column="34" filename="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" />
-      <jump line="45" column="19" filename="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" />
-      <jump line="137" column="29" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
-      <jump line="152" column="35" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="161" column="46" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="82" column="60" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
       <jump line="92" column="23" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" />
@@ -473,6 +466,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="11" column="20" filename="$USER_HOME$/projects/cplus/app/forms/ymdroom_saving_form.rb" />
       <jump line="18" column="31" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="140" column="8" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="7" column="21" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="10" column="23" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="118" column="62" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/spec/forms/ymdroom_saving_form_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3082,31 +3080,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>.errors</text>
+        <text>p book.new_record?</text>
       </register>
       <register name="/" type="4">
-        <text>params</text>
+        <text>ymdroom</text>
       </register>
-      <register name="0" type="4">
-        <text>ymdroom_saving_form_param</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaXJzdF95bWRyb29tX3NhdmluZ19mb3JtLmJvb2subm9fYm9vawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAgeW1kcm9vbV9zYXZpbmdfZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICBwIGEuYm9vay5ub19ib29rCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHAgeW1kcm9vbV9zYXZpbmdfZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICBwIGEuYm9vay5uZXdfcmVjb3JkPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHAgYm9vawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgYm9vawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3ViamVjdCB7IH0K</text>
+        <text encoding="base64">ICAgIHAgYm9vawo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3328,22 +3326,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgcCBib29rCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB5bWRyb29tX3NhdmluZ19mb3JtLnNhdmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHAgZmlyc3RfeW1kcm9vbV9zYXZpbmdfZm9ybS5ib29rLm5vX2Jvb2sK</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>params</last-search>
+      <last-search>ymdroom</last-search>
       <last-offset />
-      <last-pattern>params</last-pattern>
+      <last-pattern>ymdroom</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3351,9 +3349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dXBkYXRlIA==</entry>
-        <entry>bookhh</entry>
-        <entry>hh</entry>
         <entry>cd_hh_fr</entry>
         <entry>hhs</entry>
         <entry>editable</entry>
@@ -3371,6 +3366,9 @@
         <entry>static</entry>
         <entry>book</entry>
         <entry>params</entry>
+        <entry>person</entry>
+        <entry>first_ymd</entry>
+        <entry>ymdroom</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDw/LzwlIC9n</entry>
