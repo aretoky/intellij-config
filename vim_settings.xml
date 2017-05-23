@@ -52,12 +52,12 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1495505871061">
+      <file name="$USER_HOME$/projects/cplus/app/models/book/attribute_saver.rb" timestamp="1495515742538">
         <mark key="'" line="19" column="3" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="66" column="15" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="150" column="31" />
+        <mark key="]" line="150" column="34" />
+        <mark key="^" line="150" column="34" />
+        <mark key="." line="150" column="34" />
       </file>
       <file name="$USER_HOME$/projects/umareso/spec/support/controller_macros.rb" timestamp="1495431596719">
         <mark key="[" line="9" column="12" />
@@ -147,12 +147,12 @@
         <mark key="." line="26" column="28" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1495513181441">
+      <file name="$USER_HOME$/projects/cplus/spec/models/book/attribute_saver_spec.rb" timestamp="1495515974966">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="12" column="1" />
+        <mark key="[" line="95" column="22" />
+        <mark key="]" line="97" column="27" />
+        <mark key="." line="97" column="27" />
+        <mark key="^" line="97" column="27" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1495442231765">
         <mark key="[" line="8" column="13" />
@@ -3088,34 +3088,33 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>hhs</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;前後に余り時間が入っていること&quot;</text>
+        <text>book.hhs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcCBib29rLmhocwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwIGJvb2suZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vay5oaHMucmVsb2FkCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>before do
+          subject
+        end</text>
       </register>
-      <register name="6" type="4">
-        <text>first_hh = book.hhs.order(:cd_hh).first
-      last_hh = book.hhs.order(:cd_hh).last
-      expect(first_hh.cd_bk).to eq 20
-      expect(last_hh.cd_bk).to eq 20</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3337,13 +3336,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwIGJvb2suaGhzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN1YmplY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwIGJvb2suaGhzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'/&quot;/g</text>
