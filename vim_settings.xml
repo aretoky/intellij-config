@@ -93,6 +93,9 @@
         <mark key="^" line="86" column="20" />
         <mark key="." line="86" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/models/cust.rb" timestamp="1495605470197">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telexps/index.html.slim" timestamp="1494349493116">
         <mark key="[" line="24" column="68" />
       </file>
@@ -131,6 +134,9 @@
         <mark key="^" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/vp_legacy_file_uploader.rb" timestamp="1495547915350" />
+      <file name="$USER_HOME$/projects/cplus/app/models/postal.rb" timestamp="1495605478734">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/config/routes.rb" timestamp="1495127863089">
         <mark key="'" line="34" column="41" />
       </file>
@@ -505,8 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
-      <jump line="58" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
       <jump line="79" column="16" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
       <jump line="112" column="16" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
       <jump line="134" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
@@ -605,6 +609,8 @@
       <jump line="129" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="22" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
       <jump line="91" column="19" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/cust.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/app/models/postal.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3217,7 +3223,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>unicorn</text>
+        <text>uns</text>
       </register>
       <register name="0" type="4">
         <text>unicorn-worker-killer</text>
@@ -3473,9 +3479,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unicorn</last-search>
+      <last-search>uns</last-search>
       <last-offset />
-      <last-pattern>unicorn</last-pattern>
+      <last-pattern>uns</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3483,9 +3489,6 @@
     </search>
     <history>
       <history-search>
-        <entry>error1</entry>
-        <entry>yn_error_1</entry>
-        <entry>cd_po</entry>
         <entry>99</entry>
         <entry>book</entry>
         <entry>un</entry>
@@ -3503,6 +3506,9 @@
         <entry>time</entry>
         <entry>whe</entry>
         <entry>unicorn</entry>
+        <entry>unsend</entry>
+        <entry>unsent</entry>
+        <entry>uns</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
