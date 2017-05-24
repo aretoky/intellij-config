@@ -13,12 +13,11 @@
       <file name="$USER_HOME$/projects/cplus/app/views/admin/telpays/index.html.slim" timestamp="1494349450902">
         <mark key="[" line="22" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/confirm.html.erb" timestamp="1495626744720">
-        <mark key="'" line="185" column="8" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/confirm.html.erb" timestamp="1495640678101">
+        <mark key="'" line="186" column="8" />
         <mark key="[" line="61" column="81" />
-        <mark key="]" line="62" column="13" />
-        <mark key="." line="62" column="13" />
-        <mark key="^" line="62" column="13" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/book/edit_confirm.php" timestamp="1495123954766">
         <mark key="'" line="131" column="37" />
@@ -3202,7 +3201,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBuYW1lOiA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>manu</text>
@@ -3211,12 +3210,15 @@
         <text>CommodityPrice.get('premium')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD89IGdldF9hcnRpY2xlX29wdGlvbl9hcnJheSgkb3B0aW9uX3ByZW1pdW1bJ21hbnVzY3JpcHQnXSk7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8JT0gCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPD89IGdldF9hcnRpY2xlX29wdGlvbl9hcnJheSgkb3B0aW9uX3ByZW1pdW1bJ21hbnVzY3JpcHQnXSk7ID8+Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text># コース名
   def course_name
     case self.class
@@ -3225,14 +3227,11 @@
     end
   end</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8PyBlbmRpZjsgPz4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8PyBpZiAoJGhhc09wdGlvbik6ID8+Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICjnj77lnKjjga7mrovpq5ggJnllbjs8Pz0gbnVtYmVyX2Zvcm1hdCgkdGhpcy0+dXNlci0+ZGF0YS0+bW9uZXkpID8+KQo=</text>
+        <text encoding="base64">ICAgICAgICA8PyBpZiAoJGhhc09wdGlvbik6ID8+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3454,13 +3453,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICZ5ZW47PD89IG51bWJlcl9mb3JtYXQoJHByaWNlKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICjnj77lnKjjga7mrovpq5ggJnllbjs8Pz0gbnVtYmVyX2Zvcm1hdCgkdGhpcy0+dXNlci0+ZGF0YS0+bW9uZXkpID8+KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD8gaWYoIWlzc2V0KCRoYXNPcHRpb24pKSAkaGFzT3B0aW9uID0gRkFMU0UgOyA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICZ5ZW47PD89IG51bWJlcl9mb3JtYXQoJHByaWNlKSA/Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD8gaWYoIWlzc2V0KCRoYXNPcHRpb24pKSAkaGFzT3B0aW9uID0gRkFMU0UgOyA/Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
