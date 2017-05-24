@@ -420,6 +420,10 @@
       <file name="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/detail.php" timestamp="1495525467088">
         <mark key="'" line="80" column="293" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/lib/tasks/rake_helpers.rb" timestamp="1495584153629">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/uploaders/magazine_cover_image_uploader.rb" timestamp="1495081854675">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="30" />
@@ -3193,7 +3197,7 @@
         <text>jpg</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZHJvcF90aHVtYm5haWxfZmlsZW5hbWUgPD8gaWYoJF9maWxlWyd0eXBlJ10gPT09ICdpbWFnZScpOiA/PmhpZGRlbl9ib3g8PyBlbmRpZjsgPz4iPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aHVtYm5haWxfZmlsZW5hbWUiPjw/PSBmb3JtYXRfZmlsZW5hbWVfZWxsaXBzaXMoaCgkX2ZpbGVbJ29yZ19maWxlbmFtZSddKSwgNSkgPz48L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0iZHotZmlsZW5hbWUgaGlkZGVuX2JveCI+PHNwYW4gZGF0YS1kei1uYW1lPjwvc3Bhbj48L2Rpdj4=</text>
+        <text>ps -ef | grep #{task.name} | grep -v grep | wc -l</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
