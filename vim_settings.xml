@@ -366,10 +366,10 @@
         <mark key="." line="44" column="25" />
         <mark key="^" line="44" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1495589596081">
-        <mark key="'" line="121" column="40" />
-        <mark key="[" line="129" column="27" />
-        <mark key="]" line="129" column="27" />
+      <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1495592837755">
+        <mark key="'" line="91" column="19" />
+        <mark key="[" line="123" column="5" />
+        <mark key="]" line="123" column="25" />
         <mark key="^" line="94" column="0" />
         <mark key="." line="129" column="27" />
       </file>
@@ -505,9 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="84" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/edit.php" />
-      <jump line="54" column="55" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/edit.php" />
-      <jump line="14" column="24" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
       <jump line="35" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
       <jump line="58" column="12" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
       <jump line="79" column="16" filename="$USER_HOME$/projects/mycustomer.ginza-plus.net/html/admin/ymdroom/inc.php" />
@@ -605,6 +602,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
       <jump line="55" column="6" filename="$USER_HOME$/projects/cplus/config/locales/010_defaults/ja.yml" />
       <jump line="121" column="40" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="129" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="22" column="5" filename="$USER_HOME$/projects/cplus/Gemfile" />
+      <jump line="91" column="19" filename="$USER_HOME$/projects/cplus/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3217,10 +3217,10 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>whe</text>
+        <text>unicorn</text>
       </register>
       <register name="0" type="4">
-        <text>I18n.l(</text>
+        <text>unicorn-worker-killer</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3473,9 +3473,9 @@
       </register>
     </registers>
     <search>
-      <last-search>whe</last-search>
+      <last-search>unicorn</last-search>
       <last-offset />
-      <last-pattern>whe</last-pattern>
+      <last-pattern>unicorn</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3483,7 +3483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cd_pn</entry>
         <entry>error1</entry>
         <entry>yn_error_1</entry>
         <entry>cd_po</entry>
@@ -3503,6 +3502,7 @@
         <entry>jpg</entry>
         <entry>time</entry>
         <entry>whe</entry>
+        <entry>unicorn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
