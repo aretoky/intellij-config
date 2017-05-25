@@ -103,6 +103,10 @@
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/controllers/users/registrations_controller.rb" timestamp="1495703784954">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1495611847608">
         <mark key="[" line="71" column="3" />
         <mark key="]" line="72" column="1" />
@@ -170,7 +174,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/db/migrate/20170522085155_add_interpretation_on_magazine.rb" timestamp="1495443274168">
+      <file name="$USER_HOME$/projects/umareso/db/migrate/20170522085155_add_interpretation_on_magazine.rb" timestamp="1495703628553">
         <mark key="[" line="2" column="75" />
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
@@ -236,6 +240,12 @@
         <mark key="]" line="144" column="42" />
         <mark key="." line="156" column="14" />
         <mark key="^" line="156" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/db/migrate/20170525091316_add_first_report_on_user.rb" timestamp="1495703639388">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/option_pic_uploader.rb" timestamp="1495618447907">
         <mark key="[" line="24" column="26" />
@@ -379,17 +389,17 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/locales/models/ja.yml" timestamp="1495702528217">
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-        <mark key="^" line="34" column="23" />
+      <file name="$USER_HOME$/projects/umareso/config/locales/models/ja.yml" timestamp="1495703176492">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1495702484839">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="30" />
+      <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1495703157026">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
       </file>
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1495592837755">
         <mark key="'" line="91" column="19" />
@@ -3241,13 +3251,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>asset_path('avatar-sakano.jpg')</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGJyIC8+</text>
+        <text>Devise::RegistrationsController</text>
       </register>
       <register name="1" type="4">
         <text>li
