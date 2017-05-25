@@ -113,6 +113,7 @@
         <mark key="^" line="72" column="1" />
         <mark key="." line="72" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/application_record.rb" timestamp="1495705498853" />
       <file name="$USER_HOME$/projects/umareso/app/views/magazines/show.html.slim" timestamp="1495442944106">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -152,6 +153,7 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/draft_story.rb" timestamp="1495705513626" />
       <file name="$USER_HOME$/projects/umareso/app/controllers/static_pages_controller.rb" timestamp="1495679551980">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="47" />
@@ -246,6 +248,12 @@
         <mark key="]" line="2" column="35" />
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/models/user/attribute_creator.rb" timestamp="1495705519418">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/uploaders/option_pic_uploader.rb" timestamp="1495618447907">
         <mark key="[" line="24" column="26" />
@@ -395,11 +403,11 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1495703157026">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="25" />
+      <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1495704884264">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/Gemfile" timestamp="1495592837755">
         <mark key="'" line="91" column="19" />
@@ -3251,7 +3259,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Story</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -3259,7 +3267,16 @@
       <register name="0" type="4">
         <text>Devise::RegistrationsController</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="4" type="4">
         <text>li
             a href=&quot;&quot;
               img(src=&quot;#{asset_path('avatar-sakano.jpg')}&quot; alt=&quot;&quot;)
@@ -3271,20 +3288,11 @@
               h3 氏名
             p.text-m 漫画家</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGEK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvYm9keQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ID0+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAvYm9keQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3506,13 +3514,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLmluY2x1ZGVzKHdyaXRlcjogWzp1c2VyXSkK</text>
+        <text encoding="base64">ID0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgbW9kZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
