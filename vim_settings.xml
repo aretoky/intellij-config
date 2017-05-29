@@ -94,8 +94,8 @@
         <mark key="." line="3" column="38" />
       </file>
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/free_course_articles_controller_spec.rb" timestamp="1495789987952" />
-      <file name="$USER_HOME$/projects/umareso/config/environments/production.rb" timestamp="1496028063282">
-        <mark key="'" line="91" column="3" />
+      <file name="$USER_HOME$/projects/umareso/config/environments/production.rb" timestamp="1496040971007">
+        <mark key="'" line="4" column="9" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
@@ -387,11 +387,11 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1495678154544">
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="94" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="41" />
+      <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1496041124422">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/application.js.coffee" timestamp="1496029489235">
         <mark key="'" line="0" column="11" />
@@ -576,9 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="26" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
-      <jump line="80" column="26" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
-      <jump line="84" column="26" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
       <jump line="109" column="23" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
       <jump line="127" column="15" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
       <jump line="10" column="12" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
@@ -676,6 +673,9 @@
       <jump line="89" column="6" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/confirm.html.erb" />
       <jump line="91" column="3" filename="$USER_HOME$/projects/umareso/config/environments/production.rb" />
       <jump line="0" column="11" filename="$USER_HOME$/projects/umareso/app/assets/javascripts/application.js.coffee" />
+      <jump line="69" column="0" filename="$USER_HOME$/projects/umareso/config/environments/production.rb" />
+      <jump line="0" column="9" filename="$USER_HOME$/projects/umareso/config/environments/production.rb" />
+      <jump line="4" column="9" filename="$USER_HOME$/projects/umareso/config/environments/production.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3288,7 +3288,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>google_analytics_for_turoblinks</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbWFnYXppbmUuc2F2ZSEK</text>
@@ -3544,9 +3544,9 @@
       </register>
     </registers>
     <search>
-      <last-search>google_analytics_for_turoblinks</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>google_analytics_for_turoblinks</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3564,7 +3564,6 @@
         <entry>radio</entry>
         <entry>note</entry>
         <entry>premi</entry>
-        <entry>cache</entry>
         <entry>mail</entry>
         <entry>ome</entry>
         <entry>oem</entry>
@@ -3574,6 +3573,7 @@
         <entry>course_name</entry>
         <entry>confirm</entry>
         <entry>google_analytics_for_turoblinks</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
