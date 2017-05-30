@@ -205,11 +205,11 @@
         <mark key="]" line="82" column="35" />
         <mark key="." line="82" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/temporary_legacy_upload_file.rb" timestamp="1496136380195">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="25" column="9" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/models/temporary_legacy_upload_file.rb" timestamp="1496139827802">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="56" column="66" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/magazine_genres/show.html.slim" timestamp="1495082176257">
         <mark key="[" line="14" column="47" />
@@ -247,6 +247,12 @@
         <mark key="]" line="11" column="3" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/config/initializers/carrierwave.rb" timestamp="1496140407120">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/projects/cplus/.ruby-version" timestamp="1495532972700">
         <mark key="[" line="0" column="5" />
@@ -418,12 +424,12 @@
         <mark key="^" line="29" column="61" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable.rb" timestamp="1496137894345">
-        <mark key="'" line="98" column="22" />
-        <mark key="[" line="61" column="35" />
-        <mark key="]" line="63" column="3" />
-        <mark key="." line="63" column="3" />
-        <mark key="^" line="63" column="3" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable.rb" timestamp="1496140110553">
+        <mark key="'" line="100" column="22" />
+        <mark key="[" line="75" column="52" />
+        <mark key="]" line="76" column="3" />
+        <mark key="." line="76" column="3" />
+        <mark key="^" line="76" column="3" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/application/_footer.html.slim" timestamp="1495706932401">
         <mark key="[" line="19" column="40" />
@@ -431,6 +437,7 @@
         <mark key="^" line="19" column="41" />
         <mark key="." line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/config/environments/development.rb" timestamp="1496140399356" />
       <file name="$USER_HOME$/projects/umareso/spec/models/magazine_spec.rb" timestamp="1495437190448">
         <mark key="[" line="32" column="38" />
         <mark key="]" line="32" column="37" />
@@ -507,7 +514,7 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496133313944">
+      <file name="/Ruby Console" timestamp="1496140842422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/locales/models/ja.yml" timestamp="1496047348151">
@@ -628,7 +635,7 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496136134120">
+      <file name="/Dummy.txt" timestamp="1496140377647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/database.yml" timestamp="1495538910986">
@@ -3429,29 +3436,28 @@
         <text>uporgfilename</text>
       </register>
       <register name="/" type="4">
-        <text>upfilename</text>
+        <text>asset_host</text>
       </register>
       <register name="0" type="4">
-        <text>tmp = $(file.previewElement).children('.uporgfilename').attr('name');
-                    $(file.previewElement).children('.uporgfilename').attr('name', tmp.replace(/^tpl\-/, ''));</text>
+        <text>localhost:3000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGNhdGVnb3J5X2NsYXNzID09ICdyZWxlYXNlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuc2Vzc2lvbl9zdG9yZSA6cmVkaXNfc3RvcmUsIHNlcnZlcnM6IEVOVlsnUkVESVNfVVJMJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuc2Vzc2lvbl9zdG9yZSA6Y29va2llX3N0b3JlLCBrZXk6ICdfdW1hcmVzb19zZXNzaW9uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3679,16 +3685,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuc2Vzc2lvbl9zdG9yZSA6cmVkaXNfc3RvcmUsIHNlcnZlcnM6IEVOVlsnUkVESVNfVVJMJ10K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>upfilename</last-search>
+      <last-search>asset_host</last-search>
       <last-offset />
-      <last-pattern>upfilename</last-pattern>
+      <last-pattern>asset_host</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3696,7 +3702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oem</entry>
         <entry>email</entry>
         <entry>submit_date</entry>
         <entry>overse</entry>
@@ -3716,6 +3721,7 @@
         <entry>upfile_cache</entry>
         <entry>uporgfilename</entry>
         <entry>upfilename</entry>
+        <entry>asset_host</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
