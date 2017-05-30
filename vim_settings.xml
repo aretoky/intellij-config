@@ -17,12 +17,12 @@
         <mark key="^" line="121" column="53" />
         <mark key="." line="121" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/config/initializers/devise.rb" timestamp="1496044594233">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
-        <mark key="^" line="14" column="38" />
+      <file name="$USER_HOME$/projects/umareso/config/initializers/devise.rb" timestamp="1496144062990">
+        <mark key="'" line="142" column="2" />
+        <mark key="[" line="222" column="24" />
+        <mark key="]" line="222" column="27" />
+        <mark key="." line="222" column="27" />
+        <mark key="^" line="222" column="27" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/writers/magazines_controller.rb" timestamp="1495443501877">
         <mark key="[" line="25" column="26" />
@@ -665,7 +665,8 @@
         <mark key="^" line="83" column="50" />
         <mark key="." line="83" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/Gemfile" timestamp="1496047888429">
+      <file name="$USER_HOME$/projects/umareso/Gemfile" timestamp="1496143244244">
+        <mark key="'" line="138" column="0" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
@@ -696,8 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="16" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/user_account.rb" />
       <jump line="88" column="0" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_oem_mail.txt.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_oem_mail.txt.erb" />
       <jump line="63" column="14" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.txt.erb" />
@@ -796,6 +795,8 @@
       <jump line="59" column="71" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
       <jump line="60" column="54" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
       <jump line="66" column="54" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
+      <jump line="138" column="0" filename="$USER_HOME$/projects/umareso/Gemfile" />
+      <jump line="142" column="2" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3405,10 +3406,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>uporgfilename</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>asset_host</text>
+        <text>scope</text>
       </register>
       <register name="0" type="4">
         <text>.url_for_resize(RESIZE_MODE)</text>
@@ -3664,9 +3665,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asset_host</last-search>
+      <last-search>scope</last-search>
       <last-offset />
-      <last-pattern>asset_host</last-pattern>
+      <last-pattern>scope</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3674,8 +3675,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
-        <entry>submit_date</entry>
         <entry>overse</entry>
         <entry>course_name</entry>
         <entry>confirm</entry>
@@ -3694,6 +3693,8 @@
         <entry>uporgfilename</entry>
         <entry>upfilename</entry>
         <entry>asset_host</entry>
+        <entry>letter</entry>
+        <entry>scope</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
