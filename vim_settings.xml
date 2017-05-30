@@ -181,6 +181,12 @@
         <mark key="^" line="197" column="65" />
         <mark key="." line="197" column="66" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_premium_confirm_view.php" timestamp="1495799419086">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" timestamp="1496149083919">
+        <mark key="'" line="34" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/magazines/show.html.slim" timestamp="1495442944106">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -439,6 +445,9 @@
         <mark key="^" line="10" column="202" />
         <mark key="." line="10" column="202" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/config/locales/devise.ja.yml" timestamp="1496044716030">
+        <mark key="'" line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/magazines/show.html.slim" timestamp="1495679298795">
         <mark key="[" line="14" column="60" />
         <mark key="]" line="14" column="59" />
@@ -574,6 +583,9 @@
         <mark key="^" line="84" column="24" />
         <mark key="." line="84" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1495967622874">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.text.erb" timestamp="1495988309333">
         <mark key="[" line="69" column="34" />
         <mark key="]" line="69" column="38" />
@@ -700,7 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_oem_mail.txt.erb" />
       <jump line="63" column="14" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.txt.erb" />
       <jump line="358" column="24" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
       <jump line="353" column="20" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
@@ -800,6 +811,7 @@
       <jump line="138" column="0" filename="$USER_HOME$/projects/umareso/Gemfile" />
       <jump line="142" column="2" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/umareso/config/application.rb" />
+      <jump line="34" column="16" filename="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3412,7 +3424,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>scope</text>
+        <text>asset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJyCg==</text>
@@ -3668,9 +3680,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scope</last-search>
+      <last-search>asset</last-search>
       <last-offset />
-      <last-pattern>scope</last-pattern>
+      <last-pattern>asset</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3678,7 +3690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>overse</entry>
         <entry>course_name</entry>
         <entry>confirm</entry>
         <entry>google_analytics_for_turoblinks</entry>
@@ -3698,6 +3709,7 @@
         <entry>asset_host</entry>
         <entry>letter</entry>
         <entry>scope</entry>
+        <entry>asset</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
