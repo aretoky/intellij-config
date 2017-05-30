@@ -95,11 +95,11 @@
         <mark key="]" line="2" column="23" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/layouts/mailer.html.slim" timestamp="1496044110831">
+      <file name="$USER_HOME$/projects/umareso/app/views/layouts/mailer.html.slim" timestamp="1496147227850">
         <mark key="[" line="7" column="11" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/question_supportable.rb" timestamp="1495798627613">
         <mark key="'" line="20" column="24" />
@@ -417,12 +417,15 @@
         <mark key="." line="32" column="37" />
         <mark key="^" line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/application.rb" timestamp="1496130909144">
+      <file name="$USER_HOME$/projects/umareso/config/application.rb" timestamp="1496147079349">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="41" column="51" />
+        <mark key="]" line="46" column="6" />
+        <mark key="^" line="46" column="6" />
+        <mark key="." line="46" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/config/application.rb" timestamp="1496147122972">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="49" column="71" />
-        <mark key="]" line="53" column="6" />
-        <mark key="^" line="53" column="6" />
-        <mark key="." line="53" column="6" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/assets.rb" timestamp="1495448311830">
         <mark key="[" line="10" column="63" />
@@ -697,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_oem_mail.txt.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_oem_mail.txt.erb" />
       <jump line="63" column="14" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.txt.erb" />
       <jump line="358" column="24" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
@@ -797,6 +799,7 @@
       <jump line="66" column="54" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
       <jump line="138" column="0" filename="$USER_HOME$/projects/umareso/Gemfile" />
       <jump line="142" column="2" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/umareso/config/application.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3406,31 +3409,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>scope</text>
       </register>
-      <register name="0" type="4">
-        <text>.url_for_resize(RESIZE_MODE)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBtYWlsX2FydGljbGVbOmltYWdlXSA9IGFydGljbGUudG9wX2ltYWdlLnVybF9mb3JfcmVzaXplKFJFU0laRV9NT0RFKQogICAgbWFpbF9hcnRpY2xlWzpzZW5kX2RhdGVdID0gYXJ0aWNsZS5zZW5kX2RhdGUuc3RyZnRpbWUoJyVZ5bm0JW3mnIglZOaXpSAlSDolTScpCj09PT09PT0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgRGV2aXNlOjpTZXNzaW9uc0NvbnRyb2xsZXIubGF5b3V0ICJsYXlvdXRfZm9yX3Nlc3Npb25zX2NvbnRyb2xsZXIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgIyBDb25maWd1cmUgc2luZ2xlIGNvbnRyb2xsZXIgbGF5b3V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3651,11 +3654,11 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGNhdGVnb3J5X2NsYXNzID09ICdyZWxlYXNlJwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBtYWlsX2FydGljbGVbOmltYWdlXSA9IGFydGljbGUudG9wX2ltYWdlLnVybF9mb3JfcmVzaXplKFJFU0laRV9NT0RFKQogICAgbWFpbF9hcnRpY2xlWzpzZW5kX2RhdGVdID0gYXJ0aWNsZS5zZW5kX2RhdGUuc3RyZnRpbWUoJyVZ5bm0JW3mnIglZOaXpSAlSDolTScpCj09PT09PT0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
