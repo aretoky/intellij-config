@@ -24,6 +24,7 @@
         <mark key="." line="222" column="27" />
         <mark key="^" line="222" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.slim" timestamp="1496213412909" />
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/confirmations_controller.rb" timestamp="1496046309559">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="26" />
@@ -41,12 +42,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/config/routes/api.rb" timestamp="1496129460858">
+      <file name="$USER_HOME$/projects/value_press/config/routes/api.rb" timestamp="1496213129461">
         <mark key="'" line="10" column="37" />
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
+        <mark key="[" line="12" column="76" />
+        <mark key="]" line="12" column="87" />
+        <mark key="^" line="12" column="87" />
+        <mark key="." line="12" column="87" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/session_store.rb" timestamp="1496048198732">
         <mark key="[" line="2" column="3" />
@@ -103,11 +104,29 @@
         <mark key="]" line="82" column="35" />
         <mark key="." line="82" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/temporary_legacy_upload_file.rb" timestamp="1496213164687">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="97" column="23" />
+        <mark key="]" line="98" column="23" />
+        <mark key="^" line="98" column="23" />
+        <mark key="." line="98" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1496212625204">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/config/initializers/carrierwave.rb" timestamp="1496140407120">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.erb" timestamp="1496213600734">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1496039042575">
         <mark key="'" line="648" column="0" />
@@ -120,6 +139,13 @@
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" timestamp="1496213332551">
+        <mark key="'" line="30" column="38" />
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+        <mark key="^" line="30" column="38" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable.rb" timestamp="1496140110553">
         <mark key="'" line="100" column="22" />
@@ -142,6 +168,12 @@
       <file name="$USER_HOME$/projects/umareso/config/locales/devise.ja.yml" timestamp="1496044716030">
         <mark key="'" line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/option_premium/attribute_creator.rb" timestamp="1496212957786">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/application.js.coffee" timestamp="1496029489235">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="33" column="0" />
@@ -156,12 +188,12 @@
         <mark key="^" line="145" column="62" />
         <mark key="." line="145" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/option_premium.rb" timestamp="1495988584123">
+      <file name="$USER_HOME$/projects/value_press/app/models/option_premium.rb" timestamp="1496212610838">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="128" column="61" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="154" column="61" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="/Ruby Console" timestamp="1496140842422">
         <mark key="[" line="0" column="0" />
@@ -180,7 +212,7 @@
         <mark key="^" line="94" column="0" />
         <mark key="." line="129" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" timestamp="1495961218125">
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" timestamp="1496213402639">
         <mark key="'" line="53" column="19" />
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
@@ -214,12 +246,18 @@
       <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1495967622874">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" timestamp="1496213192274">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="20" column="74" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1496149665790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/users/option_premia_controller.rb" timestamp="1496129969803">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="37" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/option_premia_controller.rb" timestamp="1496213251567">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="49" column="4" />
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
@@ -238,9 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="14" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.txt.erb" />
-      <jump line="358" column="24" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
-      <jump line="353" column="20" filename="$USER_HOME$/sandbox/vp_main_system/application/controllers/user/v2_release_premium.php" />
       <jump line="72" column="0" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.txt.erb" />
       <jump line="92" column="17" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.txt.erb" />
       <jump line="4" column="30" filename="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable/question_supportable.rb" />
@@ -338,6 +373,9 @@
       <jump line="142" column="2" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/umareso/config/application.rb" />
       <jump line="34" column="16" filename="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/value_press/app/models/temporary_legacy_upload_file.rb" />
+      <jump line="13" column="42" filename="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" />
+      <jump line="30" column="38" filename="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2947,28 +2985,38 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>meta</text>
+        <text>premium</text>
       </register>
       <register name="/" type="4">
-        <text>asset</text>
+        <text>pre</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJyCg==</text>
+      <register name="0" type="4">
+        <text>mediacontact</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5mZXRjaCg6b3B0aW9uX21lZGlhY29udGFjdCwge30pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRGV2aXNlOjpTZXNzaW9uc0NvbnRyb2xsZXIubGF5b3V0ICJsYXlvdXRfZm9yX3Nlc3Npb25zX2NvbnRyb2xsZXIiCg==</text>
+        <text encoding="base64">ICBkZWYgb3B0aW9uX21lZGlhY29udGFjdF9wYXJhbXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBDb25maWd1cmUgc2luZ2xlIGNvbnRyb2xsZXIgbGF5b3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+      <register name="5" type="4">
+        <text>default_value_for :responsible_name do |record|
+      record.try(:user_account).try(:responsible_name)
+    end
+    default_value_for :telephone do |record|
+      record.try(:user_account).try(:telephone)
+    end
+
+    validates :responsible_name,
+              presence: true, length: { maximum: 50 }
+    validates :telephone,
+              presence: true, length: { maximum: 50 }</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3192,11 +3240,11 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBtYWlsX2FydGljbGVbOmltYWdlXSA9IGFydGljbGUudG9wX2ltYWdlLnVybF9mb3JfcmVzaXplKFJFU0laRV9NT0RFKQogICAgbWFpbF9hcnRpY2xlWzpzZW5kX2RhdGVdID0gYXJ0aWNsZS5zZW5kX2RhdGUuc3RyZnRpbWUoJyVZ5bm0JW3mnIglZOaXpSAlSDolTScpCj09PT09PT0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6dGVsZXBob25lLCA6c3RyaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6cmVzcG9uc2libGVfbmFtZSwgOnN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3206,9 +3254,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asset</last-search>
+      <last-search>pre</last-search>
       <last-offset />
-      <last-pattern>asset</last-pattern>
+      <last-pattern>pre</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3216,7 +3264,6 @@
     </search>
     <history>
       <history-search>
-        <entry>course_name</entry>
         <entry>confirm</entry>
         <entry>google_analytics_for_turoblinks</entry>
         <entry>upload</entry>
@@ -3236,6 +3283,7 @@
         <entry>letter</entry>
         <entry>scope</entry>
         <entry>asset</entry>
+        <entry>pre</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
