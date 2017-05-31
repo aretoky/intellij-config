@@ -25,10 +25,11 @@
         <mark key="^" line="222" column="27" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.slim" timestamp="1496213412909" />
-      <file name="$USER_HOME$/projects/umareso/app/controllers/users/confirmations_controller.rb" timestamp="1496046309559">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/option_legacy_form_supportable.rb" timestamp="1496214714581">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="41" />
+        <mark key="." line="10" column="41" />
+        <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/rambulance.rb" timestamp="1495681631885">
         <mark key="'" line="32" column="8" />
@@ -37,22 +38,12 @@
         <mark key="." line="39" column="25" />
         <mark key="^" line="39" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_oem_mail.txt.erb" timestamp="1495986761604">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/config/routes/api.rb" timestamp="1496213129461">
         <mark key="'" line="10" column="37" />
         <mark key="[" line="12" column="76" />
         <mark key="]" line="12" column="87" />
         <mark key="^" line="12" column="87" />
         <mark key="." line="12" column="87" />
-      </file>
-      <file name="$USER_HOME$/projects/umareso/config/initializers/session_store.rb" timestamp="1496048198732">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/layouts/mailer.html.slim" timestamp="1496149839353">
         <mark key="[" line="4" column="4" />
@@ -67,17 +58,7 @@
         <mark key="." line="83" column="11" />
         <mark key="^" line="83" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/mailers/application_mailer.rb" timestamp="1495966889323">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/umareso/config/environments/staging.rb" timestamp="1496048015805">
-        <mark key="'" line="3" column="9" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/scaffoldable.rb" timestamp="1496214432004" />
       <file name="$USER_HOME$/projects/umareso/config/environments/production.rb" timestamp="1496048005794">
         <mark key="'" line="4" column="9" />
         <mark key="[" line="54" column="0" />
@@ -85,24 +66,13 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/custs_controllerable.rb" timestamp="1496214365435" />
       <file name="$USER_HOME$/projects/cplus/app/models/plan.rb" timestamp="1496133621907">
         <mark key="'" line="107" column="12" />
         <mark key="[" line="197" column="66" />
         <mark key="]" line="197" column="74" />
         <mark key="^" line="197" column="65" />
         <mark key="." line="197" column="66" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_premium_confirm_view.php" timestamp="1495799419086">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" timestamp="1496149083919">
-        <mark key="'" line="34" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/spec/requests/api/uploads_controller_spec.rb" timestamp="1496129469471">
-        <mark key="'" line="82" column="35" />
-        <mark key="[" line="82" column="35" />
-        <mark key="]" line="82" column="35" />
-        <mark key="." line="82" column="35" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/temporary_legacy_upload_file.rb" timestamp="1496213164687">
         <mark key="'" line="6" column="0" />
@@ -122,11 +92,17 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.erb" timestamp="1496213600734">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/article_savable.rb" timestamp="1496213795318" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.erb" timestamp="1496215173338">
+        <mark key="[" line="83" column="10" />
+        <mark key="]" line="84" column="14" />
+        <mark key="^" line="84" column="14" />
+        <mark key="." line="84" column="14" />
+      </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_view.php" timestamp="1496215161630">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="78" column="15" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1496039042575">
         <mark key="'" line="648" column="0" />
@@ -135,11 +111,7 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/multiple_sending_to_user_accounts_of_published_at_yesterday_notification_mails.rb" timestamp="1496141631659">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/cplus/app/controllers/concerns/admin/postals_controllerable.rb" timestamp="1496214382809" />
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" timestamp="1496213332551">
         <mark key="'" line="30" column="38" />
         <mark key="[" line="30" column="27" />
@@ -161,12 +133,6 @@
         <mark key="]" line="46" column="6" />
         <mark key="^" line="46" column="6" />
         <mark key="." line="46" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/config/application.rb" timestamp="1496147122972">
-        <mark key="'" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/umareso/config/locales/devise.ja.yml" timestamp="1496044716030">
-        <mark key="'" line="99" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_premium/attribute_creator.rb" timestamp="1496212957786">
         <mark key="[" line="7" column="4" />
@@ -195,9 +161,6 @@
         <mark key="^" line="154" column="61" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496140842422">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable/question_supportable.rb" timestamp="1495990514822">
         <mark key="'" line="4" column="30" />
         <mark key="[" line="22" column="4" />
@@ -219,11 +182,6 @@
         <mark key="^" line="164" column="34" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" timestamp="1495797590899">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/assets/stylesheets/css/faq.css.scss" timestamp="1495544896628">
         <mark key="'" line="117" column="0" />
         <mark key="[" line="118" column="1" />
@@ -231,20 +189,12 @@
         <mark key="^" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/mailers/option_premium_mailer.rb" timestamp="1495969018742">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" timestamp="1495788227655">
-        <mark key="'" line="70" column="16" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" timestamp="1496214821065">
+        <mark key="'" line="126" column="0" />
         <mark key="[" line="84" column="23" />
         <mark key="]" line="84" column="24" />
         <mark key="^" line="84" column="24" />
         <mark key="." line="84" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/user_account.rb" timestamp="1495967622874">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" timestamp="1496213192274">
         <mark key="[" line="27" column="0" />
@@ -252,7 +202,7 @@
         <mark key="^" line="20" column="74" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496149665790">
+      <file name="/Dummy.txt" timestamp="1496214588989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/users/option_premia_controller.rb" timestamp="1496213251567">
@@ -268,16 +218,8 @@
         <mark key="^" line="71" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/Gemfile" timestamp="1496143244244">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.txt.erb" />
-      <jump line="92" column="17" filename="$USER_HOME$/projects/value_press/app/views/option_premium_mailer/create_mail.txt.erb" />
       <jump line="4" column="30" filename="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable/question_supportable.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/value_press/app/models/option_premium.rb" />
       <jump line="80" column="22" filename="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable.rb" />
@@ -376,6 +318,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/projects/value_press/app/models/temporary_legacy_upload_file.rb" />
       <jump line="13" column="42" filename="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" />
       <jump line="30" column="38" filename="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" />
+      <jump line="126" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
+      <jump line="25" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_view.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2991,35 +2935,25 @@
         <text>pre</text>
       </register>
       <register name="0" type="4">
-        <text>mediacontact</text>
+        <text encoding="base64">PGRpdiBpZD0icHJlZmVycmVkX2RhdGUiIGNsYXNzPSJpdGVtX2JveCI+CgkJCQkJCTxkaXYgY2xhc3M9Iml0ZW1faGVhZGVyIGNsZWFyZml4Ij4KCQkJCQkJCTxoND7kuovliY3norroqo3jga7luIzmnJvml6XmmYI8c3BhbiBjbGFzcz0icmVxdWlyZWRfdGl0bGUgbXIwMyI+W+W/hemgiF08L3NwYW4+PC9oND4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJoaW50IHEiPj88L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0iaGludF9jb250ZW50IiBkYXRhLW1pbldpZHRoPSIzMTZweCI+5pys5YWl5Yqb5YaF5a6544Gu56K66KqN44KE44CB6YWN5L+h44K/44Kk44Of44Oz44Kw44Gu44GU6KaB5pyb44Gq44Gp44KS44GK5Ly644GE44GZ44KL44Gf44KB44Gr44CB5byK56S+44K544K/44OD44OV44KI44KK5LqL5YmN56K66KqN44Gu44GK6Zu76Kmx44KS44GV44Gb44Gm44GE44Gf44Gg44GE44Gm44GK44KK44G+44GZ44CCPC9wPgoJCQkJCQk8L2Rpdj4KCQkJCQkJPHVsPgoJCQkJCQkJPD8gJFBSRUZFUlJFRF9EQVRFX0NPVU5UID0gMzsgPz4KCQkJCQkJCTw/IGZvcigkaSA9IDA7ICRpIDwgJFBSRUZFUlJFRF9EQVRFX0NPVU5UOyAkaSsrKSB7ID8+CgkJCQkJCQk8bGk+CgkJCQkJCQkJPGRpdiBjbGFzcz0iaXRlbV9tZXNzYWdlIj4KCQkJCQkJCQkJPD89IGZvcm1fZXJyb3IoJ29wdGlvbl9tZWRpYWNvbnRhY3RbcHJlZmVycmVkX2RhdGUnIC4gJGkgLiAnXScpOyA/PgoJCQkJCQkJCQk8Pz0gZm9ybV9lcnJvcignb3B0aW9uX21lZGlhY29udGFjdFtwcmVmZXJyZWRfZGF0ZV1bJyAuICRpIC4gJ11bZGF0ZV0nKTsgPz4KCQkJCQkJCQkJPD89IGZvcm1fZXJyb3IoJ29wdGlvbl9tZWRpYWNvbnRhY3RbcHJlZmVycmVkX2RhdGVdWycgLiAkaSAuICddW2hvdXJdJyk7ID8+CgkJCQkJCQkJPC9kaXY+CgkJCQkJCQkJPHNwYW4+PD89ICfnrKwnIC4gKCRpICsgMSkgLiAn5biM5pyb5pelJzsgPz48L3NwYW4+CgkJCQkJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJkYXRlcGlja2VyIiBuYW1lPSI8Pz0gJ29wdGlvbl9tZWRpYWNvbnRhY3RbcHJlZmVycmVkX2RhdGVdWycgLiAkaSAuICddW2RhdGVdJzsgPz4iIHZhbHVlPSI8Pz0gc2V0X3ZhbHVlKCdvcHRpb25fbWVkaWFjb250YWN0W3ByZWZlcnJlZF9kYXRlXVsnIC4gJGkgLiAnXVtkYXRlXScsICRvcHRpb25fbWVkaWFjb250YWN0WydwcmVmZXJyZWRfZGF0ZSddWyRpXVsnZGF0ZSddKTsgPz4iIHJlYWRvbmx5PSIiIC8+CgkJCQkJCQkJPHNlbGVjdCBuYW1lPSI8Pz0gJ29wdGlvbl9tZWRpYWNvbnRhY3RbcHJlZmVycmVkX2RhdGVdWycgLiAkaSAuICddW2hvdXJdJzsgPz4iPgoJCQkJCQkJCQk8PyBmb3IoJGogPSAxMDsgJGogPCAxODsgJGorKyl7ID8+CgkJCQkJCQkJCQk8b3B0aW9uIHZhbHVlPSI8Pz0gJGo7ID8+IiA8Pz0gKCRvcHRpb25fbWVkaWFjb250YWN0WydwcmVmZXJyZWRfZGF0ZSddWyRpXVsnaG91ciddID09ICRqID8gJ3NlbGVjdGVkJyA6ICcnKTsgPz4+PD89ICRqOyA/Pjwvb3B0aW9uPgoJCQkJCQkJCQk8PyB9ID8+CgkJCQkJCQkJPC9zZWxlY3Q+IOaZggoJCQkJCQkJCTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9Ijw/PSAnb3B0aW9uX21lZGlhY29udGFjdFtwcmVmZXJyZWRfZGF0ZScgLiAkaSAuICddJzsgPz4iIHZhbHVlPSIiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcG9ydGluZ19kYXRlIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj7phY3kv6Hml6Xnm67lrok8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkYXRlIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgoJCQkJCQkJPC9saT4KCQkJCQkJCTw/IH0gPz4KCQkJCQkJPC91bD4KCQkJCQk8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTw/IGVuZGZvcmVhY2g7ID8+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5mZXRjaCg6b3B0aW9uX21lZGlhY29udGFjdCwge30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxkaXY+PHNwYW4gY2xhc3M9Im1sMTIiPjw/PSAkX21lc3NhZ2UgPz48L3NwYW4+PC9kaXY+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgb3B0aW9uX21lZGlhY29udGFjdF9wYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTw/IGZvcmVhY2ggKCRtZXNzYWdlcyBhcyAkX21lc3NhZ2UpOiA/Pi0tPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>default_value_for :responsible_name do |record|
-      record.try(:user_account).try(:responsible_name)
-    end
-    default_value_for :telephone do |record|
-      record.try(:user_account).try(:telephone)
-    end
-
-    validates :responsible_name,
-              presence: true, length: { maximum: 50 }
-    validates :telephone,
-              presence: true, length: { maximum: 50 }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3241,10 +3175,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6dGVsZXBob25lLCA6c3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5mZXRjaCg6b3B0aW9uX21lZGlhY29udGFjdCwge30pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6cmVzcG9uc2libGVfbmFtZSwgOnN0cmluZwo=</text>
+        <text encoding="base64">ICBkZWYgb3B0aW9uX21lZGlhY29udGFjdF9wYXJhbXMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
