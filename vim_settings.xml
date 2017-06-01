@@ -56,11 +56,11 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/models/user.rb" timestamp="1496048699239">
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="43" column="32" />
-        <mark key="^" line="43" column="32" />
-        <mark key="." line="43" column="32" />
+      <file name="$USER_HOME$/projects/umareso/app/models/user.rb" timestamp="1496287070110">
+        <mark key="[" line="70" column="71" />
+        <mark key="]" line="70" column="71" />
+        <mark key="." line="70" column="71" />
+        <mark key="^" line="70" column="55" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/initializers/rambulance.rb" timestamp="1495681631885">
         <mark key="'" line="32" column="8" />
@@ -350,8 +350,8 @@
         <mark key="^" line="66" column="12" />
         <mark key="." line="66" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1496284381410">
-        <mark key="'" line="67" column="4" />
+      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1496285326086">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="19" column="22" />
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
@@ -527,7 +527,7 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1496281722001">
+      <file name="/Ruby Console" timestamp="1496286291199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/config/locales/models/ja.yml" timestamp="1496047348151">
@@ -568,9 +568,10 @@
         <mark key="^" line="35" column="2" />
         <mark key="." line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/controllers/users/sessions_controller.rb" timestamp="1496284211045">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="59" />
+      <file name="$USER_HOME$/projects/umareso/app/controllers/users/sessions_controller.rb" timestamp="1496286006553">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" timestamp="1496231612151">
         <mark key="'" line="114" column="13" />
@@ -743,7 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="36" filename="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" />
       <jump line="82" column="50" filename="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" />
       <jump line="83" column="178" filename="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" />
       <jump line="87" column="25" filename="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" />
@@ -843,6 +843,7 @@
       <jump line="106" column="59" filename="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable.rb" />
       <jump line="490" column="16" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
       <jump line="67" column="4" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/umareso/db/seeds.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3452,7 +3453,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>skype_id</text>
@@ -3461,22 +3462,24 @@
         <text>Devise::SessionsController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3VwZXIoY29uZGl0aW9ucy5tZXJnZSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFrZV9vcHRpb25fcHJlbWlhX25ldwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="4" type="4">
+        <text>def find_for_authentication(conditions)
+    super(conditions.merge(actived: true))
+  end</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJfYWNjb3VudF9pZCA9IHVzZXJfYWNjb3VudF9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3697,14 +3700,24 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVfdXNlcl9hY2NvdW50X21vbmV5IQo=</text>
+      <register name="7" type="4">
+        <text># Userモデル経由でcurrent_userを参照できるようにする。
+  def self.current_user=(user)
+    # Set current user in Thread.
+    Thread.current[:current_user] = user
+  end
+
+  # Userモデル経由でcurrent_userを参照する。
+  def self.current_user
+    # Get current user from Thread.
+    Thread.current[:current_user]
+  end</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZV9jcmVhdGUgOnVwZGF0ZV91c2VyX2FjY291bnRfbW9uZXkhCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
