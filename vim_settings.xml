@@ -10,6 +10,9 @@
         <mark key="^" line="81" column="50" />
         <mark key="." line="81" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/config/initializers/devise.rb" timestamp="1496306009562">
+        <mark key="'" line="137" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/option_legacy_form_supportable.rb" timestamp="1496243129467">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="10" column="41" />
@@ -346,11 +349,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/top.html.slim" timestamp="1496305088920">
+      <file name="$USER_HOME$/projects/umareso/app/views/static_pages/top.html.slim" timestamp="1496305951825">
         <mark key="[" line="2" column="42" />
-        <mark key="]" line="6" column="24" />
+        <mark key="]" line="2" column="41" />
         <mark key="^" line="2" column="41" />
-        <mark key="." line="6" column="24" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/writers/index.html.slim" timestamp="1496036306422">
         <mark key="[" line="12" column="42" />
@@ -660,22 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/application/_drop_upload_field.html.erb" />
-      <jump line="71" column="25" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="73" column="81" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="180" column="35" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="65" column="54" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="181" column="35" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="61" column="64" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="59" column="71" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="60" column="54" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="66" column="54" filename="$USER_HOME$/projects/value_press/public/static/js/drop_upload.js" />
-      <jump line="138" column="0" filename="$USER_HOME$/projects/umareso/Gemfile" />
-      <jump line="142" column="2" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/umareso/config/application.rb" />
-      <jump line="34" column="16" filename="$USER_HOME$/projects/umareso/app/assets/stylesheets/application.css.scss" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/value_press/app/models/temporary_legacy_upload_file.rb" />
-      <jump line="13" column="42" filename="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" />
       <jump line="30" column="38" filename="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" />
       <jump line="126" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
       <jump line="25" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_view.php" />
@@ -760,6 +747,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/umareso/config/initializers/simple_form_bootstrap.rb" />
       <jump line="19" column="37" filename="$USER_HOME$/projects/umareso/config/initializers/simple_form_bootstrap.rb" />
       <jump line="20" column="37" filename="$USER_HOME$/projects/umareso/config/initializers/simple_form_bootstrap.rb" />
+      <jump line="219" column="0" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="8" column="44" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="116" column="42" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="117" column="22" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="118" column="70" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="119" column="5" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="120" column="65" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="121" column="30" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="123" column="56" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="125" column="11" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="126" column="11" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="128" column="29" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="132" column="13" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="134" column="62" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
+      <jump line="137" column="55" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3372,7 +3375,7 @@
         <text>xxxxへ</text>
       </register>
       <register name="/" type="4">
-        <text>span</text>
+        <text>cc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFjdGl2YXRlZDogdHJ1ZQo=</text>
@@ -3628,9 +3631,9 @@
       </register>
     </registers>
     <search>
-      <last-search>span</last-search>
+      <last-search>cc</last-search>
       <last-offset />
-      <last-pattern>span</last-pattern>
+      <last-pattern>cc</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3638,7 +3641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>menuscript_order</entry>
         <entry>enumerize</entry>
         <entry>現行</entry>
         <entry>原稿</entry>
@@ -3658,6 +3660,7 @@
         <entry>skype_id</entry>
         <entry>User</entry>
         <entry>span</entry>
+        <entry>cc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
