@@ -439,11 +439,11 @@
         <mark key="^" line="154" column="61" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/application/_image_uploader_field.html.slim" timestamp="1495441026973">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="48" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="48" />
+      <file name="$USER_HOME$/projects/umareso/app/views/application/_image_uploader_field.html.slim" timestamp="1496282663471">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1495527387100">
         <mark key="[" line="12" column="0" />
@@ -3342,8 +3342,8 @@
       <register name="/" type="4">
         <text>skype_id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2t5cGVfaWQgPSAibWFzYWhpdG8ta2lrdWNoaSxzdGFmZi52YWx1ZXByZXNzLHZwaGlyYWtpLHZwLnRlcmFzaGltYSx2cC5reW91cmFpc2VraSxhYmVfdnAsdnAudGFrYWhhc2hpIgo=</text>
+      <register name="0" type="4">
+        <text>&quot;#{field_name}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
