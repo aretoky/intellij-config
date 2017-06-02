@@ -444,12 +444,12 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable/question_supportable.rb" timestamp="1496245041407">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="106" column="47" />
-        <mark key="]" line="106" column="47" />
-        <mark key="^" line="106" column="47" />
-        <mark key="." line="106" column="47" />
+      <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable/question_supportable.rb" timestamp="1496381908523">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="84" column="6" />
+        <mark key="]" line="84" column="5" />
+        <mark key="^" line="84" column="5" />
+        <mark key="." line="84" column="5" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/users/registrations/new.html.slim" timestamp="1495713236552">
         <mark key="[" line="13" column="40" />
@@ -611,7 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/_footer_js.html.erb" />
       <jump line="25" column="0" filename="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_view.php" />
       <jump line="198" column="17" filename="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.erb" />
       <jump line="72" column="0" filename="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" />
@@ -711,6 +710,7 @@
       <jump line="134" column="62" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
       <jump line="137" column="55" filename="$USER_HOME$/projects/umareso/config/initializers/devise.rb" />
       <jump line="388" column="0" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable/question_supportable.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3320,10 +3320,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>cc</text>
+        <text>pic_name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXJzX3Jvb3RfcGF0aChtb2RlOiAnZmluaXNoX3NpZ25fdXAnKQo=</text>
@@ -3579,9 +3579,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cc</last-search>
+      <last-search>pic_name</last-search>
       <last-offset />
-      <last-pattern>cc</last-pattern>
+      <last-pattern>pic_name</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3589,7 +3589,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enumerize</entry>
         <entry>現行</entry>
         <entry>原稿</entry>
         <entry>drop</entry>
@@ -3609,6 +3608,7 @@
         <entry>User</entry>
         <entry>span</entry>
         <entry>cc</entry>
+        <entry>pic_name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
