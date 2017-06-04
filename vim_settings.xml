@@ -31,6 +31,12 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/config/initializers/action_mailer.rb" timestamp="1496588629959">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/decorators/magazine_decorator.rb" timestamp="1495422663075">
         <mark key="[" line="2" column="75" />
         <mark key="]" line="2" column="84" />
@@ -200,6 +206,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/lib/mail_line_break_interceptor.rb" timestamp="1496588040744">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170522085155_add_interpretation_on_magazine.rb" timestamp="1495703628553">
         <mark key="[" line="2" column="75" />
         <mark key="]" line="4" column="3" />
@@ -283,11 +294,6 @@
         <mark key="^" line="66" column="12" />
         <mark key="." line="66" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1496288839391">
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
-        <mark key="^" line="28" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/value_press/app/models/payment_history/option_creator.rb" timestamp="1496250141096">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -305,6 +311,10 @@
         <mark key="]" line="3" column="67" />
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/cplus/config/initializers/action_mailer.rb" timestamp="1496587324640">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/models/validators/unique_bookhhs_validator.rb" timestamp="1495503364774">
         <mark key="[" line="4" column="28" />
@@ -423,8 +433,8 @@
         <mark key="." line="103" column="187" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_premium.rb" timestamp="1496585302757">
-        <mark key="^" line="154" column="61" />
-        <mark key="." line="151" column="0" />
+        <mark key="^" line="128" column="61" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/application/_image_uploader_field.html.slim" timestamp="1496282663471">
         <mark key="[" line="5" column="34" />
@@ -481,10 +491,9 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/api/uploads_controller.rb" timestamp="1496491510142">
-        <mark key="'" line="55" column="24" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/spec/controllers/writers/static_pages_controller_spec.rb" timestamp="1495431205364">
         <mark key="[" line="2" column="9" />
@@ -540,7 +549,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496585155738">
+      <file name="/Dummy.txt" timestamp="1496588505720">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/config/database.yml" timestamp="1495538910986">
@@ -3332,31 +3341,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>article_option</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text>pic_name</text>
       </register>
       <register name="0" type="4">
-        <text>present_pic_name1?</text>
+        <text>ActionMailer::Base.register_observer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgbGluZXMgPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9keS5nc3ViISgnXHJcbicsICdcbicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgID0gYm9keQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFrZV9vcHRpb25fcHJlbWlhX25ldwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3578,13 +3587,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
