@@ -10,6 +10,9 @@
         <mark key="^" line="81" column="50" />
         <mark key="." line="81" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/config/initializers/devise.rb" timestamp="1496306009562">
+        <mark key="'" line="137" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/app/controllers/concerns/users/option_legacy_form_supportable.rb" timestamp="1496243129467">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="10" column="41" />
@@ -321,6 +324,9 @@
         <mark key="^" line="66" column="12" />
         <mark key="." line="66" column="12" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_view.php" timestamp="1496590714765">
+        <mark key="'" line="214" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1496642979000">
         <mark key="[" line="24" column="30" />
         <mark key="]" line="24" column="53" />
@@ -344,6 +350,9 @@
         <mark key="]" line="3" column="67" />
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/umareso/db/schema.rb" timestamp="1496645263737">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_confirm_view.php" timestamp="1496629849292" />
       <file name="$USER_HOME$/projects/cplus/config/initializers/action_mailer.rb" timestamp="1496587324640">
@@ -469,10 +478,11 @@
         <mark key="^" line="103" column="190" />
         <mark key="." line="103" column="187" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/option_premium.rb" timestamp="1496594554948">
-        <mark key="'" line="92" column="0" />
-        <mark key="^" line="128" column="61" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/projects/umareso/db/migrate/20170605064542_modify_story_comment.rb" timestamp="1496645300746">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/application/_image_uploader_field.html.slim" timestamp="1496642860644">
         <mark key="[" line="5" column="41" />
@@ -680,7 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="14" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
       <jump line="384" column="8" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
       <jump line="227" column="6" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
       <jump line="49" column="8" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
@@ -780,6 +789,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" />
       <jump line="5" column="26" filename="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" />
       <jump line="6" column="26" filename="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/umareso/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3392,7 +3402,7 @@
         <text>premium</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>comment</text>
       </register>
       <register name="0" type="4">
         <text>nishihara@radicode.co.jp</text>
@@ -3401,19 +3411,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmVzZW5jZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6YXJ0aWNsZV9vcHRpb24sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3635,22 +3645,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmVzZW5jZTogdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlcyA6YXJ0aWNsZV9vcHRpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>comment</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>comment</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3658,7 +3668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>purpose</entry>
         <entry>ques</entry>
         <entry>option</entry>
         <entry>respons</entry>
@@ -3678,6 +3687,7 @@
         <entry>mediac</entry>
         <entry>option_media</entry>
         <entry>order</entry>
+        <entry>comment</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
