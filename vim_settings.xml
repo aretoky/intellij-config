@@ -220,6 +220,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/lib/mail_line_break_interceptor.rb" timestamp="1496588040744">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170522085155_add_interpretation_on_magazine.rb" timestamp="1495703628553">
         <mark key="[" line="2" column="75" />
         <mark key="]" line="4" column="3" />
@@ -429,6 +434,11 @@
         <mark key="^" line="14" column="59" />
         <mark key="." line="14" column="59" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/models/option_premium/attribute_creator.rb" timestamp="1496598445554">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1496651131752">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -449,11 +459,10 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/views/application/_image_uploader_field.html.slim" timestamp="1496654082821">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="7" column="40" />
-        <mark key="^" line="7" column="40" />
-        <mark key="." line="7" column="40" />
+      <file name="$USER_HOME$/projects/umareso/app/views/application/_image_uploader_field.html.slim" timestamp="1496657413848">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/book_saving_service.rb" timestamp="1495527387100">
         <mark key="[" line="12" column="0" />
@@ -537,11 +546,10 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="37" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/umareso/app/inputs/image_preview_input.rb" timestamp="1496655776137">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="37" />
+      <file name="$USER_HOME$/projects/umareso/app/inputs/image_preview_input.rb" timestamp="1496657405329">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/value_press/public/static/js/calendar.js" timestamp="1495787885970">
         <mark key="[" line="6" column="12" />
@@ -3362,25 +3370,25 @@
         <text>file</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Q0hBUlNFVD11dGY4IA==</text>
+        <text>if f.object.send(&quot;#{field_name}&quot;).present?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb2xsYXRpb246IHV0ZjhfZ2VuZXJhbF9jaQo=</text>
+        <text encoding="base64">ICAvPSBmLmhpZGRlbl9maWVsZCA6IiN7ZmllbGRfbmFtZX1fY2FjaGUiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjaGFyc2V0OiB1dGY4Cg==</text>
+        <text encoding="base64">ICAgIG9iamVjdC5zZW5kKGF0dHJpYnV0ZV9uYW1lKS5jYWNoZSEgIGlmIGYub2JqZWN0LnNlbmQoIiN7ZmllbGRfbmFtZX0iKS5wcmVzZW50Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmNvZGluZzogdXRmOAo=</text>
+        <text encoding="base64">ICBjb2xsYXRpb246IHV0ZjhfZ2VuZXJhbF9jaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmNvZGluZzogdXRmOAo=</text>
+        <text encoding="base64">ICBjaGFyc2V0OiB1dGY4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmNvZGluZzogdXRmOAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA9IGYuaGlkZGVuX2ZpZWxkIDoiI3tmaWVsZF9uYW1lfV9jYWNoZSIK</text>
+        <text encoding="base64">ICBlbmNvZGluZzogdXRmOAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3605,10 +3613,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICBjb25zb2xlLmxvZygkKCcjc3RvcnlfY29tbWVudF9zdG9yeV9yYXRpbmcnKSkK</text>
+        <text encoding="base64">ICA9IGYuaGlkZGVuX2ZpZWxkIDoiI3tmaWVsZF9uYW1lfV9jYWNoZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgICBjb25zb2xlLmxvZyh0aGF0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
