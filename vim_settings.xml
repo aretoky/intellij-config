@@ -317,7 +317,7 @@
         <mark key="^" line="52" column="7" />
         <mark key="." line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.erb" timestamp="1496736456669">
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.erb" timestamp="1496739045939">
         <mark key="'" line="263" column="0" />
         <mark key="[" line="96" column="114" />
         <mark key="]" line="96" column="130" />
@@ -524,6 +524,12 @@
         <mark key="^" line="35" column="2" />
         <mark key="." line="35" column="2" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/db/seeds.rb" timestamp="1496738611182">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="32" column="2" />
+        <mark key="^" line="25" column="55" />
+        <mark key="." line="25" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/umareso/app/controllers/users/sessions_controller.rb" timestamp="1496286006553">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -558,12 +564,12 @@
         <mark key="^" line="69" column="38" />
         <mark key="." line="69" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" timestamp="1496736579028">
+      <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" timestamp="1496739201529">
         <mark key="'" line="6" column="15" />
         <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="17" />
+        <mark key="]" line="35" column="5" />
         <mark key="^" line="35" column="17" />
-        <mark key="." line="35" column="17" />
+        <mark key="." line="35" column="5" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/views/admin/ymdrooms/_book_table.html.slim" timestamp="1495530121331">
         <mark key="[" line="41" column="43" />
@@ -615,11 +621,12 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" timestamp="1496737195626">
-        <mark key="[" line="286" column="30" />
-        <mark key="]" line="286" column="41" />
-        <mark key="^" line="286" column="41" />
-        <mark key="." line="286" column="41" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" timestamp="1496739400131">
+        <mark key="'" line="105" column="12" />
+        <mark key="[" line="112" column="34" />
+        <mark key="]" line="112" column="41" />
+        <mark key="^" line="112" column="41" />
+        <mark key="." line="112" column="41" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/layouts/error.html.slim" timestamp="1495683235761">
         <mark key="[" line="7" column="39" />
@@ -700,11 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="0" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
-      <jump line="17" column="12" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
-      <jump line="19" column="12" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
-      <jump line="22" column="12" filename="$USER_HOME$/projects/value_press/config/locales/models/ja.yml" />
       <jump line="116" column="13" filename="$USER_HOME$/projects/value_press/app/views/users/option_premia/new.html.erb" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/application/option_legacy_form/_appeal_point_fields.html.erb" />
       <jump line="9" column="78" filename="$USER_HOME$/projects/value_press/config/locales/views/simple_form/ja.yml" />
@@ -800,6 +802,11 @@
       <jump line="95" column="24" filename="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.erb" />
       <jump line="263" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/new.html.erb" />
       <jump line="11" column="27" filename="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_confirm_view.php" />
+      <jump line="234" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" />
+      <jump line="41" column="24" filename="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" />
+      <jump line="2" column="49" filename="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" />
+      <jump line="105" column="12" filename="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3409,31 +3416,40 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>premium</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>order_le</text>
+        <text>pur</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCUgaWYgQG9wdGlvbl9wcmVtaXVtLmNsYXNzLnNob3J0YWdlPyhjdXJyZW50X3VzZXIpICU+CiAgPCU9IHJlbmRlciAnY29uZmlybV9zaG9ydGFnZScsCiAgICAgICAgICAgICBuYW1lOiBAb3B0aW9uX3ByZW1pdW0uY2xhc3MuY291cnNlX25hbWUsCiAgICAgICAgICAgICBwcmljZTogQ29tbW9kaXR5UHJpY2UuZ2V0KCdwcmVtaXVtJyksCiAgICAgICAgICAgICBvcHRpb25zOiBAb3B0aW9uX3ByZW1pdW0ubm90ZSAhPSAnbm9uZScgPyBAb3B0aW9uX3ByZW1pdW0ubm90ZS50ZXh0IDogJycKICAlPgo8JSBlbmQgJT4=</text>
+        <text># SEEDを実行
+# carrierwaveでアップするディレクトリを削除する
+if File.directory?(Rails.root.join('public', 'uploads'))
+  %w(company_logo user).each do |dir_name|
+    path = Rails.root.join('public', 'uploads', dir_name)
+    if File.directory?(path)
+      Dir.rmdir(Rails.root.join(path))
+    end
+  end
+end</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJjb25maXJtW2Zpbmdlcl9wcmludF0iIHZhbHVlPSI8Pz0gJGZpbmdlcl9wcmludDsgPz4iIC8+Cg==</text>
+        <text encoding="base64">RGlyLnJtZGlyKFJhaWxzLnJvb3Quam9pbigncHVibGljJywgJ3VwbG9hZHMnLCAndXNlcicpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJjb25maXJtW21vZGVdIiB2YWx1ZT0iZmluaXNoIiAvPgo=</text>
+        <text encoding="base64">RGlyLnJtZGlyKFJhaWxzLnJvb3Quam9pbigncHVibGljJywgJ3VwbG9hZHMnLCAnY29tcGFueV9sb2dvJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDw/IH0gPz4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD89ICRvcHRpb25fbWVkaWFjb250YWN0WydtZWRpdW0nXVsnc3VwcGxlbWVudCddOyA/Pgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJjb25maXJtW2Zpbmdlcl9wcmludF0iIHZhbHVlPSI8Pz0gJGZpbmdlcl9wcmludDsgPz4iIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD89ICRvcHRpb25fbWVkaWFjb250YWN0WydtZWRpdW0nXVsnbm90X3JlcXVlc3QnXTsgPz4K</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJjb25maXJtW21vZGVdIiB2YWx1ZT0iZmluaXNoIiAvPgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3655,22 +3671,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD89ICRvcHRpb25fbWVkaWFjb250YWN0WydtZWRpdW0nXVsncmVxdWVzdCddOyA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDw/IH0gPz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD89ICRvcHRpb25fbWVkaWFjb250YWN0WydzdXBwbGVtZW50J107ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD89ICRvcHRpb25fbWVkaWFjb250YWN0WydtZWRpdW0nXVsnc3VwcGxlbWVudCddOyA/Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>order_le</last-search>
+      <last-search>pur</last-search>
       <last-offset />
-      <last-pattern>order_le</last-pattern>
+      <last-pattern>pur</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -3678,15 +3694,12 @@
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
-        <entry>questions</entry>
         <entry>skype_id</entry>
         <entry>User</entry>
         <entry>span</entry>
         <entry>cc</entry>
         <entry>note</entry>
         <entry>mediaco</entry>
-        <entry>pur</entry>
         <entry>pose</entry>
         <entry>pic_name</entry>
         <entry>mediac</entry>
@@ -3698,6 +3711,9 @@
         <entry>lebel</entry>
         <entry>manuscript_order_level</entry>
         <entry>order_le</entry>
+        <entry>times</entry>
+        <entry>check</entry>
+        <entry>pur</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxcPy88JSAvZw==</entry>
