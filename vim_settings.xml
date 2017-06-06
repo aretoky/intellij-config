@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/confirm.html.erb" timestamp="1496733550315">
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/confirm.html.erb" timestamp="1496735664408">
         <mark key="'" line="120" column="52" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="29" column="14" />
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="76" column="22" />
         <mark key="^" line="81" column="50" />
         <mark key="." line="81" column="50" />
       </file>
@@ -556,10 +556,10 @@
         <mark key="^" line="69" column="38" />
         <mark key="." line="69" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" timestamp="1496598638218">
+      <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact/attribute_creator.rb" timestamp="1496734505853">
         <mark key="'" line="6" column="26" />
-        <mark key="[" line="112" column="43" />
-        <mark key="]" line="112" column="52" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="30" />
         <mark key="^" line="112" column="52" />
         <mark key="." line="112" column="52" />
       </file>
@@ -592,6 +592,9 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="/Dummy.txt" timestamp="1496734809908">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/value_press/config/database.yml" timestamp="1495538910986">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
@@ -610,11 +613,11 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" timestamp="1496733555041">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" timestamp="1496735666766">
+        <mark key="[" line="126" column="35" />
+        <mark key="]" line="127" column="32" />
+        <mark key="^" line="127" column="32" />
+        <mark key="." line="127" column="32" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/layouts/error.html.slim" timestamp="1495683235761">
         <mark key="[" line="7" column="39" />
@@ -3404,31 +3407,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>premium</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PHRkIGNsYXNzPSJib3hfdGV4dGZvcm0iPgogICAgICAgICAgICA8JT0gZi50ZXh0X2ZpZWxkIDpyZXNwb25zaWJsZV9uYW1lICU+CiAgICAgICAgICA8L3RkPg==</text>
+        <text encoding="base64">PCUgZi5vYmplY3QuY2xhc3MucXVlc3Rpb25fcGF0dGVybnMuZWFjaCBkbyB8bmFtZXwgJT4KICAgICAgICAgICAgICAgIDwlIG5leHQgaWYgZi5vYmplY3Quc2VuZChuYW1lKS5ibGFuaz8gJT4KICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgPGg1PgogICAgICAgICAgICAgICAgICAgIFEuIDwlPSBmLm9iamVjdC5jbGFzcy5odW1hbl9hdHRyaWJ1dGVfbmFtZShuYW1lKSAlPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJyZXF1aXJlZF90aXRsZSI+PC9zcGFuPgogICAgICAgICAgICAgICAgICA8L2g1PgogICAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgICA8JT0gZi50ZXh0X2ZpZWxkIG5hbWUgJT4KICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICA8JSBlbmQgJT4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZCBjbGFzcz0iYm94X3RleHRmb3JtIj48Pz0gJG9wdGlvbl9tZWRpYWNvbnRhY3RbJ3Jlc3BvbnNpYmxlX25hbWUnXTsgPz48L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHVsIGNsYXNzPSJxdWVzdGlvbiI+CiAgICAgICAgICAgICAgPD8gZm9yZWFjaCgkZXhwbGFpbl9xdWVzdGlvbiBhcyAkaSA9PiAkcSkgeyA/PgogICAgICAgICAgICAgIDw/IGlmKCFlbXB0eSgkb3B0aW9uX21lZGlhY29udGFjdFsnZXhwbGFpbiddWydxdWVzdGlvbiddWyRpXSkpIHsgPz4KICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICA8aDUgY2xhc3M9Im1iMDQiPlEuIDw/PSAkcVsncXVlc3Rpb24nXSA/PjwvaDU+CiAgICAgICAgICAgICAgICA8cD48Pz0gJG9wdGlvbl9tZWRpYWNvbnRhY3RbJ2V4cGxhaW4nXVsncXVlc3Rpb24nXVskaV07ID8+PC9wPgogICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgPD8gfSA/PgogICAgICAgICAgICAgIDw/IH0gPz4KICAgICAgICAgICAgICA8JSAlPgogICAgICAgICAgICAgIDwlICU+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZXJyb3JfbWVzc2FnZSI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8PyBlbmRmb3JlYWNoOyA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PjxzcGFuIGNsYXNzPSJtbDEyIj48Pz0gJF9tZXNzYWdlID8+PC9zcGFuPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDw/PSAn6Kmz57SwIDogJyAuICRvcHRpb25fbWVkaWFjb250YWN0WydwdXJwb3NlX2RldGFpbCddOyA/Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8PyBmb3JlYWNoICgkbWVzc2FnZXMgYXMgJF9tZXNzYWdlKTogPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD8gaWYoIWVtcHR5KCRvcHRpb25fbWVkaWFjb250YWN0WydwdXJwb3NlX2RldGFpbCddKSl7ID8+Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3650,13 +3653,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxmb3JtIGlkPSJvcHRpb25fY29uZmlybV9mb3JtIiBtZXRob2Q9IlBPU1QiIGFjdGlvbj0iL3VzZXIvcmVsZWFzZS92Mi9vcHRpb25fbWVkaWFjb250YWN0X2NvbmZpcm0iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD8gfSA/Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwlPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Pz0gJG9wdGlvbl9tZWRpYWNvbnRhY3RbJ3B1cnBvc2UnXTsgPz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYWtlX29wdGlvbl9wcmVtaWFfbmV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
