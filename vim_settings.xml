@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/umareso/config/initializers/devise.rb" timestamp="1496306009562">
-        <mark key="'" line="137" column="55" />
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_premia/confirm.html.erb" timestamp="1496733550315">
+        <mark key="'" line="120" column="52" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="29" column="14" />
+        <mark key="^" line="81" column="50" />
+        <mark key="." line="81" column="50" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170605071215_create_story_comment_ratings.rb" timestamp="1496646798929">
         <mark key="[" line="10" column="0" />
@@ -185,9 +189,9 @@
         <mark key="^" line="50" column="1" />
       </file>
       <file name="$USER_HOME$/projects/value_press/app/models/option_mediacontact.rb" timestamp="1496595275220">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170605065423_create_story_comment_responses.rb" timestamp="1496646774734">
         <mark key="[" line="10" column="0" />
@@ -213,6 +217,7 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/umareso/db/migrate/20170424103723_create_story_comments.rb" timestamp="1496646188492" />
       <file name="$USER_HOME$/projects/value_press/config/initializers/carrierwave.rb" timestamp="1496140407120">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="38" />
@@ -258,9 +263,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/stylesheets/lib/jquery.raty.css" timestamp="1496648567963">
-        <mark key="'" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/projects/cplus/app/services/batch/make_bill_year_service.rb" timestamp="1495649557449">
         <mark key="[" line="42" column="8" />
@@ -328,20 +330,16 @@
         <mark key="^" line="66" column="12" />
         <mark key="." line="66" column="12" />
       </file>
-      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_view.php" timestamp="1496590714765">
-        <mark key="'" line="214" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/db/seeds.rb" timestamp="1496642979000">
         <mark key="[" line="24" column="30" />
         <mark key="]" line="24" column="53" />
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/payment_history/option_creator.rb" timestamp="1496731758744">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
+      <file name="$USER_HOME$/projects/value_press/app/models/payment_history/option_creator.rb" timestamp="1496733401329">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/db/migrate/20170525091316_add_first_report_on_user.rb" timestamp="1496284343174">
         <mark key="[" line="2" column="24" />
@@ -355,6 +353,7 @@
         <mark key="^" line="3" column="67" />
         <mark key="." line="3" column="67" />
       </file>
+      <file name="$USER_HOME$/sandbox/vp_main_system/application/views/user/release/v2/op_mediacontact_confirm_view.php" timestamp="1496629849292" />
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_story_comment.html.slim" timestamp="1496647463723">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="33" />
@@ -397,6 +396,7 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/value_press/app/controllers/users/option_mediacontacts_controller.rb" timestamp="1496733488723" />
       <file name="$USER_HOME$/projects/value_press/spec/controllers/users/option_premia_controller_spec.rb" timestamp="1495790090234">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="38" />
@@ -418,9 +418,9 @@
       <file name="$USER_HOME$/projects/value_press/app/models/concerns/option/create_supportable.rb" timestamp="1496725211791">
         <mark key="'" line="1" column="15" />
         <mark key="[" line="89" column="19" />
-        <mark key="]" line="91" column="5" />
-        <mark key="^" line="91" column="5" />
-        <mark key="." line="91" column="5" />
+        <mark key="]" line="89" column="5" />
+        <mark key="^" line="89" column="5" />
+        <mark key="." line="89" column="5" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/application/_footer.html.slim" timestamp="1495706932401">
         <mark key="[" line="19" column="40" />
@@ -458,18 +458,10 @@
         <mark key="^" line="14" column="59" />
         <mark key="." line="14" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/value_press/app/models/option_premium/attribute_creator.rb" timestamp="1496598445554">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/umareso/app/views/stories/_scaffold_show.html.slim" timestamp="1496651131752">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/lib/jquery.raty.js" timestamp="1496649173045">
-        <mark key="'" line="739" column="24" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/assets/javascripts/application.js.coffee" timestamp="1496648296616">
         <mark key="[" line="6" column="46" />
@@ -617,6 +609,12 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/value_press/app/views/users/option_mediacontacts/confirm.html.erb" timestamp="1496733555041">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/umareso/app/views/layouts/error.html.slim" timestamp="1495683235761">
         <mark key="[" line="7" column="39" />
@@ -3406,31 +3404,31 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>read_attribute(</text>
+        <text>premium</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="4">
-        <text>user_account.money</text>
+        <text encoding="base64">PHRkIGNsYXNzPSJib3hfdGV4dGZvcm0iPgogICAgICAgICAgICA8JT0gZi50ZXh0X2ZpZWxkIDpyZXNwb25zaWJsZV9uYW1lICU+CiAgICAgICAgICA8L3RkPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZCBjbGFzcz0iYm94X3RleHRmb3JtIj48Pz0gJG9wdGlvbl9tZWRpYWNvbnRhY3RbJ3Jlc3BvbnNpYmxlX25hbWUnXTsgPz48L3RkPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6Y291cnNlLCA6c3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZXJyb3JfbWVzc2FnZSI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PyBlbmRmb3JlYWNoOyA/Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PjxzcGFuIGNsYXNzPSJtbDEyIj48Pz0gJF9tZXNzYWdlID8+PC9zcGFuPjwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PyBmb3JlYWNoICgkbWVzc2FnZXMgYXMgJF9tZXNzYWdlKTogPz4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -3652,13 +3650,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxmb3JtIGlkPSJvcHRpb25fY29uZmlybV9mb3JtIiBtZXRob2Q9IlBPU1QiIGFjdGlvbj0iL3VzZXIvcmVsZWFzZS92Mi9vcHRpb25fbWVkaWFjb250YWN0X2NvbmZpcm0iPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwlPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm9jZXNzIG9wdGltaXplOiBbcXVhbGl0eTogNTBdCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYWtlX29wdGlvbl9wcmVtaWFfbmV3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
